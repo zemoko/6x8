@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/hello-my-game-is...-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/03/hello-my-game-is-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.html">
+              <a class="post-link" href="/2017/05/03/hello-my-game-is-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis/index/html">
                 <p>Hello my game is… PA_1264 #spaceinvader #invader #paris #streetart #hellomygameis</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_8623.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/03/hello-my-game-is-le-musee-en-herbe-devient-le-nouveau-terrain-de-jeu-dinvader.html">
+              <a class="post-link" href="/2017/05/03/hello-my-game-is-le-musee-en-herbe-devient-le-nouveau-terrain-de-jeu-dinvader/index/html">
                 <p>« Hello my game is… » : le musée en herbe devient le nouveau terrain de jeu d’Invader</p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/dimanche-electoral...-mais-le-temps-est-au-beau-et-jai-gagne-au-quinte...-serait-ce-de-bons-presages.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/23/dimanche-electoral-mais-le-temps-est-au-beau-et-jai-gagne-au-quinte-serait-ce-de-bons-presages-pour-une-bonne-soiree-election-presidentielle2017.html">
+              <a class="post-link" href="/2017/04/23/dimanche-electoral-mais-le-temps-est-au-beau-et-jai-gagne-au-quinte-serait-ce-de-bons-presages-pour-une-bonne-soiree-election-presidentielle2017/index/html">
                 <p>Dimanche électoral… mais le temps est au beau et j’ai gagné au quinté+… Serait-ce de bons présages pour une bonne soirée ? #election #presidentielle2017</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/mo_9782226317322.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/21/ma-critique-de-agatha-raisin-enquete-la-quiche-fatale-de-mc-beaton.html">
+              <a class="post-link" href="/2017/04/21/ma-critique-de-agatha-raisin-enquete-la-quiche-fatale-de-mc-beaton/index/html">
                 <p>Ma critique de « <strong>Agatha Raisin enquête : la quiche fatale</strong> » de <em><abbr>MC</abbr> Beaton</em></p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/au-marche-royan-architecture-royan1950.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/13/au-marche-royan-architecture-royan1950.html">
+              <a class="post-link" href="/2017/04/13/au-marche-royan-architecture-royan1950/index/html">
                 <p>Au marché #royan</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/non-toujours-rien...-vacances-royan-royan1950.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/12/non-toujours-rien-vacances-royan-royan1950.html">
+              <a class="post-link" href="/2017/04/12/non-toujours-rien-vacances-royan-royan1950/index/html">
                 <p>Non, toujours rien… #vacances #royan #royan1950</p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/ces-vacances-de-paques-sannoncent-plutot-pas-mal-️.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/09/ces-vacances-de-paques-sannoncent-plutot-pas-mal-%EF%B8%8F.html">
+              <a class="post-link" href="/2017/04/09/ces-vacances-de-paques-sannoncent-plutot-pas-mal-%EF%B8%8F/index/html">
                 <p>Ces vacances de Pâques s’annoncent plutôt pas mal :) ️</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/marie-curie-640x360.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/08/ma-critique-de-marie-curie-prends-un-amant-direne-frain.html">
+              <a class="post-link" href="/2017/04/08/ma-critique-de-marie-curie-prends-un-amant-direne-frain/index/html">
                 <p>Ma critique de <strong>« Marie Curie prends un amant »</strong> d’<em>Irène Frain</em></p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/zimoun-au-104-expo.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/02/zimoun-au-104-expo.html">
+              <a class="post-link" href="/2017/04/02/zimoun-au-104-expo/index/html">
                 <p>Zimoun au #104 #expo</p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/retour-par-la-villette-paris-parismaville-parisjeraime.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/02/retour-par-la-villette-paris-parismaville-parisjeraime.html">
+              <a class="post-link" href="/2017/04/02/retour-par-la-villette-paris-parismaville-parisjeraime/index/html">
                 <p>Retour par la Villette #paris #parismaville #parisjeraime</p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/105-City-of-Death.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/02/ma-critique-de-doctor-who-city-of-death-de-douglas-adams-et-james-goss.html">
+              <a class="post-link" href="/2017/04/02/ma-critique-de-doctor-who-city-of-death-de-douglas-adams-et-james-goss/index/html">
                 <p>Ma critique de « <strong lang="en">Doctor Who: City of Death</strong> » de <em>Douglas Adams</em> et <em>James Goss</em></p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/joyeux-1er-avril-poissondavril-aprilfools.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/04/01/joyeux-1er-avril-poissondavril-aprilfools.html">
+              <a class="post-link" href="/2017/04/01/joyeux-1er-avril-poissondavril-aprilfools/index/html">
                 <p>Joyeux 1er avril ! #poissondavril #aprilfools</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

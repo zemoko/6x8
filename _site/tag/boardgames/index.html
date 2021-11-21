@@ -228,20 +228,22 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Tag&nbsp;: boardgames</h1>
   
   <ul class="post-list grid">
@@ -250,7 +252,7 @@
             <img src="2021-10-02-aventuriers-du-rail-boardgames.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/10/02/aventuriers-du-rail-boardgames.html">
+              <a class="post-link" href="/2021/10/02/aventuriers-du-rail-boardgames/index/html">
                 <p>Aventuriers du rail #boardgames</p>
 
               </a>
@@ -265,7 +267,7 @@
             <img src="2021-08-29-ou-h-c-est-vraiment-pas-facile-cardzzle-puzzle-licorne.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/08/29/ou-h-c-est-vraiment-pas-facile-cardzzle-puzzle-licorne.html">
+              <a class="post-link" href="/2021/08/29/ou-h-c-est-vraiment-pas-facile-cardzzle-puzzle-licorne/index/html">
                 <p>Ouch, c’est (vraiment) pas facile ! #cardzzle #puzzle #licorne</p>
 
               </a>
@@ -280,7 +282,7 @@
             <img src="2021-07-14-villainous-prince-john-puzzle.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/07/14/villainous-prince-john-puzzle.html">
+              <a class="post-link" href="/2021/07/14/villainous-prince-john-puzzle/index/html">
                 <p>Villainous: Prince John #puzzle</p>
 
               </a>
@@ -295,7 +297,7 @@
             <img src="2021-05-01-tokyo-highway-boardgames.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/05/01/tokyo-highway-boardgames.html">
+              <a class="post-link" href="/2021/05/01/tokyo-highway-boardgames/index/html">
                 <p>Tokyo Highway #boardgames</p>
 
               </a>
@@ -310,7 +312,7 @@
             <img src="160294660_135528781816777_9031627456046680024_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/03/13/les-aventuriers-du-rail-coinces-a-la-maison-boardgames.html">
+              <a class="post-link" href="/2021/03/13/les-aventuriers-du-rail-coinces-a-la-maison-boardgames/index/html">
                 <p>Les aventuriers du rail coincés à la maison #boardgames</p>
 
               </a>
@@ -325,7 +327,7 @@
             <img src="156298993_910917629662621_8477653898847519356_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/03/04/vicomtes-du-royaume-de-louest-boardgames.html">
+              <a class="post-link" href="/2021/03/04/vicomtes-du-royaume-de-louest-boardgames/index/html">
                 <p>Vicomtes du royaume de l’ouest #boardgames</p>
 
               </a>
@@ -340,7 +342,7 @@
             <img src="155262344_180134286967277_3398650985691334468_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/03/01/civilization-the-boardgame.html">
+              <a class="post-link" href="/2021/03/01/civilization-the-boardgame/index/html">
                 <p>Civilization the #boardgame</p>
 
               </a>
@@ -355,7 +357,7 @@
             <img src="154105509_1394138547600812_8754100279688471314_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/02/27/turbulences-by-thoplanete-%EF%B8%8F.html">
+              <a class="post-link" href="/2021/02/27/turbulences-by-thoplanete-%EF%B8%8F/index/html">
                 <p>Turbulences by @thoplanete 🛫️</p>
 
               </a>
@@ -370,7 +372,7 @@
             <img src="136991672_842724282964032_2362198542712478854_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/01/10/rho-punaise-ca-fait-longtemps-quil-etait-pas-sorti-celui-la-j2s-boardgames-horreuraarkham.html">
+              <a class="post-link" href="/2021/01/10/rho-punaise-ca-fait-longtemps-quil-etait-pas-sorti-celui-la-j2s-boardgames-horreuraarkham/index/html">
                 <p>Rho punaise, ça fait longtemps qu’il était pas sorti celui-là #j2s #boardgames #horreuraarkham</p>
 
               </a>
@@ -383,7 +385,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/6874369301_01849d57a0_c.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/01/02/bilan-ludique-2020.html">
+              <a class="post-link" href="/2021/01/02/bilan-ludique-2020/index/html">
                 <p>Bilan ludique 2020</p>
 
               </a>
@@ -398,7 +400,7 @@
             <img src="134137155_200042691836832_3159269513076500547_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/01/01/strascendance-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2021/01/01/strascendance-jeuxdesociete-boardgames/index/html">
                 <p>Strascendance #jeuxdesociete #boardgames</p>
 
               </a>
@@ -413,7 +415,7 @@
             <img src="128211586_2742052256057139_1546528530697657635_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/11/30/moi-quand-on-me-confine-je-fais-des-puzzles.html">
+              <a class="post-link" href="/2020/11/30/moi-quand-on-me-confine-je-fais-des-puzzles/index/html">
                 <p>Moi, quand on me confine, je fais des #puzzles</p>
 
               </a>
@@ -428,7 +430,7 @@
             <img src="126609256_391596308717503_5352299890558739371_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/11/22/pas-mal-du-tout-ce-welcome-to-la-petite-mort-boardgames.html">
+              <a class="post-link" href="/2020/11/22/pas-mal-du-tout-ce-welcome-to-la-petite-mort-boardgames/index/html">
                 <p>Pas mal du tout ce Welcome to La Petite Mort   #boardgames</p>
 
               </a>
@@ -443,7 +445,7 @@
             <img src="126596240_844556342781410_8971440579027152354_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/11/21/ce-soir-on-a-colonise-mars-mais-pas-que-boardgames-terraformingmars.html">
+              <a class="post-link" href="/2020/11/21/ce-soir-on-a-colonise-mars-mais-pas-que-boardgames-terraformingmars/index/html">
                 <p>Ce soir, on a colonisé Mars (mais pas que) #boardgames #terraformingmars</p>
 
               </a>
@@ -458,7 +460,7 @@
             <img src="116581692_734034737447848_5187602182829274279_n-2.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/08/02/pas-mal-du-tout-ce-petit-demeter-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2020/08/02/pas-mal-du-tout-ce-petit-demeter-jeuxdesociete-boardgames/index/html">
                 <p>Pas mal du tout ce petit Demeter #jeuxdesociete #boardgames</p>
 
               </a>
@@ -473,7 +475,7 @@
             <img src="116843243_220870699187715_8383600212556088034_n-2.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/08/01/terraforming-mars-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2020/08/01/terraforming-mars-jeuxdesociete-boardgames/index/html">
                 <p>Terraforming Mars #jeuxdesociete #boardgames</p>
 
               </a>
@@ -488,7 +490,7 @@
             <img src="106547772_179131250298505_8719771416696381219_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/07/04/machi-koro-legacy-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2020/07/04/machi-koro-legacy-jeuxdesociete-boardgames/index/html">
                 <p>Machi Koro  Legacy #jeuxdesociété #boardgames</p>
 
               </a>
@@ -503,7 +505,7 @@
             <img src="69745546_739906749830069_6481131369044948169_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/25/era-lage-medieval-miam-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/12/25/era-lage-medieval-miam-jeuxdesociete-boardgames/index/html">
                 <p>ERA : L’âge médiéval #miam #jeuxdesociete #boardgames</p>
 
               </a>
@@ -518,7 +520,7 @@
             <img src="74670535_173180410465341_6784025303004777620_n-117.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/02/paris-new-eden-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/12/02/paris-new-eden-jeuxdesociete-boardgames/index/html">
                 <p>Paris New Eden #jeuxdesociete #boardgames</p>
 
               </a>
@@ -533,7 +535,7 @@
             <img src="66428344_2474210959304588_6068265788559400635_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/17/sagrada-boardgames-jeuxdesociete.html">
+              <a class="post-link" href="/2019/07/17/sagrada-boardgames-jeuxdesociete/index/html">
                 <p>Sagrada #jeuxdesociete</p>
 
               </a>
@@ -548,7 +550,7 @@
             <img src="66060368_859395141101847_8157008540207348095_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/07/copenhagen-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/07/07/copenhagen-jeuxdesociete-boardgames/index/html">
                 <p>Copenhagen #jeuxdesociete</p>
 
               </a>
@@ -563,7 +565,7 @@
             <img src="61156329_201075884109706_3511767328473226615_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/10/pillards-de-la-mer-du-nord-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/06/10/pillards-de-la-mer-du-nord-jeuxdesociete-boardgames/index/html">
                 <p>Pillards de la mer du Nord #jeuxdesociete #boardgames</p>
 
               </a>
@@ -578,7 +580,7 @@
             <img src="61080992_883172952021715_7240147075238498229_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/05/23/le-philibar-de-philibertjeux-strasbourg-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/05/23/le-philibar-de-philibertjeux-strasbourg-jeuxdesociete-boardgames/index/html">
                 <p>Le Philibar de @philibertjeux #strasbourg #jeuxdesociete #boardgames</p>
 
               </a>
@@ -593,7 +595,7 @@
             <img src="57822042_164928444525205_4759492791495087731_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/05/04/pas-mal-du-tout-ce-nouvel-azul-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/05/04/pas-mal-du-tout-ce-nouvel-azul-jeuxdesociete-boardgames/index/html">
                 <p>Pas mal du tout ce nouvel Azul 😎 #jeuxdesociete</p>
 
               </a>
@@ -608,7 +610,7 @@
             <img src="58409018_2333866306670725_1271072132896948101_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/05/01/orbis-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/05/01/orbis-jeuxdesociete-boardgames/index/html">
                 <p>Orbis #jeuxdesociete #boardgames</p>
 
               </a>
@@ -623,7 +625,7 @@
             <img src="56161402_610538449424769_8900257205545860044_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/04/06/downforce-boardgaming-jeuxdesociete.html">
+              <a class="post-link" href="/2019/04/06/downforce-boardgaming-jeuxdesociete/index/html">
                 <p>Downforce #boardgaming #jeuxdesociete</p>
 
               </a>
@@ -638,7 +640,7 @@
             <img src="51509225_2356657794554211_7531534541943874952_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/02/24/comme-il-avant-gout-du-printemps-terrasse-dragoncastle-2.html">
+              <a class="post-link" href="/2019/02/24/comme-il-avant-gout-du-printemps-terrasse-dragoncastle-2/index/html">
                 <p>Comme un avant-goût du printemps #terrasse #dragoncastle</p>
 
               </a>
@@ -653,7 +655,7 @@
             <img src="arraial-tetris-boardgame-jeudesociete.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/10/28/arraial-tetris-boardgame-jeudesociete.html">
+              <a class="post-link" href="/2018/10/28/arraial-tetris-boardgame-jeudesociete/index/html">
                 <p>Arraial #tetris #jeudesociete</p>
 
               </a>
@@ -668,7 +670,7 @@
             <img src="l’age-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/25/lage-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2018/08/25/lage-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames/index/html">
                 <p>L’âge des géants #KingDomino</p>
 
               </a>
@@ -683,7 +685,7 @@
             <img src="azul-jeuxdesociete-boardgames.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/12/17/azul-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2017/12/17/azul-jeuxdesociete-boardgames/index/html">
                 <p>Azul #jeuxdesociete #boardgames</p>
 
               </a>
@@ -698,7 +700,7 @@
             <img src="je-crois-que-je-ne-m’en-lasserais-jamais-colons-de-catane-catan-boardgames.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/11/25/je-crois-que-je-ne-men-lasserais-jamais-colons-de-catane-catan-boardgames.html">
+              <a class="post-link" href="/2017/11/25/je-crois-que-je-ne-men-lasserais-jamais-colons-de-catane-catan-boardgames/index/html">
                 <p>Je crois que je ne m’en lasserais jamais #colons de #catane #catan #boardgames</p>
 
               </a>
@@ -713,7 +715,7 @@
             <img src="mediterranee-httpswww.trictrac.netjeu-de-societemediterranee-jeuxdesociete-boardgames.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/11/05/mediterranee-httpswww-trictrac-netjeu-de-societemediterranee-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2017/11/05/mediterranee-httpswww-trictrac-netjeu-de-societemediterranee-jeuxdesociete-boardgames/index/html">
                 <p>Méditerranée #jeuxdesociete #boardgames</p>
 
               </a>
@@ -728,7 +730,7 @@
             <img src="on-valide-la-version-«-mon-premier-voyage-»-des-aventuriers-du-rail.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/09/18/on-valide-la-version-mon-premier-voyage-des-aventuriers-du-rail.html">
+              <a class="post-link" href="/2016/09/18/on-valide-la-version-mon-premier-voyage-des-aventuriers-du-rail/index/html">
                 <p>On valide la version « Mon premier voyage » des aventuriers du rail :)</p>
 
               </a>
@@ -743,7 +745,7 @@
             <img src="Je-vous-presente-mon-nouveau-jeux-Star-Wars-Carcassonne-starwars-carcassonne-jeux.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/24/je-vous-presente-mon-nouveau-jeux-star-wars-carcassonne-starwars-carcassonne-jeux.html">
+              <a class="post-link" href="/2016/06/24/je-vous-presente-mon-nouveau-jeux-star-wars-carcassonne-starwars-carcassonne-jeux/index/html">
                 <p>Je vous présente mon nouveau jeux : Star Wars Carcassonne #starwars #carcassonne #jeux</p>
 
               </a>
@@ -756,7 +758,7 @@
       <li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2016/05/26/rencontrez-lhomme-qui-a-colonise-catane.html">
+              <a class="post-link" href="/2016/05/26/rencontrez-lhomme-qui-a-colonise-catane/index/html">
                 <p>Rencontrez l’homme qui a colonisé Catane</p>
 
               </a>
@@ -769,7 +771,7 @@
       <li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2016/05/19/4-parcours-pour-preparer-vos-enfants-a-devenir-vos-partenaires-de-jeux.html">
+              <a class="post-link" href="/2016/05/19/4-parcours-pour-preparer-vos-enfants-a-devenir-vos-partenaires-de-jeux/index/html">
                 <p>Jeux de sociétés : 4 parcours pour préparer vos enfants à devenir vos partenaires</p>
 
               </a>
@@ -784,7 +786,7 @@
             <img src="Les-3-petits-cochons-on-valide-aussi.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/03/29/les-3-petits-cochons-on-valide-aussi.html">
+              <a class="post-link" href="/2016/03/29/les-3-petits-cochons-on-valide-aussi/index/html">
                 <p>Les 3 petits cochons : on valide aussi</p>
 
               </a>
@@ -799,7 +801,7 @@
             <img src="Catane-Junior-je-valide-et-les-loulous-aussi-️.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/03/29/catane-junior-je-valide-et-les-loulous-aussi-%EF%B8%8F.html">
+              <a class="post-link" href="/2016/03/29/catane-junior-je-valide-et-les-loulous-aussi-%EF%B8%8F/index/html">
                 <p>Catane Junior : je valide (et les loulous aussi !) ️</p>
 
               </a>
@@ -879,11 +881,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

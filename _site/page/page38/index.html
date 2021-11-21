@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/ils-ont-renove-le-batiment-qui-n’existe-pas-paris-paname-145ruelafayette.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/07/07/ils-ont-renove-le-batiment-qui-nexiste-pas-paris-paname-145ruelafayette.html">
+              <a class="post-link" href="/2017/07/07/ils-ont-renove-le-batiment-qui-nexiste-pas-paris-paname-145ruelafayette/index/html">
                 <p>Ils ont rénové le bâtiment qui n’existe pas ! #paris #paname #145ruelafayette</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/de-passage-chez-heratchian-paris-miam.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/07/07/de-passage-chez-heratchian-paris-miam.html">
+              <a class="post-link" href="/2017/07/07/de-passage-chez-heratchian-paris-miam/index/html">
                 <p>de passage chez Heratchian #paris #miam</p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/matinee-a-la-cite-prisma-gothic-paris-citedessciencesetdelindustrie-citedesenfants.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/06/18/matinee-a-la-cite-prisma-gothic-paris-citedessciencesetdelindustrie-citedesenfants.html">
+              <a class="post-link" href="/2017/06/18/matinee-a-la-cite-prisma-gothic-paris-citedessciencesetdelindustrie-citedesenfants/index/html">
                 <p>Matinée à la Cité #prisma #gothic #paris #citedessciencesetdelindustrie #citedesenfants</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/116426.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/06/16/ma-critique-de-ce-qui-nous-lie-de-cedric-klapisch.html">
+              <a class="post-link" href="/2017/06/16/ma-critique-de-ce-qui-nous-lie-de-cedric-klapisch/index/html">
                 <p>Ma critique de « <strong>Ce qui nous lie</strong> » de <em>Cédric Klapisch</em></p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/un-bassin-dans-le-bassin-a-la-villette-paris-parisjetaime-parismaville.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/06/13/un-bassin-dans-le-bassin-a-la-villette-paris-parisjetaime-parismaville.html">
+              <a class="post-link" href="/2017/06/13/un-bassin-dans-le-bassin-a-la-villette-paris-parisjetaime-parismaville/index/html">
                 <p>Un bassin dans le bassin à la #villette #paris #parisjetaime #parismaville</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/Quand-sort-la-recluse.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/06/13/ma-critique-de-quand-sort-la-recluse-de-fred-vargas.html">
+              <a class="post-link" href="/2017/06/13/ma-critique-de-quand-sort-la-recluse-de-fred-vargas/index/html">
                 <p>Ma critique de « <strong>Quand sort la recluse</strong> » de <em>Fred Vargas</em></p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/bulle...-ou-geode-geode-paris-parismaville-parisjetaime-villette.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/06/11/bulle-ou-geode-geode-paris-parismaville-parisjetaime-villette.html">
+              <a class="post-link" href="/2017/06/11/bulle-ou-geode-geode-paris-parismaville-parisjetaime-villette/index/html">
                 <p>Bulle… ou géode ? #geode #paris #parismaville #parisjetaime #villette</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/9781447294146.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/06/09/ma-critique-de-uprooted-de-naomi-novik.html">
+              <a class="post-link" href="/2017/06/09/ma-critique-de-uprooted-de-naomi-novik/index/html">
                 <p>Ma critique de « <strong lang="en">Uprooted</strong> » de <em>Naomi Novik</em></p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/455502609_2d90b892a9_b.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/06/07/lhopital-la-charite-toussa.html">
+              <a class="post-link" href="/2017/06/07/lhopital-la-charite-toussa/index/html">
                 <p>L’hôpital, la charité, toussa</p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/product_9782070197385_195x320.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/25/ma-critique-de-lhomme-qui-senvola-de-antoine-bello.html">
+              <a class="post-link" href="/2017/05/25/ma-critique-de-lhomme-qui-senvola-de-antoine-bello/index/html">
                 <p>Ma critique de « <strong>L’homme qui s’envola</strong> » d’<em>Antoine Bello</em></p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/ifly-paris-villette.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/25/ifly-paris-villette.html">
+              <a class="post-link" href="/2017/05/25/ifly-paris-villette/index/html">
                 <p>IFly #paris #villette</p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/pa_1260-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/03/pa_1260-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/05/03/pa_1260-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1260 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

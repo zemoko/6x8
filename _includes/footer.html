@@ -48,10 +48,16 @@
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>

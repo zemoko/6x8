@@ -47,6 +47,15 @@ html {
   }
 }
 
+.sr-only {
+  position: absolute !important;
+  clip: rect(0,0,0,0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+
 .container {
   font-family: 'Manrope', sans-serif;
   display: flex;
@@ -231,59 +240,67 @@ nav {
       &:focus, &:hover {
         fill: @white;
         border-color: @white;
-        + .header-search {
-          display: block;
-        }
       }
     }
   }
-  .header-search {
-    position: absolute;
-    z-index: 42;
-    top: 100%;
-    right: 0;
-    width: 20rem;
-    padding: .5rem;
-    background: #ebf2fc;
-    background-color: rgba(255, 255, 255, .85);
-    border: 1px solid @greyDark;
-    transition: all .5s ease;
-    display: none;
-    &:hover {
-      display: block;
-    }
-    form {
-      display: flex;
-    }
-    label {
-      flex: 1 1 auto;
-    }
-    input {
-      width: 100%;
-      padding: .5rem;
-    }
-    button {
-      background: transparent;
-      border: none;
-      box-shadow: none;
-      border-radius: 0;
-      line-height: 0;
-      outline: none;
-      padding-left: .5rem;
-    }
-  }
-  #results-container {
-      display: block;
-    }
 }
 
-.sr-only {
-  position: absolute !important;
-  clip: rect(0,0,0,0);
-  height: 1px;
-  width: 1px;
-  border: 0;
-  overflow: hidden;
+.header-search {
+  position: absolute;
+  z-index: 42;
+  top: 165px;
+  left: 25%;
+  width: 50%;
+  padding: .5rem;
+  background: #ebf2fc;
+  background-color: rgba(255, 255, 255, .85);
+  border: 1px solid @greyDark;
+  transition: all .5s ease;
+  font-size: 1.1rem;
+  display: none;
+  @media screen and (max-width: @md-small) {
+    left: 1%;
+    width: 98%;
+  }
+  &.active {
+    display: block;
+  }
+  form {
+    display: flex;
+  }
+  label {
+    flex: 1 1 auto;
+  }
+  input {
+    width: 100%;
+    padding: .5rem;
+  }
+  button {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    line-height: 0;
+    outline: none;
+    padding: 0 .5rem;
+  }
+}
+#results-container {
+    display: block;
+    margin: .5rem 0;
+    li {
+      display: block;
+    }
+    a {
+      display: block;
+      padding: .3rem .6rem;
+      text-decoration: none;
+      color: @greyDark;
+      &:hover, &:focus {
+        color: @primary;
+        background: #eee;
+      }
+    }
 }
 
 /* Home */

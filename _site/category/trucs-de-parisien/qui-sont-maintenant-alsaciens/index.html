@@ -228,27 +228,29 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Trucs de parisien qui sont maintenant alsaciens</h1>
   
   <ul class="post-list grid">
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_6704-scaled-e1618503891479.jpeg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/15/lomoinstant-automat-x-parc-de-pourtales.html">
+              <a class="post-link" href="/2021/04/15/lomoinstant-automat-x-parc-de-pourtales/index/html">
                 <p>Lomo’Instant Automat x Parc de Pourtalès</p>
 
               </a>
@@ -261,7 +263,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/AADCA387-7EE2-4FA0-A770-11E281E321F1_1_105_c.jpeg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2020/07/19/escapade-a-baden-baden-et-en-foret-noire.html">
+              <a class="post-link" href="/2020/07/19/escapade-a-baden-baden-et-en-foret-noire/index/html">
                 <p>Escapade à Baden-Baden et en Forêt Noire</p>
 
               </a>
@@ -274,7 +276,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/img_4589-scaled.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2020/05/17/randonnee-deconfinee.html">
+              <a class="post-link" href="/2020/05/17/randonnee-deconfinee/index/html">
                 <p>Randonnée déconfinée</p>
 
               </a>
@@ -287,7 +289,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/82425300_2953078871402885_313670606232005845_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/12/un-dimanche-au-chateau-de-lortenbourg-alsace-randonnee.html">
+              <a class="post-link" href="/2020/01/12/un-dimanche-au-chateau-de-lortenbourg-alsace-randonnee/index/html">
                 <p>Un dimanche au Château de l’Ortenbourg #alsace #randonnée</p>
 
               </a>
@@ -300,7 +302,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/collage.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork.html">
+              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork/index/html">
                 <p>À la chasse au Stork</p>
 
               </a>
@@ -313,7 +315,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/67116666_2226839057601953_8726654892107169685_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/24/le-lac-du-ballon-rando-vosges.html">
+              <a class="post-link" href="/2019/08/24/le-lac-du-ballon-rando-vosges/index/html">
                 <p>Le lac du Ballon #rando #vosges</p>
 
               </a>
@@ -326,7 +328,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/66363143_153385329098543_390724314002078107_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/10/farse-strasbourg.html">
+              <a class="post-link" href="/2019/08/10/farse-strasbourg/index/html">
                 <p>Farse #strasbourg</p>
 
               </a>
@@ -339,7 +341,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/13661830404_cdd2252315_k.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/11/au-boulot-velotaf.html">
+              <a class="post-link" href="/2019/07/11/au-boulot-velotaf/index/html">
                 <p>Au boulot ! #vélotaf #vidéo</p>
 
               </a>
@@ -352,7 +354,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/auboulotavelo.png" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/10/au-boulot-a-velo.html">
+              <a class="post-link" href="/2019/07/10/au-boulot-a-velo/index/html">
                 <p>Au boulot à vélo</p>
 
               </a>
@@ -365,7 +367,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_1589.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/05/07/ici-prochainement-visite-de-strasbourg-en-tyrannosaure.html">
+              <a class="post-link" href="/2019/05/07/ici-prochainement-visite-de-strasbourg-en-tyrannosaure/index/html">
                 <p>Ici, prochainement, visite de Strasbourg en Tyrannosaure</p>
 
               </a>
@@ -378,7 +380,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/56997690_334027307254647_8873459679463804047_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/04/27/une-anamorphose-strasbourg-levaisseau.html">
+              <a class="post-link" href="/2019/04/27/une-anamorphose-strasbourg-levaisseau/index/html">
                 <p>Une anamorphose #Strasbourg #levaisseau</p>
 
               </a>
@@ -391,7 +393,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/10/10/bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg.html">
+              <a class="post-link" href="/2018/10/10/bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg/index/html">
                 <p>Bollée : fonderie de cloches et carillons depuis 1715  #strasbourg</p>
 
               </a>
@@ -404,7 +406,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/img_3470.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/28/les-ruines-dochsenstein-et-la-terrasse-du-geissfels.html">
+              <a class="post-link" href="/2018/08/28/les-ruines-dochsenstein-et-la-terrasse-du-geissfels/index/html">
                 <p>Les ruines d’Ochsenstein et la terrasse du Geissfels</p>
 
               </a>
@@ -417,7 +419,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/mammuthus-volantes-festival-industriemagnifique-strasbourg.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/02/mammuthus-volantes-festival-industriemagnifique-strasbourg-2.html">
+              <a class="post-link" href="/2018/05/02/mammuthus-volantes-festival-industriemagnifique-strasbourg-2/index/html">
                 <p>Mammuthus Volantes #festival #industriemagnifique #strasbourg</p>
 
               </a>
@@ -430,7 +432,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/je-vous-ai-dit-qu’on-a-ete-visite-notre-dame-notredame-notredamedeparis-nanoblock-lego-paris.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/09/02/je-vous-ai-dit-quon-a-ete-visite-notre-dame-notredame-notredamedeparis-nanoblock-lego-paris.html">
+              <a class="post-link" href="/2017/09/02/je-vous-ai-dit-quon-a-ete-visite-notre-dame-notredame-notredamedeparis-nanoblock-lego-paris/index/html">
                 <p>Je vous ai dit qu’on a été visité Notre Dame ? #NotreDame #nanoblock #lego #paris</p>
 
               </a>
@@ -443,7 +445,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/bonjour-strasbourg-nd.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/03/01/bonjour-strasbourg.html">
+              <a class="post-link" href="/2017/03/01/bonjour-strasbourg/index/html">
                 <p>Bonjour Strasbourg</p>
 
               </a>
@@ -523,11 +525,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

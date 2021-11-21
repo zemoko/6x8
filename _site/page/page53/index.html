@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/Square-du-Vert-Galand-paris-crue-flood-parismaville.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/02/square-du-vert-galand-paris-crue-flood-parismaville.html">
+              <a class="post-link" href="/2016/06/02/square-du-vert-galand-paris-crue-flood-parismaville/index/html">
                 <p>Square du Vert-Galand #paris #crue #flood #parismaville</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/La-nouvelle-Seine-paris-parismaville-crue-seine-flood.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/02/la-nouvelle-seine-paris-parismaville-crue-seine-flood.html">
+              <a class="post-link" href="/2016/06/02/la-nouvelle-seine-paris-parismaville-crue-seine-flood/index/html">
                 <p>La nouvelle Seine #paris #parismaville #crue #seine #flood</p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Ici-nous-intervenons-pour-Paris-Plage-paris-parisplage-parismaville-crue-seine-flood.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/02/ici-nous-intervenons-pour-paris-plage-paris-parisplage-parismaville-crue-seine-flood.html">
+              <a class="post-link" href="/2016/06/02/ici-nous-intervenons-pour-paris-plage-paris-parisplage-parismaville-crue-seine-flood/index/html">
                 <p>Ici, nous intervenons pour Paris Plage #paris #parisplage #parismaville #crue #seine #flood</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Aujourdhui-grace-au-Cafezoide-on-rends-la-rue-aux-enfants.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/29/aujourdhui-grace-au-cafezoide-on-rends-la-rue-aux-enfants.html">
+              <a class="post-link" href="/2016/05/29/aujourdhui-grace-au-cafezoide-on-rends-la-rue-aux-enfants/index/html">
                 <p>Aujourd’hui, grâce au Cafézoïde, on rends la rue aux enfants !</p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Burger-ans-Fries-miam.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/27/burger-ans-fries-miam.html">
+              <a class="post-link" href="/2016/05/27/burger-ans-fries-miam/index/html">
                 <p>Burger and Fries #miam</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2016/05/26/rencontrez-lhomme-qui-a-colonise-catane.html">
+              <a class="post-link" href="/2016/05/26/rencontrez-lhomme-qui-a-colonise-catane/index/html">
                 <p>Rencontrez l’homme qui a colonisé Catane</p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Un-peu-plus-a-gauche-anamorphose-louvre-paris.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/25/un-peu-plus-a-gauche-anamorphose-louvre-paris.html">
+              <a class="post-link" href="/2016/05/25/un-peu-plus-a-gauche-anamorphose-louvre-paris/index/html">
                 <p>Un peu plus à gauche #anamorphose #louvre #paris</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Anamorphose-au-Louvre.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/25/anamorphose-au-louvre.html">
+              <a class="post-link" href="/2016/05/25/anamorphose-au-louvre/index/html">
                 <p>Anamorphose au Louvre</p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Little-Villette-en-Lego.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/21/little-villette-en-lego.html">
+              <a class="post-link" href="/2016/05/21/little-villette-en-lego/index/html">
                 <p>Little Villette en Lego</p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/La-Confederation-Paysanne-est-a-Stalingrad.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/21/la-confederation-paysanne-est-a-stalingrad.html">
+              <a class="post-link" href="/2016/05/21/la-confederation-paysanne-est-a-stalingrad/index/html">
                 <p>La Confédération Paysanne est à Stalingrad</p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Inauguration-Little-Villette.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/21/inauguration-little-villette.html">
+              <a class="post-link" href="/2016/05/21/inauguration-little-villette/index/html">
                 <p>Inauguration Little Villette</p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Inauguration-de-Little-Villette.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/05/21/inauguration-de-little-villette.html">
+              <a class="post-link" href="/2016/05/21/inauguration-de-little-villette/index/html">
                 <p>Inauguration de Little Villette</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

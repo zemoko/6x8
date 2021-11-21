@@ -228,20 +228,22 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Tag&nbsp;: streetart</h1>
   
   <ul class="post-list grid">
@@ -250,7 +252,7 @@
             <img src="2021-10-10-encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/10/10/encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.html">
+              <a class="post-link" href="/2021/10/10/encore-des-cigognes-by-stork-pixelart-strasbourg-makerland/index/html">
                 <p>Encore des cigognes ! By @stork_pixelart #strasbourg #makerland</p>
 
               </a>
@@ -265,7 +267,7 @@
             <img src="174556793_486402702715100_4931696047763477515_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart.html">
+              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart/index/html">
                 <p>Tiens, une alsacienne ! #streetart #strasbourg by @stork_pixelart</p>
 
               </a>
@@ -280,7 +282,7 @@
             <img src="131342735_182215003623289_4312844645548425624_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/12/16/sourire-en-coin-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/12/16/sourire-en-coin-streetart-strasbourg/index/html">
                 <p>Sourire en coin #streetart #strasbourg</p>
 
               </a>
@@ -295,7 +297,7 @@
             <img src="122816574_368180504231064_7036902056763616098_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/10/25/hep-by-stork_pixelart-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/10/25/hep-by-stork_pixelart-strasbourg-streetart/index/html">
                 <p>Hep by @stork_pixelart #strasbourg #streetart</p>
 
               </a>
@@ -310,7 +312,7 @@
             <img src="119656782_326785998533559_6064687591069766913_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/09/19/stork-schiltigheim-stork_pixelart-streetart.html">
+              <a class="post-link" href="/2020/09/19/stork-schiltigheim-stork_pixelart-streetart/index/html">
                 <p>Stork @ Schiltigheim @stork_pixelart #streetart</p>
 
               </a>
@@ -325,7 +327,7 @@
             <img src="118210852_200806931467864_6746229688978839489_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/08/29/hopital-civil-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/08/29/hopital-civil-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Hôpital (civil) by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -340,7 +342,7 @@
             <img src="110989135_4115945865147234_7269222823582300537_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/07/22/encore-une-cigogne-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/07/22/encore-une-cigogne-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Encore une ! #cigogne by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -355,7 +357,7 @@
             <img src="106058559_3215038981918910_5684007830728630933_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/06/25/tiens-une-cigogne-passe-sous-le-pont-strasbourg-streetart-by-stork_pixelart.html">
+              <a class="post-link" href="/2020/06/25/tiens-une-cigogne-passe-sous-le-pont-strasbourg-streetart-by-stork_pixelart/index/html">
                 <p>Tiens, une cigogne passe sous le pont #Strasbourg #streetart by @stork_pixelart</p>
 
               </a>
@@ -370,7 +372,7 @@
             <img src="87643518_3006725389385310_7649813944382557048_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/03/08/lost-in-elsass-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/03/08/lost-in-elsass-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Lost in Elsass by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -385,7 +387,7 @@
             <img src="82703281_102302964631661_1155308037541241913_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/02/05/quai-au-sable-by-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/02/05/quai-au-sable-by-stork7567-strasbourg-streetart/index/html">
                 <p>Quai au sable by @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -400,7 +402,7 @@
             <img src="84155251_465192231034709_7882236284700795180_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/02/05/2020-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/02/05/2020-by-stork7567-streetart-strasbourg/index/html">
                 <p>2020 by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -415,7 +417,7 @@
             <img src="82470893_553638035228687_857294972088007696_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/29/italie-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/01/29/italie-by-stork7567-streetart-strasbourg/index/html">
                 <p>Italie  by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -430,7 +432,7 @@
             <img src="81156909_2440934036224647_3701381703893341701_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/03/stork-au-parlement-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/01/03/stork-au-parlement-stork7567-strasbourg-streetart/index/html">
                 <p>Stork au Parlement @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -445,7 +447,7 @@
             <img src="75562941_179420369874202_5931597134647044369_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/et-encore-une-a-la-cite-de-la-musique-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/et-encore-une-a-la-cite-de-la-musique-stork7567-streetart-strasbourg/index/html">
                 <p>Et encore une, à la cité de la musique ! @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -460,7 +462,7 @@
             <img src="80373255_2631407836940946_7409428737243088235_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/et-de-trois-sangoku-streetart-by-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/et-de-trois-sangoku-streetart-by-stork7567-strasbourg/index/html">
                 <p>Et de trois ! #sangoku #streetart by @stork7567 #strasbourg</p>
 
               </a>
@@ -475,7 +477,7 @@
             <img src="79228464_583842632175995_2899462543704538230_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/encore-une-cigogne-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/encore-une-cigogne-by-stork7567-streetart-strasbourg/index/html">
                 <p>Encore une cigogne by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -490,7 +492,7 @@
             <img src="75571749_147968673155386_5327241246748844474_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/11/13/girl-and-balloon-hommage-a-banksy-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/11/13/girl-and-balloon-hommage-a-banksy-by-stork7567-streetart-strasbourg/index/html">
                 <p>Girl and balloon, hommage à Banksy by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -503,7 +505,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/collage.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork.html">
+              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork/index/html">
                 <p>À la chasse au Stork</p>
 
               </a>
@@ -518,7 +520,7 @@
             <img src="72410257_2368546753362788_4189585875336741156_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/22/rue-de-lausanne-streetart-stork7567.html">
+              <a class="post-link" href="/2019/10/22/rue-de-lausanne-streetart-stork7567/index/html">
                 <p>Rue de Lausanne #streetart @stork7567</p>
 
               </a>
@@ -533,7 +535,7 @@
             <img src="71870908_530088767558860_5892053874185258890_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/10/place-du-marche-au-poisson-strasbourg-streetart-by-stork7567.html">
+              <a class="post-link" href="/2019/10/10/place-du-marche-au-poisson-strasbourg-streetart-by-stork7567/index/html">
                 <p>Place du marché au poisson #strasbourg #streetart by @stork7567</p>
 
               </a>
@@ -548,7 +550,7 @@
             <img src="71234729_976513089348706_184540916826711371_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/02/la-lanterne-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/10/02/la-lanterne-by-stork7567-streetart-strasbourg/index/html">
                 <p>La lanterne by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -563,7 +565,7 @@
             <img src="69271563_368445157393001_2703218159290229705_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/09/19/place-des-orphelins-cigogne-streetart-strasbourg-stork7567.html">
+              <a class="post-link" href="/2019/09/19/place-des-orphelins-cigogne-streetart-strasbourg-stork7567/index/html">
                 <p>Place des orphelins #cigogne #streetart #strasbourg @stork7567</p>
 
               </a>
@@ -578,7 +580,7 @@
             <img src="69807076_192636408433806_7914540101871050547_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/29/de-lart-au-street-art-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/29/de-lart-au-street-art-by-stork7567-streetart-strasbourg/index/html">
                 <p>De l’art au street art by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -593,7 +595,7 @@
             <img src="66823908_1859231620888335_1258015999417546279_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/20/usa-grece-angleterre-ces-cigognes-sont-globe-trotters-streetart-by-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/08/20/usa-grece-angleterre-ces-cigognes-sont-globe-trotters-streetart-by-stork7567-strasbourg/index/html">
                 <p><abbr>USA</abbr>, Grèce, Angleterre… ces cigognes sont globe-trotters ! #streetart by @stork7567 #strasbourg</p>
 
               </a>
@@ -608,7 +610,7 @@
             <img src="66944340_155000812277784_5174681202721460682_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/17/oh-des-cigognes-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/17/oh-des-cigognes-by-stork7567-streetart-strasbourg/index/html">
                 <p>Oh, des cigognes ! by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -623,7 +625,7 @@
             <img src="66304626_2439347306126657_5462203439568469669_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/14/ce-spiderman-by-stork7567-me-dit-vaguement-quelque-chose-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/14/ce-spiderman-by-stork7567-me-dit-vaguement-quelque-chose-streetart-strasbourg/index/html">
                 <p>Ce #Spiderman (by @stork7567) me dit vaguement quelque chose… #streetart #strasbourg</p>
 
               </a>
@@ -638,7 +640,7 @@
             <img src="67568747_127892448473789_6654739684311271373_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/10/hannetons-by-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2019/08/10/hannetons-by-stork7567-strasbourg-streetart/index/html">
                 <p>Hannetons by @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -653,7 +655,7 @@
             <img src="66413664_2386941631558666_4597465839033169871_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/09/les-3-brigands-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/09/les-3-brigands-by-stork7567-streetart-strasbourg/index/html">
                 <p>Les 3 brigands by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -668,7 +670,7 @@
             <img src="62438873_119591252381130_8602215867203390394_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/11/bouh-cigogne-streetart-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/07/11/bouh-cigogne-streetart-stork7567-strasbourg/index/html">
                 <p>Bouh! #cigogne #streetart #strasbourg</p>
 
               </a>
@@ -683,7 +685,7 @@
             <img src="65445702_103127704276799_8882635331459959926_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/10/pac-man-%EF%B8%8F-cigogne-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/07/10/pac-man-%EF%B8%8F-cigogne-stork7567-strasbourg/index/html">
                 <p>Pac-Man ️ Cigogne @stork7567 #strasbourg</p>
 
               </a>
@@ -698,7 +700,7 @@
             <img src="65419731_613405545838196_1417206759806383138_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/20/invader-%EF%B8%8F-cigogne-stork7567-falseinvader-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/06/20/invader-%EF%B8%8F-cigogne-stork7567-falseinvader-streetart-strasbourg/index/html">
                 <p>Invader ️ Cigogne @stork7567 #falseinvader #streetart #strasbourg</p>
 
               </a>
@@ -713,7 +715,7 @@
             <img src="61703014_208328696804171_7477260946124116910_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/15/cigogne-by-stork7567-falseinvader-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/06/15/cigogne-by-stork7567-falseinvader-streetart-strasbourg/index/html">
                 <p>Cigogne by @stork7567 #falseinvader #streetart #strasbourg</p>
 
               </a>
@@ -728,7 +730,7 @@
             <img src="61610141_222128622079237_4273242854529077002_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/05/cigogne-invader-stork7567-streetart-strasbourg-laiterie-invader-spaceinvader-falseinvader.html">
+              <a class="post-link" href="/2019/06/05/cigogne-invader-stork7567-streetart-strasbourg-laiterie-invader-spaceinvader-falseinvader/index/html">
                 <p>Cigogne Invader by #stork7567 #streetart #strasbourg #laiterie #spaceinvader #falseinvader</p>
 
               </a>
@@ -743,7 +745,7 @@
             <img src="49800453_630265657389080_1495415313282878138_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/28/il-est-reviendu-pa_657-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2019/01/28/il-est-reviendu-pa_657-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_657 : il est reviendu !  #spaceinvader #streetart #paris</p>
 
               </a>
@@ -758,7 +760,7 @@
             <img src="pa_159-spaceinvader-streetart-paris-invader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/12/10/pa_159-spaceinvader-streetart-paris-invader.html">
+              <a class="post-link" href="/2018/12/10/pa_159-spaceinvader-streetart-paris-invader/index/html">
                 <p>PA_159 #spaceinvader #streetart #paris #invader</p>
 
               </a>
@@ -773,7 +775,7 @@
             <img src="pa_223-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/11/27/pa_223-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2018/11/27/pa_223-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_223 #spaceinvader #streetart #paris</p>
 
               </a>
@@ -788,7 +790,7 @@
             <img src="pa_1366-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/11/27/pa_1366-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2018/11/27/pa_1366-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1366 #spaceinvader #streetart #paris</p>
 
               </a>
@@ -803,7 +805,7 @@
             <img src="pa_1244-time-for-a-beer-beer-spaceinvader-invader-streetart-paris.jpg"" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/06/30/pa_1244-time-for-a-beer-beer-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2018/06/30/pa_1244-time-for-a-beer-beer-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1244 Time for a beer #spaceinvader #streetart</p>
 
               </a>
@@ -818,7 +820,7 @@
             <img src="pa_814-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/06/25/pa_814-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2018/06/25/pa_814-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_814 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -833,7 +835,7 @@
             <img src="pa_1347-good-fortune-spaceinvader-streetart-paris-invader-pole-le-@cic.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/06/25/pa_1347-good-fortune-spaceinvader-streetart-paris-invader-pole-le-cic.html">
+              <a class="post-link" href="/2018/06/25/pa_1347-good-fortune-spaceinvader-streetart-paris-invader-pole-le-cic/index/html">
                 <p>PA_1347 Good Fortune #spaceinvader #streetart poke le @CIC</p>
 
               </a>
@@ -848,7 +850,7 @@
             <img src="pa_1363-tudo-bom-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/06/24/pa_1363-tudo-bom-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2018/06/24/pa_1363-tudo-bom-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1363 Tudo Bom #spaceinvader #streetart #paris</p>
 
               </a>
@@ -863,7 +865,7 @@
             <img src="ourq-living-color-streetart-paris-parismaville-parisjetaime.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/06/24/ourq-living-color-streetart-paris-parismaville-parisjetaime.html">
+              <a class="post-link" href="/2018/06/24/ourq-living-color-streetart-paris-parismaville-parisjetaime/index/html">
                 <p>Ourq Living Color #streetart #paris #parismaville #parisjetaime</p>
 
               </a>
@@ -878,7 +880,7 @@
             <img src="vrs_18-le-roi-soleil-️-spaceinvader-invader-streetart-versailles.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/20/vrs_18-le-roi-soleil-%EF%B8%8F-spaceinvader-invader-streetart-versailles.html">
+              <a class="post-link" href="/2018/05/20/vrs_18-le-roi-soleil-%EF%B8%8F-spaceinvader-invader-streetart-versailles/index/html">
                 <p>VRS_18 Le roi Soleil ️ #spaceinvader #streetart #versailles</p>
 
               </a>
@@ -893,7 +895,7 @@
             <img src="vrs_07-the-king-is-dead-spaceinvader-invader-streetart-versailles.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/20/vrs_07-the-king-is-dead-spaceinvader-invader-streetart-versailles.html">
+              <a class="post-link" href="/2018/05/20/vrs_07-the-king-is-dead-spaceinvader-invader-streetart-versailles/index/html">
                 <p>VRS_07 The king is dead    #spaceinvader #invader #streetart #versailles</p>
 
               </a>
@@ -908,7 +910,7 @@
             <img src="vrs_03-spaceinvader-invader-streetart-versailles.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/20/vrs_03-spaceinvader-invader-streetart-versailles.html">
+              <a class="post-link" href="/2018/05/20/vrs_03-spaceinvader-invader-streetart-versailles/index/html">
                 <p>VRS_03 #spaceinvader #invader #streetart #versailles</p>
 
               </a>
@@ -923,7 +925,7 @@
             <img src="vrs_02-spaceinvader-invader-streetart-versailles.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/20/vrs_02-spaceinvader-invader-streetart-versailles.html">
+              <a class="post-link" href="/2018/05/20/vrs_02-spaceinvader-invader-streetart-versailles/index/html">
                 <p>VRS_02 #spaceinvader #invader #streetart #versailles</p>
 
               </a>
@@ -938,7 +940,7 @@
             <img src="pa_1248-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/04/17/pa_1248-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2018/04/17/pa_1248-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1248 #spaceinvader #paris #streetart</p>
 
               </a>
@@ -953,7 +955,7 @@
             <img src="not-made-by-invader-spaceinvader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/04/02/not-made-by-invader-spaceinvader-streetart-paris.html">
+              <a class="post-link" href="/2018/04/02/not-made-by-invader-spaceinvader-streetart-paris/index/html">
                 <p>Not made by invader #spaceinvader #streetart #paris</p>
 
               </a>
@@ -968,7 +970,7 @@
             <img src="pa_1052-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/03/17/pa_1052-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2018/03/17/pa_1052-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1052 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -983,7 +985,7 @@
             <img src="pa_1295-terrific-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/03/06/pa_1295-terrific-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2018/03/06/pa_1295-terrific-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1295 Terrific! #spaceinvader #streetart #paris</p>
 
               </a>
@@ -998,7 +1000,7 @@
             <img src="pa_1317-lonesome-cowboy-bill-streetart-paris-spaceinvader-invader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/02/12/pa_1317-lonesome-cowboy-bill-streetart-paris-spaceinvader-invader.html">
+              <a class="post-link" href="/2018/02/12/pa_1317-lonesome-cowboy-bill-streetart-paris-spaceinvader-invader/index/html">
                 <p>PA_1317 LONESOME COWBOY BILL #streetart #paris #spaceinvader #invader</p>
 
               </a>
@@ -1013,7 +1015,7 @@
             <img src="as-good-as-david-vincent-ldn_77-20-points-spaceinvader-invader-london-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/02/07/as-good-as-david-vincent-ldn_77-20-points-spaceinvader-invader-london-streetart.html">
+              <a class="post-link" href="/2018/02/07/as-good-as-david-vincent-ldn_77-20-points-spaceinvader-invader-london-streetart/index/html">
                 <p>As good as David Vincent LDN_77 20 points #spaceinvader #invader #london #streetart</p>
 
               </a>
@@ -1028,7 +1030,7 @@
             <img src="pa_1328-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/01/10/pa_1328-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2018/01/10/pa_1328-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1328 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1043,7 +1045,7 @@
             <img src="un-false-invader-a-strasbourg-streetart-spaceinvader-falseinvader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/12/06/un-false-invader-a-strasbourg-streetart-spaceinvader-falseinvader.html">
+              <a class="post-link" href="/2017/12/06/un-false-invader-a-strasbourg-streetart-spaceinvader-falseinvader/index/html">
                 <p>Un false invader à Strasbourg ! #streetart #spaceinvader #falseinvader</p>
 
               </a>
@@ -1058,7 +1060,7 @@
             <img src="pa_1281-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/10/24/pa_1281-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2017/10/24/pa_1281-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1281 #spaceinvader #streetart #paris</p>
 
               </a>
@@ -1073,7 +1075,7 @@
             <img src="pa_1268-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/08/31/pa_1268-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/08/31/pa_1268-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1268 #spaceinvader #paris #streetart</p>
 
               </a>
@@ -1088,7 +1090,7 @@
             <img src="pa_1249-spaceinvader-invader-paris-streetart-mario-supermario-yoshi.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/08/31/pa_1249-spaceinvader-invader-paris-streetart-mario-supermario-yoshi.html">
+              <a class="post-link" href="/2017/08/31/pa_1249-spaceinvader-invader-paris-streetart-mario-supermario-yoshi/index/html">
                 <p>PA_1249 : Mario &amp; Yoshi #spaceinvader #paris #streetart</p>
 
               </a>
@@ -1103,7 +1105,7 @@
             <img src="pa_577-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/08/29/pa_577-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/08/29/pa_577-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_577 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1118,7 +1120,7 @@
             <img src="tsf-kroll-ima-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/07/31/tsf-kroll-ima-paris-streetart.html">
+              <a class="post-link" href="/2017/07/31/tsf-kroll-ima-paris-streetart/index/html">
                 <p>TSF Kroll Ima #paris #streetart</p>
 
               </a>
@@ -1133,7 +1135,7 @@
             <img src="pa_1266-and-my-game-is...-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/07/29/pa_1266-and-my-game-is-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/07/29/pa_1266-and-my-game-is-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1266 AND MY GAME IS… #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1148,7 +1150,7 @@
             <img src="pa_1288-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/07/27/pa_1288-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/07/27/pa_1288-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1288 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1163,7 +1165,7 @@
             <img src="pa_1260-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/03/pa_1260-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/05/03/pa_1260-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1260 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1178,7 +1180,7 @@
             <img src="hello-my-game-is...-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/03/hello-my-game-is-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.html">
+              <a class="post-link" href="/2017/05/03/hello-my-game-is-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis/index/html">
                 <p>Hello my game is… PA_1264 #spaceinvader #invader #paris #streetart #hellomygameis</p>
 
               </a>
@@ -1193,7 +1195,7 @@
             <img src="pa_1230-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/03/15/pa_1230-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/03/15/pa_1230-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1230 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1208,7 +1210,7 @@
             <img src="paris-tokyo-pa_1269-paris-spaceinvader-invader-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/03/09/paris-tokyo-pa_1269-paris-spaceinvader-invader-streetart.html">
+              <a class="post-link" href="/2017/03/09/paris-tokyo-pa_1269-paris-spaceinvader-invader-streetart/index/html">
                 <p>Paris Tokyo #PA_1269 #paris #spaceinvader #invader #streetart</p>
 
               </a>
@@ -1223,7 +1225,7 @@
             <img src="pa_1270-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/03/04/pa_1270-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/03/04/pa_1270-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1270 #spaceinvader #invader #Paris #streetart</p>
 
               </a>
@@ -1238,7 +1240,7 @@
             <img src="pa_881-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/02/09/pa_881-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/02/09/pa_881-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_881 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1253,7 +1255,7 @@
             <img src="pa_624-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/02/09/pa_624-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/02/09/pa_624-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_624 #spaceinvader #invader #Paris #streetart</p>
 
               </a>
@@ -1268,7 +1270,7 @@
             <img src="pa_1256-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/02/09/pa_1256-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/02/09/pa_1256-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1256 #spaceinvader #invader #Paris #streetart</p>
 
               </a>
@@ -1283,7 +1285,7 @@
             <img src="pa_1212-en-compagnie-du-kraken-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/02/03/pa_1212-en-compagnie-du-kraken-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2017/02/03/pa_1212-en-compagnie-du-kraken-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_1212 En compagnie du Kraken #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1298,7 +1300,7 @@
             <img src="pa_645-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/20/pa_645-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2017/01/20/pa_645-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_645 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -1313,7 +1315,7 @@
             <img src="pa_1219-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/20/pa_1219-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2017/01/20/pa_1219-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1219 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -1328,7 +1330,7 @@
             <img src="pa_864-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/12/20/pa_864-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2016/12/20/pa_864-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_864 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -1343,7 +1345,7 @@
             <img src="pa_1040-spaceinvader-invader-streetart-paris-spiderman.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/11/25/pa_1040-spaceinvader-invader-streetart-paris-spiderman.html">
+              <a class="post-link" href="/2016/11/25/pa_1040-spaceinvader-invader-streetart-paris-spiderman/index/html">
                 <p>PA_1040 #spaceinvader #streetart #paris #spiderman</p>
 
               </a>
@@ -1358,7 +1360,7 @@
             <img src="p1a_1097-joconde-monalisa-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/11/25/p1a_1097-joconde-monalisa-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2016/11/25/p1a_1097-joconde-monalisa-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1097 #joconde #monalisa #spaceinvader #streetart #paris</p>
 
               </a>
@@ -1373,7 +1375,7 @@
             <img src="pa_1210-spaceinvader-paris-invader-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/10/28/pa_1210-spaceinvader-paris-invader-streetart.html">
+              <a class="post-link" href="/2016/10/28/pa_1210-spaceinvader-paris-invader-streetart/index/html">
                 <p>PA_1210 #spaceinvader #paris #invader #streetart</p>
 
               </a>
@@ -1388,7 +1390,7 @@
             <img src="pa_748-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/10/22/pa_748-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2016/10/22/pa_748-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_748 #spaceinvader #streetart #paris</p>
 
               </a>
@@ -1403,7 +1405,7 @@
             <img src="pa_775-spaceinvader-invader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/10/07/pa_775-spaceinvader-invader-paris-streetart.html">
+              <a class="post-link" href="/2016/10/07/pa_775-spaceinvader-invader-paris-streetart/index/html">
                 <p>PA_775 #spaceinvader #invader #paris #streetart</p>
 
               </a>
@@ -1418,7 +1420,7 @@
             <img src="il-est-sympa-le-pa_1237-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/09/18/il-est-sympa-le-pa_1237-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2016/09/18/il-est-sympa-le-pa_1237-spaceinvader-invader-streetart-paris/index/html">
                 <p>Il est sympa le #PA_1237 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -1433,7 +1435,7 @@
             <img src="pa_1231-spaceinvader-paris-streetart-invader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/09/11/pa_1231-spaceinvader-paris-streetart-invader.html">
+              <a class="post-link" href="/2016/09/11/pa_1231-spaceinvader-paris-streetart-invader/index/html">
                 <p>PA_1231 #spaceinvader #paris #streetart #invader</p>
 
               </a>
@@ -1448,7 +1450,7 @@
             <img src="PA_947-spaceinvader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/15/pa_947-spaceinvader-paris-streetart.html">
+              <a class="post-link" href="/2016/08/15/pa_947-spaceinvader-paris-streetart/index/html">
                 <p>PA_947 #spaceinvader #paris #streetart</p>
 
               </a>
@@ -1463,7 +1465,7 @@
             <img src="PA_712-spaceinvader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/15/pa_712-spaceinvader-paris-streetart.html">
+              <a class="post-link" href="/2016/08/15/pa_712-spaceinvader-paris-streetart/index/html">
                 <p>PA_712 #spaceinvader #paris #streetart</p>
 
               </a>
@@ -1478,7 +1480,7 @@
             <img src="PA_1213-spaceinvader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/15/pa_1213-spaceinvader-paris-streetart.html">
+              <a class="post-link" href="/2016/08/15/pa_1213-spaceinvader-paris-streetart/index/html">
                 <p>PA_1213 #spaceinvader #paris #streetart</p>
 
               </a>
@@ -1493,7 +1495,7 @@
             <img src="PA_1111-spaceinvader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/15/pa_1111-spaceinvader-paris-streetart.html">
+              <a class="post-link" href="/2016/08/15/pa_1111-spaceinvader-paris-streetart/index/html">
                 <p>PA_1111 #spaceinvader #paris #streetart</p>
 
               </a>
@@ -1508,7 +1510,7 @@
             <img src="PA_823-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/06/pa_823-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2016/08/06/pa_823-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_823 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -1523,7 +1525,7 @@
             <img src="PA_599-spaceinvader-paris-streetart-invader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/06/pa_599-spaceinvader-paris-streetart-invader.html">
+              <a class="post-link" href="/2016/08/06/pa_599-spaceinvader-paris-streetart-invader/index/html">
                 <p>PA_599 #spaceinvader #paris #streetart #invader</p>
 
               </a>
@@ -1538,7 +1540,7 @@
             <img src="PA_354-spaceinvader-paris-streetart-invader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/05/pa_354-spaceinvader-paris-streetart-invader.html">
+              <a class="post-link" href="/2016/08/05/pa_354-spaceinvader-paris-streetart-invader/index/html">
                 <p>PA_354 #spaceinvader #paris #streetart #invader</p>
 
               </a>
@@ -1553,7 +1555,7 @@
             <img src="Love-is-in-the-air-PA_1218-spaceinvader-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/04/love-is-in-the-air-pa_1218-spaceinvader-paris-streetart.html">
+              <a class="post-link" href="/2016/08/04/love-is-in-the-air-pa_1218-spaceinvader-paris-streetart/index/html">
                 <p>Love is in the air #PA_1218 #spaceinvader #paris #streetart</p>
 
               </a>
@@ -1568,7 +1570,7 @@
             <img src="PA_1200-spaceinvader-invader-streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/23/pa_1200-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2016/06/23/pa_1200-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_1200 #spaceinvader #invader #streetart #paris</p>
 
               </a>
@@ -1583,7 +1585,7 @@
             <img src="PA_1171-Holly-invader-spaceinvader-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/23/pa_1171-holly-invader-spaceinvader-streetart.html">
+              <a class="post-link" href="/2016/06/23/pa_1171-holly-invader-spaceinvader-streetart/index/html">
                 <p>PA_1171 Holly #invader #spaceinvader #streetart</p>
 
               </a>
@@ -1598,7 +1600,7 @@
             <img src="PA_162-spaceinvader-paris-streetart-invader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/17/pa_162-spaceinvader-paris-streetart-invader.html">
+              <a class="post-link" href="/2016/06/17/pa_162-spaceinvader-paris-streetart-invader/index/html">
                 <p>PA_162 #spaceinvader #paris #streetart #invader</p>
 
               </a>
@@ -1613,7 +1615,7 @@
             <img src="Art-brut-streetart-Paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/03/03/art-brut-streetart-paris.html">
+              <a class="post-link" href="/2016/03/03/art-brut-streetart-paris/index/html">
                 <p>Art brut #streetart #Paris</p>
 
               </a>
@@ -1628,7 +1630,7 @@
             <img src="Ride-un-Peace-paris-streetart.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/02/11/ride-un-peace-paris-streetart.html">
+              <a class="post-link" href="/2016/02/11/ride-un-peace-paris-streetart/index/html">
                 <p>Ride in Peace #paris #streetart</p>
 
               </a>
@@ -1643,7 +1645,7 @@
             <img src="streetart-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/01/15/streetart-paris.html">
+              <a class="post-link" href="/2016/01/15/streetart-paris/index/html">
                 <p>#streetart #paris</p>
 
               </a>
@@ -1656,7 +1658,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/Capture-d’écran-2015-02-24-à-18.08.35.png" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/02/24/streetart-linnovation-au-coeur-dun-mouvement.html">
+              <a class="post-link" href="/2015/02/24/streetart-linnovation-au-coeur-dun-mouvement/index/html">
                 <p>#StreetArt, l’innovation au cœur d’un mouvement</p>
 
               </a>
@@ -1736,11 +1738,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

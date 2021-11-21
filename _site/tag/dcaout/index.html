@@ -228,20 +228,22 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Tag&nbsp;: dcaout</h1>
   
   <ul class="post-list grid">
@@ -250,7 +252,7 @@
             <img src="10611077_111874362499390_75272657_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2015/08/29/la-grand-roue-de-la-schueberfouer-elle-est-tres-beaucoup-grande-dcaout.html">
+              <a class="post-link" href="/2015/08/29/la-grand-roue-de-la-schueberfouer-elle-est-tres-beaucoup-grande-dcaout/index/html">
                 <p>La Grand Roue de la Schueberfouer, elle est très #beaucoup grande… #DCAout</p>
 
               </a>
@@ -265,7 +267,7 @@
             <img src="11419175_1691918647705124_2056030222_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2015/08/28/cafem-dcaout.html">
+              <a class="post-link" href="/2015/08/28/cafem-dcaout/index/html">
                 <p>Café #DCAout</p>
 
               </a>
@@ -278,7 +280,7 @@
       <li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2015/08/26/dcaout-chanson.html">
+              <a class="post-link" href="/2015/08/26/dcaout-chanson/index/html">
                 <p>#DCaout : chanson</p>
 
               </a>
@@ -291,7 +293,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_0215.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/08/18/dcaout-une-chanson-douce-a-mon-oreille.html">
+              <a class="post-link" href="/2015/08/18/dcaout-une-chanson-douce-a-mon-oreille/index/html">
                 <p>#DCaout : une #chanson douce à mon oreille…</p>
 
               </a>
@@ -306,7 +308,7 @@
             <img src="10453979_650597255033414_208484532_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/09/01/dcaout-portrait.html">
+              <a class="post-link" href="/2014/09/01/dcaout-portrait/index/html">
                 <p>#DCAout - Portrait</p>
 
               </a>
@@ -319,7 +321,7 @@
       <li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2014/08/29/dcaout-voyages.html">
+              <a class="post-link" href="/2014/08/29/dcaout-voyages/index/html">
                 <p>#DCAout - Voyage(s)</p>
 
               </a>
@@ -332,7 +334,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/DCAout-tube-map.png" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/29/dcaout-lignes.html">
+              <a class="post-link" href="/2014/08/29/dcaout-lignes/index/html">
                 <p>#DCAoût - Lignes</p>
 
               </a>
@@ -345,7 +347,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/4047708_f58a2b10a8_b.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/29/dcaout-fleurs.html">
+              <a class="post-link" href="/2014/08/29/dcaout-fleurs/index/html">
                 <p>#DCAout - Fleurs</p>
 
               </a>
@@ -360,7 +362,7 @@
             <img src="7174c0e18adc435e84e14931ff5336b1_7.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/26/dcaout-noir.html">
+              <a class="post-link" href="/2014/08/26/dcaout-noir/index/html">
                 <p>#DCAout - Noir</p>
 
               </a>
@@ -375,7 +377,7 @@
             <img src="10632213_1467204146892768_709402054_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/25/dcaout-telephone.html">
+              <a class="post-link" href="/2014/08/25/dcaout-telephone/index/html">
                 <p>#DCAout - Téléphone</p>
 
               </a>
@@ -390,7 +392,7 @@
             <img src="10533099_632411480189658_1417773562_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/24/dcaout-foret.html">
+              <a class="post-link" href="/2014/08/24/dcaout-foret/index/html">
                 <p>#DCAout - Forêt</p>
 
               </a>
@@ -403,7 +405,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_0009.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/24/dcaout-couleur.html">
+              <a class="post-link" href="/2014/08/24/dcaout-couleur/index/html">
                 <p>#DCAout - Couleur</p>
 
               </a>
@@ -416,7 +418,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/2009249645_619fe345c1_b.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/22/dcaout-route.html">
+              <a class="post-link" href="/2014/08/22/dcaout-route/index/html">
                 <p>#DCAout - Route</p>
 
               </a>
@@ -429,7 +431,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/897500176_7aac47b6c3.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/22/dcaout-papier.html">
+              <a class="post-link" href="/2014/08/22/dcaout-papier/index/html">
                 <p>#DCAout - Papier</p>
 
               </a>
@@ -444,7 +446,7 @@
             <img src="6ed0ef6c124a11e39d2822000ae9062a_7.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/20/dcaout-yeux.html">
+              <a class="post-link" href="/2014/08/20/dcaout-yeux/index/html">
                 <p>#DCAout - Yeux</p>
 
               </a>
@@ -459,7 +461,7 @@
             <img src="1172144_421871547913726_1543332644_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/19/dcaout-sucre.html">
+              <a class="post-link" href="/2014/08/19/dcaout-sucre/index/html">
                 <p>#DCAout - Sucre</p>
 
               </a>
@@ -474,7 +476,7 @@
             <img src="9a1ac3f2e9ef11e1b46022000a1e9de2_7.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/19/dcaout-matin.html">
+              <a class="post-link" href="/2014/08/19/dcaout-matin/index/html">
                 <p>#DCAout - Matin</p>
 
               </a>
@@ -489,7 +491,7 @@
             <img src="83a8d7c4e93d11e19c031231380e6971_7.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/19/dcaout-lettres.html">
+              <a class="post-link" href="/2014/08/19/dcaout-lettres/index/html">
                 <p>#DCAout - Lettres</p>
 
               </a>
@@ -502,7 +504,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/2008765458_a8f703713b_b.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/19/dcaout-douceur.html">
+              <a class="post-link" href="/2014/08/19/dcaout-douceur/index/html">
                 <p>#DCAout - Douceur</p>
 
               </a>
@@ -515,7 +517,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/14317559_1e418b5417_b.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/19/dcaout-bulles.html">
+              <a class="post-link" href="/2014/08/19/dcaout-bulles/index/html">
                 <p>#DCAout - Bulles</p>
 
               </a>
@@ -528,7 +530,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/horizon.png" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/14/dcaout-vert.html">
+              <a class="post-link" href="/2014/08/14/dcaout-vert/index/html">
                 <p>#DCAout - Vert</p>
 
               </a>
@@ -541,7 +543,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/7266494246_99a333b359_k.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/13/dcaout-repetition.html">
+              <a class="post-link" href="/2014/08/13/dcaout-repetition/index/html">
                 <p>#DCAout - Répétition</p>
 
               </a>
@@ -554,7 +556,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/2214515168_732773af4d_o.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/12/dcaout-energie.html">
+              <a class="post-link" href="/2014/08/12/dcaout-energie/index/html">
                 <p>#DCAout - Énergie</p>
 
               </a>
@@ -569,7 +571,7 @@
             <img src="9a0372ae5b1111e2a82422000a9e07ae_7.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/11/dcaout-graffiti.html">
+              <a class="post-link" href="/2014/08/11/dcaout-graffiti/index/html">
                 <p>#DCAout - Graffiti</p>
 
               </a>
@@ -582,7 +584,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_39701.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/10/dcaout-totem.html">
+              <a class="post-link" href="/2014/08/10/dcaout-totem/index/html">
                 <p>#DCAout - Totem</p>
 
               </a>
@@ -595,7 +597,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/MONUMENT.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/10/dcaout-monument.html">
+              <a class="post-link" href="/2014/08/10/dcaout-monument/index/html">
                 <p>#DCAout - Monument</p>
 
               </a>
@@ -608,7 +610,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_39681.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/08/dcaout-rose.html">
+              <a class="post-link" href="/2014/08/08/dcaout-rose/index/html">
                 <p>#DCAout - Rose</p>
 
               </a>
@@ -621,7 +623,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/DSCF00281.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/07/dcaout-sourire.html">
+              <a class="post-link" href="/2014/08/07/dcaout-sourire/index/html">
                 <p>#DCAout – Sourire</p>
 
               </a>
@@ -634,7 +636,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_39671.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/06/dcaout-animal.html">
+              <a class="post-link" href="/2014/08/06/dcaout-animal/index/html">
                 <p>#DCAout - Animal</p>
 
               </a>
@@ -647,7 +649,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/Soirée.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/05/dcaout-soiree.html">
+              <a class="post-link" href="/2014/08/05/dcaout-soiree/index/html">
                 <p>#DCAout - Soirée</p>
 
               </a>
@@ -660,7 +662,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/162690535_d3b0562d41_o.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2014/08/04/dcaout-gribouillis.html">
+              <a class="post-link" href="/2014/08/04/dcaout-gribouillis/index/html">
                 <p>#DCAout - Gribouillis</p>
 
               </a>
@@ -740,11 +742,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

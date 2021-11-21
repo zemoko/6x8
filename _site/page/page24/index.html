@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/au-jardin-d’acclimatation-paris.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/09/09/au-jardin-dacclimatation-paris.html">
+              <a class="post-link" href="/2018/09/09/au-jardin-dacclimatation-paris/index/html">
                 <p>Au jardin d’acclimatation #Paris</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/005007194.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/09/06/ma-critique-de-le-cinquieme-principe-de-vittorio-catani.html">
+              <a class="post-link" href="/2018/09/06/ma-critique-de-le-cinquieme-principe-de-vittorio-catani/index/html">
                 <p>Ma critique de « <strong>Le cinquième principe</strong> » de <em>Vittorio Catani</em></p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/quand-est-ce-qu’on-va-rire-pendant-les-infos.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/09/05/quand-est-ce-quon-va-rire-pendant-les-infos.html">
+              <a class="post-link" href="/2018/09/05/quand-est-ce-quon-va-rire-pendant-les-infos/index/html">
                 <p>Quand est-ce qu’on va rire pendant les infos ?</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/a-la-schueberfouer-luxembourg.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/09/01/a-la-schueberfouer-luxembourg.html">
+              <a class="post-link" href="/2018/09/01/a-la-schueberfouer-luxembourg/index/html">
                 <p>À la Schueberfouer #luxembourg</p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/img_3470.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/28/les-ruines-dochsenstein-et-la-terrasse-du-geissfels.html">
+              <a class="post-link" href="/2018/08/28/les-ruines-dochsenstein-et-la-terrasse-du-geissfels/index/html">
                 <p>Les ruines d’Ochsenstein et la terrasse du Geissfels</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/rocher-du-brotsch-rando-randonnee-saverne-alsace.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/26/rocher-du-brotsch-rando-randonnee-saverne-alsace.html">
+              <a class="post-link" href="/2018/08/26/rocher-du-brotsch-rando-randonnee-saverne-alsace/index/html">
                 <p>Rocher du Brotsch #rando</p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/l’age-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/25/lage-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2018/08/25/lage-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames/index/html">
                 <p>L’âge des géants #KingDomino</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/au-stride.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/12/au-stride.html">
+              <a class="post-link" href="/2018/08/12/au-stride/index/html">
                 <p>Au Stride</p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/au-stride-2.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/12/au-stride-3.html">
+              <a class="post-link" href="/2018/08/12/au-stride-3/index/html">
                 <p>Au Stride</p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/au-stride-2.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/08/12/au-stride-2.html">
+              <a class="post-link" href="/2018/08/12/au-stride-2/index/html">
                 <p>Au Stride</p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2018/08/07/manifeste-pour-un-web-ethique-suite-et-fin.html">
+              <a class="post-link" href="/2018/08/07/manifeste-pour-un-web-ethique-suite-et-fin/index/html">
                 <p>Manifeste pour un web éthique… suite (et fin)</p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/sauver-la-planete.-une-biere-a-la-fois.-pbc.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/07/31/sauver-la-planete-une-biere-a-la-fois-pbc.html">
+              <a class="post-link" href="/2018/07/31/sauver-la-planete-une-biere-a-la-fois-pbc/index/html">
                 <p>Sauver la planète. Une bière à la fois. #PBC</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

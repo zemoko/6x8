@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/2021-06-12-l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/06/12/l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique.html">
+              <a class="post-link" href="/2021/06/12/l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique/index/html">
                 <p>L’industrie Magnifique… suite et final en beauté ! #strasbourg #industriemagnifique</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/2021-06-10-le-concert-du-grand-orchestre-d-emos-de-strasbourg-a-la-philharmonie-de-paris.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/06/10/le-concert-du-grand-orchestre-d-emos-de-strasbourg-a-la-philharmonie-de-paris.html">
+              <a class="post-link" href="/2021/06/10/le-concert-du-grand-orchestre-d-emos-de-strasbourg-a-la-philharmonie-de-paris/index/html">
                 <p>Le concert du grand orchestre Démos de Strasbourg, à la Philharmonie de Paris</p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/2021-06-06-l-industrie-magnifique-industriemagnifique-strasbourg.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/06/06/l-industrie-magnifique-industriemagnifique-strasbourg.html">
+              <a class="post-link" href="/2021/06/06/l-industrie-magnifique-industriemagnifique-strasbourg/index/html">
                 <p>L’industrie magnifique #industriemagnifique #strasbourg</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/15.png" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/05/05/a-la-maison.html">
+              <a class="post-link" href="/2021/05/05/a-la-maison/index/html">
                 <p>« À la maison »</p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/2021-05-01-tokyo-highway-boardgames.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/05/01/tokyo-highway-boardgames.html">
+              <a class="post-link" href="/2021/05/01/tokyo-highway-boardgames/index/html">
                 <p>Tokyo Highway #boardgames</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/2021-04-25-il-est-temps-de-pr-eparer-mon-pmu.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/25/il-est-temps-de-pr-eparer-mon-pmu.html">
+              <a class="post-link" href="/2021/04/25/il-est-temps-de-pr-eparer-mon-pmu/index/html">
                 <p>Il est temps de préparer mon PMU 😎</p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/174556793_486402702715100_4931696047763477515_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart.html">
+              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart/index/html">
                 <p>Tiens, une alsacienne ! #streetart #strasbourg by @stork_pixelart</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/9782374252414.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/16/ma-critique-de-les-tentacules-de-rita-indiana.html">
+              <a class="post-link" href="/2021/04/16/ma-critique-de-les-tentacules-de-rita-indiana/index/html">
                 <p>Ma critique de « <strong>Les tentacules</strong> » de <em>Rita Indiana</em></p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_6704-scaled-e1618503891479.jpeg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/15/lomoinstant-automat-x-parc-de-pourtales.html">
+              <a class="post-link" href="/2021/04/15/lomoinstant-automat-x-parc-de-pourtales/index/html">
                 <p>Lomo’Instant Automat x Parc de Pourtalès</p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/175024137_872882903560552_8810318033791077814_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/15/il-ny-a-pas-que-les-murs-qui-ont-des-oreilles-parcdepourtales-strasbourg.html">
+              <a class="post-link" href="/2021/04/15/il-ny-a-pas-que-les-murs-qui-ont-des-oreilles-parcdepourtales-strasbourg/index/html">
                 <p>Il n’y a pas que les murs qui ont des oreilles… #parcdepourtales #strasbourg</p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/167740688_494173228659358_1137365095034161993_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/04/et-hop-on-a-un-dessert-de-saison-miam-paques-easter.html">
+              <a class="post-link" href="/2021/04/04/et-hop-on-a-un-dessert-de-saison-miam-paques-easter/index/html">
                 <p>Et hop, on a un dessert de saison :) #miam #paques #easter</p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/168018494_734751223856369_3038898219515261927_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/03/printemps-2-2.html">
+              <a class="post-link" href="/2021/04/03/printemps-2-2/index/html">
                 <p>Printemps #2</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

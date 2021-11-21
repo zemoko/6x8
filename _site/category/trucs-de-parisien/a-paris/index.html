@@ -228,27 +228,29 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Trucs de parisien à Paris</h1>
   
   <ul class="post-list grid">
       <li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2017/09/24/un-dimanche-au-museum.html">
+              <a class="post-link" href="/2017/09/24/un-dimanche-au-museum/index/html">
                 <p>Un dimanche au Muséum</p>
 
               </a>
@@ -261,7 +263,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images//MA/img_1658-2.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/09/17/quoi-de-mieux-que-la-cite-de-larchitecture-et-du-patrimoine-pour-ces-journees-europeennes-du-patrimoine.html">
+              <a class="post-link" href="/2017/09/17/quoi-de-mieux-que-la-cite-de-larchitecture-et-du-patrimoine-pour-ces-journees-europeennes-du-patrimoine/index/html">
                 <p>Quoi de mieux que la Cité de l’Architecture et du <strong>Patrimoine</strong> pour ces Journées Européennes du <strong>Patrimoine</strong> ?</p>
 
               </a>
@@ -274,7 +276,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/img_1499.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/08/31/quand-les-parisiens-visitent-paris-notre-dame.html">
+              <a class="post-link" href="/2017/08/31/quand-les-parisiens-visitent-paris-notre-dame/index/html">
                 <p>Quand les parisiens visitent Paris : Notre Dame</p>
 
               </a>
@@ -287,7 +289,7 @@
       <li class="grid-item">
         <div class="card "><div>
             <h3>
-              <a class="post-link" href="/2017/07/26/viendez-a-la-villette-pour-construire-la-ville-ephemere.html">
+              <a class="post-link" href="/2017/07/26/viendez-a-la-villette-pour-construire-la-ville-ephemere/index/html">
                 <p>Viendez à la Villette pour construire « La ville éphémère »</p>
 
               </a>
@@ -300,7 +302,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_8623.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/05/03/hello-my-game-is-le-musee-en-herbe-devient-le-nouveau-terrain-de-jeu-dinvader.html">
+              <a class="post-link" href="/2017/05/03/hello-my-game-is-le-musee-en-herbe-devient-le-nouveau-terrain-de-jeu-dinvader/index/html">
                 <p>« Hello my game is… » : le musée en herbe devient le nouveau terrain de jeu d’Invader</p>
 
               </a>
@@ -313,7 +315,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/MDP_LEGO_Affiche_WEB.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/12/14/construire-paris-de-brique-en-brique.html">
+              <a class="post-link" href="/2016/12/14/construire-paris-de-brique-en-brique/index/html">
                 <p>Construire Paris de brique en brique</p>
 
               </a>
@@ -326,7 +328,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_0845.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/11/01/retour-a-la-fondation-vuitton-la-collection-chtchoukine.html">
+              <a class="post-link" href="/2016/11/01/retour-a-la-fondation-vuitton-la-collection-chtchoukine/index/html">
                 <p>Retour à la fondation Vuitton : La collection Chtchoukine</p>
 
               </a>
@@ -339,7 +341,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_6316.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/09/19/sur-le-toit-de-la-philharmonie-de-paris.html">
+              <a class="post-link" href="/2016/09/19/sur-le-toit-de-la-philharmonie-de-paris/index/html">
                 <p>Sur le toit de la Philharmonie de Paris</p>
 
               </a>
@@ -352,7 +354,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_0006.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/08/15/escapade-a-la-fondation-louis-vuitton.html">
+              <a class="post-link" href="/2016/08/15/escapade-a-la-fondation-louis-vuitton/index/html">
                 <p>Escapade à la Fondation Louis Vuitton</p>
 
               </a>
@@ -365,7 +367,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_5402.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/04/06/un-lego-store-sous-la-canopee.html">
+              <a class="post-link" href="/2016/04/06/un-lego-store-sous-la-canopee/index/html">
                 <p>Un <span lang="en">Lego Store</span> sous la Canopée</p>
 
               </a>
@@ -378,7 +380,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/allons-enfants-du-bataclan.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/11/20/allons-enfants-du-bataclan.html">
+              <a class="post-link" href="/2015/11/20/allons-enfants-du-bataclan/index/html">
                 <p>Allons Enfants du Bataclan</p>
 
               </a>
@@ -391,7 +393,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/expo-contre-attaque-12275.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/10/31/1-samedi-2-expos.html">
+              <a class="post-link" href="/2015/10/31/1-samedi-2-expos/index/html">
                 <p>1 samedi 2 expos</p>
 
               </a>
@@ -404,7 +406,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_0322.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/09/27/la-journee-sans-voitures.html">
+              <a class="post-link" href="/2015/09/27/la-journee-sans-voitures/index/html">
                 <p>La journée sans voitures ?</p>
 
               </a>
@@ -417,7 +419,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/19932675110_df4c71f8ba_k.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/09/24/notrebudget-parisiens-vous-avez-jusquau-26-septembre-pour-voter.html">
+              <a class="post-link" href="/2015/09/24/notrebudget-parisiens-vous-avez-jusquau-26-septembre-pour-voter/index/html">
                 <p>#NotreBudget : Parisiens, vous avez jusqu’au 26 septembre pour voter</p>
 
               </a>
@@ -430,7 +432,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/DSC00832.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/09/07/lair-des-geants.html">
+              <a class="post-link" href="/2015/09/07/lair-des-geants/index/html">
                 <p>L’air des géants</p>
 
               </a>
@@ -443,7 +445,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/DSC00785.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/08/28/tour-saint-jacques-montez-y-vite.html">
+              <a class="post-link" href="/2015/08/28/tour-saint-jacques-montez-y-vite/index/html">
                 <p>Tour Saint Jacques : montez-y vite !</p>
 
               </a>
@@ -456,7 +458,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/11184644_356906051172358_208299288_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/04/26/arcs-de-cercles-sur-diagonales-de-felice-varini.html">
+              <a class="post-link" href="/2015/04/26/arcs-de-cercles-sur-diagonales-de-felice-varini/index/html">
                 <p>« Arcs de cercles sur diagonales » de Felice VARINI</p>
 
               </a>
@@ -536,11 +538,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

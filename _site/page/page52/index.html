@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/PA_1171-Holly-invader-spaceinvader-streetart.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/23/pa_1171-holly-invader-spaceinvader-streetart.html">
+              <a class="post-link" href="/2016/06/23/pa_1171-holly-invader-spaceinvader-streetart/index/html">
                 <p>PA_1171 Holly #invader #spaceinvader #streetart</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/institutdumondearabe-IMA-paris-parismaville.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/23/institutdumondearabe-ima-paris-parismaville.html">
+              <a class="post-link" href="/2016/06/23/institutdumondearabe-ima-paris-parismaville/index/html">
                 <p>#institutdumondearabe #IMA #paris #parismaville</p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/anamorphose-jardindorient-institutdumondearabe.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/23/anamorphose-jardindorient-institutdumondearabe.html">
+              <a class="post-link" href="/2016/06/23/anamorphose-jardindorient-institutdumondearabe/index/html">
                 <p>Anamorphose #jardindorient #institutdumondearabe</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Foot-Foraine-a-la-villette-paris-manege.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/19/foot-foraine-a-la-villette-paris-manege.html">
+              <a class="post-link" href="/2016/06/19/foot-foraine-a-la-villette-paris-manege/index/html">
                 <p>Foot Foraine à la #villette #paris #manège</p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/PA_162-spaceinvader-paris-streetart-invader.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/17/pa_162-spaceinvader-paris-streetart-invader.html">
+              <a class="post-link" href="/2016/06/17/pa_162-spaceinvader-paris-streetart-invader/index/html">
                 <p>PA_162 #spaceinvader #paris #streetart #invader</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/CVT_Le-secret-du-mari_5326.gif" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/14/ma-critique-de-le-secret-du-mari-de-liane-moriarty.html">
+              <a class="post-link" href="/2016/06/14/ma-critique-de-le-secret-du-mari-de-liane-moriarty/index/html">
                 <p>Ma Critique de « <strong>Le secret du mari</strong> » de <em>Liane Moriarty</em></p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Tiens-on-voit-la-philharmonie-paris-parismaville.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/12/tiens-on-voit-la-philharmonie-paris-parismaville.html">
+              <a class="post-link" href="/2016/06/12/tiens-on-voit-la-philharmonie-paris-parismaville/index/html">
                 <p>Tiens on voit la #philharmonie #paris #parismaville</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/image.html.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/10/ma-critique-de-vous-naurez-pas-ma-haine-dantoine-leiris.html">
+              <a class="post-link" href="/2016/06/10/ma-critique-de-vous-naurez-pas-ma-haine-dantoine-leiris/index/html">
                 <p>Ma Critique de « <strong>Vous n’aurez pas ma haine</strong> » d’<em>Antoine Leiris</em></p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/9781594632341_1_75.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/06/ma-critique-de-les-interessants-de-meg-wolitzer.html">
+              <a class="post-link" href="/2016/06/06/ma-critique-de-les-interessants-de-meg-wolitzer/index/html">
                 <p>Ma Critique de « <strong>Les intéressants</strong> » de <em>Meg Wolitzer</em></p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/PA_1139-spaceinvader-paris.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/05/pa_1139-spaceinvader-paris.html">
+              <a class="post-link" href="/2016/06/05/pa_1139-spaceinvader-paris/index/html">
                 <p>PA_1139 #spaceinvader #paris</p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Pont-Alexandre-III-paris-parismaville-seine-crue-flood.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/03/pont-alexandre-iii-paris-parismaville-seine-crue-flood.html">
+              <a class="post-link" href="/2016/06/03/pont-alexandre-iii-paris-parismaville-seine-crue-flood/index/html">
                 <p>Pont Alexandre III #paris #parismaville #seine #crue #flood</p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/Pas-Mathias-lautre-zouave-zouave-Alma-Paris-parismaville-seine-crue-flood.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/06/03/pas-mathias-lautre-zouave-zouave-alma-paris-parismaville-seine-crue-flood.html">
+              <a class="post-link" href="/2016/06/03/pas-mathias-lautre-zouave-zouave-alma-paris-parismaville-seine-crue-flood/index/html">
                 <p>Pas Mathias, l’autre zouave ! #zouave #Alma #Paris #parismaville #seine #crue #flood</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

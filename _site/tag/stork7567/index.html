@@ -228,20 +228,22 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Tag&nbsp;: stork7567</h1>
   
   <ul class="post-list grid">
@@ -250,7 +252,7 @@
             <img src="2021-10-10-encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/10/10/encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.html">
+              <a class="post-link" href="/2021/10/10/encore-des-cigognes-by-stork-pixelart-strasbourg-makerland/index/html">
                 <p>Encore des cigognes ! By @stork_pixelart #strasbourg #makerland</p>
 
               </a>
@@ -265,7 +267,7 @@
             <img src="174556793_486402702715100_4931696047763477515_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart.html">
+              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart/index/html">
                 <p>Tiens, une alsacienne ! #streetart #strasbourg by @stork_pixelart</p>
 
               </a>
@@ -280,7 +282,7 @@
             <img src="122816574_368180504231064_7036902056763616098_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/10/25/hep-by-stork_pixelart-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/10/25/hep-by-stork_pixelart-strasbourg-streetart/index/html">
                 <p>Hep by @stork_pixelart #strasbourg #streetart</p>
 
               </a>
@@ -295,7 +297,7 @@
             <img src="119656782_326785998533559_6064687591069766913_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/09/19/stork-schiltigheim-stork_pixelart-streetart.html">
+              <a class="post-link" href="/2020/09/19/stork-schiltigheim-stork_pixelart-streetart/index/html">
                 <p>Stork @ Schiltigheim @stork_pixelart #streetart</p>
 
               </a>
@@ -310,7 +312,7 @@
             <img src="118210852_200806931467864_6746229688978839489_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/08/29/hopital-civil-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/08/29/hopital-civil-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Hôpital (civil) by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -325,7 +327,7 @@
             <img src="110989135_4115945865147234_7269222823582300537_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/07/22/encore-une-cigogne-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/07/22/encore-une-cigogne-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Encore une ! #cigogne by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -340,7 +342,7 @@
             <img src="106058559_3215038981918910_5684007830728630933_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/06/25/tiens-une-cigogne-passe-sous-le-pont-strasbourg-streetart-by-stork_pixelart.html">
+              <a class="post-link" href="/2020/06/25/tiens-une-cigogne-passe-sous-le-pont-strasbourg-streetart-by-stork_pixelart/index/html">
                 <p>Tiens, une cigogne passe sous le pont #Strasbourg #streetart by @stork_pixelart</p>
 
               </a>
@@ -355,7 +357,7 @@
             <img src="87643518_3006725389385310_7649813944382557048_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/03/08/lost-in-elsass-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/03/08/lost-in-elsass-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Lost in Elsass by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -370,7 +372,7 @@
             <img src="82703281_102302964631661_1155308037541241913_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/02/05/quai-au-sable-by-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/02/05/quai-au-sable-by-stork7567-strasbourg-streetart/index/html">
                 <p>Quai au sable by @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -385,7 +387,7 @@
             <img src="84155251_465192231034709_7882236284700795180_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/02/05/2020-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/02/05/2020-by-stork7567-streetart-strasbourg/index/html">
                 <p>2020 by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -400,7 +402,7 @@
             <img src="82470893_553638035228687_857294972088007696_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/29/italie-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/01/29/italie-by-stork7567-streetart-strasbourg/index/html">
                 <p>Italie  by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -415,7 +417,7 @@
             <img src="81156909_2440934036224647_3701381703893341701_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/03/stork-au-parlement-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/01/03/stork-au-parlement-stork7567-strasbourg-streetart/index/html">
                 <p>Stork au Parlement @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -430,7 +432,7 @@
             <img src="75562941_179420369874202_5931597134647044369_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/et-encore-une-a-la-cite-de-la-musique-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/et-encore-une-a-la-cite-de-la-musique-stork7567-streetart-strasbourg/index/html">
                 <p>Et encore une, à la cité de la musique ! @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -445,7 +447,7 @@
             <img src="80373255_2631407836940946_7409428737243088235_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/et-de-trois-sangoku-streetart-by-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/et-de-trois-sangoku-streetart-by-stork7567-strasbourg/index/html">
                 <p>Et de trois ! #sangoku #streetart by @stork7567 #strasbourg</p>
 
               </a>
@@ -460,7 +462,7 @@
             <img src="79228464_583842632175995_2899462543704538230_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/encore-une-cigogne-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/encore-une-cigogne-by-stork7567-streetart-strasbourg/index/html">
                 <p>Encore une cigogne by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -473,7 +475,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/collage.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork.html">
+              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork/index/html">
                 <p>À la chasse au Stork</p>
 
               </a>
@@ -488,7 +490,7 @@
             <img src="71870908_530088767558860_5892053874185258890_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/10/place-du-marche-au-poisson-strasbourg-streetart-by-stork7567.html">
+              <a class="post-link" href="/2019/10/10/place-du-marche-au-poisson-strasbourg-streetart-by-stork7567/index/html">
                 <p>Place du marché au poisson #strasbourg #streetart by @stork7567</p>
 
               </a>
@@ -503,7 +505,7 @@
             <img src="71234729_976513089348706_184540916826711371_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/02/la-lanterne-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/10/02/la-lanterne-by-stork7567-streetart-strasbourg/index/html">
                 <p>La lanterne by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -518,7 +520,7 @@
             <img src="69271563_368445157393001_2703218159290229705_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/09/19/place-des-orphelins-cigogne-streetart-strasbourg-stork7567.html">
+              <a class="post-link" href="/2019/09/19/place-des-orphelins-cigogne-streetart-strasbourg-stork7567/index/html">
                 <p>Place des orphelins #cigogne #streetart #strasbourg @stork7567</p>
 
               </a>
@@ -533,7 +535,7 @@
             <img src="69807076_192636408433806_7914540101871050547_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/29/de-lart-au-street-art-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/29/de-lart-au-street-art-by-stork7567-streetart-strasbourg/index/html">
                 <p>De l’art au street art by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -548,7 +550,7 @@
             <img src="66823908_1859231620888335_1258015999417546279_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/20/usa-grece-angleterre-ces-cigognes-sont-globe-trotters-streetart-by-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/08/20/usa-grece-angleterre-ces-cigognes-sont-globe-trotters-streetart-by-stork7567-strasbourg/index/html">
                 <p><abbr>USA</abbr>, Grèce, Angleterre… ces cigognes sont globe-trotters ! #streetart by @stork7567 #strasbourg</p>
 
               </a>
@@ -563,7 +565,7 @@
             <img src="66944340_155000812277784_5174681202721460682_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/17/oh-des-cigognes-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/17/oh-des-cigognes-by-stork7567-streetart-strasbourg/index/html">
                 <p>Oh, des cigognes ! by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -578,7 +580,7 @@
             <img src="66304626_2439347306126657_5462203439568469669_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/14/ce-spiderman-by-stork7567-me-dit-vaguement-quelque-chose-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/14/ce-spiderman-by-stork7567-me-dit-vaguement-quelque-chose-streetart-strasbourg/index/html">
                 <p>Ce #Spiderman (by @stork7567) me dit vaguement quelque chose… #streetart #strasbourg</p>
 
               </a>
@@ -593,7 +595,7 @@
             <img src="67568747_127892448473789_6654739684311271373_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/10/hannetons-by-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2019/08/10/hannetons-by-stork7567-strasbourg-streetart/index/html">
                 <p>Hannetons by @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -608,7 +610,7 @@
             <img src="66413664_2386941631558666_4597465839033169871_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/09/les-3-brigands-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/09/les-3-brigands-by-stork7567-streetart-strasbourg/index/html">
                 <p>Les 3 brigands by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -623,7 +625,7 @@
             <img src="62438873_119591252381130_8602215867203390394_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/11/bouh-cigogne-streetart-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/07/11/bouh-cigogne-streetart-stork7567-strasbourg/index/html">
                 <p>Bouh! #cigogne #streetart #strasbourg</p>
 
               </a>
@@ -638,7 +640,7 @@
             <img src="65445702_103127704276799_8882635331459959926_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/10/pac-man-%EF%B8%8F-cigogne-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/07/10/pac-man-%EF%B8%8F-cigogne-stork7567-strasbourg/index/html">
                 <p>Pac-Man ️ Cigogne @stork7567 #strasbourg</p>
 
               </a>
@@ -653,7 +655,7 @@
             <img src="65419731_613405545838196_1417206759806383138_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/20/invader-%EF%B8%8F-cigogne-stork7567-falseinvader-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/06/20/invader-%EF%B8%8F-cigogne-stork7567-falseinvader-streetart-strasbourg/index/html">
                 <p>Invader ️ Cigogne @stork7567 #falseinvader #streetart #strasbourg</p>
 
               </a>
@@ -668,7 +670,7 @@
             <img src="61703014_208328696804171_7477260946124116910_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/15/cigogne-by-stork7567-falseinvader-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/06/15/cigogne-by-stork7567-falseinvader-streetart-strasbourg/index/html">
                 <p>Cigogne by @stork7567 #falseinvader #streetart #strasbourg</p>
 
               </a>
@@ -683,7 +685,7 @@
             <img src="61610141_222128622079237_4273242854529077002_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/05/cigogne-invader-stork7567-streetart-strasbourg-laiterie-invader-spaceinvader-falseinvader.html">
+              <a class="post-link" href="/2019/06/05/cigogne-invader-stork7567-streetart-strasbourg-laiterie-invader-spaceinvader-falseinvader/index/html">
                 <p>Cigogne Invader by #stork7567 #streetart #strasbourg #laiterie #spaceinvader #falseinvader</p>
 
               </a>
@@ -763,11 +765,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

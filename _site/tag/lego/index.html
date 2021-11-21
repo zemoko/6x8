@@ -228,20 +228,22 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Tag&nbsp;: lego</h1>
   
   <ul class="post-list grid">
@@ -250,7 +252,7 @@
             <img src="168018494_734751223856369_3038898219515261927_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/03/printemps-2-2.html">
+              <a class="post-link" href="/2021/04/03/printemps-2-2/index/html">
                 <p>Printemps #2</p>
 
               </a>
@@ -265,7 +267,7 @@
             <img src="121260417_1235244293510801_3353022117850431383_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/10/11/central-perk-friends-lego.html">
+              <a class="post-link" href="/2020/10/11/central-perk-friends-lego/index/html">
                 <p>Central Perk #friends #lego</p>
 
               </a>
@@ -280,7 +282,7 @@
             <img src="83130580_158347338931774_1251895276050920140_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/26/on-a-repare-lescalier-lego.html">
+              <a class="post-link" href="/2020/01/26/on-a-repare-lescalier-lego/index/html">
                 <p>On a réparé l’escalier ! #lego</p>
 
               </a>
@@ -295,7 +297,7 @@
             <img src="70821842_186122515883100_5672236529918251469_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/13/woody-et-buzz-toystory-legostore.html">
+              <a class="post-link" href="/2019/10/13/woody-et-buzz-toystory-legostore/index/html">
                 <p>Woody et Buzz #toystory #legostore</p>
 
               </a>
@@ -310,7 +312,7 @@
             <img src="lego-store-lego-legostore-london.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/02/08/lego-store-lego-legostore-london.html">
+              <a class="post-link" href="/2018/02/08/lego-store-lego-legostore-london/index/html">
                 <p>Lego store ! #lego #legostore #london</p>
 
               </a>
@@ -325,7 +327,7 @@
             <img src="je-vous-ai-dit-qu’on-a-ete-visite-notre-dame-notredame-notredamedeparis-nanoblock-lego-paris.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/09/02/je-vous-ai-dit-quon-a-ete-visite-notre-dame-notredame-notredamedeparis-nanoblock-lego-paris.html">
+              <a class="post-link" href="/2017/09/02/je-vous-ai-dit-quon-a-ete-visite-notre-dame-notredame-notredamedeparis-nanoblock-lego-paris/index/html">
                 <p>Je vous ai dit qu’on a été visité Notre Dame ? #NotreDame #nanoblock #lego #paris</p>
 
               </a>
@@ -340,7 +342,7 @@
             <img src="minifigures-lego.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/12/14/minifigures-lego.html">
+              <a class="post-link" href="/2016/12/14/minifigures-lego/index/html">
                 <p>Minifigures #lego</p>
 
               </a>
@@ -353,7 +355,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/MDP_LEGO_Affiche_WEB.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/12/14/construire-paris-de-brique-en-brique.html">
+              <a class="post-link" href="/2016/12/14/construire-paris-de-brique-en-brique/index/html">
                 <p>Construire Paris de brique en brique</p>
 
               </a>
@@ -368,7 +370,7 @@
             <img src="pokemon-lego-paris-villette-pokemon-lego-pokemongo-littlevilette.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/09/11/pokemon-lego-paris-villette-pokemon-lego-pokemongo-littlevilette.html">
+              <a class="post-link" href="/2016/09/11/pokemon-lego-paris-villette-pokemon-lego-pokemongo-littlevilette/index/html">
                 <p>Pokémon (le)go #paris #Villette #Pokémon #lego #pokemongo #littlevilette</p>
 
               </a>
@@ -383,7 +385,7 @@
             <img src="apres-midi-lego-a-little-villette.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/09/11/apres-midi-lego-a-little-villette.html">
+              <a class="post-link" href="/2016/09/11/apres-midi-lego-a-little-villette/index/html">
                 <p>Après-midi #Lego à Little Villette :)</p>
 
               </a>
@@ -396,7 +398,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_5402.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2016/04/06/un-lego-store-sous-la-canopee.html">
+              <a class="post-link" href="/2016/04/06/un-lego-store-sous-la-canopee/index/html">
                 <p>Un <span lang="en">Lego Store</span> sous la Canopée</p>
 
               </a>
@@ -411,7 +413,7 @@
             <img src="Ouverture-du-Lego-Store-au-Forum-des-Halles-Brique-974-sur-3000.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/04/06/ouverture-du-lego-store-au-forum-des-halles-brique-974-sur-3000.html">
+              <a class="post-link" href="/2016/04/06/ouverture-du-lego-store-au-forum-des-halles-brique-974-sur-3000/index/html">
                 <p>Ouverture du #Lego Store au Forum des Halles ! Brique 974 sur 3000 :)</p>
 
               </a>
@@ -426,7 +428,7 @@
             <img src="Les-cloches-mont-amene-des-moules-a-chocolats-en-Lego-happyeaster-joyeusespaques.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2016/03/27/les-cloches-mont-amene-des-moules-a-chocolats-en-lego-happyeaster-joyeusespaques.html">
+              <a class="post-link" href="/2016/03/27/les-cloches-mont-amene-des-moules-a-chocolats-en-lego-happyeaster-joyeusespaques/index/html">
                 <p>Les cloches m’ont amené des moules à chocolats en #Lego :) #happyeaster #joyeusespâques</p>
 
               </a>
@@ -441,7 +443,7 @@
             <img src="Jaime-trop-mon-cadeau-de-Noel-lego-DrWho.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2015/12/30/jaime-trop-mon-cadeau-de-noel-lego-drwho.html">
+              <a class="post-link" href="/2015/12/30/jaime-trop-mon-cadeau-de-noel-lego-drwho/index/html">
                 <p>J’aime trop mon cadeau de Noël :) #lego #DrWho</p>
 
               </a>
@@ -454,7 +456,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_45713.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2015/05/23/mon-raspberry-shabille-classic.html">
+              <a class="post-link" href="/2015/05/23/mon-raspberry-shabille-classic/index/html">
                 <p>Mon Raspberry s’habille « Classic »</p>
 
               </a>
@@ -534,11 +536,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

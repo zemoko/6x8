@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/50811372_430218504389821_4256375626173710112_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/02/15/un-apres-midi-luge-pour-nous-remettre-de-notre-chouette-semaine-de-ski-%EF%B8%8F-chatel.html">
+              <a class="post-link" href="/2019/02/15/un-apres-midi-luge-pour-nous-remettre-de-notre-chouette-semaine-de-ski-%EF%B8%8F-chatel/index/html">
                 <p>Un après-midi luge pour nous remettre de notre (chouette) semaine de ski  ️ #chatel</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/51117065_383725809148313_901261275269859064_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/02/14/en-revenant-de-la-barbossine-chatel.html">
+              <a class="post-link" href="/2019/02/14/en-revenant-de-la-barbossine-chatel/index/html">
                 <p>En revenant de la Barbossine #chatel</p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/50601803_563551544113522_2615612744622391571_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/02/13/le-bec-du-corbeau-chatel.html">
+              <a class="post-link" href="/2019/02/13/le-bec-du-corbeau-chatel/index/html">
                 <p>Le bec du corbeau 🖤 #chatel</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/50590555_1975033696139262_858444522345748196_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/02/13/ahhh-chatel.html">
+              <a class="post-link" href="/2019/02/13/ahhh-chatel/index/html">
                 <p>Ahhh #Chatel 😎</p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/50606727_774496816252887_1154459679430360805_n.webp" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/02/11/retour-a-chatel_officiel.html">
+              <a class="post-link" href="/2019/02/11/retour-a-chatel_officiel/index/html">
                 <p>Retour à @chatel_officiel</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/10130153-e1548966227498.gif" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/31/ma-critique-de-serotonine-de-michel-houellebecq.html">
+              <a class="post-link" href="/2019/01/31/ma-critique-de-serotonine-de-michel-houellebecq/index/html">
                 <p>Ma critique de « Sérotonine » de Michel Houellebecq</p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/49800453_630265657389080_1495415313282878138_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/28/il-est-reviendu-pa_657-spaceinvader-invader-streetart-paris.html">
+              <a class="post-link" href="/2019/01/28/il-est-reviendu-pa_657-spaceinvader-invader-streetart-paris/index/html">
                 <p>PA_657 : il est reviendu !  #spaceinvader #streetart #paris</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/49756226_2312636092349858_2394987183527656986_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/27/playmobil.html">
+              <a class="post-link" href="/2019/01/27/playmobil/index/html">
                 <p>Playmobil</p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/49907466_315527349072744_4812898134188563819_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/23/prologue-et-janvier-done-pandemy-pandemylegacy.html">
+              <a class="post-link" href="/2019/01/23/prologue-et-janvier-done-pandemy-pandemylegacy/index/html">
                 <p>Prologue et Janvier : Done  #pandemy #pandemylegacy</p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/50068008_2223124481283499_8796968167034481640_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/20/au-champ-du-feu-%EF%B8%8F.html">
+              <a class="post-link" href="/2019/01/20/au-champ-du-feu-%EF%B8%8F/index/html">
                 <p>Au champ du feu ️</p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/51AJASdBSYL._SX323_BO1204203200_.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/15/ma-critique-de-fire-blood-de-george-r-r-martin.html">
+              <a class="post-link" href="/2019/01/15/ma-critique-de-fire-blood-de-george-r-r-martin/index/html">
                 <p>Ma critique de « Fire &amp; Blood » de George R.R. Martin</p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/49687077_1977581472548380_8437070969301274679_n.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/01/13/heureusement-que-romane-ma-aide-a-faire-le-gateau-de-samuel-hum-bonanniversaire-9ans.html">
+              <a class="post-link" href="/2019/01/13/heureusement-que-romane-ma-aide-a-faire-le-gateau-de-samuel-hum-bonanniversaire-9ans/index/html">
                 <p>Heureusement que Romane m’a aidé à faire le gâteau de Samuel #hum #bonanniversaire #9ans</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

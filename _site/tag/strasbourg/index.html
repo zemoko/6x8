@@ -228,20 +228,22 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home"><h1 class="page-heading">Tag&nbsp;: strasbourg</h1>
   
   <ul class="post-list grid">
@@ -250,7 +252,7 @@
             <img src="2021-10-10-encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/10/10/encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.html">
+              <a class="post-link" href="/2021/10/10/encore-des-cigognes-by-stork-pixelart-strasbourg-makerland/index/html">
                 <p>Encore des cigognes ! By @stork_pixelart #strasbourg #makerland</p>
 
               </a>
@@ -265,7 +267,7 @@
             <img src="2021-06-12-l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/06/12/l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique.html">
+              <a class="post-link" href="/2021/06/12/l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique/index/html">
                 <p>L’industrie Magnifique… suite et final en beauté ! #strasbourg #industriemagnifique</p>
 
               </a>
@@ -280,7 +282,7 @@
             <img src="2021-06-06-l-industrie-magnifique-industriemagnifique-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/06/06/l-industrie-magnifique-industriemagnifique-strasbourg.html">
+              <a class="post-link" href="/2021/06/06/l-industrie-magnifique-industriemagnifique-strasbourg/index/html">
                 <p>L’industrie magnifique #industriemagnifique #strasbourg</p>
 
               </a>
@@ -295,7 +297,7 @@
             <img src="174556793_486402702715100_4931696047763477515_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart.html">
+              <a class="post-link" href="/2021/04/16/tiens-une-alsacienne-streetart-strasbourg-by-stork_pixelart/index/html">
                 <p>Tiens, une alsacienne ! #streetart #strasbourg by @stork_pixelart</p>
 
               </a>
@@ -308,7 +310,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_6704-scaled-e1618503891479.jpeg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/15/lomoinstant-automat-x-parc-de-pourtales.html">
+              <a class="post-link" href="/2021/04/15/lomoinstant-automat-x-parc-de-pourtales/index/html">
                 <p>Lomo’Instant Automat x Parc de Pourtalès</p>
 
               </a>
@@ -323,7 +325,7 @@
             <img src="175024137_872882903560552_8810318033791077814_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2021/04/15/il-ny-a-pas-que-les-murs-qui-ont-des-oreilles-parcdepourtales-strasbourg.html">
+              <a class="post-link" href="/2021/04/15/il-ny-a-pas-que-les-murs-qui-ont-des-oreilles-parcdepourtales-strasbourg/index/html">
                 <p>Il n’y a pas que les murs qui ont des oreilles… #parcdepourtales #strasbourg</p>
 
               </a>
@@ -338,7 +340,7 @@
             <img src="131049514_217462239992118_8101310738961333745_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/12/19/strasbourg-capitale-de-noel.html">
+              <a class="post-link" href="/2020/12/19/strasbourg-capitale-de-noel/index/html">
                 <p>Strasbourg, Capitale de Noël</p>
 
               </a>
@@ -353,7 +355,7 @@
             <img src="131342735_182215003623289_4312844645548425624_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/12/16/sourire-en-coin-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/12/16/sourire-en-coin-streetart-strasbourg/index/html">
                 <p>Sourire en coin #streetart #strasbourg</p>
 
               </a>
@@ -368,7 +370,7 @@
             <img src="122816574_368180504231064_7036902056763616098_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/10/25/hep-by-stork_pixelart-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/10/25/hep-by-stork_pixelart-strasbourg-streetart/index/html">
                 <p>Hep by @stork_pixelart #strasbourg #streetart</p>
 
               </a>
@@ -383,7 +385,7 @@
             <img src="121016402_237203394404322_1627514373724811783_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/10/07/eglise-saint-pierre-le-jeune-strasbourg.html">
+              <a class="post-link" href="/2020/10/07/eglise-saint-pierre-le-jeune-strasbourg/index/html">
                 <p>Église Saint-Pierre-le-Jeune #strasbourg</p>
 
               </a>
@@ -398,7 +400,7 @@
             <img src="120844364_370281607490093_7892448175592103183_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/10/07/cest-la-classe-non-demos-strasbourg.html">
+              <a class="post-link" href="/2020/10/07/cest-la-classe-non-demos-strasbourg/index/html">
                 <p>C’est la classe, non ? #demos #strasbourg</p>
 
               </a>
@@ -413,7 +415,7 @@
             <img src="119656782_326785998533559_6064687591069766913_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/09/19/stork-schiltigheim-stork_pixelart-streetart.html">
+              <a class="post-link" href="/2020/09/19/stork-schiltigheim-stork_pixelart-streetart/index/html">
                 <p>Stork @ Schiltigheim @stork_pixelart #streetart</p>
 
               </a>
@@ -428,7 +430,7 @@
             <img src="118210852_200806931467864_6746229688978839489_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/08/29/hopital-civil-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/08/29/hopital-civil-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Hôpital (civil) by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -443,7 +445,7 @@
             <img src="110989135_4115945865147234_7269222823582300537_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/07/22/encore-une-cigogne-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/07/22/encore-une-cigogne-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Encore une ! #cigogne by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -458,7 +460,7 @@
             <img src="106058559_3215038981918910_5684007830728630933_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/06/25/tiens-une-cigogne-passe-sous-le-pont-strasbourg-streetart-by-stork_pixelart.html">
+              <a class="post-link" href="/2020/06/25/tiens-une-cigogne-passe-sous-le-pont-strasbourg-streetart-by-stork_pixelart/index/html">
                 <p>Tiens, une cigogne passe sous le pont #Strasbourg #streetart by @stork_pixelart</p>
 
               </a>
@@ -473,7 +475,7 @@
             <img src="93810743_2575554119385671_4060348701410178590_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/04/20/gare-confinee.html">
+              <a class="post-link" href="/2020/04/20/gare-confinee/index/html">
                 <p>Gare confinée</p>
 
               </a>
@@ -488,7 +490,7 @@
             <img src="90263231_2531382833782069_2637839534558052357_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/03/21/ca-va-elle-est-toujours-la-strasbourg.html">
+              <a class="post-link" href="/2020/03/21/ca-va-elle-est-toujours-la-strasbourg/index/html">
                 <p>Ça va, elle est toujours là #Strasbourg</p>
 
               </a>
@@ -503,7 +505,7 @@
             <img src="87643518_3006725389385310_7649813944382557048_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/03/08/lost-in-elsass-by-stork_pixelart-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/03/08/lost-in-elsass-by-stork_pixelart-streetart-strasbourg/index/html">
                 <p>Lost in Elsass by @stork_pixelart #streetart #strasbourg</p>
 
               </a>
@@ -518,7 +520,7 @@
             <img src="82703281_102302964631661_1155308037541241913_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/02/05/quai-au-sable-by-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/02/05/quai-au-sable-by-stork7567-strasbourg-streetart/index/html">
                 <p>Quai au sable by @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -533,7 +535,7 @@
             <img src="84155251_465192231034709_7882236284700795180_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/02/05/2020-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/02/05/2020-by-stork7567-streetart-strasbourg/index/html">
                 <p>2020 by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -548,7 +550,7 @@
             <img src="81913246_823704041437204_6603877452199854343_n-1.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/31/premiere-soiree-au-maillon-theatre-strasbourg-2.html">
+              <a class="post-link" href="/2020/01/31/premiere-soiree-au-maillon-theatre-strasbourg-2/index/html">
                 <p>Première soirée au Maillon #theatre #strasbourg</p>
 
               </a>
@@ -563,7 +565,7 @@
             <img src="82185374_484366672514799_8111817013755208160_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/29/strasburg-isch-bombisch.html">
+              <a class="post-link" href="/2020/01/29/strasburg-isch-bombisch/index/html">
                 <p>Strasburg isch bombisch</p>
 
               </a>
@@ -578,7 +580,7 @@
             <img src="82470893_553638035228687_857294972088007696_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/29/italie-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2020/01/29/italie-by-stork7567-streetart-strasbourg/index/html">
                 <p>Italie  by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -593,7 +595,7 @@
             <img src="81156909_2440934036224647_3701381703893341701_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2020/01/03/stork-au-parlement-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2020/01/03/stork-au-parlement-stork7567-strasbourg-streetart/index/html">
                 <p>Stork au Parlement @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -608,7 +610,7 @@
             <img src="75562941_179420369874202_5931597134647044369_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/et-encore-une-a-la-cite-de-la-musique-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/et-encore-une-a-la-cite-de-la-musique-stork7567-streetart-strasbourg/index/html">
                 <p>Et encore une, à la cité de la musique ! @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -623,7 +625,7 @@
             <img src="80373255_2631407836940946_7409428737243088235_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/et-de-trois-sangoku-streetart-by-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/et-de-trois-sangoku-streetart-by-stork7567-strasbourg/index/html">
                 <p>Et de trois ! #sangoku #streetart by @stork7567 #strasbourg</p>
 
               </a>
@@ -638,7 +640,7 @@
             <img src="79228464_583842632175995_2899462543704538230_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/18/encore-une-cigogne-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/12/18/encore-une-cigogne-by-stork7567-streetart-strasbourg/index/html">
                 <p>Encore une cigogne by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -653,7 +655,7 @@
             <img src="72161656_614596215746044_2317947191075694105_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/11/en-passant-strasbourg.html">
+              <a class="post-link" href="/2019/12/11/en-passant-strasbourg/index/html">
                 <p>En passant… #strasbourg</p>
 
               </a>
@@ -668,7 +670,7 @@
             <img src="78779507_688692141655135_2969802103298861176_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/12/04/en-rentrant.html">
+              <a class="post-link" href="/2019/12/04/en-rentrant/index/html">
                 <p>En rentrant… #strasbourg</p>
 
               </a>
@@ -683,7 +685,7 @@
             <img src="72953740_969691173430321_108880143202172057_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/11/24/cest-reparti-strasbourg-marchedenoel-marchedenoelstrasbourg-capitaledenoel.html">
+              <a class="post-link" href="/2019/11/24/cest-reparti-strasbourg-marchedenoel-marchedenoelstrasbourg-capitaledenoel/index/html">
                 <p>C’est reparti ! #strasbourg #marchedenoel #marchedenoelstrasbourg #capitaledenoel</p>
 
               </a>
@@ -698,7 +700,7 @@
             <img src="75571749_147968673155386_5327241246748844474_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/11/13/girl-and-balloon-hommage-a-banksy-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/11/13/girl-and-balloon-hommage-a-banksy-by-stork7567-streetart-strasbourg/index/html">
                 <p>Girl and balloon, hommage à Banksy by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -711,7 +713,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/collage.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork.html">
+              <a class="post-link" href="/2019/11/04/a-la-chasse-au-stork/index/html">
                 <p>À la chasse au Stork</p>
 
               </a>
@@ -726,7 +728,7 @@
             <img src="71870908_530088767558860_5892053874185258890_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/10/place-du-marche-au-poisson-strasbourg-streetart-by-stork7567.html">
+              <a class="post-link" href="/2019/10/10/place-du-marche-au-poisson-strasbourg-streetart-by-stork7567/index/html">
                 <p>Place du marché au poisson #strasbourg #streetart by @stork7567</p>
 
               </a>
@@ -741,7 +743,7 @@
             <img src="71234729_976513089348706_184540916826711371_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/10/02/la-lanterne-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/10/02/la-lanterne-by-stork7567-streetart-strasbourg/index/html">
                 <p>La lanterne by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -756,7 +758,7 @@
             <img src="71029908_2401462526768362_7854265698785378347_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/09/30/what-a-view-strasbourg.html">
+              <a class="post-link" href="/2019/09/30/what-a-view-strasbourg/index/html">
                 <p>What a view! #strasbourg</p>
 
               </a>
@@ -771,7 +773,7 @@
             <img src="69267039_384685505772977_7731745057855702170_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/09/24/bonjour-wacken-2-demenagement-euro-information-creditmutuel.html">
+              <a class="post-link" href="/2019/09/24/bonjour-wacken-2-demenagement-euro-information-creditmutuel/index/html">
                 <p>Bonjour Wacken 2 ! #déménagement</p>
 
               </a>
@@ -786,7 +788,7 @@
             <img src="69271563_368445157393001_2703218159290229705_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/09/19/place-des-orphelins-cigogne-streetart-strasbourg-stork7567.html">
+              <a class="post-link" href="/2019/09/19/place-des-orphelins-cigogne-streetart-strasbourg-stork7567/index/html">
                 <p>Place des orphelins #cigogne #streetart #strasbourg @stork7567</p>
 
               </a>
@@ -801,7 +803,7 @@
             <img src="67738708_117656726018490_2852214144404164449_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/09/04/en-haut-de-la-cathedrale-strasbourg.html">
+              <a class="post-link" href="/2019/09/04/en-haut-de-la-cathedrale-strasbourg/index/html">
                 <p>En haut de la Cathédrale #strasbourg</p>
 
               </a>
@@ -816,7 +818,7 @@
             <img src="69807076_192636408433806_7914540101871050547_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/29/de-lart-au-street-art-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/29/de-lart-au-street-art-by-stork7567-streetart-strasbourg/index/html">
                 <p>De l’art au street art by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -831,7 +833,7 @@
             <img src="66823908_1859231620888335_1258015999417546279_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/20/usa-grece-angleterre-ces-cigognes-sont-globe-trotters-streetart-by-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/08/20/usa-grece-angleterre-ces-cigognes-sont-globe-trotters-streetart-by-stork7567-strasbourg/index/html">
                 <p><abbr>USA</abbr>, Grèce, Angleterre… ces cigognes sont globe-trotters ! #streetart by @stork7567 #strasbourg</p>
 
               </a>
@@ -846,7 +848,7 @@
             <img src="66944340_155000812277784_5174681202721460682_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/17/oh-des-cigognes-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/17/oh-des-cigognes-by-stork7567-streetart-strasbourg/index/html">
                 <p>Oh, des cigognes ! by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -861,7 +863,7 @@
             <img src="66304626_2439347306126657_5462203439568469669_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/14/ce-spiderman-by-stork7567-me-dit-vaguement-quelque-chose-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/14/ce-spiderman-by-stork7567-me-dit-vaguement-quelque-chose-streetart-strasbourg/index/html">
                 <p>Ce #Spiderman (by @stork7567) me dit vaguement quelque chose… #streetart #strasbourg</p>
 
               </a>
@@ -876,7 +878,7 @@
             <img src="67568747_127892448473789_6654739684311271373_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/10/hannetons-by-stork7567-strasbourg-streetart.html">
+              <a class="post-link" href="/2019/08/10/hannetons-by-stork7567-strasbourg-streetart/index/html">
                 <p>Hannetons by @stork7567 #strasbourg #streetart</p>
 
               </a>
@@ -891,7 +893,7 @@
             <img src="66363143_153385329098543_390724314002078107_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/10/farse-strasbourg.html">
+              <a class="post-link" href="/2019/08/10/farse-strasbourg/index/html">
                 <p>Farse #strasbourg</p>
 
               </a>
@@ -906,7 +908,7 @@
             <img src="66413664_2386941631558666_4597465839033169871_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/08/09/les-3-brigands-by-stork7567-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/08/09/les-3-brigands-by-stork7567-streetart-strasbourg/index/html">
                 <p>Les 3 brigands by @stork7567 #streetart #strasbourg</p>
 
               </a>
@@ -921,7 +923,7 @@
             <img src="62438873_119591252381130_8602215867203390394_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/11/bouh-cigogne-streetart-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/07/11/bouh-cigogne-streetart-stork7567-strasbourg/index/html">
                 <p>Bouh! #cigogne #streetart #strasbourg</p>
 
               </a>
@@ -936,7 +938,7 @@
             <img src="65445702_103127704276799_8882635331459959926_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/07/10/pac-man-%EF%B8%8F-cigogne-stork7567-strasbourg.html">
+              <a class="post-link" href="/2019/07/10/pac-man-%EF%B8%8F-cigogne-stork7567-strasbourg/index/html">
                 <p>Pac-Man ️ Cigogne @stork7567 #strasbourg</p>
 
               </a>
@@ -951,7 +953,7 @@
             <img src="65419731_613405545838196_1417206759806383138_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/20/invader-%EF%B8%8F-cigogne-stork7567-falseinvader-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/06/20/invader-%EF%B8%8F-cigogne-stork7567-falseinvader-streetart-strasbourg/index/html">
                 <p>Invader ️ Cigogne @stork7567 #falseinvader #streetart #strasbourg</p>
 
               </a>
@@ -966,7 +968,7 @@
             <img src="61703014_208328696804171_7477260946124116910_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/15/cigogne-by-stork7567-falseinvader-streetart-strasbourg.html">
+              <a class="post-link" href="/2019/06/15/cigogne-by-stork7567-falseinvader-streetart-strasbourg/index/html">
                 <p>Cigogne by @stork7567 #falseinvader #streetart #strasbourg</p>
 
               </a>
@@ -981,7 +983,7 @@
             <img src="61610141_222128622079237_4273242854529077002_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/06/05/cigogne-invader-stork7567-streetart-strasbourg-laiterie-invader-spaceinvader-falseinvader.html">
+              <a class="post-link" href="/2019/06/05/cigogne-invader-stork7567-streetart-strasbourg-laiterie-invader-spaceinvader-falseinvader/index/html">
                 <p>Cigogne Invader by #stork7567 #streetart #strasbourg #laiterie #spaceinvader #falseinvader</p>
 
               </a>
@@ -996,7 +998,7 @@
             <img src="61080992_883172952021715_7240147075238498229_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/05/23/le-philibar-de-philibertjeux-strasbourg-jeuxdesociete-boardgames.html">
+              <a class="post-link" href="/2019/05/23/le-philibar-de-philibertjeux-strasbourg-jeuxdesociete-boardgames/index/html">
                 <p>Le Philibar de @philibertjeux #strasbourg #jeuxdesociete #boardgames</p>
 
               </a>
@@ -1009,7 +1011,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/IMG_1589.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2019/05/07/ici-prochainement-visite-de-strasbourg-en-tyrannosaure.html">
+              <a class="post-link" href="/2019/05/07/ici-prochainement-visite-de-strasbourg-en-tyrannosaure/index/html">
                 <p>Ici, prochainement, visite de Strasbourg en Tyrannosaure</p>
 
               </a>
@@ -1024,7 +1026,7 @@
             <img src="58409479_442332446527164_5658827391427678167_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/05/05/portes-ouvertes-au-conseil-de-leurope.html">
+              <a class="post-link" href="/2019/05/05/portes-ouvertes-au-conseil-de-leurope/index/html">
                 <p>Portes ouvertes au Conseil de l’Europe</p>
 
               </a>
@@ -1039,7 +1041,7 @@
             <img src="56997690_334027307254647_8873459679463804047_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/04/27/une-anamorphose-strasbourg-levaisseau.html">
+              <a class="post-link" href="/2019/04/27/une-anamorphose-strasbourg-levaisseau/index/html">
                 <p>Une anamorphose #Strasbourg #levaisseau</p>
 
               </a>
@@ -1054,7 +1056,7 @@
             <img src="50851599_426822888080356_6538135896823089516_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/03/20/anatomie-dune-hache-lescognees-strasbourg.html">
+              <a class="post-link" href="/2019/03/20/anatomie-dune-hache-lescognees-strasbourg/index/html">
                 <p>Anatomie d’une hache #lescognees #strasbourg</p>
 
               </a>
@@ -1069,7 +1071,7 @@
             <img src="54266427_1084064521778774_1494976549555827448_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/03/20/3-points-au-lancer-de-hache.html">
+              <a class="post-link" href="/2019/03/20/3-points-au-lancer-de-hache/index/html">
                 <p>3 points au lancer de hache</p>
 
               </a>
@@ -1084,7 +1086,7 @@
             <img src="53416965_392555328197266_4666543098296525103_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/03/17/chemin-du-marais-saint-gall-strasbourg.html">
+              <a class="post-link" href="/2019/03/17/chemin-du-marais-saint-gall-strasbourg/index/html">
                 <p>Chemin du marais Saint-Gall #strasbourg</p>
 
               </a>
@@ -1099,7 +1101,7 @@
             <img src="52498846_125183188564512_2494250499928768503_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/03/10/le-tour-de-la-grande-ile-en-batorama-strasbourg.html">
+              <a class="post-link" href="/2019/03/10/le-tour-de-la-grande-ile-en-batorama-strasbourg/index/html">
                 <p>Le tour de la Grande île en batorama #Strasbourg</p>
 
               </a>
@@ -1114,7 +1116,7 @@
             <img src="51562266_979894068886557_323582331153946498_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2019/02/21/alien-brain-alchimiste.html">
+              <a class="post-link" href="/2019/02/21/alien-brain-alchimiste/index/html">
                 <p>Alien Brain #Alchimiste</p>
 
               </a>
@@ -1129,7 +1131,7 @@
             <img src="47118350_345434466249686_8022427883799533425_n.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/12/08/le-grand-sapin-strasbourg-noel-christmas.html">
+              <a class="post-link" href="/2018/12/08/le-grand-sapin-strasbourg-noel-christmas/index/html">
                 <p>Le GRAND sapin #Strasbourg #Noel #Christmas</p>
 
               </a>
@@ -1144,7 +1146,7 @@
             <img src="a-la-binchstub-miam-flammenkuchen-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/12/05/a-la-binchstub-miam-flammenkuchen-strasbourg.html">
+              <a class="post-link" href="/2018/12/05/a-la-binchstub-miam-flammenkuchen-strasbourg/index/html">
                 <p>À la Binchstub #miam #flammenkuchen #strasbourg</p>
 
               </a>
@@ -1159,7 +1161,7 @@
             <img src="premiere-flambee-poeledemasse-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/10/30/premiere-flambee-poeledemasse-strasbourg.html">
+              <a class="post-link" href="/2018/10/30/premiere-flambee-poeledemasse-strasbourg/index/html">
                 <p>Première flambée #poeledemasse #strasbourg</p>
 
               </a>
@@ -1174,7 +1176,7 @@
             <img src="chateau-vodoo-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/10/17/chateau-vodoo-strasbourg.html">
+              <a class="post-link" href="/2018/10/17/chateau-vodoo-strasbourg/index/html">
                 <p>Château Vodoo #strasbourg</p>
 
               </a>
@@ -1189,7 +1191,7 @@
             <img src="cimetiere-juif-de-koenigshoffen.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/10/14/cimetiere-juif-de-koenigshoffen.html">
+              <a class="post-link" href="/2018/10/14/cimetiere-juif-de-koenigshoffen/index/html">
                 <p>Cimetiere juif de Koenigshoffen</p>
 
               </a>
@@ -1204,7 +1206,7 @@
             <img src="non-rien-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/10/13/non-rien-strasbourg.html">
+              <a class="post-link" href="/2018/10/13/non-rien-strasbourg/index/html">
                 <p>Non rien #Strasbourg</p>
 
               </a>
@@ -1219,7 +1221,7 @@
             <img src="bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/10/10/bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg.html">
+              <a class="post-link" href="/2018/10/10/bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg/index/html">
                 <p>Bollée : fonderie de cloches et carillons depuis 1715  #strasbourg</p>
 
               </a>
@@ -1234,7 +1236,7 @@
             <img src="en-balade...-cathedrale-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/09/29/en-balade-cathedrale-strasbourg.html">
+              <a class="post-link" href="/2018/09/29/en-balade-cathedrale-strasbourg/index/html">
                 <p>En balade… #cathedrale #strasbourg</p>
 
               </a>
@@ -1249,7 +1251,7 @@
             <img src="leaving-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/07/31/leaving-strasbourg.html">
+              <a class="post-link" href="/2018/07/31/leaving-strasbourg/index/html">
                 <p>Leaving #Strasbourg</p>
 
               </a>
@@ -1264,7 +1266,7 @@
             <img src="a-room-with-a-view-boma-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/07/02/a-room-with-a-view-boma-strasbourg-2.html">
+              <a class="post-link" href="/2018/07/02/a-room-with-a-view-boma-strasbourg-2/index/html">
                 <p>A room with a view #boma #strasbourg</p>
 
               </a>
@@ -1279,7 +1281,7 @@
             <img src="a-room-with-a-view-boma-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/06/04/a-room-with-a-view-boma-strasbourg.html">
+              <a class="post-link" href="/2018/06/04/a-room-with-a-view-boma-strasbourg/index/html">
                 <p>A room with a view #boma #strasbourg</p>
 
               </a>
@@ -1294,7 +1296,7 @@
             <img src="rue-frederic-guillaume-raiffeisen-mutualisme-creditmutuel-@mutuelcredit.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/06/01/rue-frederic-guillaume-raiffeisen-mutualisme-creditmutuel-mutuelcredit.html">
+              <a class="post-link" href="/2018/06/01/rue-frederic-guillaume-raiffeisen-mutualisme-creditmutuel-mutuelcredit/index/html">
                 <p>Rue Frédéric-Guillaume Raiffeisen #mutualisme #creditmutuel @mutuelcredit</p>
 
               </a>
@@ -1309,7 +1311,7 @@
             <img src="boma.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/31/boma.html">
+              <a class="post-link" href="/2018/05/31/boma/index/html">
                 <p>Boma</p>
 
               </a>
@@ -1324,7 +1326,7 @@
             <img src="rayonnements-festival-industriemagnifique-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/02/rayonnements-festival-industriemagnifique-strasbourg.html">
+              <a class="post-link" href="/2018/05/02/rayonnements-festival-industriemagnifique-strasbourg/index/html">
                 <p>Rayonnements #festival #industriemagnifique #strasbourg</p>
 
               </a>
@@ -1337,7 +1339,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/mammuthus-volantes-festival-industriemagnifique-strasbourg-1.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/02/mammuthus-volantes-festival-industriemagnifique-strasbourg.html">
+              <a class="post-link" href="/2018/05/02/mammuthus-volantes-festival-industriemagnifique-strasbourg/index/html">
                 <p>Mammuthus Volantes #festival #industriemagnifique #strasbourg</p>
 
               </a>
@@ -1350,7 +1352,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/mammuthus-volantes-festival-industriemagnifique-strasbourg.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/05/02/mammuthus-volantes-festival-industriemagnifique-strasbourg-2.html">
+              <a class="post-link" href="/2018/05/02/mammuthus-volantes-festival-industriemagnifique-strasbourg-2/index/html">
                 <p>Mammuthus Volantes #festival #industriemagnifique #strasbourg</p>
 
               </a>
@@ -1365,7 +1367,7 @@
             <img src="week-end-a-strasbourg-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/03/23/week-end-a-strasbourg-strasbourg.html">
+              <a class="post-link" href="/2018/03/23/week-end-a-strasbourg-strasbourg/index/html">
                 <p>Week-end à Strasbourg #strasbourg</p>
 
               </a>
@@ -1380,7 +1382,7 @@
             <img src="bonjour-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/03/15/bonjour-strasbourg-2.html">
+              <a class="post-link" href="/2018/03/15/bonjour-strasbourg-2/index/html">
                 <p>Bonjour #Strasbourg</p>
 
               </a>
@@ -1395,7 +1397,7 @@
             <img src="de-l’autre-cote-de-la-frontiere-strasbourg-kehl-playmobil.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/03/11/de-lautre-cote-de-la-frontiere-strasbourg-kehl-playmobil.html">
+              <a class="post-link" href="/2018/03/11/de-lautre-cote-de-la-frontiere-strasbourg-kehl-playmobil/index/html">
                 <p>De l’autre côté de la frontière #strasbourg #Kehl #Playmobil</p>
 
               </a>
@@ -1410,7 +1412,7 @@
             <img src="oh-un-ours-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/03/09/oh-un-ours-strasbourg.html">
+              <a class="post-link" href="/2018/03/09/oh-un-ours-strasbourg/index/html">
                 <p>Oh, un ours #Strasbourg</p>
 
               </a>
@@ -1423,7 +1425,7 @@
       <li class="grid-item">
         <div class="card "><figure><img src="/images/on-my-way-strasbourg-metz-thionville-paris-train" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2018/03/02/on-my-way-strasbourg-metz-thionville-paris-train.html">
+              <a class="post-link" href="/2018/03/02/on-my-way-strasbourg-metz-thionville-paris-train/index/html">
                 <p>On my way #Strasbourg #Metz #Thionville #Paris #Train</p>
 
               </a>
@@ -1438,7 +1440,7 @@
             <img src="paris-thionville-frisange-luxembourg-metz-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2018/02/14/paris-thionville-frisange-luxembourg-metz-strasbourg.html">
+              <a class="post-link" href="/2018/02/14/paris-thionville-frisange-luxembourg-metz-strasbourg/index/html">
                 <p>Paris &gt; Thionville &gt; Frisange &gt; Luxembourg &gt; Metz &gt; Strasbourg</p>
 
               </a>
@@ -1453,7 +1455,7 @@
             <img src="derniere-visite-avant-2018-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/12/20/derniere-visite-avant-2018-strasbourg.html">
+              <a class="post-link" href="/2017/12/20/derniere-visite-avant-2018-strasbourg/index/html">
                 <p>Dernière visite avant 2018 #Strasbourg</p>
 
               </a>
@@ -1468,7 +1470,7 @@
             <img src="un-false-invader-a-strasbourg-streetart-spaceinvader-falseinvader.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/12/06/un-false-invader-a-strasbourg-streetart-spaceinvader-falseinvader.html">
+              <a class="post-link" href="/2017/12/06/un-false-invader-a-strasbourg-streetart-spaceinvader-falseinvader/index/html">
                 <p>Un false invader à Strasbourg ! #streetart #spaceinvader #falseinvader</p>
 
               </a>
@@ -1483,7 +1485,7 @@
             <img src="to-the-east-at-314-kmh-ice-train-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/10/12/to-the-east-at-314-kmh-ice-train-strasbourg.html">
+              <a class="post-link" href="/2017/10/12/to-the-east-at-314-kmh-ice-train-strasbourg/index/html">
                 <p>To the east! (at 314 km/h) #ice #train #strasbourg</p>
 
               </a>
@@ -1498,7 +1500,7 @@
             <img src="il-est-pas-beau-mon-telephone-dans-ma-chambre-d’hotel-boma-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/10/12/il-est-pas-beau-mon-telephone-dans-ma-chambre-dhotel-boma-strasbourg.html">
+              <a class="post-link" href="/2017/10/12/il-est-pas-beau-mon-telephone-dans-ma-chambre-dhotel-boma-strasbourg/index/html">
                 <p>Il est pas beau mon téléphone dans ma chambre d’hôtel ?  #Boma #Strasbourg</p>
 
               </a>
@@ -1513,7 +1515,7 @@
             <img src="les-3-brigands-strasbourg.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/10/01/les-3-brigands-strasbourg.html">
+              <a class="post-link" href="/2017/10/01/les-3-brigands-strasbourg/index/html">
                 <p>Les 3 brigands #strasbourg</p>
 
               </a>
@@ -1528,7 +1530,7 @@
             <img src="mouais...-elle-est-pas-mal-cette-ville-quand-meme.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/09/28/mouais-elle-est-pas-mal-cette-ville-quand-meme.html">
+              <a class="post-link" href="/2017/09/28/mouais-elle-est-pas-mal-cette-ville-quand-meme/index/html">
                 <p>Mouais… elle est pas mal cette ville quand même :)</p>
 
               </a>
@@ -1543,7 +1545,7 @@
             <img src="retour-a-paname.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/03/02/retour-a-paname.html">
+              <a class="post-link" href="/2017/03/02/retour-a-paname/index/html">
                 <p>Retour à Paname !</p>
 
               </a>
@@ -1558,7 +1560,7 @@
             <img src="bonjour-strasbourg-nd.jpg" alt="" width="360" height="240" />
           </figure><div>
             <h3>
-              <a class="post-link" href="/2017/03/01/bonjour-strasbourg.html">
+              <a class="post-link" href="/2017/03/01/bonjour-strasbourg/index/html">
                 <p>Bonjour Strasbourg</p>
 
               </a>
@@ -1638,11 +1640,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>

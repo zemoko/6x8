@@ -230,26 +230,28 @@
 
 					<li class="search">
 						<button id="search-toggle" aria-label="Recherche"><svg width="24" height="24" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg></button>
-						<div class="header-search">
-							<form role="search">
-								<label>
-									<span class="sr-only">Recherche</span>
-									<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
-								</label>
-								<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
-							</form>
-							<ul id="results-container"></ul>
-						</div>
 					</li>
         			<div class="menu-active">
         		</ul>
 			</nav>
+			<div id="search-bar" class="header-search">
+				<form role="search">
+					<label>
+						<span class="sr-only">Recherche</span>
+						<input type="search" id="search-input" placeholder="Chercher sur le site…" value="">
+					</label>
+					<!--//
+					<button type="submit"><svg width="20" height="20" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m32 29.7243549-2.2756451 2.2756451-8.4782882-8.4782882c-2.2957835 1.7923222-5.1151668 2.7791063-8.0956576 2.7791063-3.50409066 0-6.80679677-1.3694147-9.3039648-3.8464443-2.47702957-2.4770296-3.8464443-5.7797357-3.8464443-9.3039647 0-3.52422911 1.36941473-6.82693522 3.8464443-9.3039648 2.49716803-2.47702957 5.79987414-3.8464443 9.3039648-3.8464443 3.524229 0 6.8269351 1.36941473 9.3039647 3.8464443 2.4971681 2.47702958 3.8665828 5.77973569 3.8665828 9.3039648 0 2.9804908-1.0069226 5.7998741-2.7992448 8.0956576zm-25.89804909-9.5456261c1.89301448 1.8930144 4.39018249 2.9200755 7.04845819 2.9200755 2.6582756 0 5.1554436-1.0270611 7.0484581-2.9200755 1.872876-1.8728761 2.8999371-4.3700441 2.8999371-7.0283197 0-2.6582757-1.0270611-5.15544371-2.8999371-7.04845819-1.8930145-1.87287602-4.3901825-2.89993706-7.0484581-2.89993706-2.6582757 0-5.15544371 1.02706104-7.02831974 2.89993706-1.89301447 1.89301448-2.92007551 4.39018249-2.92007551 7.04845819 0 2.6582756 1.02706104 5.1554436 2.89993706 7.0283197z"></path></svg><span class="sr-only">Valider</span></button>
+					//-->
+				</form>
+				<ul id="results-container" aria-live="polite"></ul>
+			</div>
 	    	<div class="home">
   
   <ul class="post-list grid"><li class="grid-item">
         <div class="card "><figure><img src="/images/apres-la-glace-le-brouillard-villette-paris-parismaville-parisjetaime.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/31/apres-la-glace-le-brouillard-villette-paris-parismaville-parisjetaime.html">
+              <a class="post-link" href="/2017/01/31/apres-la-glace-le-brouillard-villette-paris-parismaville-parisjetaime/index/html">
                 <p>Après la glace, le brouillard #Villette #paris #parismaville #parisjetaime</p>
 
               </a>
@@ -261,7 +263,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/fullsizeoutput_9d87.jpeg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/30/lunii-la-fabrique-a-zolies-histoires.html">
+              <a class="post-link" href="/2017/01/30/lunii-la-fabrique-a-zolies-histoires/index/html">
                 <p>Lunii, la fabrique à (zolies) histoires</p>
 
               </a>
@@ -273,7 +275,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/aujourdhui-on-a-fait-des-boutons-miam.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/29/aujourdhui-on-a-fait-des-boutons-miam.html">
+              <a class="post-link" href="/2017/01/29/aujourdhui-on-a-fait-des-boutons-miam/index/html">
                 <p>Aujourd’hui on a fait des boutons #miam</p>
 
               </a>
@@ -285,7 +287,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/salut-a-toi-1air2familles.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/27/salut-a-toi-1air2familles.html">
+              <a class="post-link" href="/2017/01/27/salut-a-toi-1air2familles/index/html">
                 <p>Salut à toi #1air2familles</p>
 
               </a>
@@ -297,7 +299,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/pa_730-spaceinvader-invader-paris.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/27/pa_730-spaceinvader-invader-paris.html">
+              <a class="post-link" href="/2017/01/27/pa_730-spaceinvader-invader-paris/index/html">
                 <p>PA_730 #spaceinvader #invader #paris</p>
 
               </a>
@@ -309,7 +311,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/mais-croyez-moi-bientot-les-flics-auront-du-boulot-car-tous-les-vagabonds-parlent-de-revolution.-1ai.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/27/mais-croyez-moi-bientot-les-flics-auront-du-boulot-car-tous-les-vagabonds-parlent-de-revolution-1air2familles.html">
+              <a class="post-link" href="/2017/01/27/mais-croyez-moi-bientot-les-flics-auront-du-boulot-car-tous-les-vagabonds-parlent-de-revolution-1air2familles/index/html">
                 <p>Mais croyez-moi, bientôt, les flics auront du boulot, car tous les vagabonds parlent de révolution. #1air2familles</p>
 
               </a>
@@ -321,7 +323,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/1-air-2-familles-ce-netait-pas-assez-alors-ils-ont-invite-la-rue-ket-️️️.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/27/1-air-2-familles-ce-netait-pas-assez-alors-ils-ont-invite-la-rue-ket-%EF%B8%8F%EF%B8%8F%EF%B8%8F.html">
+              <a class="post-link" href="/2017/01/27/1-air-2-familles-ce-netait-pas-assez-alors-ils-ont-invite-la-rue-ket-%EF%B8%8F%EF%B8%8F%EF%B8%8F/index/html">
                 <p>1 air 2 familles, ce n’était pas assez alors ils ont invité La Rue Két’ ️️️</p>
 
               </a>
@@ -333,7 +335,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/51SukFvdfCL._SX195_.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/24/ma-critique-de-lenfant-qui-mesurait-le-monde-de-metin-arditi.html">
+              <a class="post-link" href="/2017/01/24/ma-critique-de-lenfant-qui-mesurait-le-monde-de-metin-arditi/index/html">
                 <p>Ma Critique de « <strong>L’enfant qui mesurait le monde</strong> » de <em>Metin Arditi</em></p>
 
               </a>
@@ -345,7 +347,7 @@
       </li><li class="grid-item">
         <div class="card critique"><figure><img src="/images/product_9782070142316_195x320.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/23/ma-critique-de-le-cas-malaussene-tome-1-ils-mont-menti-de-daniel-pennac.html">
+              <a class="post-link" href="/2017/01/23/ma-critique-de-le-cas-malaussene-tome-1-ils-mont-menti-de-daniel-pennac/index/html">
                 <p>Ma Critique de « <strong>Le cas Malaussène, tome 1 : Ils m’ont menti</strong> » de <em>Daniel Pennac</em></p>
 
               </a>
@@ -357,7 +359,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/cest-officiel-il-fait-froid-️️️-paris-parismaville-parisjetaime-villette.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/23/cest-officiel-il-fait-froid-%EF%B8%8F%EF%B8%8F%EF%B8%8F-paris-parismaville-parisjetaime-villette.html">
+              <a class="post-link" href="/2017/01/23/cest-officiel-il-fait-froid-%EF%B8%8F%EF%B8%8F%EF%B8%8F-paris-parismaville-parisjetaime-villette/index/html">
                 <p>C’est officiel, il fait froid ️️️ #Paris #parismaville #parisjetaime #villette</p>
 
               </a>
@@ -369,7 +371,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/on-est-pares-anniversaire-chevaliers-miam.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/22/on-est-pares-anniversaire-chevaliers-miam.html">
+              <a class="post-link" href="/2017/01/22/on-est-pares-anniversaire-chevaliers-miam/index/html">
                 <p>On est parés ! #anniversaire #chevaliers #miam</p>
 
               </a>
@@ -381,7 +383,7 @@
       </li><li class="grid-item">
         <div class="card "><figure><img src="/images/un-anniversaire-de-chevalier-ca-se-prepare-miam.jpg" alt="" width="360" height="240" /></figure><div>
             <h3>
-              <a class="post-link" href="/2017/01/21/un-anniversaire-de-chevalier-ca-se-prepare-miam.html">
+              <a class="post-link" href="/2017/01/21/un-anniversaire-de-chevalier-ca-se-prepare-miam/index/html">
                 <p>Un anniversaire de chevalier, ça se prépare ! #miam</p>
 
               </a>
@@ -470,11 +472,17 @@ document.addEventListener('load', function () {
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '/search.json'
+	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
+	json: '/search.json',
+	noResultsText: 'Pas de résultats, désolé'
 })
 
 document.getElementById('search-toggle').onclick = function() {
-   document.getElementById('search-input').focus();
+	document.getElementById('search-toggle').classList.toggle('active');
+	document.getElementById('search-bar').classList.toggle('active');
+	if (document.getElementById('search-bar').classList.contains('active')) {
+		document.getElementById('search-input').focus();
+	}
 };
 </script>
 		</div>
