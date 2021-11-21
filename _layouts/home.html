@@ -1,0 +1,119 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+  
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list grid">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      <li class="grid-item">
+        <div class="card {% if post.tags contains 'critique' %}critique{% endif %}">
+        {%- if post.coverImage -%}
+          <figure>
+            {%- if post.coverImage contains "https" -%}
+            <img src="{{ post.coverImage }}" alt="" width="360" height="240" />
+            {%- else -%}
+            <img src="/images/{{ post.coverImage }}" alt="" width="360" height="240" />
+            {%- endif -%}
+          </figure>
+        {%- endif -%}
+          <div>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | markdownify  }}
+              </a>
+            </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+{%- capture i18n_date -%}
+{{ post.date | date: "%-d " }}
+{%- assign m = post.date | date: "%-m" | minus: 1 -%}
+{{ site.data.fr.months[m] }}
+{{ post.date | date: "%Y" -}}
+{%- endcapture -%}
+            <span class="post-meta">
+            Publié le {{ i18n_date }}
+{%- if post.categories -%}
+  {% assign cat = post.categories | first %}
+  {%- for item in site.data.nav.categories -%}
+    {%- if cat == item.url -%}
+      {%- capture cattit -%}{{ item.title }}{%- endcapture -%}
+      {%- capture caturl -%}/category/{{ item.url }}/{%- endcapture -%}
+    {%- endif -%}
+    {%- if item.subitems -%}
+      {%- for subitem in item.subitems -%}
+        {%- if cat == subitem.url -%}
+          {%- capture cattit -%}{{ subitem.title }}{%- endcapture -%}
+          {%- capture caturl -%}/category/{{ item.url }}/{{ subitem.url }}/{%- endcapture -%}
+        {%- endif- %}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+              <br />Catégories&nbsp;: <a href="{{ caturl }}">{{ cattit }}</a>
+{%- endif -%}
+            </span>
+          </div>
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">Page {{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li></li>
+        {%- endif %}
+          <li><div class="current-page">Page {{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">Page {{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+
+  {%- endif -%}
+
+</div>
+<script src="/masonry.pkgd.min.js"></script>
+<script>
+var elem = document.querySelector('.grid');
+var msnry = new Masonry( elem, {
+  // options
+  itemSelector: '.grid-item',
+  columnWidth: 200
+});
+
+// element argument can be a selector string
+//   for an individual element
+var msnry = new Masonry( '.grid', {
+  // options
+});
+
+document.addEventListener('load', function () {
+  msnry.layout()
+}, false);
+
+</script>

@@ -1,0 +1,11 @@
+---
+layout: instagram
+title: "Bonjour Wacken 2 ! #déménagement"
+date: "2019-09-24"
+categories: 
+  - "trucs-instagrammes"
+tags:
+  - "strasbourg"
+coverImage: "69267039_384685505772977_7731745057855702170_n.jpg"
+instagram: B2yeJHRo7KT
+---

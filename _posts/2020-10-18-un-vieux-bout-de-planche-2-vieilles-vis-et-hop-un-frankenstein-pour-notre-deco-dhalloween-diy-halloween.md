@@ -1,0 +1,12 @@
+---
+layout: instagram
+title: "Un vieux bout de planche, 2 vieilles vis et hop, un Frankenstein pour notre déco d’Halloween #DIY #Halloween"
+date: "2020-10-18"
+categories: 
+  - "trucs-instagrammes"
+tags: 
+  - "diy"
+  - "halloween"
+coverImage: "122011551_714509086079886_5563927324479379772_n.jpg"
+instagram: p/CGffLybhg90
+---

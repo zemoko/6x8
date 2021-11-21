@@ -1,0 +1,9 @@
+<div id="bottom-slider" class="splide">
+  <div class="splide__track">
+    <ul class="splide__list">
+{% for item in page.carousel %}
+      <li class="splide__slide"><img src="{{ item.image }}" alt="{{ item.legend }}"></li>
+{% endfor %}
+    </ul>
+  </div>
+</div>

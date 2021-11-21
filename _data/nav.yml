@@ -1,0 +1,31 @@
+categories:
+
+- title: Trucs de webmaster
+  url: trucs-de-webmaster
+
+- title: Trucs de geek
+  url: trucs-de-geek
+
+- title: Trucs de parisien
+  url: trucs-de-parisien
+  subitems:
+  - title: ... à Paris
+    url: a-paris
+  - title: ... qui voyage
+    url: qui-voyage
+  - title: ... mais aussi alsaciens
+    url: qui-sont-maintenant-alsaciens
+
+- title: Trucs pris en photo
+  url: trucs-pris-en-photo
+  subitems:
+  - title: Trucs de lomographes
+    url: trucs-de-lomographe
+  - title: Trucs instagrammés
+    url: trucs-instagrammes
+
+- title: Trucs critiqués
+  url: trucs-critiques
+
+- title: Trucs
+  url: trucs
