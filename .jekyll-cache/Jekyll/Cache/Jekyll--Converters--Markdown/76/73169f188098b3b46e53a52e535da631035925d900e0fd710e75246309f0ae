@@ -1,0 +1,64 @@
+I"<p>Je suis bien embêté car <strong>j’ai perdu le câble pour recharger mon rasoir à barbe</strong> et, du coup, <strong>j’ai peur pour mes données personnelles</strong>. Comment ça, le lien n’est pas clair ? Mais si, c’est évident, laissez-moi vous expliquer :</p>
+
+<p>Mon rasoir, qui fonctionne parfaitement, et dont je suis très satisfait par ailleurs, est un <strong>Philips Oneblade</strong>. Me voici donc sur le site de Philips pour y trouver une solution… pas facile, le site est mal fichu et voudrait clairement plutôt me pousser à acheter un nouveau rasoir ou, à défaut, de nouvelles lames.</p>
+
+<p>Oui, mais non, <strong>je voudrais juste pouvoir recharger mon rasoir</strong>.</p>
+
+<p>Je cherche alors des revendeurs pour aller voir IRL (dans la vraie vie quoi) si je peux trouver une solution… sauf que non, car j’ai la fâcheuse habitude de protéger ma vie privée et donc d’être fidèle à Firefox (on peut aussi appeler cela une saine hygiène personnelle).</p>
+
+<p><img src="/images/IMG_3132-300x220.jpg" alt="Votre niveau de consentement des cookies ne nous permet pas d'afficher le contenu de cette section. Le minimum requis est &quot;cookies publicitaires ciblés&quot;" />
+Sauf que, quand on refuse les dispositifs de pistage, que se passe-t’il <a href="https://www.philips.fr/c-p/NT5180_15/-/store-locator#location=67000">sur le site de Philips</a> ? Un message vous informe que <strong>pour obtenir une liste de revendeurs, en réponse à votre code postal, il faut consentir à être tracké pour de la publicité ciblée</strong>.</p>
+
+<p>Deux hypothèses : <strong>soit les développeurs du site sont des brêles</strong>, <strong>soit les juristes de la boîte sont des buses</strong> (voire les deux en fait) car :</p>
+
+<ol>
+  <li>Il n’est nul besoin de faire appel à des cookies pour fournir ce service</li>
+  <li>Forcer mon consentement est illégal (coucou la CNIL)</li>
+</ol>
+
+<h2 id="que-dit-la-rgpd">Que dit la RGPD ?</h2>
+
+<p>Le <strong>Règlement relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données</strong> (des fois, les acronymes, c’est bien  : RGPD) parle de consentement.</p>
+
+<p>Ce consentement, pour être valide doit être :</p>
+
+<blockquote>
+  <p><strong>Libre</strong> : le consentement ne doit pas être contraint ni influencé. La personne doit se voir offrir un choix réel, sans avoir à subir de conséquences négatives en cas de refus. <strong>Spécifique</strong> : un consentement doit correspondre à un seul traitement, pour une finalité déterminée. <strong>Éclairé</strong> : pour qu’il soit valide, le consentement doit être accompagné d’un certain nombre d’informations communiquées à la personne avant qu’elle ne consente. <strong>Univoque</strong> : le consentement doit être donné par une déclaration ou tout autre acte positif clairs. Aucune ambiguïté quant à l’expression du consentement ne peut demeurer.</p>
+</blockquote>
+
+<h2 id="que-fait-philips">Que fait Philips ?</h2>
+
+<p>Le message d’erreur est cliquable (qui l’aurait deviné ? Les liens ne sont pas indiqués visuellement et seul le curseur change au survol. D’ailleurs ce ne sont pas de “vrais” liens, j’ai donc de la chance d’être valide puisque Philips n’en a visiblement rien à faire, non plus, de l’accessibilité numérique) et affiche une fenêtre modale pour exprimer son consentement en matière de cookies :</p>
+
+<p><img src="/images/Capture-d’écran-2019-10-02-à-11.11.52-1024x727.png" alt="Vos choix en matière de cookies sur ce site" /></p>
+
+<ul>
+  <li>Au minimum, et c’est normal, vous acceptez les <strong>Cookies de fonctionnement</strong> (mais, houlala, tu ne leurs permet pas d’<em>améliorer</em> ton expérience utilisateur)</li>
+  <li>Ensuite, si vous êtes sympa, vous pouvez accepter les <strong>Cookies de mesure d’audience</strong> (ce serait d’autant plus sympa qu’ils précisent que cela pourrait leurs permettre d’améliorer leur efficacité et que, visiblement, ils en ont bien besoin)</li>
+  <li>Viennent alors les <strong>Cookies des réseaux sociaux</strong> sans lequel vous ne pouvez évidemment pas publier de commentaires (enfin il parait parce qu’avant les réseaux sociaux, on arrivait quand même à s’exprimer si je me rappelle bien)</li>
+  <li>Enfin, les <strong>Cookies publicitaires</strong> pour afficher des <em>publicités et offres adaptés à vos centres d’intérêts</em></li>
+</ul>
+
+<h2 id="quest-ce-qui-ne-va-pas">Qu’est-ce qui ne va pas ?</h2>
+
+<p>Dans mon cas, <strong>le consentement n’est pas libre</strong> puisque je n’ai pas à accès à la liste des revendeurs si je n’accepte pas la publicité ciblée.</p>
+
+<p><strong>Il n’est pas non plus spécifique</strong> puisque je ne peux pas accepter la publicité ciblée mais continuer de refuser les cookies de mesure d’audience et de réseaux sociaux.</p>
+
+<p>Il est <strong>faiblement éclairé</strong> pas le blabla de la fenêtre modale, et il est <strong>bien univoque</strong>.</p>
+
+<h2 id="pour-aller-plus-loin">Pour aller plus loin…</h2>
+
+<p>Si quelqu’un de chez Philips cherche des infos, qu’il sache que :</p>
+
+<ul>
+  <li>le site de la CNIL bien que parfois compliqué et pas toujours complétement à jour, contient un article très clair sur le sujet : <a href="https://www.cnil.fr/fr/conformite-rgpd-comment-recueillir-le-consentement-des-personnes">Conformité RGPD : comment recueillir le consentement des personnes ?</a>.</li>
+  <li>des tas de ressources et des gens très biens peuvent l’aider, que ce soit pour respecter ses clients ou pour améliorer l’accessibilité de son site. Je citerais pêle-même <a href="https://koena.net/">Koena</a>, <a href="https://temesis.com/">Temesis</a>, <a href="https://access42.net/">Access42</a> ou <a href="https://www.atalan.fr/">Atalan</a>…</li>
+</ul>
+
+<p>Moi je continue ma quête, je n’achèterais pas de nouveau rasoir, et je continuerais à protéger ma vie privée, et donc à défendre mes droits.</p>
+
+<hr />
+
+<p>L’<a href="https://flic.kr/p/rvJmey">image d’entête</a> est de <a href="https://www.flickr.com/photos/songzhen/">Song Shen</a>, elle est en <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">licence CC BY-NC-ND 2.0</a>.</p>
+:ET

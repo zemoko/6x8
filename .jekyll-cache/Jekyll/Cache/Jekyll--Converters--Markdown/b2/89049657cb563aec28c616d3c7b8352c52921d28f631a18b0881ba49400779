@@ -1,0 +1,17 @@
+I"�<p><strong>Un petit résumé de la Smashing Conf qui a eu lieu la semaine dernière à Oxford et à laquelle j’ai eu le bonheur d’assister.</strong></p>
+
+<p>Ce que j’en retiens : il serait peut être temps</p>
+
+<ul>
+  <li>de se pencher plus sérieusement sur <strong>Flexbox</strong> (la pres de @zomigi est juste impressionnante de clarté)</li>
+  <li>d’envisager <strong>svg</strong> pour les illustrations (vs les i<strong>cons fonts</strong> qui n’ont pas encore dit leur dernier mot)</li>
+  <li>de penser “<strong>responsive</strong>”, “<strong>maintenable</strong>”, “<strong>performance</strong>“…</li>
+</ul>
+
+<p>Le plus dur reste encore et toujours :</p>
+
+<ul>
+  <li>de voir ce que propose maintenant les outils de marché… ça donne envie.</li>
+  <li>de se projeter et d’utiliser ces techniques… alors que notre impératif reste une bonne restitution sous IE8 :(</li>
+</ul>
+:ET

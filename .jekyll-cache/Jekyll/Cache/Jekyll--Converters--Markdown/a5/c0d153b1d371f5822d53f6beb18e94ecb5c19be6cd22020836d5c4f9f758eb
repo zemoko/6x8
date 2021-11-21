@@ -1,0 +1,41 @@
+I"�<p>Apple a ouvert le bal l’an dernier avec <a href="https://www.apple.com/fr/macos/mojave/">MacOS Mojave</a> en proposant un thème sombre (et une media-query permettant aux concepteurs de sites web d’adapter leur affichage).</p>
+
+<p>Depuis le 21 mai, <a href="https://hacks.mozilla.org/2019/05/firefox-67-dark-mode-css-webrender/">Firefox 67</a> le permet également. <a href="https://blog.chromium.org/2019/06/chrome-76-beta-dark-mode-payments-new.html">Chrome 76</a> le permettra bientôt (actuellement en beta, elle devrait sortir fin juillet) , tout comme <a href="https://www.apple.com/ios/ios-13-preview/">iOS 13</a>, le prochain OS pour iPhone, qui sortira cet automne.</p>
+
+<p>Bref, le <a href="https://caniuse.com/#search=prefers-color-scheme">support avance bien</a> :)</p>
+
+<p>Du coup, il était temps de s’amuser avec proposer <strong>un mode sombre pour ce blog</strong>. C’est désormais chose faite.</p>
+
+<p>[metaslider id=”5069”]</p>
+
+<h2 id="cest-du-noir-et-blanc-cest-ça">C’est du noir et blanc, c’est ça ?</h2>
+
+<p>Alors oui… mais non. J’ai essayé de faire un peu plus compliqué et de me poser au moins la question des images (en plus des changements de couleurs évidemment).</p>
+
+<p>Le truc, c’est que je publie pas mal de photos, qui ne peuvent que être affichées telles quelles… Enfin, surtout sur les billets car, finalement, pour les autres pages, j’avais quand même envie de tester quelques règles pour permettre de naviguer en profitant d’un affichage <strong>vraiment</strong> adapté.</p>
+
+<p>J’ai donc décidé de modifier les images des tuiles associées aux billets en utilisant <strong>un filtre d’inversion puis une rotation de teinte</strong> (mais elles se réaffichent “normalement” au survol ou au focus, avec une petite transition).</p>
+
+<p>Pour le reste, c’est essentiellement un switch pour <strong>passer les couleurs blanches, et gris clair, à des couleurs sombres</strong> (mais plutôt des gris, j’ai fait le choix de ne pas utiliser de noir).</p>
+
+<h2 id="comment-ça-marche">Comment ça marche ?</h2>
+
+<p><strong>C’est tout simple</strong>, il faut <em>(et il suffit)</em> d’utiliser <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@media/prefers-color-scheme">la media-query prefers-color-scheme</a> de la manière suivante :</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@media screen and (prefers-color-scheme: dark) {
+...
+}
+</code></pre></div></div>
+
+<p>(oui, elle est couplée à <em>screen</em> car ça n’aurait pas de sens d’impacter les autres canaux, non ?)</p>
+
+<h2 id="et-on-peut-tester">Et on peut tester ?</h2>
+
+<p>Si vous utilisez un système d’exploitation proposant un mode sombre, et un navigateur compatible : <strong>yaka, yapluka</strong>.</p>
+
+<p>Sinon, il y a toujours une extension Firefox pour vous aider : vous pouvez utiliser <a href="https://github.com/rugk/website-dark-mode-switcher/">Dark Mode Website Switcher</a>.</p>
+
+<hr />
+
+<p><a href="https://www.pexels.com/photo/dark-lego-miniature-star-wars-16485/">L’image d’entête</a> est de <a href="https://www.pexels.com/@tookapic">Tookapic</a>. Elle est en <a href="https://creativecommons.org/publicdomain/zero/1.0/">licence Creative Commons CC0 1.0</a>.</p>
+:ET
