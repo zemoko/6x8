@@ -1,9 +1,10 @@
 <div id="hyvor-talk-view"></div>
 <script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 5710;
+    var HYVOR_TALK_WEBSITE = 5720;
     var HYVOR_TALK_CONFIG = {
-        url: true,
-        id: '{{page.id}}/'
+        url: '{{ page.url | relative_url }}',
+        id: false,
+        language: 'fr'
     };
 </script>
 <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>

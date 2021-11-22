@@ -23,7 +23,7 @@ email: "moko@6x8.org"
 description: "Les trucs du Moko."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.6x8.org" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:title/
 paginate: 12
 paginate_path: "/page/page:num/"
 twitter_username: "zemoko"
