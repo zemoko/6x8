@@ -43,13 +43,8 @@ layout: default
       {%- elsif page.coverImage -%}
         {% capture coverImage %}/images/{{ page.coverImage }}{% endcapture %}
       {%- endif -%}
-      {%- if coverImage contains "webp" -%}
-        {% capture coverImageSize %}{{ coverImage | replace:'webp','jpg' }}{% endcapture %}
-      {%- else -%}
-        {% capture coverImageSize %}{{ coverImage }}{% endcapture %}
-      {%- endif -%}
         <figure class="instagram">
-           <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)"><img src="{{ coverImage }}" {% imagesize coverImageSize:props %} /></a>
+           <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)"><img src="{{ coverImage }}"/></a>
         </figure>
     </header>
     {% assign txt = content | size %}
