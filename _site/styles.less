@@ -7,6 +7,15 @@
   src: url('Manrope-Bold.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'Signika';
+  src: url('fonts/Signika-VariableFont_wght.ttf') format('woff2-variations');
+  font-weight: 300 400 600;
+  font-stretch: 35% 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
 // Variables
 @background:        #f2f2f2;
 @background2:       #292929;
@@ -35,6 +44,11 @@
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+}
+
+body {
+  font-family: system-ui;
+  font-size: 1em;
 }
 
 html {
@@ -66,6 +80,19 @@ html {
   background: @background;
   @media screen and (max-width: @md-medium) {
     overflow: hidden;
+  }
+}
+strong {
+  font-family: Manrope B, sans-serif;
+}
+
+@supports (font-variation-settings: 'wdth' 115) {
+  .container {
+  font-family: 'Signika', sans-serif;
+ }
+  strong {
+  font-family: Signika, sans-serif;
+  font-variation-settings: 'wght' 600;
   }
 }
 
@@ -312,6 +339,12 @@ nav {
   .post-list {
     margin: 0;
     padding: 0;
+
+    display: flex;
+    flex-flow: column wrap;align-content: space-between;
+  /* Your container needs a fixed height, and it 
+   * needs to be taller than your tallest column. */
+  height: 600px; 
   }
   .grid-item {
     display: inline-block;
@@ -344,7 +377,7 @@ nav {
       transition: all .078s ease-out;
       box-shadow: 0 3px 3px rgba(0,0,0,0.7),0 3px 9px rgba(0,0,0,0.2);
     }
-    &:hover {
+    &:hover, &:focus-within {
       transform:translateY(-.8rem);
       &:before {
         top: .8rem;
@@ -561,26 +594,19 @@ nav {
     }
     h1 {
       color: @white;
-      strong {
-        font-family: Manrope B, sans-serif;
-      }
     }
     figure {
       margin: 0;
       display: flex;
       justify-content: center;
       img {
-        max-width: 100%;
-        max-height: 100%;
-        object-fit: cover;
+        width: 100%;
+        height: auto;
       }
       &.instagram {
         a {
           text-align: center;
           display: inline-flex;
-        }
-        img {
-          width: 100%;
         }
       }
       @media screen and (max-width: @md-small) {
@@ -1118,4 +1144,32 @@ details {
     ul {
       margin: 1rem 2rem !important;
     }
+}
+
+/* Dark mode */
+
+@media screen and (prefers-color-scheme: dark) {
+  .container {
+    background: #292929;
+    background-image: url("images/noise.png");
+    background-repeat: repeat;
+  }
+  .page {
+    .post-meta, .post-content {
+      background-image: linear-gradient(to bottom, #313131 0%, #2a2a29 100%);
+      color: white;
+    }  
+  }
+  .page a, .page .post-content a {
+    color: #a8a0f7;
+  }
+  ol li::marker {
+    color: #a8a0f7;
+  }
+  .splide {
+    background: #494d53;
+  }
+  .pagination a {
+    color: #ccc;
+  }
 }

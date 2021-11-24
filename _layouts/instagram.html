@@ -39,14 +39,18 @@ layout: default
         </p>
       </div>
       {%- if page.post_image_large -%}
-        <figure class="instagram">
-           <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)"><img src="/images/{{ page.post_image_large }}" alt="" /></a>
-        </figure>
+        {% capture coverImage %}/images/{{ page.post_image_large }}{% endcapture %}
       {%- elsif page.coverImage -%}
-        <figure class="instagram">
-           <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)"><img src="/images/{{ page.coverImage }}" alt="" /></a>
-        </figure>
+        {% capture coverImage %}/images/{{ page.coverImage }}{% endcapture %}
       {%- endif -%}
+      {%- if coverImage contains "webp" -%}
+        {% capture coverImageSize %}{{ coverImage | replace:'webp','jpg' }}{% endcapture %}
+      {%- else -%}
+        {% capture coverImageSize %}{{ coverImage }}{% endcapture %}
+      {%- endif -%}
+        <figure class="instagram">
+           <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)"><img src="{{ coverImage }}" {% imagesize coverImageSize:props %} /></a>
+        </figure>
     </header>
     {% assign txt = content | size %}
     {%- if txt > 5 -%}    

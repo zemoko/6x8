@@ -28,10 +28,16 @@ layout: default
         {%- if post.coverImage -%}
           <figure>
             {%- if post.coverImage contains "https" -%}
-            <img src="{{ post.coverImage }}" alt="" width="360" height="240" />
+              {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
             {%- else -%}
-            <img src="/images/{{ post.coverImage }}" alt="" width="360" height="240" />
+              {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
             {%- endif -%}
+            {%- if coverImage contains "webp" -%}
+              {% capture coverImageSize %}{{ coverImage | replace:'webp','jpg' }}{% endcapture %}
+            {%- else -%}
+              {% capture coverImageSize %}{{ coverImage }}{% endcapture %}
+            {%- endif -%}
+            <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
           </figure>
         {%- endif -%}
           <div>

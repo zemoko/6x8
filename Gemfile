@@ -18,6 +18,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-cloudinary'
   gem 'jekyll-sitemap'
+  gem 'jekyll-webp'
+  gem 'jekyll-image-size'
 end
 
 source 'https://rubygems.org'
