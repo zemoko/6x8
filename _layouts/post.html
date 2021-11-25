@@ -45,15 +45,25 @@ layout: default
         <figure>
           {%- if page.coverImage contains "https" -%}
             {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
+          <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
           {%- else -%}
             {% capture coverImage %}/images/{{ page.coverImage }}{% endcapture %}
+            {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
+            {% assign webpAvailable = false %}
+            {% for static_file in site.static_files %}
+              {% if static_file.path == coverImageWebp %}
+                {% assign webpAvailable = true %}
+              {% endif %}
+            {% endfor %}
+            {% if webpAvailable %}
+            <picture>
+              <source srcset="{{ coverImageWebp }}" type="image/webp">
+              <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+            </picture>
+            {% else %}
+            <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+            {% endif %}
           {%- endif -%}
-          {%- if coverImage contains "webp" -%}
-            {% capture coverImageSize %}{{ coverImage | replace:'webp','jpg' }}{% endcapture %}
-          {%- else -%}
-            {% capture coverImageSize %}{{ coverImage }}{% endcapture %}
-          {%- endif -%}
-          <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
         </figure>
         {%- endunless -%}
       {%- endif -%}

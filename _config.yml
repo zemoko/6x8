@@ -44,29 +44,14 @@ defaults:
       layout: "category"
       # layout utilisé -> _layouts/category.html
 
-cloudinary:
-  cloud_name: zemoko
-  verbose: true
-  only_prod: true
-  presets:
-    default:
-      min_width: 320
-      max_width: 1600
-      fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
-
-# compress_images:
-#  images_path: "images/**/*.{gif,png,jpg,jpeg,svg}"
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-webp
   - jekyll-image-size
+#  - jekyll-webp
 
 webp:
   enabled: true
@@ -79,7 +64,7 @@ webp:
   img_dir: ["/images"]
 
   # Whether to search in nested directories or not
-  nested: false
+  nested: true
 
   # add ".gif" to the format list to generate webp for animated gifs as well
   formats: [".jpeg", ".jpg", ".png"]
@@ -114,6 +99,10 @@ exclude:
   - Gemfile.lock
   - node_modules/
   - vendor/
+  - package.json
+  - node_modules
+  - gulpfile.js
+
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
