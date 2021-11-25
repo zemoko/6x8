@@ -55,10 +55,10 @@ layout: default
           {% if webpAvailable -%}
             <picture>
               <source srcset="{{ coverImageWebp }}" type="image/webp">
-              <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+              <img src="{{ coverImage }}" alt="" />
             </picture>
           {%- else -%}
-            <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+            <img src="{{ coverImage }}" alt="" />
           {%- endif -%}
         </a>
       </figure>

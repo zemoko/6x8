@@ -29,7 +29,7 @@ layout: default
           <figure>
             {%- if post.coverImage contains "https" -%}
               {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
-              <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+              <img src="{{ coverImage }}" alt="" />
             {%- else -%}
               {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
               {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
@@ -42,10 +42,10 @@ layout: default
               {% if webpAvailable %}
               <picture>
                 <source srcset="{{ coverImageWebp }}" type="image/webp">
-                <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+                <img src="{{ coverImage }}" alt="" />
               </picture>
               {% else %}
-              <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+              <img src="{{ coverImage }}" alt=""  />
               {% endif %}
             {%- endif -%}
           </figure>
