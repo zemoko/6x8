@@ -38,19 +38,30 @@ layout: default
           {%- endif -%}
         </p>
       </div>
-      {%- if page.post_image_large -%}
-        {% capture coverImage %}/images/{{ page.post_image_large }}{% endcapture %}
-      {%- elsif page.coverImage -%}
-        {% capture coverImage %}/images/{{ page.coverImage }}{% endcapture %}
-      {%- endif -%}
-      {%- if coverImage contains "webp" -%}
-        {% capture coverImageSize %}{{ coverImage | replace:'webp','jpg' }}{% endcapture %}
-      {%- else -%}
-        {% capture coverImageSize %}{{ coverImage }}{% endcapture %}
-      {%- endif -%}
-        <figure class="instagram">
-           <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)"><img src="{{ coverImage }}" {% imagesize coverImageSize:props %} /></a>
-        </figure>
+      <figure class="instagram">
+        <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)">
+          {%- if page.post_image_large -%}
+            {%- capture coverImage -%}/images/{{ page.post_image_large }}{%- endcapture -%}
+          {%- elsif page.coverImage -%}
+            {%- capture coverImage -%}/images/{{ page.coverImage }}{%- endcapture -%}
+          {%- endif -%}
+          {%- capture coverImageWebp -%}{{ coverImage | replace:'jpg','webp' }}{%- endcapture- %}
+          {%- assign webpAvailable = false -%}
+          {%- for static_file in site.static_files -%}
+            {%- if static_file.path == coverImageWebp -%}
+              {%- assign webpAvailable = true -%}
+            {%- endif -%}
+          {%- endfor -%}
+          {% if webpAvailable -%}
+            <picture>
+              <source srcset="{{ coverImageWebp }}" type="image/webp">
+              <img src="{{ coverImage }}" alt="" />
+            </picture>
+          {%- else -%}
+            <img src="{{ coverImage }}" alt="" />
+          {%- endif -%}
+        </a>
+      </figure>
     </header>
     {% assign txt = content | size %}
     {%- if txt > 5 -%}    

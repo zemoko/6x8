@@ -7,13 +7,13 @@ categories:
 tags: 
   - "critique"
   - "livre"
-coverImage: "comédies-françaises.jpg"
+coverImage: "comédies-françaises.jpg"
 noImageOnPost: true
 ---
 
 J'ai oublié de vous dire que j'avais fini le dernier roman d'Éric Reinhardt. Enfin, j'ai oublié d'écrire sa critique. Pour tout vous dire, c'est sans doute parce que je ne savais trop comment l'aborder...
 
-![](/images/comédies-françaises-205x300.jpg# book2right)**"Comédies françaises"** est l'un des romans dont j'ai le plus entendu parler lors de la rentrée littéraire. En bien, la plupart du temps et en insistant souvent sur l'enquête à propos de **Louis Pouzin, l'homme qui avait inventé le datagramme et aurait donc théoriquement pu permettre à la France d'inventer Internet**. Comme d'une part, je suis une sorte de dinosaure d'Internet et que, d'autre part, j'avais beaucoup aimé "Cendrillon" (du même auteur), je n'ai pas résisté bien longtemps à l'envie de le lire.
+![](/images/comédies-françaises.jpg-205x300.jpg# book2right)**"Comédies françaises"** est l'un des romans dont j'ai le plus entendu parler lors de la rentrée littéraire. En bien, la plupart du temps et en insistant souvent sur l'enquête à propos de **Louis Pouzin, l'homme qui avait inventé le datagramme et aurait donc théoriquement pu permettre à la France d'inventer Internet**. Comme d'une part, je suis une sorte de dinosaure d'Internet et que, d'autre part, j'avais beaucoup aimé "Cendrillon" (du même auteur), je n'ai pas résisté bien longtemps à l'envie de le lire.
 
 Hélas, si l'enquête est bien là, et qu'elle est intéressante, je dois avouer que l**e livre en lui-même m'a laissé un peu sur ma faim**.
 

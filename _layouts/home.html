@@ -29,15 +29,25 @@ layout: default
           <figure>
             {%- if post.coverImage contains "https" -%}
               {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
+              <img src="{{ coverImage }}" alt="" />
             {%- else -%}
               {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
+              {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
+              {% assign webpAvailable = false %}
+              {% for static_file in site.static_files %}
+                {% if static_file.path == coverImageWebp %}
+                  {% assign webpAvailable = true %}
+                {% endif %}
+              {% endfor %}
+              {% if webpAvailable %}
+              <picture>
+                <source srcset="{{ coverImageWebp }}" type="image/webp">
+                <img src="{{ coverImage }}" alt="" />
+              </picture>
+              {% else %}
+              <img src="{{ coverImage }}" alt=""  />
+              {% endif %}
             {%- endif -%}
-            {%- if coverImage contains "webp" -%}
-              {% capture coverImageSize %}{{ coverImage | replace:'webp','jpg' }}{% endcapture %}
-            {%- else -%}
-              {% capture coverImageSize %}{{ coverImage }}{% endcapture %}
-            {%- endif -%}
-            <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
           </figure>
         {%- endif -%}
           <div>

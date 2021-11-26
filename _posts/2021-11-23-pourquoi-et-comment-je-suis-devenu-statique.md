@@ -4,7 +4,7 @@ title: "Pourquoi, et comment, je suis devenu statique"
 date: "2021-11-23"
 categories: 
   - "trucs-de-webmaster"
-coverImage: 7588800922_b7abff2da3_c.webp
+coverImage: 7588800922_b7abff2da3_c.jpg
 cover2left: true
 ---
 

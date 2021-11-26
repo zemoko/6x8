@@ -29,12 +29,7 @@ layout: default
             {%- else -%}
               {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
             {%- endif -%}
-            {%- if coverImage contains "webp" -%}
-              {% capture coverImageSize %}{{ coverImage | replace:'webp','jpg' }}{% endcapture %}
-            {%- else -%}
-              {% capture coverImageSize %}{{ coverImage }}{% endcapture %}
-            {%- endif -%}
-            <img src="{{ coverImage }}" alt="" {% imagesize coverImageSize:props %} />
+            <img src="{{ coverImage }}" alt="" />
           </figure>
         {%- endif -%}
           <div>
