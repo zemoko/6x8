@@ -341,15 +341,14 @@ nav {
     padding: 0;
 
     display: flex;
-    flex-flow: column wrap;align-content: space-between;
-  /* Your container needs a fixed height, and it 
-   * needs to be taller than your tallest column. */
-  height: 600px; 
+    flex-wrap: wrap;
+    align-content: space-between;
   }
   .grid-item {
     display: inline-block;
     width: calc(100%/3);
-    margin-bottom: 1rem;
+    margin-bottom: .6rem;
+    flex: 1 1 auto;
     @media screen and (max-device-width: @md-small) {
       width: calc(100%/2);
     }
