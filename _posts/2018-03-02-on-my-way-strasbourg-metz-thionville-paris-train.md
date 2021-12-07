@@ -9,7 +9,7 @@ tags:
   - "metz"
   - "paris"
   - "strasbourg"
-coverImage: on-my-way-strasbourg-metz-thionville-paris-train
+coverImage: on-my-way-strasbourg-metz-thionville-paris-train.jpg
 cover2left: true
 ---
 

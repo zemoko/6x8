@@ -3,9 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
   {{ content }}
   
@@ -26,27 +23,22 @@ layout: default
       <li class="grid-item">
         <div class="card {% if post.tags contains 'critique' %}critique{% endif %}">
         {%- if post.coverImage -%}
+          {%- if forloop.index > 6 -%}
+            {%- assign lazyLoad = 'loading="lazy"' -%}
+          {%- else -%}
+            {%- assign lazyLoad = '' -%}
+          {%- endif -%}
           <figure>
             {%- if post.coverImage contains "https" -%}
               {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
-              <img src="{{ coverImage }}" alt="" />
+              <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
             {%- else -%}
               {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
               {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
-              {% assign webpAvailable = false %}
-              {% for static_file in site.static_files %}
-                {% if static_file.path == coverImageWebp %}
-                  {% assign webpAvailable = true %}
-                {% endif %}
-              {% endfor %}
-              {% if webpAvailable %}
               <picture>
                 <source srcset="{{ coverImageWebp }}" type="image/webp">
-                <img src="{{ coverImage }}" alt="" />
+                <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
               </picture>
-              {% else %}
-              <img src="{{ coverImage }}" alt=""  />
-              {% endif %}
             {%- endif -%}
           </figure>
         {%- endif -%}

@@ -49,20 +49,10 @@ layout: default
           {%- else -%}
             {% capture coverImage %}/images/{{ page.coverImage }}{% endcapture %}
             {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
-            {% assign webpAvailable = false %}
-            {% for static_file in site.static_files %}
-              {% if static_file.path == coverImageWebp %}
-                {% assign webpAvailable = true %}
-              {% endif %}
-            {% endfor %}
-            {% if webpAvailable %}
             <picture>
               <source srcset="{{ coverImageWebp }}" type="image/webp">
               <img src="{{ coverImage }}" alt="" />
             </picture>
-            {% else %}
-            <img src="{{ coverImage }}" alt="" />
-            {% endif %}
           {%- endif -%}
         </figure>
         {%- endunless -%}

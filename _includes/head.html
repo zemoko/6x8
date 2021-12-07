@@ -1,7 +1,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>{{ page.title | strip_html | default: site.title }}</title>
+		<title>{{ page.title | strip_html | append: ' | ' | append: site.title |  default: site.title }}</title>
 		{%- seo -%}
 		<link rel='stylesheet' id='dashicons-css'  href='/styles.css' type='text/css' media='all' />
 		{%- feed_meta -%}

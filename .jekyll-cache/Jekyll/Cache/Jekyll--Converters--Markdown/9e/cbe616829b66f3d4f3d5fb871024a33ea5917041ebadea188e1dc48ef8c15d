@@ -1,0 +1,28 @@
+I"�
+<p><strong>Firefox 42 vient de débarquer avec, entre autres nouveautés, un mode de navigation privée vous protégeant mieux contre le pistage.</strong></p>
+
+<p>Certaines extensions existaient déjà pour faire ce genre de choses (<a href="https://www.eff.org/privacybadger">Privacy Badger</a>, <a href="https://addons.mozilla.org/fr/firefox/addon/ghostery/">Ghostery</a>…) mais c’est la première fois qu’un navigateur intègre en natif un tel outil… <strong>car, oui, il peut également être disponible en dehors du mode de navigation privée !</strong></p>
+
+<h2 id="comment-lactiver-tout-le-temps">Comment l’activer <strong>tout le temps</strong> ?</h2>
+
+<ol>
+	<li>Ouvrez un onglet et tapez [about:config](about:config) dans la barre d'adresse</li>
+	<li>Cliquez sur le bouton **Je ferais attention, promis !**</li>
+<figure style="width: 963px"><img src="/images/Capture-décran-2015-11-03-20.39.27.png" alt="" /><figcaption>about:config - Je ferais attention, promis !</figcaption></figure>
+	<li>Cherchez l'option « _privacy.trackingprotection.enabled_ » (en collant son nom dans la zone de recherche) et faites passer sa valeur à « _true_ ».</li>
+<figure style="width: 672px"><img src="/images/Capture-décran-2015-11-03-20.49.53.png" alt="" /><figcaption>privacy.trackingprotection.enabled true</figcaption></figure>
+	<li>**C'est tout !**</li>
+</ol>
+
+<h2 id="et-maintenant">Et maintenant ?</h2>
+
+<p>Maintenant, quand vous naviguez sur un site qui (essaie de) vous piste(r), vous verrez un petit bouclier à gauche de la barre d’adresse pour vous informer que des tentatives de pistages ont été bloquées. En cliquant dessus, vous pouvez choisir de désactiver la protection pour certains sites, au cas par cas.</p>
+
+<figure style="width: 409px"><img src="/images/Capture-décran-2015-11-03-21.07.28.png" /></figure>
+
+<p><strong>Bref, si vous n’êtes pas encore utilisateur de Firefox, c’est le moment de <a href="https://www.mozilla.org/fr/firefox/new/">le télécharger</a>. Si vous l’êtes déjà, ça vous fait une (bonne) raison de plus pour lui rester fidèle !</strong></p>
+
+<hr />
+
+<p>L’image d’entête est de <a href="https://www.flickr.com/photos/coultart/">Trevor Coultart</a>. Elle est disponible <a href="https://www.flickr.com/photos/coultart/3620040021/in/photolist-6vTDM8-at7SmP-nw2PgQ-cWUnCh-bsUvRP-4k3cS-8zf2Xj-nPBGiC-6ukY6J-rD7k7L-aKDzMD-e4N92o-aZrfqe-5LbKnE-PpSZD-4WiPwm-9ptsyb-8fkBPj-7UWDRS-7WqwJF-7GKKaV-4dVbLq-dZgwX-5L7vg8-2a1AYr-4fjg3-bukdht-5fvwp-PtWVn-6YMnSS-7dF1tM-6eBwVv-3izibC-9QWnvJ-8PPBAe-zYPUD2-7WH6q2-b1GNVH-9zj1qw-8gJjBx-asnqv-7WLk9A-a7nCEY-612xnm-4K3SEk-7WH6ga-5fwpA-4dH6AN-n1E9R-daj8en">sur flickr</a> en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND</a>.</p>
+:ET

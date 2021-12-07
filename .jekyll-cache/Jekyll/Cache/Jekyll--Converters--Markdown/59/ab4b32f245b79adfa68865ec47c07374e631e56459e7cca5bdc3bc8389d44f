@@ -1,0 +1,26 @@
+I"#	<p>Ça fait que je suis Chris McVeight et ses fabuleuses créations en lego… alors quand j’ai commencé à me poser la question de comment habiller mon Raspberry Pi, l’idée des lego est venue très vite… et ses créations juste après.</p>
+
+<p>J’ai hésité entre <a href="http://chrismcveigh.com/cm/building_guides_-_technology.html">son modèle de Macintosh (Classic)</a> et <a href="http://www.ilounge.com/index.php/mac/entry/chris-mcveigh-lego-imac">celui d’iMac</a> (plus dispo sur son site mais il m’a gentiment envoyé un fichier Lego Digital Designer). Finalement, le Raspberry + son écran tactile étaient trop épais pour l’iMac alors je suis resté sur le Classic.</p>
+
+<p>J’ai joué avec ses modèles pour en faire une version adaptée à mon projet : un peu plus grande, avec la place pour le Raspberry et l’écran, qui puisse s’ouvrir pour récupérer l’ensemble, avec les différentes prises accessibles.</p>
+
+<p>J’ai fini par arriver à un premier modèle… pour me rendre compte que <strong>c’est naze, en fait, Lego Digital Designer</strong> : ils te proposent des tas de pièces qu’ensuite tu ne peux pas acheter sur leur site (via <a href="http://shop.lego.com/fr-FR/Pick-A-Brick-ParTheme">Pick a brick</a> donc).</p>
+
+<p>Grrrr, j’ai donc recommencé mes essais pour réussir à concevoir un modèle avec uniquement les pièces disponibles. Et voilà donc le résultat !</p>
+
+<p>J’arrive bien à accéder à l’écran, je peux utiliser les prises USB et, avec quelques ajustements de dernières minutes, j’ai même réussi à le brancher sans devoir tout casser ! <strong>Bref, je suis assez content :)</strong></p>
+
+<p>Et maintenant, quelques photos !</p>
+
+<div id="mac-slider" class="splide">
+<div class="splide__track">
+<ul class="splide__list">
+<li class="splide__slide"><img src="/images/IMG_45671.jpg" alt="Raspberry Pi déguisé en Macintosh Classic en Lego" /></li>
+<li class="splide__slide"><img src="/images/IMG_45681.jpg" alt="Il s’ouvre pour accéder au Raspberry" /></li>
+<li class="splide__slide"><img src="/images/IMG_45691.jpg" alt="Vu du dessus" /></li>
+<li class="splide__slide"><img src="/images/IMG_45701.jpg" alt="Démarrage" /></li>
+<li class="splide__slide"><img src="/images/IMG_45713.jpg" alt="Et voici Raspbian lancé :)" /></li>
+</ul>
+</div>
+</div>
+:ET
