@@ -30,7 +30,7 @@ paginate_path: "/page/page:num/"
 twitter_username: "zemoko"
 github_username:  "zemoko"
 cloudinary:
-  cloud_name: "zemoko"
+  cloud_name: "c6x8"
   only_prod: true
   presets:
     default:
