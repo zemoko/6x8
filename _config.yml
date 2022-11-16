@@ -62,9 +62,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-image-size
-  - jekyll-webp
-  - jekyll-responsive-image
+  - jekyll-cloudinary
 
 # Exclude from processing.
 # The following items will not be processed, by default.
