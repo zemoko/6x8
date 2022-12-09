@@ -31,13 +31,13 @@ layout: default
           <figure>
             {%- if post.coverImage contains "https" -%}
               {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
-              <img src="{{ coverImage }}" alt="" {{ lazyLoad }} />
+              <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
             {%- else -%}
               {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
               {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
               <picture>
                 <source srcset="{{ coverImageWebp }}" type="image/webp">
-                <img src="{{ coverImage }}" alt="" {{ lazyLoad }} />
+                <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
               </picture>
             {%- endif -%}
           </figure>

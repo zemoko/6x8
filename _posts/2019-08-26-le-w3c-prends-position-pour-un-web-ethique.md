@@ -92,7 +92,7 @@ Les voici, traduits... et commentés&nbsp;:
 <div class="center"><figure class="center" style="max-width: 500px">
 	<img src="/images/amp-300x158.jpg" alt="" width="300" height="158" />
 	<figcaption>Bye-bye <strong><abbr>AMP</abbr></strong> and co&nbsp;? (et Bye-bye <strong>"Ce site est optimisé pour Google Chrome"</strong>&nbsp;:)</figcaption>
-</figure></div4
+</figure></div>
 
 <h2>12. <span lang="en">People should be able to render web content as they want</span> / <strong>Les gens devraient pouvoir rendre le contenu Web à leur guise</strong></h2>
 <p lang="en" class="soft">For example, users should be able to install style sheets, assistive browser extensions, and blockers of unwanted content or scripts or autoplayed videos. Through technologies such as browser extensions, people must continue to be able to change web pages according to their needs. We will build platforms and write specs that respect the user's authority, and will create user agents to represent those preferences on the user's behalf. </p>

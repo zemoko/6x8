@@ -40,16 +40,22 @@ layout: default
       </div>
       <figure class="instagram">
         <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)">
-          {%- if page.post_image_large -%}
-            {%- capture coverImage -%}/images/{{ page.post_image_large }}{%- endcapture -%}
-          {%- elsif page.coverImage -%}
-            {%- capture coverImage -%}/images/{{ page.coverImage }}{%- endcapture -%}
-          {%- endif -%}
-          {%- capture coverImageWebp -%}{{ coverImage | replace:'jpg','webp' }}{%- endcapture- %}
+          {%- if page.post_video -%}
+          <video controls autoplay loop>
+            <source src="/images/{{ page.post_video }}" type="video/mp4">
+          </video>
+          {%- else  -%}
+            {%- if page.post_image_large -%}
+              {%- capture coverImage -%}/images/{{ page.post_image_large }}{%- endcapture -%}
+            {%- elsif page.coverImage -%}
+              {%- capture coverImage -%}/images/{{ page.coverImage }}{%- endcapture -%}
+            {%- endif -%}
+            {%- capture coverImageWebp -%}{{ coverImage | replace:'jpg','webp' }}{%- endcapture- %}
           <picture>
             <source srcset="{{ coverImageWebp }}" type="image/webp">
             <img src="{{ coverImage }}" alt="" />
           </picture>
+            {%- endif -%}
         </a>
       </figure>
     </header>

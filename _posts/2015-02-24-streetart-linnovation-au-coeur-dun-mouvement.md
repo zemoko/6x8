@@ -8,7 +8,7 @@ tags:
   - "anamorphose"
   - "expo"
   - "streetart"
-coverImage: "Capture-d’écran-2015-02-24-à-18.08.35.png"
+coverImage: "2015-02-24-street-art.png"
 cover2left: true
 ---
 

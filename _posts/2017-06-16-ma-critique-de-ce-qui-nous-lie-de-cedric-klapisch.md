@@ -17,7 +17,7 @@ Quand on a grandit avec Cédric Klapisch, que Cédric Klapisch sort un nouveau f
 
 <div class="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQZfFB0IecY" frameborder="0" allowfullscreen></iframe>
-</div>div>
+</div>
 
 ![](/images/376311.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg# book2right)**Le film se passe donc en Bourgogne**, durant toute une année. Pas moyen de faire moins, évidemment, c’est **le temps de la vigne**. On y suit une fratrie, 2 frères et une sœur :
 

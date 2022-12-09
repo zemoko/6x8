@@ -40,7 +40,7 @@ tags:
     <strong>Vous la voulez en <abbr>ASCII</abbr> art coloré&nbsp;?</strong> Rajoutez juste <code>.html</code> à la fin de cette adresse.<br />
     Ce qui donne&nbsp; <a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg.html">https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg.html</a><br />
     <figure style="width: 660px">
-      <img src="http://www.6x8.org/wp-content/uploads/2016/01/ASCII-color.png" alt="ASCII en couleurs" width="630" height="689">
+      <img src="/images/ASCII-color.png" alt="ASCII en couleurs" width="630" height="689">
     </figure></li>
 
 </ol>

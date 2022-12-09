@@ -1,35 +1,31 @@
 ---
 layout: post
-title: "St Nicolas = Pain d'épices"
-date: "2014-12-07"
+title: "St Nicolas = Speculoos&nbsp;?"
+date: "2022-12-06"
 categories: 
   - "trucs"
 tags: 
   - "recette"
   - "miam"
-coverImage: "IMG_42613.jpg"
+coverImage: "st-nicolas.jpg"
 cover2left: true
 ---
 
-Comme je suis Lorrain, j'ai fêté la **Saint Nicolas** ce week-end. Et comme j'ai fêté la **St Nicolas**, j'ai fait des **pains d'épices**.
+Cette année, en plus du traditionnel <a href="/2014/12/st-nicolas-pain-depices/">Pain d'épices de la Saint Nicolas</a>, je me suis lancé dans la confection de Spéculoos. En effet, la Saint Nicolas est aussi fêtée en Belgique et, là-bas, ce sont des Speculoos en forme de Saint Nicolas qui sont offerts aux enfants. Comme en plus, les moules en bois pour faire des Speculoos sont trop beaux... c'était l'occasion ou jamais.
 
-Depuis quelques années, je recopie ma recette de bouts de papiers en carnets, de carnets en SMS, de SMS en mails... cette année, je me suis dit qu'il était temps de la poster ici :)
+## Ingrédients
+- 480g de farine
+- 60g de lait
+- 200g de beurre
+- 320g de vergeoise
+- 3 cuillerées à café de mélange d’épices spéculoos (ou pain d'épices, c'est assez proche)
+- 1/2 de cuillerée à café de levure chimique
 
-Voici donc...
+## Recette
+1.  Mélangez **le beurre mou**, **la vergeoise**, **les épices** et **le lait** dans un grand bol. Bien mélanger.
+2. Ajouter **la farine** et **la levure chimique**. Mélanger pour incorporer mais sans insister. 
+3. Prendre des morceaux de pâte et enfoncer bout par bout dans le moule pour bien obtenir tous les détails du moule. Avec un  large couteau, couper avec la lame à plat sur le moule. Enlever le surplus de pâte. *Pour le démoulage, commencer par décoler la pate du moule avec un couteau d’office*.
+5. Laisser croûter au réfrigérateur pendant au moins 2&nbsp;heures
+6. Cuire 20 à 25 minute à 170°C.
+7. Laisser refroidir sur une grille à pâtisserie
 
-## ZE recette de mon pain d'épice de la St Nicolas
-
-1. **1 verre de thé**
-2. y dissoudre **300g de miel**
-3. puis **200g de sucre** (on peut en remplacer une partie par de la cassonade)
-4. rajouter **1 càc d'épices** (moi j'en mets un peu plus !)
-5. **1 càcde bicarbonate**
-6. **2 càsde gelée de groseilles** (ou de fruits rouges, ce qui est ouvert !)
-7. rajouter **3 œufs**
-8. puis **500g de farine**
-9. **Mélanger pendant 1/4 d'heure** (cette année, j'ai triché, me suis offert un Companion)
-10. **Mettre à four très doux** (thermostat 5/6) **pendant 1h30** (Sans ouvrir la porte du four)
-
-<figure style="width:1000px">
-	<img src="/images/IMG_4244.jpg" alt="St Nicolas">
-</figure>

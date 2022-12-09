@@ -6,7 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
-coverImage: Soirée.jpg
+coverImage: Soiree.jpg
 cover2left: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ma critique de «&nbsp;<strong>Rompre le silence </strong>&nbsp;» de <em>Mechtild Borrmann</em>"
-date: "2021-12-02"
+date: "2021-12-07"
 categories: 
   - "trucs-critiques"
 tags: 

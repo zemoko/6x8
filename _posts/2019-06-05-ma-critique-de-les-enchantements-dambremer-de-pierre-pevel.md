@@ -15,7 +15,7 @@ noImageOnPost: true
 
 Je ne savais trop à quoi m'attendre en commençant « Les enchantements d'Ambremer », le 1er tome d'un cycle dénommé "Le Paris des merveilles", mais la quatrième m'a intriguée... et je dois avouer que **j'ai été emballé** !
 
-<blockquote class="citation"><strong>À première vue, on se croirait dans le Paris de la Belle Époque</strong>&nbsp;: messieurs en col dur et chapeau melon, femmes en corset et jupons, tacots rutilants, tour Eiffel toute neuve et grands boulevards arborés... <strong>En y regardant de plus près, la tour Eiffel est bâtie dans un bois blanc comme neige, des sirènes se baignent dans la Seine, chaque fontaine a son ondine, et que dire des arbres philosophes, des chats ailés, des farfadets du bois de Vincennes ou des clubs de gentlemenmagiciens&nbsp;!</strong></blockquote>
+<blockquote class="citation"><p><strong>À première vue, on se croirait dans le Paris de la Belle Époque</strong>&nbsp;: messieurs en col dur et chapeau melon, femmes en corset et jupons, tacots rutilants, tour Eiffel toute neuve et grands boulevards arborés... <strong>En y regardant de plus près, la tour Eiffel est bâtie dans un bois blanc comme neige, des sirènes se baignent dans la Seine, chaque fontaine a son ondine, et que dire des arbres philosophes, des chats ailés, des farfadets du bois de Vincennes ou des clubs de gentlemenmagiciens&nbsp;!</strong></p></blockquote>
 
 ## Entre dystopie et fantasy
 

@@ -2,7 +2,20 @@
   <div class="splide__track">
     <ul class="splide__list">
 {% for item in page.carousel %}
-      <li class="splide__slide"><img src="{{ item.image }}" alt="{{ item.legend }}"></li>
+      <li class="splide__slide"><div class="lightbox">
+        <figure>
+  {% capture slideImage %}{{ item.image }}{% endcapture %}
+  {% if slideImage | slice: 0, 4 = 'http' %}
+            <img src="{{ slideImage }}" alt="{{ item.legend }}" />
+  {% else %}
+    {% capture slideImageWebp %}{{ slideImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
+            <picture>
+              <source srcset="{{ slideImageWebp }}" type="image/webp">
+              <img src="{{ slideImage }}" alt="{{ item.legend }}" />
+            </picture>
+  {% endif %}
+        </figure>
+      </div></li>
 {% endfor %}
     </ul>
   </div>

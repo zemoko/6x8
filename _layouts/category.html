@@ -29,16 +29,22 @@ layout: default
             {%- assign lazyLoad = '' -%}
           {%- endif -%}
           <figure>
-            {%- if post.coverImage contains "https" -%}
-              {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
-              <img src="{{ coverImage }}" alt="" {{ lazyLoad }} />
+            {%- if post.post_video -%}
+            <video autoplay>
+              <source src="/images/{{ post.post_video }}" type="video/mp4">
+            </video>
             {%- else -%}
-              {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
-              {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
+              {%- if post.coverImage contains "https" -%}
+                {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
+              <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
+              {%- else -%}
+                {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
+                {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
               <picture>
                 <source srcset="{{ coverImageWebp }}" type="image/webp">
-                <img src="{{ coverImage }}" alt="" {{ lazyLoad }} />
+                <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
               </picture>
+              {%- endif -%}
             {%- endif -%}
           </figure>
         {%- endif -%}

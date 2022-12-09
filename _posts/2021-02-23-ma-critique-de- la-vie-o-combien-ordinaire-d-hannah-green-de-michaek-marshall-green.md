@@ -16,7 +16,7 @@ noImageOnPost: true
 
 Commençons par <strong>La vie ô combien ordinaire d'Hannah Green</strong>.
 
-Encore un livre qui m’a attiré par sa couverture et que le bandeau, <mark>**« Un livre brillant, Neil Gailman »**</mark> m’a convaincu de lire (une fois n’est pas coutume, j’ignore le plus souvent les bandeau, souvent purement marketing… mais bon, Neil Gailman, ce n’est quand même pas n’importe qui !).
+Encore un livre qui m’a attiré par sa couverture et que le bandeau, **<mark>« Un livre brillant, Neil Gailman »</mark>** m’a convaincu de lire (une fois n’est pas coutume, j’ignore le plus souvent les bandeau, souvent purement marketing… mais bon, Neil Gailman, ce n’est quand même pas n’importe qui !).
 
 Bref, je vous fais le Pitch&nbsp;: c’est l’histoire d’Hannah Green (vous ne l’auriez jamais deviné&nbsp;!). **Hannah a 11&nbsp;ans et trouve sa vie banale**… jusqu’au jour où ses parents divorcent. Vous allez me dire que ça reste (tristement, certes) banal… mais cela pousse le père d’Hannah à l’envoyer pour quelques jours chez son papi. Et **le grand-père d’Hanna est tout sauf banal**…
 

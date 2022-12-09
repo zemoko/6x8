@@ -3,11 +3,22 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>{{ page.title | strip_html | append: ' | ' | append: site.title |  default: site.title }}</title>
 		{%- seo -%}
+		{%- if page.coverImage -%}
+		<meta property="og:image" content="http://www.6x8.org/images/{{ page.coverImage }}" />
+		<meta property="twitter:image" content="http://www.6x8.org/images/{{ page.coverImage }}" />
+ 		{%- endif  -%}
 		<link rel='stylesheet' id='dashicons-css'  href='/styles.css' type='text/css' media='all' />
 		{%- feed_meta -%}
 		<link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://www.6x8.org/feed.xml" />
+
+		{%- if content contains 'splide' or page.carousel -%}
 		<link rel="stylesheet" href="/splide/splide.min.css">
 		<script src="/splide/splide.min.js"></script>
+		{%- endif  -%}
+		{%- if content contains 'lightbox' -%}
+		<link rel="stylesheet" href="/js/lightbox.css">
+		<script src="/js/lightbox.js" defer></script>
+		{%- endif  -%}
 
 		<!-- Matomo -->
 		<script>

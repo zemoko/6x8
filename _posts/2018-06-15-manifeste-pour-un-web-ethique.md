@@ -19,7 +19,7 @@ cover2left: true
   <li>Je fais partie de la Direction Commerciale, je fais du marketing <strong>"marketeux = pas sérieux</strong></li>
  </ul>
 
-<h2>Et pourtant, j'ai des valeurs qui m'importent</strong>.</h2>
+<h2>Et pourtant, j'ai des valeurs <strong>qui m'importent</strong>.</h2>
 
 <p>Il faut dire que je zone sur le <span lang="en">web</span> depuis plus de 20&nbsp;ans et que, depuis plus de 20&nbsp;ans, je suis enthousiasmé par cette utopie incroyable&nbsp;: un village planétaire, universel, décentralisé, ouvert à tous, où chacun est encouragé à donner et à recevoir, où la connaissance se partage pour mieux s’enrichir, où tout le monde est égal, où on dépasse les différences.</p>
 
