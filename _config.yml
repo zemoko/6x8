@@ -53,7 +53,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-image-size
-  - jekyll-webp
   - jekyll-responsive-image
 
 mastodon:
@@ -79,7 +78,7 @@ webp:
 
   # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
   # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
-  img_dir: ["/images","/images/lca","/images/MA","/images/Provins","/images/Bernstein","/images/London","/images/morozov","/images/Ochsenstein","/images/Star-Wars-Identities","/images/streetart","/images/Metz"]
+  img_dir: ["/images/"]
 
   # Whether to search in nested directories or not
   nested: true
