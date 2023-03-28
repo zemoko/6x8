@@ -2,6 +2,7 @@
 layout: instagram
 date:   2022-08-27
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacances

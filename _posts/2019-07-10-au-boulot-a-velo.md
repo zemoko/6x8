@@ -11,7 +11,7 @@ tags:
 coverImage: "auboulotavelo.png"
 ---
 
-![](/images/veloptimiste_logo_vect_evenement_CMJN-e1526551694732-279x300.jpg# book2left)Du 3 au 30 juin, c'était la dixième édition de ["Au boulot à vélo"](https://auboulotavelo.eu/), un challenge par équipe organisé sur l'eurometropole de Strasbourg par l'association [CADR67](https://cadr67.fr/).
+![](/images/2019/07/veloptimiste_logo_vect_evenement_CMJN-e1526551694732-279x300.jpg# book2left)Du 3 au 30 juin, c'était la dixième édition de ["Au boulot à vélo"](https://auboulotavelo.eu/), un challenge par équipe organisé sur l'eurometropole de Strasbourg par l'association [CADR67](https://cadr67.fr/).
 
 ## Strasbourg et le vélo
 
@@ -29,7 +29,7 @@ La semaine dernière, Elie appréciait la 6e place de [Bordeaux](https://copenha
 
 C'est simple : c’est **une compétition par équipe dans laquelle chaque établissement participant** – entreprise, association, administration, collectivité – **doit cumuler le plus grand nombre de kilomètres effectués à vélo par ses collaborateurs** sur des trajets domicile-travail et/ou professionnels pendant 4 semaines du 3 au 30 juin 2019.
 
-Les établissements sont classés en fonction de leur score calculé selon la formule suivante : ![score = nombre total de kilomètres parcourus x (nombre moyen de participants journaliers / effectif total de l'établissement)](/images/formule.jpg)
+Les établissements sont classés en fonction de leur score calculé selon la formule suivante : ![score = nombre total de kilomètres parcourus x (nombre moyen de participants journaliers / effectif total de l'établissement)](/images/2019/07/formule.jpg)
 
 Plusieurs défis viennent compléter cela, permettant le gains de bonus kilométriques :
 
@@ -41,8 +41,6 @@ Plusieurs défis viennent compléter cela, permettant le gains de bonus kilomét
 - **La soirée de la dernière chance** fait s'affronter les équipes pour d'ultime bonus
 
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Les équipes des salariés du <a href="https://twitter.com/CreditMutuel?ref_src=twsrc%5Etfw">@CreditMutuel</a> à Strasbourg participent activement au Challenge "Au boulot à Vélo" organisé par le <a href="https://twitter.com/CADR67?ref_src=twsrc%5Etfw">@CADR67</a>. Avec Nicolas Théry, nous avons voulu apporter notre soutien ce matin.<br>Ensemble, changeons ce qui peut l'être. <a href="https://t.co/UI7NPU19tf">pic.twitter.com/UI7NPU19tf</a></p>— Daniel Baal (@BaalDaniel) <a href="https://twitter.com/BaalDaniel/status/1143814218686369792?ref_src=twsrc%5Etfw">June 26, 2019</a></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Les résultats de "Au boulot à vélo"
 

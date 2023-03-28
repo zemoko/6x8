@@ -13,7 +13,8 @@ noImageOnPost: true
 
 Après [« Patient Zéro »](/2016/09/ma-critique-de-patient-zero-de-philippe-besson/), dans lequel Philippe Besson part à la recherche du premier patient atteint du sida, et [« Écoutez nos défaites »](http://www.6x8.org/2016/09/ma-critique-de-ecoutez-nos-defaites-de-laurent-gaude/), dans lequel Laurent Gaudé explore victoires et défaites dans un livre très beau mais parfois brutal voire violent, **j'avais envie de lire quelque chose de plus léger et, surtout, j'avais envie de rire**.
 
-![](/images/Trois_hommes_dans_un_bateau-220x300.jpg# book2right)**« Trois hommes dans un bateau »** me trotte dans la tête depuis un moment. Il est réputé pour être **un classique de l'humour anglais** et, fan inconditionnel de PG Woodehouse que je suis, il était temps que je m'y frotte.
+{% include image.html class="right book" %}
+**« Trois hommes dans un bateau »** me trotte dans la tête depuis un moment. Il est réputé pour être **un classique de l'humour anglais** et, fan inconditionnel de PG Woodehouse que je suis, il était temps que je m'y frotte.
 
 **« Trois hommes dans un bateau (sans oublier le chien) » raconte les aventures de Jérôme, le narrateur, parti en voyage sur la Tamise avec deux amis, George et Harris (sans oublier le chien, Montmorency).**
 

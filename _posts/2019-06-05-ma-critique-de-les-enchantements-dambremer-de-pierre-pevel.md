@@ -19,7 +19,8 @@ Je ne savais trop à quoi m'attendre en commençant « Les enchantements d'Ambr
 
 ## Entre dystopie et fantasy
 
-![](/images/91gEzc0nWxL-200x300.jpg# book2right) « Les enchantements d'Ambremer » est à la fois **un roman d'aventure** (Jules Verne n'est pas loin) et d'**enquête**, **entre dystopie et fantasy** (imaginons que ce même Jules Verne ne se prenne pas au sérieux).
+{% include image.html class="right book" %}
+« Les enchantements d'Ambremer » est à la fois **un roman d'aventure** (Jules Verne n'est pas loin) et d'**enquête**, **entre dystopie et fantasy** (imaginons que ce même Jules Verne ne se prenne pas au sérieux).
 
 Imaginez que la réalité ait toujours été composée de 3 mondes distincts : le nôtre, mais aussi l'**Outremonde** où vivent fées, dragons, gnomes, ondines et dryades, et enfin l'**Onirie**, le monde des rêves (et des cauchemars). Des passages ont toujours existé entre ces mondes, les druides et autres magiciens l'ont toujours connu, mais ils ont su se faire discrets. Imaginez maintenant qu'au XVIIIe siècle, Méliane, la reine de l'Outremonde, ait choisi de révéler l'existence de son royaume et que, depuis, les 3 mondes cohabitent et on a même construit une ligne de métro pour relier Ambremer à la Porte Maillot.
 

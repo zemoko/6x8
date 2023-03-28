@@ -3,6 +3,7 @@ layout: instagram
 title:  'Ouch, c’est (vraiment) pas facile ! #cardzzle #puzzle #licorne'
 date:   2021-08-29
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - boardgames

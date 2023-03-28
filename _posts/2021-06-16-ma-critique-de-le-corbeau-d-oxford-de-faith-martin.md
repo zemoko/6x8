@@ -11,7 +11,8 @@ coverImage: le-corbeau-d-oxford.jpg
 noImageOnPost: true
 ---
 
-![](/images/le-corbeau-d-oxford.jpg# book2right)Nous sommes en **1960**, dans l’**Oxfordshire**. Sir Marcus Deering, un riche industriel, reçoit des lettres de menaces anonymes. D’abord il n’y croit pas mais les menaces se font plus précises… jusqu’à cette lettre qui menace de tuer son fils, le lendemain à midi. Le jour dit, toute la police est sur le dents… mais il ne se passe rien. Enfin si, un autre jeune homme est retrouvé, assassiné… et ce jeune homme n’est autre que le fils caché de Sir Marcus !
+{% include image.html class="right book" %}
+Nous sommes en **1960**, dans l’**Oxfordshire**. Sir Marcus Deering, un riche industriel, reçoit des lettres de menaces anonymes. D’abord il n’y croit pas mais les menaces se font plus précises… jusqu’à cette lettre qui menace de tuer son fils, le lendemain à midi. Le jour dit, toute la police est sur le dents… mais il ne se passe rien. Enfin si, un autre jeune homme est retrouvé, assassiné… et ce jeune homme n’est autre que le fils caché de Sir Marcus !
 
 L’enquête va être mené par un duo improbable, mais efficace :
 

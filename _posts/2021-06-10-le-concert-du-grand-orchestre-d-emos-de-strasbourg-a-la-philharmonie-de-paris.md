@@ -3,6 +3,7 @@ layout: instagram
 title:  'Le concert du grand orchestre Démos de Strasbourg, à la Philharmonie de Paris'
 date:   2021-06-10
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - paris

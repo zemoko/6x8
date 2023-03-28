@@ -3,6 +3,7 @@ layout: instagram
 title:  'Sur le pont #vacances'
 date:   2022-08-24
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacanceds

@@ -12,7 +12,8 @@ coverImage: "CVT_Ecoutez-nos-defaites_3325.jpg"
 noImageOnPost: true
 ---
 
-![](/images/CVT_Ecoutez-nos-defaites_3325-158x300.jpg# book2right)Ma première lecture de la rentrée littéraire. Je n'ai pas pris de risques : on est rarement déçu avec Laurent Gaudé, et **"Écoutez nos défaites" est un bien beau roman, mêlant une construction complexe et un style tout en finesse**.
+{% include image.html class="right book" %}
+Ma première lecture de la rentrée littéraire. Je n'ai pas pris de risques : on est rarement déçu avec Laurent Gaudé, et **"Écoutez nos défaites" est un bien beau roman, mêlant une construction complexe et un style tout en finesse**.
 
 **"Écoutez nos défaites", ce sont 6 histoires qui se mêlent et s'entremêlent. 3 personnages fictifs contemporains, 3 grandes figures historiques.**
 

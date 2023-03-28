@@ -13,7 +13,8 @@ coverImage: "54afd8cd4b05f7fc57217b82272f9820.jpg"
 noImageOnPost: true
 ---
 
-![](/images/54afd8cd4b05f7fc57217b82272f9820-217x300.jpg# book2right)Je vous l'avais annoncé à la fin de [ma critique de « La Longue Terre »](http://www.6x8.org/2016/04/ma-critique-de-la-longue-terre-de-terry-pratchett-et-stephen-baxter/), je m'étais déjà jeté dans la suite... et, **comme le 1er opus, je l'ai dévoré, et beaucoup aimé.**
+{% include image.html class="right book" %}
+Je vous l'avais annoncé à la fin de [ma critique de « La Longue Terre »](http://www.6x8.org/2016/04/ma-critique-de-la-longue-terre-de-terry-pratchett-et-stephen-baxter/), je m'étais déjà jeté dans la suite... et, **comme le 1er opus, je l'ai dévoré, et beaucoup aimé.**
 
 Avec **un style toujours aussi plaisant**, **un humour toujours aussi subtil** et avec **énormément de références SF**, Stephen Baxter et Terry Pratchett reprennent le récit dix ans après la fin du premier livre. On retrouve **Josué** marié et père de famille, colon de la longue terre, mais on retrouve aussi, évidemment, **Lobsang**, **Sally Linsay**, **Maggie Kauffman** et bien d'autres. Pendant ces 10 années écoulées, la Longue Terre a commencée à être colonisée et on peut mesurer les profonds impacts de cette colonisation.
 

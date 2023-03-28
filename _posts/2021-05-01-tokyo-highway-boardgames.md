@@ -3,6 +3,7 @@ layout: instagram
 title:  'Tokyo Highway #boardgames'
 date:   2021-05-01
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - boardgames

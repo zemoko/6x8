@@ -6,18 +6,13 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "londres"
 coverImage: "MONUMENT.jpg" 
 cover2left: true
 ---
 
 Quand on monte en haut du [#Monument](https://www.google.com/maps/@51.51014,-0.08594,1181m/data=!3m1!1e3) à #Londres, on obtient un beau #diplôme
 
-<figure style="width:400px">
-	<img src="/images/IMG_39711.jpg" alt="">
-	<figcaption>Diplôme du Monument - Recto</figcaption>
-</figure>
+{% include image.html name="IMG_39711.jpg" caption='Diplôme du Monument - Recto' %}
 
-<figure style="width:400px">
-	<img src="/images/IMG_3972.jpg" alt="">
-	<figcaption>Diplôme du Monument - Verso</figcaption>
-</figure>
+{% include image.html name="3923842404_9c139190a0_b.jpg" caption='Diplôme du Monument - Verso' %}

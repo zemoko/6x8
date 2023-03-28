@@ -14,7 +14,7 @@ noImageOnPost: true
 
 <blockquote class="citation">Lord et Lady Hardcastle requièrent le plaisir de votre compagnie lors du bal masqué célébrant le retour de leur fille, Evelyn, de Paris. Les festivités auront lieu à Blackheath House durant le deuxième week-end de septembre. Étant donné l'isolement de Blackheath, un transport jusqu'à la demeure sera organisé pour tous les invités depuis le village proche d'Abberly.</blockquote>
 
-![](/images/717tSUBZ3hL-193x300.jpg# book2right)
+{% include image.html class="right book" %}
 
 ## C’est quoi, « Les sept morts d’Evelyn Hardcastle » ?
 

@@ -3,6 +3,7 @@ layout: instagram
 title:  'La semencerie #strasbourg'
 date:   2022-03-12
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - strasbourg

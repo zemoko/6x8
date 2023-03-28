@@ -13,7 +13,8 @@ noImageOnPost: true
 
 <blockquote class="citation">Il était une fois le Paris des Merveilles... Où l'on plante, pour la troisième fois, le décor d'un Paris qui n'exista jamais tout à fait.</blockquote>
 
-![](/images/Le-Royaume-Immobile-189x300.png# book2right)Suite (et fin ?) des aventures de **Louis Denizart Hippolyte Griffont**, mage le la loge parisienne du cercle Cyan, et d’**Isabel de Saint-Gil**, son enchanteresse de femme.
+{% include image.html class="right book" %}
+Suite (et fin ?) des aventures de **Louis Denizart Hippolyte Griffont**, mage le la loge parisienne du cercle Cyan, et d’**Isabel de Saint-Gil**, son enchanteresse de femme.
 
 Nous les retrouvons quelques mois après la fin du tome 2 alors que Griffont est pressenti pour représenter son cercle lors des prochaines élections du Parlement des Fées où, pour la première fois, des humains siègeront avec les autres peuples de l’Outremonde.
 

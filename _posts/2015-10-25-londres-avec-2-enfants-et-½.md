@@ -31,15 +31,15 @@ Même chose : je passe forcément à Covent Garden à chaque fois que je suis d
 <div id="mt-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/London/IMG_0005.jpg" alt="Métro"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0009.jpg" alt="Réparer le métro"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0013.jpg" alt="Bus"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0016.jpg" alt="Musée des transports"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0017.jpg" alt="Plan de métro"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0020.jpg" alt="Bus"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0027.jpg" alt="Fresque"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0029.jpg" alt="Bus"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0030.jpg" alt="Bus"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0005.jpg" alt="Métro"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0009.jpg" alt="Réparer le métro"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0013.jpg" alt="Bus"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0016.jpg" alt="Musée des transports"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0017.jpg" alt="Plan de métro"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0020.jpg" alt="Bus"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0027.jpg" alt="Fresque"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0029.jpg" alt="Bus"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0030.jpg" alt="Bus"></li>
 </ul>
 </div>
 </div>
@@ -51,7 +51,7 @@ Plutôt que de se ruiner chez Madame Tussaud (£33 par adulte, £28 par enfant..
 **En plus, on y voit quand même des Spiderman grandeur nature :)**
 
 <figure style="width: 670px">
-	<img src="/images/8080998548_b9441fd2b9_z.jpg" alt="Spiderman">
+	<img src="/images/2015/10/8080998548_b9441fd2b9_z.jpg" alt="Spiderman">
 	<figcaption lang="en">London Bookstores - FORBIDDEN PLANET # 03</figcaption>
 </figure>
 
@@ -66,18 +66,18 @@ _Gratuit (mais vous êtes encouragés à donner £5)_
 <div id="mhn-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/London/IMG_0050.jpg" alt="Natural History Museum"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0036.jpg" alt="Brontosaure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0037.jpg" alt="Brontosaure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0040.jpg" alt="Diplodocus"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0041.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/London/IMG_0042.jpg" alt="Squelette de dinosaure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0043.jpg" alt="Velociraptor"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0044.jpg" alt="Tyrannosaure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0045.jpg" alt="Tyrannosaure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0046.jpg" alt="Loulous"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0047.jpg" alt="Œufs de dinsoaure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0048.jpg" alt="Poissons"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0050.jpg" alt="Natural History Museum"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0036.jpg" alt="Brontosaure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0037.jpg" alt="Brontosaure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0040.jpg" alt="Diplodocus"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0041.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0042.jpg" alt="Squelette de dinosaure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0043.jpg" alt="Velociraptor"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0044.jpg" alt="Tyrannosaure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0045.jpg" alt="Tyrannosaure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0046.jpg" alt="Loulous"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0047.jpg" alt="Œufs de dinsoaure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0048.jpg" alt="Poissons"></li>
 </ul>
 </div>
 </div>
@@ -93,18 +93,18 @@ Ce que j'y ait découvert, par contre, c'est [l'aire de jeux](https://www.royalp
 <div id="hp-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/London/IMG_0051.jpg" alt="Albert Memorial"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0052.jpg" alt="Ecureuil"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0054.jpg" alt="Le bateau des pirates"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0055.jpg" alt="Le bateau de Peter Pan"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0056.jpg" alt="Chouette, une chouette !"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0057.jpg" alt="Des tobogans"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0058.jpg" alt="Un village indien"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0064.jpg" alt="Encore un écureuil"></li>
-<li class="splide__slide"><img src="/images/vIMG_0059.jpg" alt="Squirrel"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0060.jpg" alt="Time flies"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0061.jpg" alt="Hyde Park"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0062.jpg" alt="Hyde Park"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0051.jpg" alt="Albert Memorial"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0052.jpg" alt="Ecureuil"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0054.jpg" alt="Le bateau des pirates"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0055.jpg" alt="Le bateau de Peter Pan"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0056.jpg" alt="Chouette, une chouette !"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0057.jpg" alt="Des tobogans"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0058.jpg" alt="Un village indien"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0064.jpg" alt="Encore un écureuil"></li>
+<li class="splide__slide"><img src="/images/2015/10/vIMG_0059.jpg" alt="Squirrel"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0060.jpg" alt="Time flies"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0061.jpg" alt="Hyde Park"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0062.jpg" alt="Hyde Park"></li>
 </ul>
 </div>
 </div>
@@ -122,14 +122,14 @@ En bref : **très bel endroit, collection fournie et bien mise en valeur, perso
 <div id="wallace-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/London/IMG_0074.jpg" alt="Essayer une cote de maille"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0075.jpg" alt="Canon"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0076.jpg" alt="Armure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0077.jpg" alt="Armures"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0078.jpg" alt="Armure"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0079.jpg" alt="Chevalier sur sa monture"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0080.jpg" alt="Chevalier sur sa monture"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0081.jpg" alt="Wallace collection"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0074.jpg" alt="Essayer une cote de maille"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0075.jpg" alt="Canon"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0076.jpg" alt="Armure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0077.jpg" alt="Armures"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0078.jpg" alt="Armure"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0079.jpg" alt="Chevalier sur sa monture"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0080.jpg" alt="Chevalier sur sa monture"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0081.jpg" alt="Wallace collection"></li>
 </ul>
 </div>
 </div>
@@ -143,11 +143,11 @@ Comme on n'avait pas privilégier des musées et activités gratuites ou pas tro
 <div id="hamleys-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/London/IMG_0082.jpg" alt="Cabine téléphonique en lego"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0083.jpg" alt="Garde royal en lego"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0084.jpg" alt="Ironman en lego"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0085.jpg" alt="La Reine en lego"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0086.jpg" alt="Sherlock Holmes en lego"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0082.jpg" alt="Cabine téléphonique en lego"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0083.jpg" alt="Garde royal en lego"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0084.jpg" alt="Ironman en lego"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0085.jpg" alt="La Reine en lego"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0086.jpg" alt="Sherlock Holmes en lego"></li>
 </ul>
 </div>
 </div>
@@ -163,12 +163,12 @@ En vrac, je rajouterais :
 <div id="divers-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/London/IMG_0066.jpg" alt="Gherkin Tower"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0067.jpg" alt="Heron Tower"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0071.jpg" alt="Old Street"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0072.jpg" alt="Shoreditch"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0073.jpg" alt="CA4LA"></li>
-<li class="splide__slide"><img src="/images/London/IMG_0069.jpg" alt="Street art"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0066.jpg" alt="Gherkin Tower"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0067.jpg" alt="Heron Tower"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0071.jpg" alt="Old Street"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0072.jpg" alt="Shoreditch"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0073.jpg" alt="CA4LA"></li>
+<li class="splide__slide"><img src="/images/2015/10/London/IMG_0069.jpg" alt="Street art"></li>
 </ul>
 </div>
 </div>

@@ -3,6 +3,7 @@ layout: instagram
 title:  'Aujourd’hui, visite de la collection Morozov 😎 🖼'
 date:   2022-03-19
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags: []
 coverImage: 2022-03-19-aujourd-hui-visite-de-la-collection-morozov.jpg

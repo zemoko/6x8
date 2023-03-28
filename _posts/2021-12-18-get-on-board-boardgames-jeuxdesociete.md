@@ -3,6 +3,7 @@ layout: instagram
 title:  'Get On Board #boardgames #jeuxdesociete'
 date:   2021-12-18
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags: []
 coverImage: 2021-12-18-get-on-board-boardgames-jeuxdesociete.jpg

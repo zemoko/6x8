@@ -3,6 +3,7 @@ layout: instagram
 title:  'Bien arrivés ! 😎 🏔 ❄️ ⛷'
 date:   2022-04-10
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - montagne

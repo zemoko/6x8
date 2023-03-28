@@ -3,6 +3,7 @@ layout: instagram
 title:  'Col de la Chal'
 date:   2022-04-11
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - montagne

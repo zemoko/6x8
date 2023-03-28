@@ -30,9 +30,9 @@ Dès l'arrivée, un invader est là, en l'air, pour nous accueillir. Un écran p
 <div id="expo" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_8569.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8572.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/hello-my-game-is...-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8569.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8572.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/hello-my-game-is...-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.jpg" alt=""></li>
 </ul>
 </div>
 </div>
@@ -44,14 +44,14 @@ Ensuite, l'expo est composée de 4 salles, 4 « levels » quoi (belle trouvai
 <div id="invader1" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_8623.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a34f.jpeg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a359.jpeg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a35c.jpeg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8576.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a36d.jpeg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8578.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a331.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8623.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a34f.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a359.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a35c.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8576.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a36d.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8578.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a331.jpeg" alt=""></li>
 </ul>
 </div>
 </div>
@@ -61,10 +61,10 @@ Ensuite, l'expo est composée de 4 salles, 4 « levels » quoi (belle trouvai
 <div id="invader2" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_8589.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8584.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8587.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8585.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8589.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8584.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8587.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8585.jpg" alt=""></li>
 </ul>
 </div>
 </div>
@@ -74,14 +74,14 @@ La troisième salle permet de découvrir une autre facette de l’œuvre d'Invad
 <div id="invader3" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_8594.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8591.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a370.jpeg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8592.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a368.jpeg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8595.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8596.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a334.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8594.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8591.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a370.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8592.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a368.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8595.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8596.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a334.jpeg" alt=""></li>
 </ul>
 </div>
 </div>
@@ -91,12 +91,12 @@ Enfin, la quatrième est dernière salle présente **l'atelier d'Invader**. On p
 <div id="invader4" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_8607.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8600.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_a33f.jpeg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8614.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8605.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_8601.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8607.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8600.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/fullsizeoutput_a33f.jpeg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8614.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8605.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/05/IMG_8601.jpg" alt=""></li>
 </ul>
 </div>
 </div>

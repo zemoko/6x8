@@ -11,7 +11,8 @@ coverImage: "Ordinary-people.jpg"
 noImageOnPost: true
 ---
 
-![](/images/Ordinary-people-203x300.jpg# book2right)Cela fait déjà quelques temps que j’ai fini « Ordinary People » mais j’ai attendu pour en faire la critique car **je n’arrivais pas à décider si ce roman m’avait plu ou non**, s’il était intéressant ou parfaitement insipide. Je n’arrive pas à me décider, alors je vais tâcher d’analyser ces sentiments mitigés, cette insatisfaction.
+{% include image.html class="right book" %}
+Cela fait déjà quelques temps que j’ai fini « Ordinary People » mais j’ai attendu pour en faire la critique car **je n’arrivais pas à décider si ce roman m’avait plu ou non**, s’il était intéressant ou parfaitement insipide. Je n’arrive pas à me décider, alors je vais tâcher d’analyser ces sentiments mitigés, cette insatisfaction.
 
 Son titre annonce la couleur : « Ordinary People » parle de gens ordinaires. **Ne vous attendez pas à une histoire bouleversante et à des rebondissements venant rythmer votre lecture : c’est de l’ordinaire, du réel, du concret que narre Diana Evans**.
 

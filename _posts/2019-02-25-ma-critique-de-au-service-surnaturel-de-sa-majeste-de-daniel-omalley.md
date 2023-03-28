@@ -13,7 +13,8 @@ coverImage: "41O61Mga-L._SX210_.jpg"
 noImageOnPost: true
 ---
 
-![](/images/41O61Mga-L._SX210_-179x300.jpg# book2right)Vous qui n’avez pas encore lu « Au service surnaturel de sa majesté », vous avez bien de la chance car vous ne connaissez encore rien à la « Chequy », mais vous allez avoir la chance de le découvrir !
+{% include image.html class="right book" %}
+Vous qui n’avez pas encore lu « Au service surnaturel de sa majesté », vous avez bien de la chance car vous ne connaissez encore rien à la « Chequy », mais vous allez avoir la chance de le découvrir !
 
 ## La Chequy ?
 

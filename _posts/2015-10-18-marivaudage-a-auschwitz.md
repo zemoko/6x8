@@ -14,7 +14,8 @@ noImageOnPost: true
 
 ## Critique de **« La zone d'intérêt »** de _Martin Amis_
 
-![La Zone d'intérêt](/images/La_Zone_d_interet-220x300.jpg# book2right)L'endroit n'est jamais mentionné mais on reconnait Auschwitz.
+{% include image.html class="right book" %}
+L'endroit n'est jamais mentionné mais on reconnait Auschwitz.
 
 Trois voix se succèdent sous la plume de Martin Amis pour **raconter l'irracontable** dans une farce burlesque :
 
@@ -30,6 +31,6 @@ Je finirais donc ma critique par une citation de Primo Levi : « _Peut-être q
 
 * * *
 
-Retrouvez également la critique de [La flèche du temps](https://www.6x8.org/2016/02/ma-critique-de-la-fleche-du-temps-de-martin-amis/) du même auteur.
+Retrouvez également la critique de [La flèche du temps](/2016/02/ma-critique-de-la-fleche-du-temps-de-martin-amis/) du même auteur.
 
 Retrouvez [cette critique](http://www.senscritique.com/livre/La_Zone_d_interet/critique/70173192) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !

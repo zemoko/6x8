@@ -13,7 +13,8 @@ coverImage: "Photo-du-film-LHOMME-IRRATIONNEL.jpg"
 cover2left: true
 ---
 
-[![](/images/LHomme-irrationnel-affiche-200x300.jpg# book2left)]()Woody Allen est de ces cinéastes qui nous offre un film tous les automnes avec une ponctualité de métronome. Bon an, mal an, je ne m'y suis jamais ennuyé... mais je ne suis pas non plus toujours transporté.
+{% include image.html class="right book" %}
+Woody Allen est de ces cinéastes qui nous offre un film tous les automnes avec une ponctualité de métronome. Bon an, mal an, je ne m'y suis jamais ennuyé... mais je ne suis pas non plus toujours transporté.
 
 Cette année, **j'ai beaucoup aimé "L'homme irrationnel".**
 

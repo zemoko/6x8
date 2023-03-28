@@ -25,7 +25,7 @@ Les voici, traduits... et commentés&nbsp;:
 <p>Lorsque nous ajouterons de nouvelles technologies et plateformes pour le Web, nous les construirons pour <strong>transcender les frontières régionales et nationales</strong>. Les personnes situées à un emplacement donné doivent pouvoir afficher des pages Web à partir de n’importe quel endroit connecté au Web.</p>
 
 <div class="center"><figure class="center" style="max-width: 500px">
-	<img src="/images/Mozilla-300x124.png" alt="" width="300" height="124" />
+	<img src="/images/2019/08/Mozilla-300x124.png" alt="" width="300" height="124" />
 	<figcaption>Coucou le <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a> (enfin, bienvenue <strong>Mozilla</strong> tout court tant leurs valeurs collent avec la plupart de ces principes...)</figcaption>
 </figure></div>
 
@@ -38,7 +38,7 @@ Les voici, traduits... et commentés&nbsp;:
 <p>Nous développons des technologies et des plates-formes pour <strong>la distribution d’idées, l’interaction virtuelle et la collaboration de masse</strong> sur tous les sujets. Bien que ces outils puissent être utilisés pour le bien, ils peuvent également être utilisés pour répandre de la désinformation, du harcèlement, virtuel et hors-ligne, et pour créer des communautés pour le <a href="https://fr.wikipedia.org/wiki/Doxing">doxxing</a> et la persécution. Nous prendrons en compte ces risques dans le cadre de notre travail et <strong>nous développerons des technologies et des plates-formes Web respectant les droits des individus</strong> et fournissant des fonctionnalités leur permettant de lutter contre de tels dangers.</p>
 
 <div class="center"><figure class="center" style="max-width: 500px">
-	<img src="/images/GAFA-300x161.jpg" alt="" width="300" height="161" />
+	<img src="/images/2019/08/GAFA-300x161.jpg" alt="" width="300" height="161" />
 	<figcaption>Coucou les <abbr>GAFA</abbr>, on vous attends au tournant&nbsp;!</figcaption>
 </figure></div>
 
@@ -47,7 +47,7 @@ Les voici, traduits... et commentés&nbsp;:
 <p>Nous allons intégrer des fonctionnalités d'internationalisation et de localisation dans nos spécifications et nos sites Web. <strong>Nous devons rendre nos sites Web accessibles aux personnes handicapées</strong>. L'accessibilité implique un large éventail de handicaps, notamment des handicaps visuels, auditifs, physiques, de la parole, cognitifs, langagiers, d'apprentissage et neurologiques. <strong>Nous devons concevoir nos sites pour les utilisateurs des réseaux à faible bande passante et des équipements peu performants</strong>.</p>
 
 <div class="center"><figure class="center" style="max-width: 500px">
-	<img src="/images/e-accessible-300x70.png" alt="" width="300" height="70" />
+	<img src="/images/2019/08/e-accessible-300x70.png" alt="" width="300" height="70" />
 	<figcaption>Coucou le <strong><abbr>RGAA</abbr></strong> (et bienvenue à la <strong>Directive européenne</strong> relative à l'<strong>Accessibilité</strong>&nbsp;!</figcaption>
 </figure></div>
 
@@ -56,7 +56,7 @@ Les voici, traduits... et commentés&nbsp;:
 <p>Nous allons rédiger des spécifications et construire des plates-formes en accord avec notre responsabilité envers nos utilisateurs, en sachant que nous prenons des décisions qui altèrent <strong>leur capacité à protéger leurs données personnelles</strong>. Ces données incluent leurs conversations, leurs transactions financières et leur habitudes de vie. Nous commencerons par créer des technologies Web qui génèrent le moins de risques possible et nous veillerons à ce que nos utilisateurs comprennent les risques qu’ils courent en utilisant nos services.</p>
 
 <div class="center"><figure class="center" style="max-width: 500px">
-	<img src="/images/RGPD-300x104.jpg" alt="" width="300" height="104" />
+	<img src="/images/2019/08/RGPD-300x104.jpg" alt="" width="300" height="104" />
 	<figcaption>Coucou le <abbr>RGPD</abbr> (et bienvenue à la <strong>Directive européenne <span lang="en">e-privacy</span></strong>&nbsp;!)&nbsp;!</figcaption>
 </figure></div>
 
@@ -77,7 +77,7 @@ Les voici, traduits... et commentés&nbsp;:
 <p>Le Web, dans son ensemble, consomme beaucoup d’énergie. Les nouvelles technologies Web ne devraient pas aggraver cette situation. <strong>Nous prendrons en compte la consommation d'énergie lorsque nous introduirons de nouvelles technologies sur le Web</strong>.</p>
 
 <div class="center"><figure class="center" style="max-width: 400px">
-	<img src="/images/green-it-300x126.png" alt="" width="300" height="126" />
+	<img src="/images/2019/08/green-it-300x126.png" alt="" width="300" height="126" />
 	<figcaption>Coucou <strong lang="en">green <abbr>IT</abbr></strong></figcaption>
 </figure></div>
 
@@ -90,7 +90,7 @@ Les voici, traduits... et commentés&nbsp;:
 <p><strong>Nous ne créerons pas de technologies Web qui encouragent la création de sites Web ne fonctionnant que dans un seul navigateur</strong>. Nous nous attendons à ce que le contenu fourni en accédant à une <abbr>URL</abbr> donne une expérience cohérente lorsque l'utilisateur y accède à partir de différents appareils. La concurrence constante et la variété de choix offerts à nos utilisateurs par la mise en œuvre de plusieurs implémentations interopérables signifient que l'écosystème Web s'améliore constamment.</p>
 
 <div class="center"><figure class="center" style="max-width: 500px">
-	<img src="/images/amp-300x158.jpg" alt="" width="300" height="158" />
+	<img src="/images/2019/08/amp-300x158.jpg" alt="" width="300" height="158" />
 	<figcaption>Bye-bye <strong><abbr>AMP</abbr></strong> and co&nbsp;? (et Bye-bye <strong>"Ce site est optimisé pour Google Chrome"</strong>&nbsp;:)</figcaption>
 </figure></div>
 

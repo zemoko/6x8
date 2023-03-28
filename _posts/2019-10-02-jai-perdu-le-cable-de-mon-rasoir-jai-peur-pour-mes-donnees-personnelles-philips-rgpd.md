@@ -18,7 +18,7 @@ Oui, mais non, **je voudrais juste pouvoir recharger mon rasoir**.
 
 Je cherche alors des revendeurs pour aller voir IRL (dans la vraie vie quoi) si je peux trouver une solution... sauf que non, car j'ai la fâcheuse habitude de protéger ma vie privée et donc d'être fidèle à Firefox (on peut aussi appeler cela une saine hygiène personnelle).
 
-![Votre niveau de consentement des cookies ne nous permet pas d'afficher le contenu de cette section. Le minimum requis est "cookies publicitaires ciblés"](/images/IMG_3132-300x220.jpg)
+![Votre niveau de consentement des cookies ne nous permet pas d'afficher le contenu de cette section. Le minimum requis est "cookies publicitaires ciblés"](/images/2019/10/IMG_3132-300x220.jpg)
 Sauf que, quand on refuse les dispositifs de pistage, que se passe-t'il [sur le site de Philips](https://www.philips.fr/c-p/NT5180_15/-/store-locator#location=67000) ? Un message vous informe que **pour obtenir une liste de revendeurs, en réponse à votre code postal, il faut consentir à être tracké pour de la publicité ciblée**.
 
 Deux hypothèses : **soit les développeurs du site sont des brêles**, **soit les juristes de la boîte sont des buses** (voire les deux en fait) car :
@@ -38,7 +38,7 @@ Ce consentement, pour être valide doit être :
 
 Le message d'erreur est cliquable (qui l'aurait deviné ? Les liens ne sont pas indiqués visuellement et seul le curseur change au survol. D'ailleurs ce ne sont pas de "vrais" liens, j'ai donc de la chance d'être valide puisque Philips n'en a visiblement rien à faire, non plus, de l'accessibilité numérique) et affiche une fenêtre modale pour exprimer son consentement en matière de cookies :
 
-![Vos choix en matière de cookies sur ce site](/images/Capture-d’écran-2019-10-02-à-11.11.52-1024x727.png)
+![Vos choix en matière de cookies sur ce site](/images/2019/10/Capture-d’écran-2019-10-02-à-11.11.52-1024x727.png)
 
 - Au minimum, et c'est normal, vous acceptez les **Cookies de fonctionnement** (mais, houlala, tu ne leurs permet pas d'_améliorer_ ton expérience utilisateur)
 - Ensuite, si vous êtes sympa, vous pouvez accepter les **Cookies de mesure d’audience** (ce serait d'autant plus sympa qu'ils précisent que cela pourrait leurs permettre d'améliorer leur efficacité et que, visiblement, ils en ont bien besoin)

@@ -1,0 +1,9 @@
+# _data/picture.yml
+
+media_queries:
+    xsmall: 'max-width: 500px'
+    small: 'max-width: 700px'
+    medium: 'max-width: 800px'
+    large: 'max-width: 900px'
+    xlarge: 'max-width: 1200px'
+    wide: 'min-width: 1201px'

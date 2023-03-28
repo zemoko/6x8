@@ -1,6 +1,6 @@
 ---
 layout: instagram
-title: "Je suis là galette, la galette   #miam"
+title: "Je suis là galette, la galette #miam"
 date: "2020-01-05"
 categories: 
   - "trucs-instagrammes"

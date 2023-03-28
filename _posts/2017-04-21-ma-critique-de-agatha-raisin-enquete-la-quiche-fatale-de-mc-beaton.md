@@ -11,7 +11,8 @@ coverImage: "mo_9782226317322.jpg"
 noImageOnPost: true
 ---
 
-![](/images/mo_9782226317322.jpg# book2right)Agatha Raisin est dynamique mais, à 52 ans, elle décide de revendre sa boite de comm’ londonienne pour réaliser un rêve d’enfance et prendre une retraite anticipée à **Carsely**, un petit village des Cotswold, une verdoyante campagne du coté d’Oxford.
+{% include image.html class="right book" %}
+Agatha Raisin est dynamique mais, à 52 ans, elle décide de revendre sa boite de comm’ londonienne pour réaliser un rêve d’enfance et prendre une retraite anticipée à **Carsely**, un petit village des Cotswold, une verdoyante campagne du coté d’Oxford.
 
 Mais Agatha est plutôt solitaire, et puis elle a le caractère bien trempé, elle est un brin agaçante, elle peut être quelque peu vindicative... alors **ce n’est pas aussi facile qu’elle l’avait imaginé de se faire à sa nouvelle vie et de s’intégrer dans son nouveau village**.
 

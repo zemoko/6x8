@@ -3,6 +3,7 @@ layout: instagram
 title:  'Océarium du Croisic'
 date:   2022-08-17
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacances

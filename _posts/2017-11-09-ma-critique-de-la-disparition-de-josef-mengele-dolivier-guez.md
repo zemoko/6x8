@@ -11,7 +11,7 @@ coverImage: "2017_09_21_olivier_guez_la_disparition_de_josef_mengele.jpeg"
 noImageOnPost: true
 ---
 
-![](/images/2017_09_21_olivier_guez_la_disparition_de_josef_mengele-300x217.jpeg# book2right)
+{% include image.html class="right book" %}
 
 **Josef Mengele était médecin à Auschwitz**. On le surnomme parfois **« L’ange de la mort »** ou **« Le boucher d’Auschwitz »**. Il participait à la sélection des arrivants pour déterminer ceux capables de travailler, ce qui condamnait les autres à la chambre à gaz. Il collectionnait les yeux bleus qu’il épinglait tels des papillons sur les murs de son bureau et pratiquait toutes sortes d’expérimentations, notamment sur les jumeaux.
 

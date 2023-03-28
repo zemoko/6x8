@@ -16,7 +16,8 @@ noImageOnPost: true
 
 ## À l'ouest, du nouveau !
 
-[![](/images/La_Longue_Terre-222x300.jpg# book2right)]()Tout commence quand un scientifique mets à disposition, sur internet, le plan du « Passeur », **une machine qui, si on l'assemble en respectant des consignes précises et qu'on finit par lui ajouter sa source d'énergie (une pomme de terre), permet de se déplacer vers les terres parallèles**, dans un sens ou dans l'autre, à l'infini.
+{% include image.html class="right book" %}
+Tout commence quand un scientifique mets à disposition, sur internet, le plan du « Passeur », **une machine qui, si on l'assemble en respectant des consignes précises et qu'on finit par lui ajouter sa source d'énergie (une pomme de terre), permet de se déplacer vers les terres parallèles**, dans un sens ou dans l'autre, à l'infini.
 
 En fait, non, tout avait commencé avant... car certains avaient déjà la capacité de passer sans avoir besoin de cette machine. Mais c'est le « Jour du Passage » qui a ouvert à toute l'Humanité cette « Longue Terre » infinie.
 

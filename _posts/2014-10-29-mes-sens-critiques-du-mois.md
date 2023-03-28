@@ -12,7 +12,7 @@ tags:
 
 Ce mois-ci, j'ai été voir **2 films** :
 
-![Magic in the Moonlight](/images/Magic_in_the_Moonlight.jpg# book2right)
+{% include image.html name="Magic_in_the_Moonlight.jpg" alt="Magic in the Moonlight" class='right' %}
 
 ## Magic in the Moonlight, de Woody Allen
 
@@ -28,7 +28,7 @@ Bref, si comme moi vous êtes fan de Woodehouse, allez le voir ! (et si vous ave
 
 <hr class="nof"/>
 
-![Mommy](/images/Mommy.jpg# book2right)
+{% include image.html name="Mommy.jpg" alt="Mommy" class='right' %}
 
 ## Mommy, de Xavier Dolan
 
@@ -40,7 +40,7 @@ J'ai lu **1 livre** (enfin, j'en ai critiqué un mais j'ai bien plus lu que cela
 
 <hr class="nof"/>
 
-![Le Royaume](/images/Le_Royaume.jpg# book2right)
+{% include image.html name="Le_Royaume.jpg" alt="Le Royaume" class='right' %}
 
 ## Le Royaume, d'Alexandre Carrère
 

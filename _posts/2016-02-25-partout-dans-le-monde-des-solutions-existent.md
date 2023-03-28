@@ -25,20 +25,20 @@ cover2left: true
     <strong>À Detroit, la ville est en pleine décroissance forcée</strong> (700&nbsp;000 habitants aujourd’hui alors qu’ils étaient près 2&nbsp;millions en 1950) <strong>et doit se ré-inventer</strong>. Pour continuer à pouvoir trouver des légumes frais, et pour manger mieux et moins cher, la solution qu’ont trouvé les habitants est simple&nbsp;: investir les friches industrielles pour y cultiver des légumes.<br />
     <i>À lire&nbsp;:</i> <a href="http://www.lexpress.fr/actualite/monde/amerique-nord/comment-detroit-se-tourne-vers-l-agriculture_913276.html">Comment Détroit se tourne ver l’agriculture</a><br />
     <figure style="width:670px">
-      <a href="https://www.flickr.com/photos/ohbeatrice/6980195655/"><img src="/images/6980195655_0553feebae_z.jpg" alt="Photo de ohbeatrice en licence CC BY-NC" width="640" height="424" /></a>
+      <a href="https://www.flickr.com/photos/ohbeatrice/6980195655/"><img src="/images/2016/02/6980195655_0553feebae_z.jpg" alt="Photo de ohbeatrice en licence CC BY-NC" width="640" height="424" /></a>
       <figcaption>Photo de <a href="https://www.flickr.com/photos/ohbeatrice/">ohbeatrice</a> en licence <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC</a></figcaption>
     </figure></li>
   <li>
     <strong>En Normandie, la <a href="http://www.fermedubec.com/">Ferme du Bec Hellouin</a> de Charles et Perrine Hervé-Gruyer obtient des rendements à faire pâlir les agriculteurs industriels</strong>. Leur recette&nbsp;? La culture manuelle, la permaculture, l’association intelligente des plantes... Bref s’inspirer des écosystèmes naturels et tirer au mieux parti de chaque surface disponible.<br />
     <figure style="width:630px">
-        <a href="http://www.athentransition.be/articles/article-permaculture-la-ferme-du-bec-hellouin-74792314-html/"><img src="/images/ferme-bec-helloin-image.axd_.jpeg" alt="Cette photo provient du blog Ath en transition. Elle en licence CC BY-NC-SA" width="600" height="402" /></a>
+        <a href="http://www.athentransition.be/articles/article-permaculture-la-ferme-du-bec-hellouin-74792314-html/"><img src="/images/2016/02/ferme-bec-helloin-image.axd_.jpeg" alt="Cette photo provient du blog Ath en transition. Elle en licence CC BY-NC-SA" width="600" height="402" /></a>
         <figcaption>Cette photo provient du blog <a href="http://www.athentransition.be/articles/article-permaculture-la-ferme-du-bec-hellouin-74792314-html/">Ath en transition</a>. Elle en licence <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a></figcaption>
     </figure></li>
   <li>
       <strong>À Totnes</strong>, dans le sud-ouest de l’Angleterre, <strong>on s’interroge&nbsp;: «&nbsp;Comment se débarrasser de cette addiction au pétrole&nbsp;? Comment rendre nos communautés résilientes face au double défi du pic pétrolier et des changements climatiques&nbsp;?&nbsp;»</strong> et la conclusion c’est qu’il était illusoire d’attendre une réponse en provenance des États et qu’en conséquence, autant commencer localement&nbsp;: mettre en place des permacultures communautaires sur un maximum de surfaces, favoriser le commerce local et milles  initiatives favorisant les échanges et les expérimentations.<br />
       <i>À lire&nbsp;:</i> <a href="http://reporterre.net/A-Totnes-la-transition-se-porte">À Totnes, la «&nbsp;transition&nbsp;» se porte très bien</a><br />
       <figure style="width:670px">
-        <a href="https://commons.wikimedia.org/wiki/File:Totnes_High_Street.jpg"><img src="/images/640px-Totnes_High_Street.jpg" alt="La photo est de Manfred Heyde. Elle est en licence GFDL" width="640" height="437" /></a>
+        <a href="https://commons.wikimedia.org/wiki/File:Totnes_High_Street.jpg"><img src="/images/2016/02/640px-Totnes_High_Street.jpg" alt="La photo est de Manfred Heyde. Elle est en licence GFDL" width="640" height="437" /></a>
         <figcaption>La photo est de <a href="https://commons.wikimedia.org/wiki/User:Manfred_Heyde">Manfred Heyde</a>. Elle est en licence <a href="https://en.wikipedia.org/wiki/GNU_Free_Documentation_License"><abbr title="GNU Free Documentation Licence">GFDL</abbr></a></figcaption></figure></li>
   <li>
     <strong>Pierre Rabhi</strong> est agriculteur, philosophe, écrivain et penseur. Il <strong>défend un mode de société plus respectueux des populations et de la terre</strong> et soutient le développement de pratiques agricoles respectueuses de l’environnement et préservant les ressources naturelles.</li>
@@ -55,13 +55,13 @@ cover2left: true
     <strong>Dans le Nord-Pas-de-Calais</strong>, Emmanuel Druon est <abbr>PDG</abbr> de l’entreprise <strong>Pocheco qui produit des enveloppes durables</strong>. Chez Pocheco, on s’efforce d’<strong>appliquer des principes «&nbsp;écolonomiques&nbsp;»</strong> à la gestion de l’entreprise partant du principe que «&nbsp;Il est plus économique de produire de manière écologique.&nbsp;». Réflexions sur l’énergie consommée, sur l’optimisation de l’utilisation, et du recyclages, de toutes les matières premières, mais aussi sur l’organisation humaine de l’entreprise et sur le modèle d’utilisation et de redistribution de ses bénéfices.<br />
     <i>À lire&nbsp;:</i> <a href="http://www.liberation.fr/futurs/2015/08/16/et-plis-c-est-tout_1364383">Emmanuel Druon&nbsp;: Et plis c’est tout</a><br />
     <figure style="width:330px"><a href="http://www.ecolonomie-lelivre.fr/">
-      <img src="/images/ecolonomie-entreprendre-sans-detruire-624x624-300x300.jpg" alt="Ecolonomie, le livre" width="300" height="300" /></a>
+      <img src="/images/2016/02/ecolonomie-entreprendre-sans-detruire-624x624-300x300.jpg" alt="Ecolonomie, le livre" width="300" height="300" /></a>
     </figure></li>
   <li>
     <strong>À Copenhague, on travaille à la ville aux piétons, aux vélos et, plus largement, aux habitants</strong>. Jan Gehl, architecte et Urbaniste, explique que «&nbsp;Plus vous donnerez de la place aux voitures, plus vous aurez de voitures. Plus vous donnerez de la place aux vélos, plus vous aurez de vélos.&nbsp;» Le choix est vite fait... non&nbsp;?<br />
     <i>À lire&nbsp;:</i> <a href="http://transports.blog.lemonde.fr/2014/05/09/comment-copenhague-est-devenue-la-capitale-europeenne-du-velo/">Comment Copenhague est devenue la capitale européenne du vélo</a><br />
     <figure style="width:930px">
-      <a href="https://500px.com/photo/83662895/christiania-bikes-by-daniele-zanni?ctx_page=1&amp;from=search&amp;ctx_q=copenhagen+bike&amp;ctx_type=photos&amp;ctx_ccLicense=by&amp;ctx_sort=relevancehttp://"><img src="/images/stock-photo-83662895.jpg" alt="Cette photo est de Daniele Zanni. Elles est en CC BY" width="900" height="600" /></a>
+      <a href="https://500px.com/photo/83662895/christiania-bikes-by-daniele-zanni?ctx_page=1&amp;from=search&amp;ctx_q=copenhagen+bike&amp;ctx_type=photos&amp;ctx_ccLicense=by&amp;ctx_sort=relevancehttp://"><img src="/images/2016/02/stock-photo-83662895.jpg" alt="Cette photo est de Daniele Zanni. Elles est en CC BY" width="900" height="600" /></a>
       <figcaption>Cette <a href="https://500px.com/photo/83662895/christiania-bikes-by-daniele-zanni?ctx_page=1&from=search&ctx_q=copenhagen+bike&ctx_type=photos&ctx_ccLicense=by&ctx_sort=relevance">photo</a> est de <a href="https://500px.com/syymza">Daniele Zanni</a>. Elles est en <a href="https://creativecommons.org/licenses/by/2.0/fr/">CC BY</a></figcaption>
     </figure></li>
   <li>
@@ -70,7 +70,7 @@ cover2left: true
 </ul>
 
 <figure style="width:330px">
-  <img src="/images/Totnes-21-Pound-Note-Valeport-Support.jpg" alt="Le billet de 21 Totnes Pound" width="300" height="156"  />
+  <img src="/images/2016/02/Totnes-21-Pound-Note-Valeport-Support.jpg" alt="Le billet de 21 Totnes Pound" width="300" height="156"  />
 </figure>
 
 <h2>Politique</h2>
@@ -85,7 +85,7 @@ cover2left: true
     <strong>En Islande</strong>, d’ailleurs, après la crise financière de 2008 qui a amené le pays près de la faillite, on a tiré au sort 1000 citoyens pour en tirer des conclusions, c’est à dire écrire un cahier des charges pour amender la constitution de manière à ce que ça ne se reproduise pas. <strong>Katrín Oddsdóttir fait partie du groupe de 25&nbsp;islandais en assemblée constituante 2.0</strong>.<br />
     <i>À lire&nbsp;:</i> <a href="https://www.opendemocracy.net/ourkingdom/phil-england/changing-way-politics-works-interview-with-katrin-oddsdottir" lang="en">Changing the way politics works: an interview with Katrin Oddsdottir [en]</a><br />
     <figure style="width:670px">
-      <a href="https://commons.wikimedia.org/wiki/File:Kvinnostrejk_i_Reykjavik_%281%29.jpg" rel="attachment wp-att-1710"><img src="/images/640px-Kvinnostrejk_i_Reykjavik_1.jpg" alt="Cette photo est de Magnus Fröderberg. Elle est en licence CC BY-SA" width="640" height="427" /></a>
+      <a href="https://commons.wikimedia.org/wiki/File:Kvinnostrejk_i_Reykjavik_%281%29.jpg" rel="attachment wp-att-1710"><img src="/images/2016/02/640px-Kvinnostrejk_i_Reykjavik_1.jpg" alt="Cette photo est de Magnus Fröderberg. Elle est en licence CC BY-SA" width="640" height="427" /></a>
       <figcaption>Cette <a href="https://commons.wikimedia.org/wiki/File:Kvinnostrejk_i_Reykjavik_%281%29.jpg">photo</a> est de <b>Magnus Fröderberg</b>. Elle est en licence <a href="https://creativecommons.org/licenses/by-sa/2.0/fr/">CC BY-SA</a></figcaption>
     </figure></li>
 </ul>

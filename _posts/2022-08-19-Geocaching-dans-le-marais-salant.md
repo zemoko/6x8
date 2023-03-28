@@ -3,6 +3,7 @@ layout: instagram
 title:  'Geocaching dans le marais salant #vacances'
 date:   2022-08-19
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacances

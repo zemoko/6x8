@@ -11,7 +11,8 @@ coverImage: "9782207260128.jpg"
 noImageOnPost: true
 ---
 
-![](/images/9782207260128-215x300.jpg# book2right)Nous avons fini il y a peu la saison 3 de **« The Crown »**, série que nous apprécions toujours autant. Alors, pour ne pas quitter « the Queen » si rapidement, j’ai ressorti un livre qui était depuis un bon moment dans ma PAL (Pile À Lire) : **« La Reine des lectrices »**.
+{% include image.html class="right book" %}
+Nous avons fini il y a peu la saison 3 de **« The Crown »**, série que nous apprécions toujours autant. Alors, pour ne pas quitter « the Queen » si rapidement, j’ai ressorti un livre qui était depuis un bon moment dans ma PAL (Pile À Lire) : **« La Reine des lectrices »**.
 
 Je vous fais le pitch avec la quatrième de couverture : « Que se passerait-il outre-Manche si Sa Majesté la Reine se découvrait une passion pour la lecture ? Si, tout d'un coup, rien n'arrêtait son insatiable soif de livres, au point qu'elle en vienne à négliger ses engagements royaux ? »
 

@@ -44,15 +44,15 @@ J'aime beaucoup les clin d’œil et les allusions plus ou moins discrètes qui 
 <div id="jardin-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/71234729_976513089348706_184540916826711371_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/72410257_2368546753362788_4189585875336741156_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/71870908_530088767558860_5892053874185258890_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/69271563_368445157393001_2703218159290229705_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/66823908_1859231620888335_1258015999417546279_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/66304626_2439347306126657_5462203439568469669_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/67568747_127892448473789_6654739684311271373_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/66413664_2386941631558666_4597465839033169871_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/69807076_192636408433806_7914540101871050547_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/10/71234729_976513089348706_184540916826711371_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/10/72410257_2368546753362788_4189585875336741156_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/10/71870908_530088767558860_5892053874185258890_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/09/69271563_368445157393001_2703218159290229705_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/66823908_1859231620888335_1258015999417546279_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/66304626_2439347306126657_5462203439568469669_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/67568747_127892448473789_6654739684311271373_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/66413664_2386941631558666_4597465839033169871_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08s/69807076_192636408433806_7914540101871050547_n.jpg" alt=""></li>
 </ul>
 </div>
 </div>

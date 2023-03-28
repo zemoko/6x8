@@ -12,7 +12,8 @@ coverImage: "couv7225099.jpg"
 noImageOnPost: true
 ---
 
-![](/images/couv7225099-207x300.jpg# book2right)Une nouvelle arche, de nouveaux personnages, de nouvelles familles, et donc de nouveaux pouvoirs familiaux … **L’univers de Christelle Dabos est toujours aussi cohérent, et passionnant**.
+{% include image.html class="right book" %}
+Une nouvelle arche, de nouveaux personnages, de nouvelles familles, et donc de nouveaux pouvoirs familiaux … **L’univers de Christelle Dabos est toujours aussi cohérent, et passionnant**.
 
 **Tome après tome, je vais, pour ma part, de coup de cœur en coup de cœur.**
 

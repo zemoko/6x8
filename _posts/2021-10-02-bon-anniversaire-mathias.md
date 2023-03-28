@@ -3,6 +3,7 @@ layout: instagram
 title:  'Bon anniversaire Mathias 🎂'
 date:   2021-10-02
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - miam

@@ -21,7 +21,7 @@ Un billet rapide pour vous conseiller une série TV que je viens moi-même de d�
 
 Sam pourrait se rendre à la police et les laisser gérer... mais ce serait trop simple. Il se retrouve alors embarqué dans une tourbillon de catastrophes et d'aventures qui n'en finit plus (enfin pendant 6 épisodes de 30 minutes quoi).
 
-![](/images/the-wrong-mans.jpg)
+![](/images/2016/01/the-wrong-mans.jpg)
 
 De l'humour british, de l'absurde (ça m'a aussi un peu fait penser à _Hero Corp_), des gags et du burlesque. C'est hilarant, de(ux) bons acteurs et du rythme.
 

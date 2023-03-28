@@ -11,7 +11,8 @@ coverImage: "51vXfUiN8JL._SX195_.jpg"
 noImageOnPost: true
 ---
 
-![](/images/51vXfUiN8JL._SX195_-181x300.jpg# book2right)L'histoire se passe à Melancholy Cove, petite cité balnéaire sur la côte californienne. Tous les ans, à la fin de la saison touristique, Melancholy Cove redevient calme, voire morne, à la grande satisfaction de ses habitants. Tous les ans... mais pas cette année.
+{% include image.html class="right book" %}
+L'histoire se passe à Melancholy Cove, petite cité balnéaire sur la côte californienne. Tous les ans, à la fin de la saison touristique, Melancholy Cove redevient calme, voire morne, à la grande satisfaction de ses habitants. Tous les ans... mais pas cette année.
 
 **Cette année, trois évènements vont changer la donne :**
 

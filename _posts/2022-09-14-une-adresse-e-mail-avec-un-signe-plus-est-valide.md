@@ -39,7 +39,8 @@ cover2left: true
 <p>De nombreux super-utilisateurs utilisent la caractère «&nbsp;+&nbsp;» qui permet de <strong>disposer, virtuellement, d’un nombre infini d’adresses <span lang="en">e-mail</span></strong>.</p>
 
 <p>Son usage permet notamment de&nbsp;:</p>
-<figure class="right"><img src="/images/gmail-rule.png" alt="Règle Gmail" width="300"></figure>
+
+{% include image.html name="gmail-rule.png" class="right" alt="Règle Gmail" width="300" %}
 <ul>
 	<li><strong>taguer, ou filtrer</strong>, simplement les messages que vous recevez</li>
 	<li><strong>identifier à qui vous donnez cette adresse</strong>. Dans le cas où le site auquel vous l’avez donné la revends à un spammeur, ou s’il se la fait dérobé par un hacker, et que vous recevez des messages non-sollicités, vous pourrez facilement identifier le coupable (et, au besoin, vous pourrez définir une règle pour les supprimer automatiquement).</li>
@@ -56,9 +57,9 @@ cover2left: true
 <p>Ce n’est pas bien compliqué, c’est standard et c’est facile… mais <strong>nombreux sont les sites/développeurs/services clients qui n’en ont rien à faire</strong>. Voici quelques mauvais élèves, et quelques réponses qu’on m’a fait dernièrement (et qui m’ont convaincu de rédiger ce billet)&nbsp;:</p>
 
 <ul>
-	<li><figure class="right"><img src="/images/hachette.png" alt="Veuillez compléter / contrôler votre e-mail." width="400"></figure>J'aime bien Astérix et j'ai songé à m'abonner à la «&nbsp;boîte des irréductibles&nbsp;» d'<strong>Hachette Collections</strong>... mais en fait, non.</li>
-	<li class="nof"><figure class="right"><img src="/images/vp.png" alt="J'ai le regret de vous confirmer que le format de votre adresse n'est techniquement pas conforme à celui accepté par notre site" width="400"></figure>Client depuis 17&nbsp;ans de <strong>Veepee, ex Ventes Privées</strong>, j'en avais plutôt une bonne image... mais j'aurais aimé qu'il me permettent de renseigner une adresse valide... bon ben... tant pis (du coup, j'ai aussi regardé les traceurs et ils ne sont pas non plus copains avec le <abbr>CNIL</abbr>...).</li>
-	<li class="nof"><figure class="right"><img src="/images/petit-bateau.png" alt="Nous sommes désolés mais cette adresse email n'est pas acceptée pouvez-vous nous en fournir une autre s'il vous plait ?" width="400"></figure>Même réponse quand on annonce à <strong>Petit Bateau</strong> qu'on a pu s'inscrire correctement avec, mais qu'on ne peut pas l'utiliser pour s'abonner aux <span lang="en">newsletters</span>. On notera que tout comme Veepee, ils n'en ont aussi rien à faire de mon consentement quand il s'agit de faire fuiter mes données, faut croire que la qualité, c'est un sujet de fonds... mais pas pour eux. D'ailleurs, je vous ai zommé la capture de leur mail de réponse car ils ne savent pas non plus envoyer des messages adaptés à une lecture sur <span lang="en">smartphone</span>...</li> 
+	<li><figure class="right"><img src="/images/2022/09/hachette.png" alt="Veuillez compléter / contrôler votre e-mail." width="400"></figure>J'aime bien Astérix et j'ai songé à m'abonner à la «&nbsp;boîte des irréductibles&nbsp;» d'<strong>Hachette Collections</strong>... mais en fait, non.</li>
+	<li class="nof"><figure class="right"><img src="/images/2022/09/vp.png" alt="J'ai le regret de vous confirmer que le format de votre adresse n'est techniquement pas conforme à celui accepté par notre site" width="400"></figure>Client depuis 17&nbsp;ans de <strong>Veepee, ex Ventes Privées</strong>, j'en avais plutôt une bonne image... mais j'aurais aimé qu'il me permettent de renseigner une adresse valide... bon ben... tant pis (du coup, j'ai aussi regardé les traceurs et ils ne sont pas non plus copains avec le <abbr>CNIL</abbr>...).</li>
+	<li class="nof"><figure class="right"><img src="/images/2022/09/petit-bateau.png" alt="Nous sommes désolés mais cette adresse email n'est pas acceptée pouvez-vous nous en fournir une autre s'il vous plait ?" width="400"></figure>Même réponse quand on annonce à <strong>Petit Bateau</strong> qu'on a pu s'inscrire correctement avec, mais qu'on ne peut pas l'utiliser pour s'abonner aux <span lang="en">newsletters</span>. On notera que tout comme Veepee, ils n'en ont aussi rien à faire de mon consentement quand il s'agit de faire fuiter mes données, faut croire que la qualité, c'est un sujet de fonds... mais pas pour eux. D'ailleurs, je vous ai zommé la capture de leur mail de réponse car ils ne savent pas non plus envoyer des messages adaptés à une lecture sur <span lang="en">smartphone</span>...</li> 
 	<li>...</li>
 </ul>
 

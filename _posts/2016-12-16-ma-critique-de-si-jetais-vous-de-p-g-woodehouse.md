@@ -12,7 +12,8 @@ coverImage: "51gwNadkaKL._SX195_.jpg"
 noImageOnPost: true
 ---
 
-![](/images/51gwNadkaKL._SX195_.jpg# book2right)« Anthony, cinquième comte de Droitwich, découvre qu’il a été échangé, au berceau, avec le fils de sa nourrice, Syd Price, actuellement coiffeur à Londres ». Hé oui, « La vie est un long fleuve tranquille » n’a rien inventé, **dès 1931 le génial Sir PG Woodehouse avait déjà imaginé l’échange de bébés à la naissance !**
+{% include image.html class="right book" %}
+« Anthony, cinquième comte de Droitwich, découvre qu’il a été échangé, au berceau, avec le fils de sa nourrice, Syd Price, actuellement coiffeur à Londres ». Hé oui, « La vie est un long fleuve tranquille » n’a rien inventé, **dès 1931 le génial Sir PG Woodehouse avait déjà imaginé l’échange de bébés à la naissance !**
 
 Comme dans tout bon Woodehouse, **on bascule rapidement dans un vaudeville animé, voire effréné**, où :
 

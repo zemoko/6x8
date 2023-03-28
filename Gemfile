@@ -18,7 +18,6 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-sitemap'
   gem 'jekyll-image-size'
-  gem 'jekyll-responsive-image'
   gem 'jekyll-webp'
 end
 
@@ -35,3 +34,10 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem 'jekyll-paginate'
+gem "webrick", "~> 1.7"
+
+gem "jekyll-mastodon_webfinger", "~> 1.0"
+
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'

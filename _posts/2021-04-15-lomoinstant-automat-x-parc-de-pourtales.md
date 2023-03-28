@@ -3,9 +3,10 @@ layout: post
 title: "Lomo'Instant Automat x Parc de Pourtalès"
 date: "2021-04-15"
 categories: 
+  - "trucs-pris-en-photo"
   - "trucs-de-lomographe"
+  - "trucs-de-parisien"
   - "qui-sont-maintenant-alsaciens"
-  - "trucs"
 tags: 
   - "lomo"
   - "strasbourg"

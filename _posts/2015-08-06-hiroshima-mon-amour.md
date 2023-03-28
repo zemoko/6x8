@@ -24,7 +24,9 @@ Depuis 1949, Hiroshima est la Cité de la Paix... et c'est effectivement la prem
 
 ## Conseil no 2 : loger au World Friendship Center
 
-Le [World Friendship Center](http://homepage2.nifty.com/wfchiroshima/) n'est ni un hôtel, ni une auberge de jeunesse : c'est une maison d'hôte, assez proche du centre, appartenant à une ONG américaine qui vous propose de vous loger mais aussi de vous faire découvrir la ville et de rencontrer des "Hibakushas" (des survivants du bombardement). ![WFC](/images/WFC-264x300.png# book2right)
+Le [World Friendship Center](http://homepage2.nifty.com/wfchiroshima/) n'est ni un hôtel, ni une auberge de jeunesse : c'est une maison d'hôte, assez proche du centre, appartenant à une ONG américaine qui vous propose de vous loger mais aussi de vous faire découvrir la ville et de rencontrer des "Hibakushas" (des survivants du bombardement).
+
+{% include image.html name="WFC-264x300.png" %}
 
 ## Petite histoire du WFC
 
@@ -38,10 +40,7 @@ Aujourd'hui, le centre est resté fidèle à ses principes fondateurs. Des coupl
 
 Commencez par la visite du musée, c'est une expérience particulièrement intense. Réservez donc la visite des jardins pour après, cela vous permettra de vous en remettre dans le calme des jardins.
 
-<figure style="width:800px">
-	<img src="/images/2009742728_55800f1a0e_b.jpg" alt="">
-	<figcaption>Le Mémorial pour la Paix</figcaption>
-</figure>
+{% include image.html name="2009742728_55800f1a0e_b.jpg" caption="Le Mémorial pour la Paix" %}
 
 La visite du musée va crescendo, présentant d'abord les éléments historiques ayant amené les États-Unis à lancer la bombe. Tout y est présenté sans pathos et sans ressentiment, avec une grande objectivité... ce qui est en soi déjà impressionnant dans un pays qui a encore beaucoup de mal avec cette partie de son histoire.
 
@@ -63,26 +62,18 @@ Les divers monuments que vous pourrez trouver dans les jardins sont tous égalem
 - Les **Portes de la Paix** portent l'inscription « Paix », retranscrite en 49 langues et 18 alphabets ; leur nombre fait écho aux neuf Cercles de l'enfer du poète italien Dante, auquel fut rajouté un dixième cercle, celui de Hiroshima.
 - Le **Monument de la Paix des enfants** est particulièrement émouvant. Il garde la mémoire de [Sadako Sasaki](https://fr.wikipedia.org/wiki/Sadako_Sasaki "Sadako Sasaki (nouvelle fenêtre)"), jeune japonais iradiée en 1945 qui, selon une ancienne traditions japonais, a voulu réaliser un millier de grues pour avoir son souhait exaucé. Depuis, des milliers de grues en papier du monde entier y sont déposées quotidiennement.
 
-<figure style="width:800px">
-	<img src="/images/2008924383_dd6a8ab4b0_b.jpg" alt="">
-	<figcaption>Les cocottes du mémorial des enfants</figcaption>
-</figure>
+{% include image.html name="2008924383_dd6a8ab4b0_b.jpg" caption="Les cocottes du mémorial des enfants" %}
 
 - Le **Dôme de Genbaku** est le bâtiment ayant résisté le plus proche de l'hypocentre de la bombe. L'édifice aurait dû être détruit mais la ville de Hiroshima décida de le garder dans l'état dans lequel il se trouvait juste après l'explosion, afin de laisser une empreinte éternelle à cette catastrophe. En 1996, il a été inscrit sur la liste du patrimoine mondial de l'UNESCO avec comme argument que « le Dôme est devenu un monument universel pour l’humanité entière, symbolisant l’espoir d’une paix perpétuelle et l’abolition définitive de toutes les armes nucléaires sur la Terre
 
-<figure style="width:800px">
-	<img src="/images/2009697626_85da81a5a1_b.jpg" alt="">
-	<figcaption>Atomic Bomb Dome</figcaption>
-</figure>
+{% include image.html name="2009697626_85da81a5a1_b.jpg" caption="Atomic Bomb Dome" %}
 
 ## Conseil no 4 : Shukkeien Garden
 
 Après ces visites éprouvantes, je vous conseille de déambuler dans les allées duu magnifique jardin Shukkein pour découvrir, reproduits en miniatures, les panoramas naturels les plus grandioses. Le jardin date de 1620 et est donc l'un des symbole de la renaissance d'Hiroshima, de ce message d'espoir d'une ville qui reste tout entière tournée vers l'avenir.
 
-<figure style="width:800px">
-	<img src="/images/2009829902_a6424abf79_b.jpg" alt="">
-	<figcaption>Shukkeien Garden</figcaption>
-</figure>
+{% include image.html name="2009829902_a6424abf79_b.jpg" caption="Shukkeien Garden" %}
+
 
 ## Conseil no 5 : maîtriser un minimum de japonais
 

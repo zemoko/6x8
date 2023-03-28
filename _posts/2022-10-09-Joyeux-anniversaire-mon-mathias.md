@@ -3,6 +3,7 @@ layout: instagram
 title:  'Joyeux anniversaire mon Mathias 🎂 🥳 #10ans'
 date:   2022-10-09
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - miam

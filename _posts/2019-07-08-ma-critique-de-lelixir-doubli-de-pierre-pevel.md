@@ -12,7 +12,8 @@ coverImage: "ob_d9c612_9782352948490-org.png.jpg"
 noImageOnPost: true
 ---
 
-![](/images/ob_d9c612_9782352948490-org.png-189x300.jpg# book2right)« L’Élixir d’Oubli » est le tome 2 de la série « Le Paris des merveilles » initiée par [« Les enchantements d'Ambremer »](/2019/06/ma-critique-de-les-enchantements-dambremer-de-pierre-pevel/).
+{% include image.html class="right book" %}
+« L’Élixir d’Oubli » est le tome 2 de la série « Le Paris des merveilles » initiée par [« Les enchantements d'Ambremer »](/2019/06/ma-critique-de-les-enchantements-dambremer-de-pierre-pevel/).
 
 On retrouve, avec bonheur, le mage **Louis Denizart Hippolyte Griffont** ainsi qu’**Aurélia** son enchanteresse de femme, alias Isabel de Saint-Gil. L’histoire se passe quelques mois après les enchantements d’Ambremer… mais aussi au XVIIIe siècle où l’on découvre incidemment **comment Louis, alias le chevalier de Castelgriffe, fit la connaissance de la baronne de Saint-Gil**.
 

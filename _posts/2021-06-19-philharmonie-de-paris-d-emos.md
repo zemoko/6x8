@@ -3,6 +3,7 @@ layout: instagram
 title:  'Philharmonie de Paris - Démos'
 date:   2021-06-19
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - paris

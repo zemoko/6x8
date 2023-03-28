@@ -11,7 +11,7 @@ coverImage: "img_1649.jpg"
 cover2left: true
 ---
 
-<img src="/images/smashingconf-london-opt-300x291.png" alt="" class="left">Je reviens de Londres j'ai eu la chance d'assister à ma 3e Smashing Conference (Les deux premières, c'était [à Oxford](https://www.6x8.org/2014/03/smashing-conference-oxford-14/) en 2014 et 2015). Cette année, le thème était particulièrement intéressant : **Performance matters**. Le thème était enthousiasmant et j'en reviens enthousiasmé :)
+<img src="/images/2018/02/smashingconf-london-opt-300x291.png" alt="" class="left">Je reviens de Londres j'ai eu la chance d'assister à ma 3e Smashing Conference (Les deux premières, c'était [à Oxford](https://www.6x8.org/2014/03/smashing-conference-oxford-14/) en 2014 et 2015). Cette année, le thème était particulièrement intéressant : **Performance matters**. Le thème était enthousiasmant et j'en reviens enthousiasmé :)
 
 Il parait que quelques images valent mieux qu'un long discours... je me garde mes notes et je vous propose un debrief en quelques tweets choisis.
 

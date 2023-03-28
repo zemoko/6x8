@@ -3,6 +3,7 @@ layout: instagram
 title:  'Impasse de la grande écluse #strasbourg #streetart by @stork_pixelart'
 date:   2022-03-11
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - stork7567

@@ -14,7 +14,8 @@ noImageOnPost: true
 
 **Que changeriez-vous si vous pouviez revivre votre vie ?**
 
-![](/images/7-205x300.jpg# book2right)J'ai lu "7" de Tristan Garcia grâce/à cause d'une maman, membre du jury du **Prix du livre Inter,** qui en a si bien parlé à l'antenne, le jour de l'annonce du Prix. Elle racontait qu'elle avait voté pour lui parce qu'elle avait partagé chacunes de ses lectures avec ses enfants et que, celui-ci, avait su les étonner et les passionner.
+{% include image.html class="right book" %}
+J'ai lu "7" de Tristan Garcia grâce/à cause d'une maman, membre du jury du **Prix du livre Inter,** qui en a si bien parlé à l'antenne, le jour de l'annonce du Prix. Elle racontait qu'elle avait voté pour lui parce qu'elle avait partagé chacunes de ses lectures avec ses enfants et que, celui-ci, avait su les étonner et les passionner.
 
 **Commençant ma lecture, je n'ai d'abord pas vraiment reconnu le livre qu'elle avait décrit,** pas compris pourquoi elle avait été tant étonnée. Je n'avais d'ailleurs pas compris en l'écoutant qu'il s'agissait de 7 nouvelles indépendants... et pourtant...
 

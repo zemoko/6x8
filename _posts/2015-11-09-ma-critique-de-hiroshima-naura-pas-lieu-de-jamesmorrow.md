@@ -13,7 +13,7 @@ noImageOnPost: true
 
 ## Surréaliste !
 
-![](/images/Hiroshime-n-aura-pas-lieu-253x300.jpg# book2right)
+{% include image.html class="right book" %}
 
 Je vous fait le pitch, c'est le seul moyen d'introduire ce (drôle de) livre.
 

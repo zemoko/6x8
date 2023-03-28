@@ -15,7 +15,7 @@ Cette année, j'ai vraiment pris plaisir à améliorer ET le process de producti
 
 ## La carte
 
-[![](images/Bonne-annee-2021-300x185.png)](https://bonneannee.6x8.org/) [https://bonneannee.6x8.org>](https://bonneannee.6x8.org/)
+[![](images/2021/01/Bonne-annee-2021.png)](https://bonneannee.6x8.org/) [https://bonneannee.6x8.org>](https://bonneannee.6x8.org/)
 
 ## Le dessous de la carte
 

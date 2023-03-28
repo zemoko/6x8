@@ -11,7 +11,8 @@ coverImage: "514su-cbfnL._SX340_BO1204203200_.jpg"
 noImageOnPost: true
 ---
 
-![](/images/514su-cbfnL._SX340_BO1204203200_-206x300.jpg# book2right)C’est toujours avec le même plaisir qu’on retrouve le grain de folie de Mathias Malzieu, toujours avec le même bonheur qu’on se laisse emporter par sa plume alerte et fantasque. Il sait faire appel à l’enfant qui reste en nous, à sa capacité d’émerveillement. **En avant la critique !**
+{% include image.html class="right book" %}
+C’est toujours avec le même plaisir qu’on retrouve le grain de folie de Mathias Malzieu, toujours avec le même bonheur qu’on se laisse emporter par sa plume alerte et fantasque. Il sait faire appel à l’enfant qui reste en nous, à sa capacité d’émerveillement. **En avant la critique !**
 
 ## **Une sirène à Paris** est un conte moderne et poétique
 

@@ -11,7 +11,8 @@ coverImage: "50205.jpg"
 noImageOnPost: true
 ---
 
-![](/images/50205-243x300.jpg# book2right)On m’a beaucoup conseillé « Gagner la guerre », beaucoup le qualifient de « Chef d’œuvre », il est présent dans nombre de listes « Meilleurs livres de... » sur Sens Critique. Bref, je ne pouvais qu’être intrigué, attiré... et y céder.
+{% include image.html class="right book" %}
+On m’a beaucoup conseillé « Gagner la guerre », beaucoup le qualifient de « Chef d’œuvre », il est présent dans nombre de listes « Meilleurs livres de... » sur Sens Critique. Bref, je ne pouvais qu’être intrigué, attiré... et y céder.
 
 **Ai-je été séduit ? Pas complétement. Ce n’est ni un coup de cœur, ni une réelle déception. Un bon roman mais qui me laisse sur un sentiment mitigé.**
 

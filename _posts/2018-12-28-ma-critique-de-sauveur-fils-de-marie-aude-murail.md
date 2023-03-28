@@ -11,7 +11,8 @@ coverImage: "9782211236331.jpg"
 noImageOnPost: true
 ---
 
-![](/images/9782211236331-197x300.jpg# book2right)Sauveur Saint-Yves est psychologue, il a son cabinet à Orléans où il reçoit enfants et adolescents, leurs familles et leurs proches. Et, quand on s’appelle Sauveur, comment s’étonner des espoirs qu’on met en vous ?
+{% include image.html class="right book" %}
+Sauveur Saint-Yves est psychologue, il a son cabinet à Orléans où il reçoit enfants et adolescents, leurs familles et leurs proches. Et, quand on s’appelle Sauveur, comment s’étonner des espoirs qu’on met en vous ?
 
 Et ça défile dans son cabinet : phobie scolaire, automutilation, addiction aux jeux vidéo, difficultés des familles recomposées… **un bel inventaire de problèmes actuels, traités avec finesse et humanité**.
 

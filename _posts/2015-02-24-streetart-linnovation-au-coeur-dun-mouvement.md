@@ -26,22 +26,22 @@ Ce midi, j'ai été visité l'expo "#StreetArt, l'innovation au cœur d'un mouve
 <div id="jardin-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16012406944_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16634556495_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16634536575_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16013422944_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16447557290_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16633875302_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16015709443_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16428277837_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16448733849_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16013397664_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16609589566_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16633485121_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16448771449_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16014786713_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16634534785_o.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/streetart/streetart-linnovation-au-cur-dun-mouvement_16428342767_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16012406944_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16634556495_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16634536575_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16013422944_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16447557290_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16633875302_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16015709443_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16428277837_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16448733849_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16013397664_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16609589566_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16633485121_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16448771449_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16014786713_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16634534785_o.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/02/streetart/streetart-linnovation-au-cur-dun-mouvement_16428342767_o.jpg" alt=""></li>
 </ul>
 </div>
 </div>

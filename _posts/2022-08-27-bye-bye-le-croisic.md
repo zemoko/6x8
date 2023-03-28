@@ -3,6 +3,7 @@ layout: instagram
 title:  'Bye-bye Le Croisic #vacances'
 date:   2022-08-27
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacances

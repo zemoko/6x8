@@ -3,6 +3,7 @@ layout: instagram
 title:  'Rue de Mutzig'
 date:   2022-07-09
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - stork7567

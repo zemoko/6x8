@@ -11,7 +11,8 @@ coverImage: "51yUv9TrPRL._SX331_BO1204203200_-200x300.jpg"
 noImageOnPost: true
 ---
 
-![](/images/51yUv9TrPRL._SX331_BO1204203200_-200x300.jpg# book2right)
+{% include image.html class="right book" %}
+
 ## Déjà 200 000 lecteurs… conquis ?
 
 « On se reverra » raconte **trois histoires en parallèle** : - **Alice**, quadra, mère célibataire de 3 enfants (de 3 pères différents) et propriétaire de 3 chiens, vit à Ridinghouse Bay, petite ville côtière de l’Angleterre. Alice recueille chez elle un homme qu’elle a trouvé sur la plage en face de chez elle et qui a, semble-t-il, perdu la mémoire. Sa fille décide de l’appeler **Franck**, et Alice décide de l’aider, malgré la désapprobation quasi-générale de ses proches. - **Lily** est jeune (21 ans) et Ukrainienne. Depuis une semaine, elle est mariée à **Carl** (40 ans). Ils se sont rencontrés en Ukraine et se sont mariés à Kiev. Lily vient seulement de s’installer près de Londres. Carl n’est pas rentré chez lui depuis 48h et Lily s’inquiète. Elle fait appel à la police et là, « Surprise ! », Carl Monrose n’existe pas : ses papiers sont faux. Lily est mariée à un inconnu… - 1993, **Gray**, sa sœur **Kirsty** et ses parents passent leurs vacances à… Ridinghouse Bay. Ils font bientôt la connaissance de **Mark**, 19 ans, riche et séduisant… dont Gray se méfie tout de suite.

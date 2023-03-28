@@ -18,10 +18,7 @@ Je n'ai pas hésité longtemps entre les modèles, je n'avais pas besoin de plus
 
 Je n'étais par contre pas sûr de la taille du boitier... Au moment où Apple a présenté la montre, j'avais peur que le modèle de 42mm soit trop gros, trop épais... or, là aussi, je cherchais plutôt une montre qui sache se faire oublier... Les premiers tests que j'ai lu m'ont fait changé d'avis pour finalement, effectivement, commandé le modèle de 42mm... ce dont je me félicite car, vraiment, **elle me plait bien comme elle est : ni trop voyante, ni trop épaisse, ni trop grande :)**
 
-<figure style="width:800px">
-	<img src="/images/IMG_45412.jpg" alt="">
-	<figcaption>Mon  watch</figcaption>
-</figure>
+{% include image.html name="IMG_45412.jpg" caption="Mon  watch" %}
 
 ## 2ème constat : les craintes quant à son (supposé) manque d'autonomie étaient infondées
 
@@ -31,10 +28,7 @@ La présentation de l' watch et les premiers retours semblaient alarmants : l
 
 On est bien loin de l'expérience radicalement nouvelle qu'on a pu ressentir pour notre 1er smartphone, voire pour notre 1ère tablette : la montre n'est pas un nouveau terminal mais une extension de l'iPhone. Avoir une  watch n'est donc pas à proprement parlé une expérience "nouvelle", c'est une évolution de ce qu'on connait déjà.
 
-<figure style="width:800px">
-	<img src="/images/IMG_4540.jpg" alt="">
-	<figcaption>Mes applications</figcaption>
-</figure>
+{% include image.html name="IMG_4540.jpg" caption="Mes applications" %}
 
 - J'avais déjà fait un choix assez drastique pour ne garder sur l'iPhone que les notifications que je considère comme les plus pertinentes ("Quelles applications sont-elles autorisé à attirer mon attention ?"), **je retrouve ces mêmes notifications à mon poignet, plus besoin de sortir mon iPhone de ma poche, c'est tout. Et c'est beaucoup.**
 - **C'est un formidable kit main-libre** : avoir la notification d'un appel à son poignet, décrocher via la notification et parler en continuant à faire ce qu'on était en train de faire m'aurait paru, il y a peu, comme de la science-fiction... et depuis une semaine, non seulement je le fais, mais en plus c'est vraiment **tout naturel**

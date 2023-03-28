@@ -11,7 +11,8 @@ coverImage: "Les_cosmonautes_ne_font_que_passer.jpg"
 noImageOnPost: true
 ---
 
-![](/images/Les_cosmonautes_ne_font_que_passer-220x300.jpg# book2right)Dans son roman « Les cosmonautes ne font que passer », Elitza Gueorguieva laisse parler la petite fille qu’elle était, de son entrée à l’école Iouri Gagarine à 7 ans jusqu’à ses 14 ans.
+{% include image.html class="right book" %}
+Dans son roman « Les cosmonautes ne font que passer », Elitza Gueorguieva laisse parler la petite fille qu’elle était, de son entrée à l’école Iouri Gagarine à 7 ans jusqu’à ses 14 ans.
 
 ## Devenir Iouri gagarine
 

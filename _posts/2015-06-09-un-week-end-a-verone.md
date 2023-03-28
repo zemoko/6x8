@@ -46,7 +46,7 @@ Vérone se trouve donc en Italie du Nord, plus précisément en Vénétie, à pr
 
 - Visiter l'[Arena Museo Opera](http://www.arenamuseopera.com/en/), de préférence après visité les arènes. Nous avons pu y voir une magnifique expo : _"Dario Fo dipinge Maria Callas" qui raconte la Callas à travers les œuvres de Dario Fo. On peut également visiter les collections permanentes "Un siècle d'Opéra", qui donnent une bonne idée de ce que doit être une représentation aux Arènes avec de très belles photos de décors tous les un plus beaux que les autres (et ça donne vraiment envie !)._
 
- _![Dario Fo dipinge Maria Callas](/images/8b6e33345ac8d5ffd9cf0d107a7d9e9d_XL-300x130.jpg) \[soundcloud url="https://api.soundcloud.com/tracks/12159661" params="color=ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false" width="100%" height="166" iframe="true" /\]
+ _![Dario Fo dipinge Maria Callas](/images/2015/06/8b6e33345ac8d5ffd9cf0d107a7d9e9d_XL-300x130.jpg) \[soundcloud url="https://api.soundcloud.com/tracks/12159661" params="color=ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false" width="100%" height="166" iframe="true" /\]
 
 - **Flâner le long de l'Adige, voire passer le Ponte Piettra pour monter au Castel San pietro** pour profiter d'un panorama exceptionnel sur la ville (voire y prendre l'apéro... mais nous, nous n'avons pas eu de chance, le resto était réservé pour un mariage...)
 

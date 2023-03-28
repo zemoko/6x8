@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "film"
+  - "starwars"
 coverImage: "Star_Wars.png"
 cover2left: true
 ---

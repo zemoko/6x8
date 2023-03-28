@@ -12,7 +12,8 @@ coverImage: "marie-curie-640x360.jpg"
 noImageOnPost: true
 ---
 
-![](/images/marie-curie-prends-un-amant-198x300.jpg# book2right)« Marie Curie prends un amant » était depuis un petit moment dans ma liste de lecture. **Je crois que j’avais été attiré par le titre, autant par « Marie Curie » que par « prends un amant », mais que j’avais un peu peur du coté « biographie »**... du coup, il a longtemps stagné en milieu de pile. Et puis un jour, c’était le bon jour, et je m’y suis mis... et **je dois avouer un vrai coup de cœur pour ce livre**.
+{% include image.html class="right book" %}
+« Marie Curie prends un amant » était depuis un petit moment dans ma liste de lecture. **Je crois que j’avais été attiré par le titre, autant par « Marie Curie » que par « prends un amant », mais que j’avais un peu peur du coté « biographie »**... du coup, il a longtemps stagné en milieu de pile. Et puis un jour, c’était le bon jour, et je m’y suis mis... et **je dois avouer un vrai coup de cœur pour ce livre**.
 
 ## Le scandale Langevin-Curie
 
@@ -47,7 +48,7 @@ Marie est une femme incroyablement forte, elle surmonte tous les outrages, ferme
 **Je rajouterais que, si la vie de Marie Curie est si passionnante, c’est aussi grâce à tous les personnages secondaires tous plus intéressant les uns que les autres.** L’auteur note à un moment que lors d’un diner chez les Langevin, il y avait pas moins de 5 futurs prix Nobel autour de la table. Et ceux qui ne seront pas Nobel sauront se distinguer : Jean Perrin qui fondra le Palais de la Découverte et le CNRS, Marguerite qui fondera le prix Femina... C’est ça le petite bande de Marie, et Irène Langevin a su merveilleusement en traduire l’énergie bouillonnante. Comme elle a su donner un aperçu de **l’incroyable aventure du 1er congrès Solvay** où, pendant 4 jours, à Bruxelles, Marie et une vingtaine d’autres physiciens, dont Albert Einstein discutent de la nature profonde de la Nature, ouvrant la voie à la physique moderne en acceptant comme valable la théorie de quantas.
 
 <figure>
-	<img src="/images/1280px-1911_Solvay_conference.jpg" alt="Les participants du congrès Solvay" width="100%" >
+	<img src="/images/2017/04/1280px-1911_Solvay_conference.jpg" alt="Les participants du congrès Solvay" width="100%" >
 	<figcaption><a href="https://fr.wikipedia.org/wiki/Congr%C3%A8s_Solvay">Le 1<sup>er</sup> congrès Solvay</a></figcaption>
 </figure>
 

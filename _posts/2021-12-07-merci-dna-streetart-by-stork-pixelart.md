@@ -3,6 +3,7 @@ layout: instagram
 title:  'Merci #dna #streetart by @stork_pixelart'
 date:   2021-12-07
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - stork7567

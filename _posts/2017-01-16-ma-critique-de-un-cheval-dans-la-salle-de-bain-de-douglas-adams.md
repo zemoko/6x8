@@ -15,7 +15,8 @@ noImageOnPost: true
 
 J’avais lu "Un cheval dans la salle de bain" voici 20 ans, mais la série « Dirk Gently, détective holistique » (excellente au demeurant, il faudrait que je vous en touche 2  mots) m’a donné envie de plus de Dirk Gently... et puis, c'était l’occasion, de le relire en anglais.
 
-![](/images/Dirk-Gentlys-Holistic-Detective-Agency-191x300.jpg# book2right)On connaît surtout Douglas Adams pour sa trilogie en 5 volumes (et demi) du **Guide du routard galactique** mais **les aventures de Dirk Gently sont tout aussi barrés et total foutraque**.
+{% include image.html class="right book" %}
+On connaît surtout Douglas Adams pour sa trilogie en 5 volumes (et demi) du **Guide du routard galactique** mais **les aventures de Dirk Gently sont tout aussi barrés et total foutraque**.
 
 ## Un détective holistique ?
 

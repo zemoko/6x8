@@ -3,6 +3,7 @@ layout: instagram
 title:  'On a sauvé le monde \o/ 🦠💉🧪 #pandemiclegacyseason2'
 date:   2022-07-21
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - jeux-de-societe

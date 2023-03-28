@@ -27,39 +27,38 @@ Ah, et si vous avez aimé l'expo, [le catalogue est disponible sur Kickstarter](
 <div id="expo-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_5043.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5042.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5041.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5040.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5039.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5038.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5037.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5036.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5035.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5033.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5031.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5026.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5030.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5034.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5027.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5029.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/XVM041df704-7685-11e5-8780-7f9b2464cadb-805x453.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5028.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5022.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5025.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5022.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5024.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5023.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5021.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5020.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5019.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5043.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5042.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5041.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5040.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5039.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5038.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5037.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5036.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5035.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5033.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5031.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5026.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5030.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5034.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5027.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5029.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/XVM041df704-7685-11e5-8780-7f9b2464cadb-805x453.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5028.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5022.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5025.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5024.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5023.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5021.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5020.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5019.jpg" alt=""></li>
 </ul>
 </div>
 </div>
 
 ## Ma samaritaine 2015
 
-<img src="/images/SAMARITAINE-copie-1024x806-1024x806.jpg# book2right" width="400" alt="" >
+<img src="/images/2015/10/SAMARITAINE-copie-1024x806-1024x806.jpg# book2right" width="400" alt="" >
 
 En sortant de la rue du Bourg Tibourg, je devais aller chercher mon vin au [Petit Ballon](http://www.lepetitballon.com)... Comme il faisait beau, j'ai décidé d'y aller à pieds ; du coup, je suis passé par le rue de Rivoli ; du coup, je suis passé à coté de la Samaritaine ;du coup, j'ai vu de biens belles photos en vitrine... et je suis rentré voir l'expo "**Ma samaritaine 2015**"... et j'ai bien fait car c'est une très belle expo.
 
@@ -72,31 +71,25 @@ Et, parce que vous avez été sages, je vous mets mes photos :)
 <div id="samaritaine-slider" class="splide nof">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_5018.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5017.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5016.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5015.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5014.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5013.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5012.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5011.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5010.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5009.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5008.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5007.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5006.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5005.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5004.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5003.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5002.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5001.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_4999.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5022.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5024.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5023.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5021.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5020.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/IMG_5019.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5018.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5017.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5016.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5015.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5014.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5013.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5012.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5011.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5010.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5009.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5008.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5007.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5006.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5005.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5004.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5003.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5002.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_5001.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2015/10/IMG_4999.jpg" alt=""></li>
 </ul>
 </div>
 </div>

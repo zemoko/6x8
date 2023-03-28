@@ -11,7 +11,8 @@ coverImage: d-ailleurs-les-poissons.jpg
 noImageOnPost: true
 ---
 
-![](/images/d-ailleurs-les-poissons.jpg# book2right)Voici 2 ans qu’Ari a quitté l’Islande pour le Danemark, abandonnant femme et enfant. Cette rupture, il l’a voulu et mais il la regrette. Mais Ari reçoit une lettre de sa belle-mère et un colis rempli de souvenirs qui le pousse à quitter sa maison d’édition danoise et à revenir au pays.
+{% include image.html class="right book" %}
+Voici 2 ans qu’Ari a quitté l’Islande pour le Danemark, abandonnant femme et enfant. Cette rupture, il l’a voulu et mais il la regrette. Mais Ari reçoit une lettre de sa belle-mère et un colis rempli de souvenirs qui le pousse à quitter sa maison d’édition danoise et à revenir au pays.
 
 « D’ailleurs, les poissons n’ont pas de pieds », c’est l’histoire d’Ari mais aussi de ses parents, et des grands-parents. C’est **l’histoire de l’Islande : 3 époques et tout un siècle**.
 

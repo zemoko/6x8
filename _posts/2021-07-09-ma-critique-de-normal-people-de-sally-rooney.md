@@ -11,7 +11,8 @@ coverImage: normal-people.jpg
 noImageOnPost: true
 ---
 
-![](/images/normal-people.jpg# book2right)**«&nbsp;1 million d’exemplaires vendus&nbsp;»**, **une série <abbr>TV</abbr>** nominée aux <span lang="en">Golden Globes 2021</span>. Tout pour vous interpeller et vous happer (ou, à l’inverse, vous faire fuir, c’est selon).
+{% include image.html class="right book" %}
+**«&nbsp;1 million d’exemplaires vendus&nbsp;»**, **une série <abbr>TV</abbr>** nominée aux <span lang="en">Golden Globes 2021</span>. Tout pour vous interpeller et vous happer (ou, à l’inverse, vous faire fuir, c’est selon).
 
 Moi, ça m’a convaincu de tenter la lecture de ce 2<sup>e</sup> roman de l’autrice irlandaise Sally Rooney (j’avoue aussi que le fait que ce se passe en Irlande, pays que j’apprécie beaucoup, a aussi influencé mon choix).
 

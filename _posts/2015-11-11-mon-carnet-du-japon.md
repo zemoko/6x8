@@ -27,64 +27,64 @@ J'ai pris en photos chacune des pages (voire certaines pages 2 fois quand certa
 <div id="carnet-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_5058.jpg" alt="Page 1"></li>
-<li class="splide__slide"><img src="/images/IMG_5059.jpg" alt="Page 2"></li>
-<li class="splide__slide"><img src="/images/IMG_5060.jpg" alt="Page 3"></li>
-<li class="splide__slide"><img src="/images/IMG_5061.jpg" alt="Page 4"></li>
-<li class="splide__slide"><img src="/images/IMG_5062.jpg" alt="Page 5"></li>
-<li class="splide__slide"><img src="/images/IMG_5063.jpg" alt="Page 6"></li>
-<li class="splide__slide"><img src="/images/IMG_5064.jpg" alt="Page 7"></li>
-<li class="splide__slide"><img src="/images/IMG_5065.jpg" alt="Page 8"></li>
-<li class="splide__slide"><img src="/images/IMG_5066.jpg" alt="Page 9"></li>
-<li class="splide__slide"><img src="/images/IMG_5067.jpg" alt="Page 10"></li>
-<li class="splide__slide"><img src="/images/IMG_5068.jpg" alt="Page 11"></li>
-<li class="splide__slide"><img src="/images/IMG_5069.jpg" alt="Page 12"></li>
-<li class="splide__slide"><img src="/images/IMG_5071.jpg" alt="Page 13"></li>
-<li class="splide__slide"><img src="/images/IMG_5070.jpg" alt="Page 13 (dépliée)"></li>
-<li class="splide__slide"><img src="/images/IMG_5116.jpg" alt="Page 14"></li>
-<li class="splide__slide"><img src="/images/IMG_5072.jpg" alt="Page 15"></li>
-<li class="splide__slide"><img src="/images/IMG_5073.jpg" alt="Page 16"></li>
-<li class="splide__slide"><img src="/images/IMG_5074.jpg" alt="Page 17"></li>
-<li class="splide__slide"><img src="/images/IMG_5075.jpg" alt="Page 18"></li>
-<li class="splide__slide"><img src="/images/IMG_5076.jpg" alt="Page 19"></li>
-<li class="splide__slide"><img src="/images/IMG_5077.jpg" alt="Page 20"></li>
-<li class="splide__slide"><img src="/images/IMG_5078.jpg" alt="Page 21"></li>
-<li class="splide__slide"><img src="/images/IMG_5079.jpg" alt="Page 22"></li>
-<li class="splide__slide"><img src="/images/IMG_5080.jpg" alt="Page 22 (déplieé)"></li>
-<li class="splide__slide"><img src="/images/IMG_5081.jpg" alt="Page 23"></li>
-<li class="splide__slide"><img src="/images/IMG_5082.jpg" alt="Page 24"></li>
-<li class="splide__slide"><img src="/images/IMG_5083.jpg" alt="Page 25"></li>`
-<li class="splide__slide"><img src="/images/IMG_5084.jpg" alt="Page 25 (dépliée)"></li>
-<li class="splide__slide"><img src="/images/IMG_5085.jpg" alt="Page 26"></li>
-<li class="splide__slide"><img src="/images/IMG_5086.jpg" alt="Page 27"></li>
-<li class="splide__slide"><img src="/images/IMG_5087.jpg" alt="Page 28"></li>
-<li class="splide__slide"><img src="/images/IMG_5088.jpg" alt="Page 29"></li>
-<li class="splide__slide"><img src="/images/IMG_5089.jpg" alt="Page 30"></li>
-<li class="splide__slide"><img src="/images/IMG_5090.jpg" alt="Page 31"></li>
-<li class="splide__slide"><img src="/images/IMG_5091.jpg" alt="Page 32"></li>
-<li class="splide__slide"><img src="/images/IMG_5092.jpg" alt="Page 33"></li>
-<li class="splide__slide"><img src="/images/IMG_5093.jpg" alt="Page 34"></li>
-<li class="splide__slide"><img src="/images/IMG_5094.jpg" alt="Page 35"></li>`
-<li class="splide__slide"><img src="/images/IMG_5095.jpg" alt="Page 36"></li>
-<li class="splide__slide"><img src="/images/IMG_5096.jpg" alt="Page 37"></li>
-<li class="splide__slide"><img src="/images/IMG_5097.jpg" alt="Page 37 (dépliée)"></li>
-<li class="splide__slide"><img src="/images/IMG_5098.jpg" alt="Page 38"></li>
-<li class="splide__slide"><img src="/images/IMG_5099.jpg" alt="Page 39 (dépliée)"></li>
-<li class="splide__slide"><img src="/images/IMG_5100.jpg" alt="Page 39 (dépliée... aussi)"></li>
-<li class="splide__slide"><img src="/images/IMG_5101.jpg" alt="Page 40"></li>
-<li class="splide__slide"><img src="/images/IMG_5102.jpg" alt="Page 41"></li>
-<li class="splide__slide"><img src="/images/IMG_5103.jpg" alt="Page 42"></li>
-<li class="splide__slide"><img src="/images/IMG_5105.jpg" alt="Page 43"></li>
-<li class="splide__slide"><img src="/images/IMG_5104.jpg" alt="Page 43 (dépliée)"></li>
-<li class="splide__slide"><img src="/images/IMG_5106.jpg" alt="Page 44"></li>
-<li class="splide__slide"><img src="/images/IMG_5107.jpg" alt="Page 45"></li>`
-<li class="splide__slide"><img src="/images/IMG_5108.jpg" alt="Page 46"></li>
-<li class="splide__slide"><img src="/images/IMG_5109.jpg" alt="Page 47"></li>
-<li class="splide__slide"><img src="/images/IMG_5110.jpg" alt="Page 48"></li>
-<li class="splide__slide"><img src="/images/IMG_5111.jpg" alt="Page 49"></li>
-<li class="splide__slide"><img src="/images/IMG_5112.jpg" alt="Page 50"></li>
-<li class="splide__slide"><img src="/images/IMG_5113.jpg" alt="Page 51"></li>
-<li class="splide__slide"><img src="/images/IMG_5114.jpg" alt="Page 52"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5058.jpg" alt="Page 1"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5059.jpg" alt="Page 2"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5060.jpg" alt="Page 3"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5061.jpg" alt="Page 4"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5062.jpg" alt="Page 5"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5063.jpg" alt="Page 6"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5064.jpg" alt="Page 7"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5065.jpg" alt="Page 8"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5066.jpg" alt="Page 9"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5067.jpg" alt="Page 10"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5068.jpg" alt="Page 11"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5069.jpg" alt="Page 12"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5071.jpg" alt="Page 13"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5070.jpg" alt="Page 13 (dépliée)"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5116.jpg" alt="Page 14"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5072.jpg" alt="Page 15"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5073.jpg" alt="Page 16"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5074.jpg" alt="Page 17"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5075.jpg" alt="Page 18"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5076.jpg" alt="Page 19"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5077.jpg" alt="Page 20"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5078.jpg" alt="Page 21"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5079.jpg" alt="Page 22"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5080.jpg" alt="Page 22 (déplieé)"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5081.jpg" alt="Page 23"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5082.jpg" alt="Page 24"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5083.jpg" alt="Page 25"></li>`
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5084.jpg" alt="Page 25 (dépliée)"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5085.jpg" alt="Page 26"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5086.jpg" alt="Page 27"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5087.jpg" alt="Page 28"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5088.jpg" alt="Page 29"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5089.jpg" alt="Page 30"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5090.jpg" alt="Page 31"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5091.jpg" alt="Page 32"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5092.jpg" alt="Page 33"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5093.jpg" alt="Page 34"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5094.jpg" alt="Page 35"></li>`
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5095.jpg" alt="Page 36"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5096.jpg" alt="Page 37"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5097.jpg" alt="Page 37 (dépliée)"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5098.jpg" alt="Page 38"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5099.jpg" alt="Page 39 (dépliée)"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5100.jpg" alt="Page 39 (dépliée... aussi)"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5101.jpg" alt="Page 40"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5102.jpg" alt="Page 41"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5103.jpg" alt="Page 42"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5105.jpg" alt="Page 43"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5104.jpg" alt="Page 43 (dépliée)"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5106.jpg" alt="Page 44"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5107.jpg" alt="Page 45"></li>`
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5108.jpg" alt="Page 46"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5109.jpg" alt="Page 47"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5110.jpg" alt="Page 48"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5111.jpg" alt="Page 49"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5112.jpg" alt="Page 50"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5113.jpg" alt="Page 51"></li>
+<li class="splide__slide"><img src="/images/2015/11/Japon/IMG_5114.jpg" alt="Page 52"></li>
 
 </ul>
 </div>
@@ -128,6 +128,6 @@ J'ai pris en photos chacune des pages (voire certaines pages 2 fois quand certa
 
 ### À Hiroshima
 
-- J'ai déjà expliqué dans un [autre billet](http://www.6x8.org/2015/08/hiroshima-mon-amour/) pourquoi **la visite d'Hiroshima fut l'un des temps forts de notre voyage**... (Pages 42 à 46)
+- J'ai déjà expliqué dans un [autre billet](/2015/08/hiroshima-mon-amour/) pourquoi **la visite d'Hiroshima fut l'un des temps forts de notre voyage**... (Pages 42 à 46)
 
 Voili, voilou... j'espère que ça pourra inspirer ou aider quelques personnes :)

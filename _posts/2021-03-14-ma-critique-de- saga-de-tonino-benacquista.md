@@ -12,7 +12,8 @@ coverImage: Saga.jpg
 noImageOnPost: true
 ---
 
-![](/images/Saga.jpg# book2right)Bon, maintenant que mon blog est devenu statique (<a href="/2021/11/pourquoi-et-comment-je-suis-devenu-statique/">une bonne chose de faite&nbsp;!</a>), il est temps de rattraper mon retard et rédiger les critiques des livres que j’ai lu ces derniers mois.
+{% include image.html class="right book" %}
+Bon, maintenant que mon blog est devenu statique (<a href="/2021/11/pourquoi-et-comment-je-suis-devenu-statique/">une bonne chose de faite&nbsp;!</a>), il est temps de rattraper mon retard et rédiger les critiques des livres que j’ai lu ces derniers mois.
 
 Je vous fais le pitch&nbsp;: c’est l’histoire de **quatre auteurs embauchés pour écrire le scénario d’un feuilleton télévisé**. Rien de bien glorieux puisque cette commande n’existe que pour satisfaire aux quotas de production française et sera diffusée pendant les heures creuses de la nuit. L**e cahier des charges est d’ailleurs des plus simples : coûter le moins cher possible**.
 

@@ -12,7 +12,8 @@ coverImage: "liv-20386-le-coeur-de-l-angleterre.jpg"
 noImageOnPost: true
 ---
 
-![](/images/liv-20386-le-coeur-de-l-angleterre-205x300.jpg# book2right)Celui fait plus de 30 ans que Jonathan Coe nous raconte l’Angleterre. On le savait francophile, on le soupçonnait europhile… Ce n’est donc pas une surprise qu’il chronique les années Brexit.
+{% include image.html class="right book" %}
+Celui fait plus de 30 ans que Jonathan Coe nous raconte l’Angleterre. On le savait francophile, on le soupçonnait europhile… Ce n’est donc pas une surprise qu’il chronique les années Brexit.
 
 **Si vous avez lu « Bienvenue au club » ou « Le cercle fermé », vous serez heureux de retrouver la famille Trotter**, auxquels s’ajouteront quelques autres pour compléter une galerie de personnages riche et variée. Chacun évolue, au gré des évènements, tantôt positifs, tantôt négatifs… mais ce sont surtout les interactions entre eux qui sont passionnantes.
 

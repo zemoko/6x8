@@ -10,11 +10,11 @@ tags:
 coverImage: "IMG_5817-scaled.jpeg"
 cover2left: true
 carousel: 
- - image: /images/IMG_5806.jpeg
+ - image: /images/2020/08/IMG_5806.jpeg
    legend: "Le Tarot ou le jeu de la Marelle"
- - image: /images/IMG_5809.jpeg
+ - image: /images/2020/08/IMG_5809.jpeg
    legend: "Les 22 lames majeures"
- - image: /images/IMG_5811.jpeg
+ - image: /images/2020/08/IMG_5811.jpeg
    legend: "Les lames mineures, dont les figures représentants les princes"
 ---
 

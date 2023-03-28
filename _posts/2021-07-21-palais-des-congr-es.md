@@ -3,6 +3,7 @@ layout: instagram
 title:  'Palais des Congrès'
 date:   2021-07-21
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - royan

@@ -23,27 +23,27 @@ Cette partie de la Cité est héritée du Musée de sculpture comparée qu'avait
 <div id="galerie" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/MA/img_1653.jpg" alt="Saintes"></li>
-<li class="splide__slide"><img src="/images/MA/img_1656.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1657-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1658-2.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1669-2.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1672-1.jpg" alt="Notre-Dame de Paris"></li>
-<li class="splide__slide"><img src="/images/MA/img_1673-2.jpg" alt="La Sainte Chapelle"></li>
-<li class="splide__slide"><img src="/images/MA/img_1674-2.jpg" alt="Cathédrale"></li>
-<li class="splide__slide"><img src="/images/MA/img_1675-2.jpg" alt="Le Mont Saint Michel"></li>
-<li class="splide__slide"><img src="/images/MA/img_1692.jpg" alt="Arc de Triomphe"></li>
-<li class="splide__slide"><img src="/images/MA/img_1693.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1695-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1696-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1698.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1699.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1701-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1709.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1715.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1716-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1718-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA/img_1719-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1653.jpg" alt="Saintes"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1656.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1657-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1658-2.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1669-2.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1672-1.jpg" alt="Notre-Dame de Paris"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1673-2.jpg" alt="La Sainte Chapelle"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1674-2.jpg" alt="Cathédrale"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1675-2.jpg" alt="Le Mont Saint Michel"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1692.jpg" alt="Arc de Triomphe"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1693.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1695-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1696-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1698.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1699.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1701-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1709.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1715.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1716-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1718-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA/img_1719-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
 </ul>
 </div>
 </div>
@@ -53,11 +53,11 @@ C'est dans cette partie que vous trouverez les installations pour enfants : jeu
 <div id="enfants" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/MA//img_1654-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA//img_1679.jpg" alt="Croisée d’ogives"></li>
-<li class="splide__slide"><img src="/images/MA//img_1689-1.jpg" alt="Vitraux"></li>
-<li class="splide__slide"><img src="/images/MA//img_1705.jpg" alt="Jeux de charpente"></li>
-<li class="splide__slide"><img src="/images/MA//img_1706-1.jpg" alt="Jeux de charpentes"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1654-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1679.jpg" alt="Croisée d’ogives"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1689-1.jpg" alt="Vitraux"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1705.jpg" alt="Jeux de charpente"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1706-1.jpg" alt="Jeux de charpentes"></li>
 </ul>
 </div>
 </div>
@@ -69,20 +69,20 @@ Pas besoin de vous décrire cette partie. Elle est moins ludique pour les enfant
 <div id="moderne" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/MA//img_1726-2.jpg" alt="Le Crystal Palace en construction"></li>
-<li class="splide__slide"><img src="/images/MA//img_1728.jpg" alt="Le Crystal Palace en construction"></li>
-<li class="splide__slide"><img src="/images/MA//img_1729.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA//img_1730-1.jpg" alt="La Gare du Nord"></li>
-<li class="splide__slide"><img src="/images/MA//img_1737-1.jpg" alt="Chocolaterie Meunier"></li>
-<li class="splide__slide"><img src="/images/MA//img_1748-1.jpg" alt="Paris avant Haussman"></li>
-<li class="splide__slide"><img src="/images/MA//img_1749-1.jpg" alt="Paris après Haussman"></li>
-<li class="splide__slide"><img src="/images/MA//img_1734.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA//img_1755-1.jpg" alt="Immeuble Citroën"></li>
-<li class="splide__slide"><img src="/images/MA//img_1754.jpg" alt="Radio France"></li>
-<li class="splide__slide"><img src="/images/MA//img_1745.jpg" alt="Parc de la Villette"></li>
-<li class="splide__slide"><img src="/images/MA//img_1750.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA//img_1751-1.jpg" alt="Immeuble parisien"></li>
-<li class="splide__slide"><img src="/images/MA//img_1772.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1726-2.jpg" alt="Le Crystal Palace en construction"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1728.jpg" alt="Le Crystal Palace en construction"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1729.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1730-1.jpg" alt="La Gare du Nord"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1737-1.jpg" alt="Chocolaterie Meunier"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1748-1.jpg" alt="Paris avant Haussman"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1749-1.jpg" alt="Paris après Haussman"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1734.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1755-1.jpg" alt="Immeuble Citroën"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1754.jpg" alt="Radio France"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1745.jpg" alt="Parc de la Villette"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1750.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1751-1.jpg" alt="Immeuble parisien"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1772.jpg" alt="Cité de l’architecture et du patrimoine"></li>
 </ul>
 </div>
 </div>
@@ -92,9 +92,9 @@ La visite d'un appartement de la Cité Radieuse les a tout de même ravis, et m'
 <div id="cite" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/MA//img_1759.jpg" alt="Cité radieuse"></li>
-<li class="splide__slide"><img src="/images/MA//img_1761.jpg" alt="Cité radieuse"></li>
-<li class="splide__slide"><img src="/images/MA//img_1770.jpg" alt="Cité radieuse"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1759.jpg" alt="Cité radieuse"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1761.jpg" alt="Cité radieuse"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1770.jpg" alt="Cité radieuse"></li>
 </ul>
 </div>
 </div>
@@ -106,9 +106,9 @@ Nous avons visité cette dernière galerie plus rapidement. En partie parce qu'i
 <div id="peintures" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/MA//img_1774.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA//img_1777-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
-<li class="splide__slide"><img src="/images/MA//img_1779.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1774.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1777-1.jpg" alt="Cité de l’architecture et du patrimoine"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1779.jpg" alt=""></li>
 </ul>
 </div>
 </div>
@@ -120,8 +120,8 @@ En bonus, voici 2 vues sur la Tour Eiffel !
 <div id="tour" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/MA//img_1773-2.jpg" alt="Tour Eiffel"></li>
-<li class="splide__slide"><img src="/images/MA//img_1727-1.jpg" alt="Tour Eiffel"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1773-2.jpg" alt="Tour Eiffel"></li>
+<li class="splide__slide"><img src="/images/2017/09/MA//img_1727-1.jpg" alt="Tour Eiffel"></li>
 </ul>
 </div>
 </div>

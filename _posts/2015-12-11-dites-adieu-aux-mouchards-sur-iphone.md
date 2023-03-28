@@ -12,7 +12,7 @@ coverImage: "11791842566_3c2c71878a_k.jpg"
 cover2left: true
 ---
 
-Il y a un mois, je vous proposais de [dire adieu aux mouchards](http://www.6x8.org/2015/11/dites-adieu-aux-mouchards/), saluant la sortie de la version 42 de Firefox qui propose nativement une protection contre le pistage.
+Il y a un mois, je vous proposais de [dire adieu aux mouchards](/2015/11/dites-adieu-aux-mouchards/), saluant la sortie de la version 42 de Firefox qui propose nativement une protection contre le pistage.
 
 **Bonne nouvelle, ce mois-ci, c'est sur nos iPhone que Firefox se propose de nous protéger** : ils ont lancé cette semaine [Focus by Firefox](https://blog.mozilla.org/press-fr/2015/12/08/mozilla-presente-focus-by-firefox-un-bloqueur-de-contenu-pour-ios/), un « bloqueur de contenu » simple, gratuit et personnalisable.
 
@@ -39,10 +39,10 @@ Personnellement, je n'ai pas changé d'avis depuis septembre ([Payer, oui. Affic
 <div id="jardin-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_5183.png" alt="App Store : Focus by Firefox"></li>
-<li class="splide__slide"><img src="/images/IMG_5184.png" alt="Welcome to Focus by Firefox"></li>
-<li class="splide__slide"><img src="/images/IMG_5185.png" alt="Réglages > Safari > Bloqueurs de contenus"></li>
-<li class="splide__slide"><img src="/images/IMG_5186.png" alt="Focus by Firefox"></li>
+<li class="splide__slide"><img src="/images/2015/12/IMG_5183.png" alt="App Store : Focus by Firefox"></li>
+<li class="splide__slide"><img src="/images/2015/12/IMG_5184.png" alt="Welcome to Focus by Firefox"></li>
+<li class="splide__slide"><img src="/images/2015/12/IMG_5185.png" alt="Réglages > Safari > Bloqueurs de contenus"></li>
+<li class="splide__slide"><img src="/images/2015/12/IMG_5186.png" alt="Focus by Firefox"></li>
 </ul>
 </div>
 </div>

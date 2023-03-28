@@ -6,6 +6,7 @@ categories:
   - "trucs-de-geek"
 tags: 
   - "expo"
+  - "starwars"
 coverImage: "7769398251_l-exposition-star-wars-identites.jpg"
 cover2left: true
 ---
@@ -21,25 +22,25 @@ Bien sûr, j'ai pris quelques photos :
 <div id="starwars-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 1.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 2.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 3.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 4.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 5.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 6.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 7.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 8.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 9.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 10.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 11.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 12.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 13.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 14.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 15.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 16.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 17.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 18.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Star-Wars-Identities/13_07_2014 - 19.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 1.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 2.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 3.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 4.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 5.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 6.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 7.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 8.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 9.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 10.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 11.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 12.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 13.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 14.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 15.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 16.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 17.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 18.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 19.jpg" alt=""></li>
 </ul>
 </div>
 </div>

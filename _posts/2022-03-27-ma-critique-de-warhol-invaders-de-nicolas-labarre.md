@@ -11,7 +11,8 @@ coverImage: warhol-invaders.jpg
 noImageOnPost: true
 ---
 
-![](/images/warhol-invaders.jpg# book2right)Je ne sais plus qui m'en a parlé, ni à quel endroit j'en ai entendu parler... mais, si jamais, je remercie cette personne. "Warhol Invaders" est un <abbr>OLNI</abbr> (Objets Littéraires Non Identifié), <a href="/2016/02/ma-critique-de-la-fleche-du-temps-de-martin-amis/">encore un</a>, paru chez un petit éditeur (Les Moutons Électriques) dont le Pitch autant que la couverture m'ont intrigués et m'ont convaincu d'en tenter la lecture.
+{% include image.html class="right book" %}
+Je ne sais plus qui m'en a parlé, ni à quel endroit j'en ai entendu parler... mais, si jamais, je remercie cette personne. "Warhol Invaders" est un <abbr>OLNI</abbr> (Objets Littéraires Non Identifié), <a href="/2016/02/ma-critique-de-la-fleche-du-temps-de-martin-amis/">encore un</a>, paru chez un petit éditeur (Les Moutons Électriques) dont le Pitch autant que la couverture m'ont intrigués et m'ont convaincu d'en tenter la lecture.
 
 <blockquote>
 	<p>Et si&nbsp;? Et si l’informatique était devenue réellement grand public dès la fin des années&nbsp;60, sous l’égide d’Andy Warhol&nbsp;?</p>

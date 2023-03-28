@@ -14,7 +14,8 @@ noImageOnPost: true
 
 **Une quête initiatives dans laquelle les apparences sont parfois trompeuses**
 
-![](/images/9782863744444-001-T-187x300.jpeg# book2right)**Joʼ est un jeune interne en service pédiatrique**.
+{% include image.html class="right book" %}
+**Joʼ est un jeune interne en service pédiatrique**.
 
 **Noʼ est un petit garçon de 7 ans, au teint gris car atteint dʼune maladie du sang**.
 

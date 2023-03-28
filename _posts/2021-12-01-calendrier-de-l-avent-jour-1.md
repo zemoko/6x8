@@ -3,6 +3,7 @@ layout: instagram
 title:  'Calendrier de l’avent, jour 1'
 date:   2021-12-01
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - "instagram"

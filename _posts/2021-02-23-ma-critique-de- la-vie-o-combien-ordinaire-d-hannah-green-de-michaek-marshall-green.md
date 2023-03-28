@@ -12,7 +12,8 @@ coverImage: la-vie-o-combien-ordinaire-d-hannah-green.jpg
 noImageOnPost: true
 ---
 
-![](/images/la-vie-o-combien-ordinaire-d-hannah-green.jpg# book2right)Bon, maintenant que mon blog est devenu statique (<a href="/2021/11/pourquoi-et-comment-je-suis-devenu-statique/">une bonne chose de faite&nbsp;!</a>), il est temps de rattraper mon retard et rédiger les critiques des livres que j’ai lu ces derniers mois.
+{% include image.html class="right book" %}
+Bon, maintenant que mon blog est devenu statique (<a href="/2021/11/pourquoi-et-comment-je-suis-devenu-statique/">une bonne chose de faite&nbsp;!</a>), il est temps de rattraper mon retard et rédiger les critiques des livres que j’ai lu ces derniers mois.
 
 Commençons par <strong>La vie ô combien ordinaire d'Hannah Green</strong>.
 

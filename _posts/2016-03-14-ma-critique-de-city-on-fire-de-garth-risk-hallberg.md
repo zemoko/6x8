@@ -14,7 +14,8 @@ noImageOnPost: true
 
 ## Alors, coup d'édition ou révélation ?
 
-![](/images/City-on-fire-e1457974184657.jpg# book2right)**City on fire** est le gros _buzz_ littéraire de ce début d’année : le livre a été acheté par la maison d’édition Knopf pour 2 millions de dollars, Hollywood aurait déjà acheté les droits du livre et, en France, les éditions Plon l’ont acheté pour environ 200 000 €. Pourquoi un tel engouement pour un pavé de 1000 pages ?
+{% include image.html class="right book" %}
+**City on fire** est le gros _buzz_ littéraire de ce début d’année : le livre a été acheté par la maison d’édition Knopf pour 2 millions de dollars, Hollywood aurait déjà acheté les droits du livre et, en France, les éditions Plon l’ont acheté pour environ 200 000 €. Pourquoi un tel engouement pour un pavé de 1000 pages ?
 
 **L’histoire se passe à New-York, de la St Sylvestre 76 jusqu’au « Black-out » du 13 juillet 77**. En 1976, New-York est malade, la grosse pomme est en train de pourrir, au bord de la banqueroute financière et de l'explosion sociale : violente, corrompue, anarchique, sale, bruyante... la ville est en pleine déroute mais on sent déjà l’énergie qui présidera à sa métamorphose des années 80.
 

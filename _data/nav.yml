@@ -1,31 +1,42 @@
 categories:
 
 - title: Trucs de webmaster
+  level: 1
   url: trucs-de-webmaster
 
 - title: Trucs de geek
+  level: 1
   url: trucs-de-geek
 
 - title: Trucs de parisien
+  level: 1
   url: trucs-de-parisien
   subitems:
   - title: ... à Paris
+    level: 2
     url: a-paris
   - title: ... qui voyage
+    level: 2
     url: qui-voyage
   - title: ... mais aussi alsaciens
+    level: 2
     url: qui-sont-maintenant-alsaciens
 
 - title: Trucs pris en photo
+  level: 1
   url: trucs-pris-en-photo
   subitems:
   - title: Trucs de lomographes
+    level: 2
     url: trucs-de-lomographe
   - title: Trucs instagrammés
+    level: 2
     url: trucs-instagrammes
 
 - title: Trucs critiqués
+  level: 1
   url: trucs-critiques
 
 - title: Trucs
+  level: 1
   url: trucs

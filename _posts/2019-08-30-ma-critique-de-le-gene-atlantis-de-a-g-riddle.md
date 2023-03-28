@@ -26,7 +26,7 @@ Je laisse Bragelonne vous faire le pitch :
 
 ## Alors, c’était un nanar ?
 
-![](/images/le-gene-Atlantis-200x300.jpg# book2right)
+{% include image.html class="right book" %}
 
 Ben… ça dépendra sans doute de la personne à qui vous demandez. **Moi, ça m’a irrésistiblement fait penser à Dan Brown… or je n’ai jamais aimé Dan Brown.**
 

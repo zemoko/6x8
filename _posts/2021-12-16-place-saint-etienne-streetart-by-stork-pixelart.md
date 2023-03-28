@@ -3,6 +3,7 @@ layout: instagram
 title:  'Place Saint Etienne #streetart by @stork_pixelart'
 date:   2021-12-16
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - stork7567

@@ -33,8 +33,8 @@ layout: default
               {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
               <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
             {%- else -%}
-              {% capture coverImage %}/images/{{ post.coverImage }}{% endcapture %}
-              {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
+                {% capture coverImage %}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
+                {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
               <picture>
                 <source srcset="{{ coverImageWebp }}" type="image/webp">
                 <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />

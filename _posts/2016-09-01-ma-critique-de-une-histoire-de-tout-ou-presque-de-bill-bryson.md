@@ -13,7 +13,8 @@ noImageOnPost: true
 
 ## À mettre entre toutes les mains
 
-![](/images/41Vj8QMbLL._SX321_BO1204203200_-194x300.jpg# book2right) "Une histoire de tout ou presque" explique de manière **simple et vivante**, avec moules **anecdotes pertinentes** et **images marquantes** :
+{% include image.html class="right book" %}
+"Une histoire de tout ou presque" explique de manière **simple et vivante**, avec moules **anecdotes pertinentes** et **images marquantes** :
 
 - Le cosmos et ses mystères
 - La matière jusqu’à ses briques les plus élémentaires

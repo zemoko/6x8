@@ -29,7 +29,7 @@ Je suis collectionneur de Monopoly alors, forcément, il fallait que je commence
 - Dès 4 ans (voire 3 pour le p'tit frère) : **Monopoly Junior**
 - Dès 5 ans (mais sans les hypothèques) : **Monopoly** !
 
-![monopoly](/images/monopoly.jpg)
+![monopoly](/images/2016/05/monopoly.jpg)
 
 ### Les colons de Catane
 
@@ -38,7 +38,7 @@ Je suis collectionneur de Monopoly alors, forcément, il fallait que je commence
 - Dès 4/5 ans : **Catane Junior**
 - Vers 7/8 ans ? **Les Colons de Catane**
 
-![Les Colons de Catane](/images/catane.jpg)
+![Les Colons de Catane](/images/2016/05/catane.jpg)
 
 ### Carcassonne
 
@@ -47,7 +47,7 @@ Je suis collectionneur de Monopoly alors, forcément, il fallait que je commence
 - Dès 2/3 ans : **Mon premier Carcassonne**
 - Vers 4/5 ans ? **Carcassonne** (sans les champs)
 
-![Carcassonne](/images/carcassonne.jpg)
+![Carcassonne](/images/2016/05/carcassonne.jpg)
 
 ### Uno
 
@@ -56,4 +56,4 @@ Je suis collectionneur de Monopoly alors, forcément, il fallait que je commence
 - Dès 2/3 ans : **Gorilla**
 - Vers 7/8 ans ? **Uno**
 
-![Uno](/images/uno-1.jpg)
+![Uno](/images/2016/05/uno-1.jpg)

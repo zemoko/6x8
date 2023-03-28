@@ -10,6 +10,6 @@ tags:
 
 <div class="center">
 <video controls width="100%">
-	<source src="/images/danse.mp4" type="video/mp4">
+	<source src="/images/2015/08/danse.mp4" type="video/mp4">
 </video>
 </div>

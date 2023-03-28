@@ -12,7 +12,8 @@ coverImage: 9781529034523.jpg
 noImageOnPost: true
 ---
 
-![](/images/9781529034523.jpg# book2right)J’avais déjà essayé de vous expliquer <a href="/2016/10/la-vie-lunivers-et-le-reste/">La vie, l’univers et le reste</a> et donc pourquoi «&nbsp;6&nbsp;x&nbsp;8&nbsp;=&nbsp;42&nbsp;», et donc de vous présenter <strong>le Guide du routard galactique</strong> (<a href="https://fr.wikipedia.org/wiki/Le_Guide_du_voyageur_galactique_(roman)#Titre_en_fran%C3%A7ais">n’en déplaise au routard</a>, je continuerais de l’appeler comme ça, na&nbsp;!).
+{% include image.html class="right book" %}
+J’avais déjà essayé de vous expliquer <a href="/2016/10/la-vie-lunivers-et-le-reste/">La vie, l’univers et le reste</a> et donc pourquoi «&nbsp;6&nbsp;x&nbsp;8&nbsp;=&nbsp;42&nbsp;», et donc de vous présenter <strong>le Guide du routard galactique</strong> (<a href="https://fr.wikipedia.org/wiki/Le_Guide_du_voyageur_galactique_(roman)#Titre_en_fran%C3%A7ais">n’en déplaise au routard</a>, je continuerais de l’appeler comme ça, na&nbsp;!).
 
 Cet été, j’ai commencé à le re-re-relire, et c’est donc l’occasion d’écrire une (petite ?) critique de ce premier volume&nbsp;:)
 
@@ -22,10 +23,7 @@ Cet été, j’ai commencé à le re-re-relire, et c’est donc l’occasion d�
 	<p>‘This must be Thursday,’ said Arthur to himself, sinking low over his beer, ‘I never could get the hang of Thursdays.’</p>
 </blockquote>
 
-<figure class="center">
-	<img src="/images/HHGTTG-Logo.jpg" alt="Arthur et Ford">
-	<figcaption>Arhur et Ford</figcaption>
-</figure>
+{% include image.html name="HHGTTG-Logo.jpg" class="center" caption="Arthur et Ford" alt="The Hichhiker's Guide to the Galaxy" %}
 
 <strong>Ford Perfect</strong>, son meilleur ami arrive et lui annonce alors que <strong>la Terre elle-même va être détruite pour laisser place à une autoroute hyper-spatiale</strong>. C’était prévu et annoncé … sur une planète de Proxima du Centaure, certes… mais nul n’est censé ignorer la loi.
 
@@ -41,7 +39,7 @@ Cet été, j’ai commencé à le re-re-relire, et c’est donc l’occasion d�
 Heureusement, il se trouve que Ford est un extra-terrestre qui était sur Terre pour mettre à jour l’entrée correspondante du Guide du Routard Galactique.
 
 <br />
-<img src="/images/the-ultimate-hitchhikers-guide-to-the-galaxy-lunchtime-lit-with-mel.jpg" alt="" class="left" width="200">
+{% include image.html name="the-ultimate-hitchhikers-guide-to-the-galaxy-lunchtime-lit-with-mel.jpg" class="left" width="200" %}
 
 <blockquote class="citation" lang="en">
 	<ul>
@@ -70,9 +68,7 @@ Ceci n’est que le début de leurs aventures. Au fil du roman, outre Arthur et 
 	</div>
 </blockquote>
 
-<figure class="center">
-	<img src="/images/guide_entry__vogon_by_alexhart_d5d39tx-fullview.jpg" alt="">
-</figure>
+{% include image.html name="guide_entry__vogon_by_alexhart_d5d39tx-fullview.jpg" class="center" caption="Les Vogons" alt="Les Vogons sont l'une des races les plus déplaisantes de la galaxie. Pas vraiment mauvais, mais toujours de mauvaise humeur, bureaucratiques et insensibles." %}
 
 <h2>Zaphod Beeblebrox</h2>
 <p>Zaphor est un semi-cousin de Ford, et il est Président de la Galaxie. Zaphod est un peu mégalo sur les bords. Ah, et il a 2&nbsp;têtes et 3&nbsp;bras.</p>
@@ -108,9 +104,9 @@ En bonus, voici  comment commence le Guide du Routard Galactique (pas le roman d
 	<p>The introduction begins like this: ‘Space,’ it says, ‘is big. Really big. You just won’t believe how vastly hugely mindbogglingly big it is. I mean you may think it’s a long way down the road to the chemist, but that’s just peanuts to space. Listen . . .’ and so on.</p>
 </blockquote>
 
-Dans nombre de romans, films ou series de <abbr title="Science-Fiction">SF</abbr>, personne ne se pose la question de comment des personnes qui ne parlent pas la même langue peuvent facilement communiquer. Dans le <strong lang="en">Doctor Who</strong>, on sait que c’est grâce au Tardis<sup>*</sup> mais Douglas Adams a aussi une solution au problème&nbsp;: le poisson Babel.
+<p>Dans nombre de romans, films ou series de <abbr title="Science-Fiction">SF</abbr>, personne ne se pose la question de comment des personnes qui ne parlent pas la même langue peuvent facilement communiquer. Dans le <strong lang="en">Doctor Who</strong>, on sait que c’est grâce au Tardis<sup>*</sup> mais Douglas Adams a aussi une solution au problème&nbsp;: le poisson Babel.</p>
 
-GPPHjzJP4t53XBAdMqSwDL.jpg
+{% include image.html name="GPPHjzJP4t53XBAdMqSwDLjpg" class="center" caption="Poisson Babel" alt="Le poisson Babel est petit et jaune, en forme de sangsue et c'est probablement la chose la plus ancienne dans l'univers" %}
 
 <blockquote class="citation" lang="en">
 	<p>The Babel fish,’ said The Hitchhiker’s Guide to the Galaxy quietly, ‘is small, yellow and leech-like, and probably the oddest thing in the Universe. It feeds on brainwave energy received not from its own carrier but from those around it. It absorbs all unconscious mental frequencies from this brainwave energy to nourish itself with. It then excretes into the mind of its carrier a telepathic matrix formed by combining the conscious thought frequencies with nerve signals picked up from the speech centres of the brain which has supplied them. The practical upshot of all this is that if you stick a Babel fish in your ear you can instantly understand anything said to you in any form of language. The speech patterns you actually hear decode the brain-wave matrix which has been fed into your mind by your Babel fish.</p>

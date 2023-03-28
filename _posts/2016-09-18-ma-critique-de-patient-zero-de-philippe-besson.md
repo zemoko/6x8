@@ -11,7 +11,8 @@ coverImage: "ob_0e63d8_patient-zero-sida.jpg"
 noImageOnPost: true
 ---
 
-![](/images/ob_0e63d8_patient-zero-sida-209x300.jpg# book2right)"Patient Zéro" est ma deuxième lecture dans la collection Incipit (après ["Les délices de 36"](/2016/09/ma-critique-de-les-delices-de-36-de-nicolas-rey/) de Nicolas Rey).
+{% include image.html class="right book" %}
+"Patient Zéro" est ma deuxième lecture dans la collection Incipit (après ["Les délices de 36"](/2016/09/ma-critique-de-les-delices-de-36-de-nicolas-rey/) de Nicolas Rey).
 
 **"Incipit",** je vous le rappelle, **propose à des écrivains de raconter une "première fois"**.
 

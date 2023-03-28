@@ -6,8 +6,9 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "j2s"
 coverImage: IMG_39701.jpg
 cover2left: true
 ---
 
-Jungle Speed : 1 totem et quelques cartes
+##Jungle Speed : 1 totem et quelques cartes

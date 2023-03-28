@@ -12,7 +12,8 @@ coverImage: "agent-double-au-service-surnaturel-de-sa-majeste-2-roman-daniel-o-m
 noImageOnPost: true
 ---
 
-![](/images/agent-double-au-service-surnaturel-de-sa-majeste-2-roman-daniel-o-malley-1.jpg# book2right)Après [mon coup de cœur pour « The Rook - Au service surnaturel de sa majesté »](/2019/02/ma-critique-de-au-service-surnaturel-de-sa-majeste-de-daniel-omalley/), j’avais prévu que je ne résisterais pas bien longtemps au tome 2 « Agent double »… J’avais raison !
+{% include image.html class="right book" %}
+Après [mon coup de cœur pour « The Rook - Au service surnaturel de sa majesté »](/2019/02/ma-critique-de-au-service-surnaturel-de-sa-majeste-de-daniel-omalley/), j’avais prévu que je ne résisterais pas bien longtemps au tome 2 « Agent double »… J’avais raison !
 
 L’intrigue démarre peu de temps après la fin de « Au service surnaturel de sa majesté ». Myfanwy Thomas est toujours présente, mais n'est plus le personnage principal. Elle laisse sa place à **Odette**, une greffeuse, et à **Felicity**, un pion de la Checquy.
 

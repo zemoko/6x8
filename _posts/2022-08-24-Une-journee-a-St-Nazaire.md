@@ -3,6 +3,7 @@ layout: instagram
 title:  'Une journée à St Nazaire'
 date:   2022-08-24
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacances

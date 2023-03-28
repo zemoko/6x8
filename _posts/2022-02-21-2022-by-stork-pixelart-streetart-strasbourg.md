@@ -3,6 +3,7 @@ layout: instagram
 title:  '2022 by @stork_pixelart #streetart #strasbourg'
 date:   2022-02-21
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - stork7567

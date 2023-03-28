@@ -3,6 +3,7 @@ layout: instagram
 title:  'Un petit tour et puis s’en vont #vacances'
 date:   2022-08-26
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacances

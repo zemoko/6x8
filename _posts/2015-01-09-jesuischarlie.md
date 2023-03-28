@@ -12,10 +12,8 @@ cover2left: true
 
 Mercredi, l’indicible s'est produit. Mercredi, l'impensable s'est produit. Mercredi, deux malades ont attaqué la rédaction d'un journal satyrique. Ils ont tué 12 personnes, ils en ont blessé des millions.
 
-<figure style="width:670px">
-	<img src="/images/15604770413_422aff959f_z.jpg" alt="">
-	<figcaption>Photo publié en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a> par <a href="https://www.flickr.com/photos/dominikfoto/">Dominik Fusina</a>a></figcaption>
-</figure>
+
+{% include image.html name="15604770413_422aff959f_z.jpg" caption='Photo publié en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a> par <a href="https://www.flickr.com/photos/dominikfoto/">Dominik Fusina</a>' %}
 
 Depuis mercredi, comme des milliers d'autres, j'ai la gueule de bois. Je me sens meurtri, blessé, profondément, immensément triste. Je ne peux songer à ce qui s'est passé sans avoir les larmes aux yeux... Et je peux pas m'empêcher d'y penser. Alors, à force d'y penser, je me suis dit qu'il fallait que je pose toutes ces pensées quelque part. Pour faire le tri. Voilà.
 
@@ -27,10 +25,7 @@ Ils se sont attaqués à nos valeurs, celles de la France, celles de Charlie, le
 
 **Ce sont celles de la République mais aussi celles des musulmans, n'en déplaise aux barbus.** **Ce sont celles de tous les Français, d'où qu'ils viennent, quelles que soient leurs origines, n'en déplaise à la blonde.**
 
-<figure style="width:330px">
-	<img src="/images/15602626454_5c782952cd_z-300x300.jpg" alt="">
-	<figcaption>Photo publié en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a> par <a href="https://www.flickr.com/photos/carloszgz/">Carlos ZGZ</a>a></figcaption>
-</figure>
+{% include image.html name="15602626454_5c782952cd_z-300x300.jpg" caption='Photo publié en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a> par <a href="https://www.flickr.com/photos/carloszgz/">Carlos ZGZ</a>' %}
 
 Mercredi, j'ai aussi publié [une (courte) critique de "Soumission"](http://www.senscritique.com/livre/Soumission/critique/43617113 "une (courte) critique de "Soumission""), le dernier roman de Michel Houellebecq. Aujourd'hui, ce que je retiens de son livre, c'est que l'hypothèse d'un parti musulman (relativement) modéré proposant un candidat aux élections présidentielles de 2022 en réaction à la montée du FN, et réussisîant à le faire élire suite à un "sursaut" républicain. Cette hypothèse, à la lecture du roman, paraît presque crédible, en partie à cause des raccourcis de l'auteur (et c'est bien sa liberté d'auteur de fiction) mais aussi parce que, effectivement, aujourd'hui déjà la montée du FN fait peur.
 
@@ -40,10 +35,7 @@ L'Islam, je sais que ce n'est pas cela. Pas les frères Kouachi. Pas Ben Abbes (
 
 Déjà qu'on a fait sonner les cloches de Notre-Dame pour des bouffeurs de curés, qu'on a joué la Marseillaise pour des anarchistes, ne leurs faisons pas cela en plus, ne laissons pas le FN en profiter, n**e laissons pas les extrémistes nous diviser. Ce serait insupportable,**
 
-<figure style="width:270px">
-	<img src="/images/15603708694_9fda8ca33b_m.jpg" alt="">
-	<figcaption>Photo publié en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a> par <a href="christophe_pelletier">Christophe Pelletier</a></figcaption>
-</figure>
+{% include image.html name="15603708694_9fda8ca33b_m.jpg" caption='Photo publié en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a> par <a href="christophe_pelletier">Christophe Pelletier</a>' %}
 
 **Je suis Charlie, ce n'est pas qu'une posture : c'est cela**. Restons fidèles. N'ayons pas peur. Ne montrons pas nos peurs. Tenons nous droits. Ne lâchons pas une parcelle de notre liberté. Refusons les récupérations politiciennes. Rions. Achetons Charlie. Moquons nous d'eux et de nous même. Moquons nous de tous. C'est comme cela, seulement, qu'ils seront vengés.
 
@@ -51,7 +43,4 @@ Ce soir, je suis triste mais je suis déterminé. Pour Cabu, pour Charb, pour Ho
 
 # **Parce que je suis Charlie.**
 
-<figure style="width:900px">
-	<img src="https://pbs.twimg.com/media/B63NhqBIcAAAEfR.jpg:large" alt="Ils ont voulu nous enterrer, ils ne savaient pas que nous étions des graines.">
-	<figcaption>Proverbe mexicain (by Bibi)</figcaption>
-</figure>
+{% include image.html name="https://pbs.twimg.com/media/B63NhqBIcAAAEfR.jpg:large" alt='Ils ont voulu nous enterrer, ils ne savaient pas que nous étions des graines.' caption='Proverbe mexicain (by Bibi)' %}

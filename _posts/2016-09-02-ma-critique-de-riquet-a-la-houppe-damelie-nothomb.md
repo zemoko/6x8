@@ -12,7 +12,8 @@ coverImage: "index.jpg"
 noImageOnPost: true
 ---
 
-![](/images/index.jpg# book2right)Tous les ans, quand vient la rentrée, je suis toujours impatient de retrouver Amélie. La plupart du temps, elle me bluffe : je dévore son livre avec gourmandise et le finit avec bonheur... mais, de temps en temps, ça ne fonctionne pas.
+{% include image.html class="right book" %}
+Tous les ans, quand vient la rentrée, je suis toujours impatient de retrouver Amélie. La plupart du temps, elle me bluffe : je dévore son livre avec gourmandise et le finit avec bonheur... mais, de temps en temps, ça ne fonctionne pas.
 
 **Et bien, pour moi, cette année, ça n'a pas fonctionné :(**
 

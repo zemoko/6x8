@@ -18,25 +18,25 @@ Nous avons eu le bonheur de retourner à Châtel :) Enfants obligent, on s'est c
 
 Tous les jours, on a pris plusieurs fois le Morclan : au début de la semaine pour descendre la **Chermillon**, en fin de semaine pour descendre la **Barbossine**.
 
-<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/571662305.961754.jpg&amp;autoLoad=true"></iframe></div>
+<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/02/571662305.961754.jpg&amp;autoLoad=true"></iframe></div>
 
 ## Le Corbeau
 
 Du haut du Corbeau, on a une belle vue sur la Suisse avec Montreux d'un côté, et Morgins de l'autre. Derrière Morgins, ce sont les **Dents du Midi** et, encore derrière, le **Mont Blanc** !
 
-<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/571662271.596941.jpg&amp;autoLoad=true"></iframe></div>
+<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/02/571662271.596941.jpg&amp;autoLoad=true"></iframe></div>
 
 ## La Chermillon
 
 Quand on est au beau milieu de la **Chermillon**, ça donne ça :)
 
-<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/571662257.797351.jpg&amp;autoLoad=true"></iframe></div>
+<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/02/571662257.797351.jpg&amp;autoLoad=true"></iframe></div>
 
 ## Après la Barbossine, c'est la Panoramique
 
 Pas facile la Barbossine, mais on y progresse et on n'est que peu embêté par les skieurs qui passent ;) Et puis, une fois descendus (puis remontés), on est récompensés par une grande piste, bleue, certes, mais avec une vue plus que grandiose : la bien-nommée **Panoramique**.
 
-<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/572114808.907477.jpg&amp;autoLoad=true"></iframe></div>
+<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/02/572114808.907477.jpg&amp;autoLoad=true"></iframe></div>
 
 On en revient à peine... mais, déjà, j'ai une campagne de propagande à la maison pour qu'on y retourne l'an prochain ! **Vivement !**
 

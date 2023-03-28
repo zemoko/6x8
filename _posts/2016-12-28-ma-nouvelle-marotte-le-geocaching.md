@@ -14,7 +14,8 @@ Depuis quelques temps, j’ai trouvé une autre motivation (pas incompatible ave
 
 ## Qu’est ce que le geocaching ?
 
-![](/images/IMG_6588-225x300.jpg# book2right) C’est **une sorte de « chasse au trésor 2.0 »** : quelqu’un, le créateur de « la cache » dissimule (dans le ville ou dans la nature, c’est selon) une boîte, plus ou moins grande, contenant au minimum un « geolog » (sur lequel les geocacheurs pourront inscrire leurs noms, une fois qu’ils auront trouvé la cache). Il l’enregistre ensuite sur le site geocaching.com en la décrivant et, surtout, en indiquant ses coordonnées GPS.
+{% include image.html name="IMG_6588-225x300.jpg" class="right" %}
+C’est **une sorte de « chasse au trésor 2.0 »** : quelqu’un, le créateur de « la cache » dissimule (dans le ville ou dans la nature, c’est selon) une boîte, plus ou moins grande, contenant au minimum un « geolog » (sur lequel les geocacheurs pourront inscrire leurs noms, une fois qu’ils auront trouvé la cache). Il l’enregistre ensuite sur le site geocaching.com en la décrivant et, surtout, en indiquant ses coordonnées GPS.
 
 En 2013, il existait déjà **plus de 2 millions de caches dans le monde, réparties sur 222 pays** ! Rien qu'en France, il en existe actuellement plus de 200 000 !
 
@@ -37,7 +38,8 @@ Chaque cache est décrite sur une page dédiée, contenant toutes les infos pour
 
 ## Une diversité impressionnante
 
-![](/images/IMG_7051-225x300.jpg# book2right) Chaque cache est plus ou moins difficile (sur une échelle de 1 à 5), accessible (idem) et chaque boîte est plus ou moins grande (de « nano », la plus petite, environ la taille d’une gomme de crayon à « large », ce qui peut correspondre à une caisse militaire par exemple).
+{% include image.html name="IMG_7051-225x300.jpg" class="right" %}
+Chaque cache est plus ou moins difficile (sur une échelle de 1 à 5), accessible (idem) et chaque boîte est plus ou moins grande (de « nano », la plus petite, environ la taille d’une gomme de crayon à « large », ce qui peut correspondre à une caisse militaire par exemple).
 
 Certaines caches contiennent, en plus du geolog à signer, des objets voyageurs. Si vous prenez quelque chose, vous devez y laisser un objet de valeur égale ou supérieure. Chaque objet est traçable sur le site geocaching.
 
@@ -66,7 +68,7 @@ Enfin, et c’est plus qu’un conseil, quand vous cherchez une geocache, il fau
 
 ## Quelques geocaches que j’ai particulièrement appréciées
 
-![](/images/IMG_7052-169x300.jpg# book2right)
+{% include image.html name="IMG_7052-169x300.jpg" class="right" %}
 
 ### Les boites les plus ingénieuses
 

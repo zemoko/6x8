@@ -600,6 +600,7 @@ nav {
       img, video {
         width: 100%;
         height: auto;
+        display: block;
       }
       &.instagram {
         a {
@@ -659,6 +660,21 @@ nav {
         height: 100%;
       }
     }
+    mark {
+      a {
+        color: darken( desaturate(@primary, 40%), 15%);
+        &::after {
+          background: rgba(@primary, 0.42);
+        }
+      }
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    img.book {
+      max-width: 300px;
+    }
     figure, .card {
       margin: 1rem auto;
       border-radius: .5rem;
@@ -668,10 +684,6 @@ nav {
       box-shadow: 2px 0px 21px -1px rgba(0, 0, 0, 0.76);
       background: linear-gradient(-135deg, #7b56ff 40%, #52e2ff 120%);
       max-width: 100%;
-      img {
-        max-width: 100%;
-        height: auto;
-      }
       &.center {
         text-align: center;
       }
@@ -735,6 +747,15 @@ nav {
       }
       figcaption {
         margin-bottom: 1rem;
+      }
+      @media screen and (max-device-width: @md-medium) {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        img {
+          height: auto;
+        }
       }
     }
   }

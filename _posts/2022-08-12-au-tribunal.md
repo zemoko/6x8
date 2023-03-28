@@ -3,6 +3,7 @@ layout: instagram
 title:  'Au tribunal #streetart by @stork_pixelart'
 date:   2022-08-12
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - stork7567

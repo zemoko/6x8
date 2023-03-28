@@ -12,7 +12,8 @@ coverImage: "9782714474230.jpg"
 noImageOnPost: true
 ---
 
-![](/images/9782714474230-185x300.jpg# book2right)Le roman commence en 2029. L**’Amérique est en faillite, elle s’effondre sous le poids de sa dette**. Le dollar perd son rôle central de monnaie de réserve et de référence pour les échanges commerciaux, remplacé par le « bancor », une nouvelle devise élaborée par la Chine et la Russie (j’ai découvert après ma lecture que le bancor n’est pas une invention de Lionnel Shriver mais [une proposition datant du sommet de Bretton Woods](https://fr.wikipedia.org/wiki/Bancor) !). Le Président Alvarado refuse tant la nouvelle devise que la perte d’influence qu’elle représente, il dénonce unilatéralement la dette Étasunienne, interdit toute entrée de bancor et toute sortie de dollars (de toute manière plus personne n’en veux hors des US) et réquisitionne l’or de particuliers.
+{% include image.html class="right book" %}
+Le roman commence en 2029. L**’Amérique est en faillite, elle s’effondre sous le poids de sa dette**. Le dollar perd son rôle central de monnaie de réserve et de référence pour les échanges commerciaux, remplacé par le « bancor », une nouvelle devise élaborée par la Chine et la Russie (j’ai découvert après ma lecture que le bancor n’est pas une invention de Lionnel Shriver mais [une proposition datant du sommet de Bretton Woods](https://fr.wikipedia.org/wiki/Bancor) !). Le Président Alvarado refuse tant la nouvelle devise que la perte d’influence qu’elle représente, il dénonce unilatéralement la dette Étasunienne, interdit toute entrée de bancor et toute sortie de dollars (de toute manière plus personne n’en veux hors des US) et réquisitionne l’or de particuliers.
 
 **La crise qui s’ensuit est sans précédent et n’épargne personne. Elle engloutit les fortunes familiales, entraîne une inflation sans précédent et une insécurité grandissante qui confine rapidement au chaos dans les grandes villes.**
 

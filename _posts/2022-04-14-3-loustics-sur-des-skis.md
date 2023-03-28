@@ -3,6 +3,7 @@ layout: instagram
 title:  '3 loustics sur des skis'
 date:   2022-04-14
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags: []
 coverImage: 2022-04-14-3-loustics-sur-des-skis.jpg

@@ -11,7 +11,8 @@ coverImage: "71AIN4ukn3L.jpg"
 noImageOnPost: true
 ---
 
-![](/images/71AIN4ukn3L-198x300.jpg# book2right)J'ai voulu lire ce roman parce que j'avais beaucoup aimé "Les corrections" (paru en 2001) et que j'étais curieux de découvrir ses œuvres précédentes ("Phénomènes naturels" est sorti en 1992). **Disons-le tout de suite, j'ai été plutôt déçu**.
+{% include image.html class="right book" %}
+J'ai voulu lire ce roman parce que j'avais beaucoup aimé "Les corrections" (paru en 2001) et que j'étais curieux de découvrir ses œuvres précédentes ("Phénomènes naturels" est sorti en 1992). **Disons-le tout de suite, j'ai été plutôt déçu**.
 
 Nous avons ici affaire à une sorte de **thriller écolo-sociologique** mêlé à **un roman familial** qui pourrait être passionnant... si ce n'était **des personnages trop superficiels, pas assez fouillés, pas assez crédibles**. Du coup, là où j'avais dévoré "Les corrections" (qui était également un gros pavé), j'ai eu beaucoup plus de mal à rentrer dans ce roman, et encore plus à le finir.
 

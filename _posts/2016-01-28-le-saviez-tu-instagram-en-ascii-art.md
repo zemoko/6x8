@@ -25,7 +25,7 @@ tags:
     <strong>Faites un clic droit sur l'image et choisissez Afficher l'image</strong> (sur Firefox en tout cas mais ça ne doit pas être bien différent sur d'autres navigateurs).<br />
     Vous disposerez alors de la "vraie" <abbr>URL</abbr> de l'image. Pour moi, ça donne <a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg">https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg</a>
     <figure style="width: 553px">
-      <img src="/images/afficher-l-image.png" alt="Afficher l&#039;image" width="523" height="639" class="aligncenter size-full wp-image-1599" />
+      <img src="/images/2016/01/afficher-l-image.png" alt="Afficher l&#039;image" width="523" height="639" class="aligncenter size-full wp-image-1599" />
     </figure>
   </li>
 
@@ -33,14 +33,14 @@ tags:
     <strong>Vous la voulez en <abbr>ASCII</abbr> art&nbsp;?</strong> Rajoutez juste <code>.txt</code> à la fin de cette adresse.<br />
     Ce qui donne&nbsp; <a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg.txt">https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg.txt</a><br />
     <figure style="width: 660px">
-        <img src="/images/ASCII.png" alt="ASCII" width="630" height="689" />
+        <img src="/images/2016/01/ASCII.png" alt="ASCII" width="630" height="689" />
     </figure></li>
 
   <li>
     <strong>Vous la voulez en <abbr>ASCII</abbr> art coloré&nbsp;?</strong> Rajoutez juste <code>.html</code> à la fin de cette adresse.<br />
     Ce qui donne&nbsp; <a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg.html">https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12357591_214457888893323_1242855472_n.jpg.html</a><br />
     <figure style="width: 660px">
-      <img src="/images/ASCII-color.png" alt="ASCII en couleurs" width="630" height="689">
+      <img src="/images/2016/01/ASCII-color.png" alt="ASCII en couleurs" width="630" height="689">
     </figure></li>
 
 </ol>

@@ -41,13 +41,13 @@ On peut aussi profiter des nouvelles propriétés <abbr>HTML5</abbr> pour contr�
 
 Résultat&nbsp;:
 <figure style="width:750px">
-	<img src="/images//1_champs-texte.png" alt="Maquette de formulaire utilisant un champs de texte libre" />
+	<img src="/images/2014/04/1_champs-texte.png" alt="Maquette de formulaire utilisant un champs de texte libre" />
 	<figcaption>Ceci n'est pas une date, c'est un champs de texte libre (<a href="/ceci-nest-pas-une-date/" target="_blank" title="Voir la page (nouvelle fenêtre)">Voir la page</a>)</figcaption>
 </figure>
 
 Exemple d'implémentation&nbsp;:
 <figure style="width:583px">
-	<img alt="Formulaire d'authentification JOA" src="/images/JOA.png" />
+	<img alt="Formulaire d'authentification JOA" src="/images/2014/04/JOA.png" />
 	<figcaption>JOA <small>(pas de lien, le site est moche et bourré de popups *àlacon*)</small></figcaption>
 </figure>
 
@@ -64,13 +64,13 @@ Rien de particulier à rajouter pour être accessible, ça marche <em lang="en">
 
 Résultat&nbsp;:
 <figure style="width:750px">
-	<img src="/images/2_champs-date.png" alt="Maquettede formulaire utilisant un champs de type date" >
+	<img src="/images/2014/04/2_champs-date.png" alt="Maquettede formulaire utilisant un champs de type date" >
 	<figcaption>Ceci n'est pas une date, c'est un champs de type date (<a href="/ceci-nest-pas-une-date-2/" target="_blank" title="Voir la page (nouvelle fenêtre)">Voir la page</a>)</figcaption>
 </figure>
 
 Exemple d'implémentation&nbsp;:
 <figure style="width:750px">
-	<img src="/images/pmu-inscription.png" alt="Inscription | pmu.fr" />
+	<img src="/images/2014/04/pmu-inscription.png" alt="Inscription | pmu.fr" />
 	<figcaption>PMU <small><a href="https://www.pmu.fr/ouverture/2010?clientApi=1&redirectionUrl=https%3A%2F%2Fwww.turf.pmu.fr" target="_blank" title="Formulaire d'inscription (nouvelle fenêtre)">Formulaire d'inscription</a></small>)</figcaption>
 </figure>
 
@@ -96,17 +96,17 @@ Pas forcément la plus simple à manipuler pour être accessible ET ergonomique 
 
 Résultat&nbsp;:
 <figure style="width:750px">
-	<img src="/images/3_3-champs-texte.png" alt="Maquette de formulaire utilisant 3 champs de texte libres" /></a>
+	<img src="/images/2014/04/3_3-champs-texte.png" alt="Maquette de formulaire utilisant 3 champs de texte libres" /></a>
 	<figcaption>Ceci n'est pas une date, ce sont 3 champs de texte libres (<a href="/ceci-nest-pas-une-date-3/" target="_blank" title="Voir la page (nouvelle fenêtre)">Voir la page</a>)</figcaption>
 </figure>
 
 Exemples d'implémentation&nbsp;:
 <figure style="width:360px">
-	<img src="/images/PMU-Identification.png" alt="Identification | pmu.fr" /><
+	<img src="/images/2014/04/PMU-Identification.png" alt="Identification | pmu.fr" /><
 	<figcaption>PMU (<small><a href="https://www.pmu.fr/ouverture/2010?clientApi=1&redirectionUrl=https%3A%2F%2Fwww.turf.pmu.fr" target="_blank" title="Formulaire d'inscription (nouvelle fenêtre)">Formulaire d'inscription</a></small>)</figcaption>
 </figure>
 <figure style="width:368px">
-	<img src="/images/Connexion-App-LOTO.png" alt="Connexion - App LOTO" />
+	<img src="/images/2014/04/Connexion-App-LOTO.png" alt="Connexion - App LOTO" />
 	<figcaption><abbr title="Française Des Jeux">FDJ</abbr> (<small><a href="http://itunes.apple.com/fr/app/loto/id439643474?mt=8" target="_blank" title="App LOTO (nouvelle fenêtre)">Connexion à l'app</a></small>)</figcaption>
 </figure>
 
@@ -129,17 +129,17 @@ La mise en &oelig;uvre est assez similaire à celle de la solution précédente&
 
 Résultat&nbsp;:
 <figure style="width:750px">
-	<img src="/images/4_3-listes.png" alt="Maquette de formulaire utilisant 3 listes déroulantes" />
+	<img src="/images/2014/04/4_3-listes.png" alt="Maquette de formulaire utilisant 3 listes déroulantes" />
 	<figcaption>Ceci n'est pas une date, ce sont 3 listes déroulantes (<a href="/ceci-nest-pas-une-date-4/" target="_blank" title="Voir la page (nouvelle fenêtre)">Voir la page</a>)</figcaption>
 </figure>
 
 Exemples d'implémentation&nbsp;:
 <figure style="width:750px">
-	<img src="/images/FDJ-Authentification.png" alt="Authentification | fdj.fr" />
+	<img src="/images/2014/04/FDJ-Authentification.png" alt="Authentification | fdj.fr" />
 	<figcaption><abbr title="Française Des Jeux">FDJ</abbr> (<small><a href="https://www.fdj.fr/oad/sessions.do?mth=displayLoginForm&service=FDJ_WEB&redirect=https%3A%2F%2Fwww.fdj.fr%2Fpage%2Fmobile%2Ftitre%2Fmobile%23" target="_blank" title="Formulaire d'authentification (nouvelle fenêtre)">Formulaire d'authentification</a></small>)</figcaption>
 </figure>
 <figure style="width:368px">
-	<img src="/images/Connexion-App-PMU.png" alt="Connexion - App PMU" />
+	<img src="/images/2014/04/Connexion-App-PMU.png" alt="Connexion - App PMU" />
 	<figcaption><abbr>PMU</abbr> (<small><a href="http://www.pmumobile.fr/index.html" target="_blank" title="App PMU (nouvelle fenêtre)">Connexion à l'app</a></small>)</figcaption>
 </figure>
 

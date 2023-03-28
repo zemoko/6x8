@@ -3,6 +3,7 @@ layout: instagram
 title:  'Encore des cigognes ! By @stork_pixelart #strasbourg #makerland'
 date:   2021-10-10
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - stork7567

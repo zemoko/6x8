@@ -47,7 +47,7 @@ cover2left: true
 
 <p>En me professionnalisant, mais aussi en essayant de rester à l'écoute, j'ai pris conscience peu à peu de la diversité des utilisateurs de nos sites, mais aussi de la chance que le développement d'internet pouvait être pour eux, et donc de la nécessité impérieuse de tenir compte d'un concept alors assez barbare, l'accessibilité numérique.</p>
 
-<div class="center"><img src="/images/accessiweb-300x77.png" alt="Accessiweb" width="300" height="77"  /></div>
+<div class="center"><img src="/images/2018/06/accessiweb-300x77.png" alt="Accessiweb" width="300" height="77"  /></div>
 
 <p>Je suis expert Accessiweb depuis 2008.</p>
 
@@ -77,7 +77,7 @@ On cible plusieurs déficiences&nbsp;: sensorielles (cécité, surdité...), cog
 
 <h3><strong>L’essence du <span lang="en">web</span>, c’est son inclusivité</strong>, le fait que tout le monde soit invité à y participer. <strong>L’accessibilité, c’est le moyen que nous avons pour que ça reste une réalité.</strong></h3>
 
-<p><img src="/images/opquast-150x150.png" alt="opquast Expert" width="150" height="150" class="right" />Plus tard, au fil de mes lectures, des conférences ou des réunions d'experts auxquelles j’ai assisté, des discussions et des rencontres qui m’ont enrichit, j'ai découvert le concept de <strong>«&nbsp;Qualité <span lang="en">web</span>&nbsp;»</strong>.  C’est un autre concept barbare, peut être un peu plus simple à promouvoir en entreprise que l'accessibilité. Je dis cela sans renier la nécessité de l'accessibilité… non mais la qualité est un concept tout aussi positif, mais plus vaste. une sorte de meta=concept, un Cheval de Troie&nbsp;!</p>
+<p><img src="/images/2018/06/opquast-150x150.png" alt="opquast Expert" width="150" height="150" class="right" />Plus tard, au fil de mes lectures, des conférences ou des réunions d'experts auxquelles j’ai assisté, des discussions et des rencontres qui m’ont enrichit, j'ai découvert le concept de <strong>«&nbsp;Qualité <span lang="en">web</span>&nbsp;»</strong>.  C’est un autre concept barbare, peut être un peu plus simple à promouvoir en entreprise que l'accessibilité. Je dis cela sans renier la nécessité de l'accessibilité… non mais la qualité est un concept tout aussi positif, mais plus vaste. une sorte de meta=concept, un Cheval de Troie&nbsp;!</p>
 
 <figure>
   <blockquote>
@@ -98,7 +98,7 @@ On cible plusieurs déficiences&nbsp;: sensorielles (cécité, surdité...), cog
   <li>ou vos <strong>Services</strong>, qui sont de qualité également pour favoriser la confiance de vos clients, et donc leur fidélisation.</li>
 </ul>
 
-<div class="center"><img src="/images/VPTCS.png" alt="" width="570" height="206" /></div>
+<div class="center"><img src="/images/2018/06VPTCS.png" alt="" width="570" height="206" /></div>
 
 <p>Vous voyez&nbsp;? Ça concerne tous les métiers du <span lang="en">web</span>, ça commence avant que vos visiteurs n’arrivent sur votre site, et ça se termine bien après leur départ. C’est une approche autant autour de l’<abbr>UX</abbr>, l’eXpérience Utilisateur, que d’<abbr>UI</abbr>, l’Interface Utilisateur.</p>
 
@@ -112,7 +112,7 @@ On cible plusieurs déficiences&nbsp;: sensorielles (cécité, surdité...), cog
 
 <p>Là, vous vous dites que je yoyote... mais non. L'accessibilité, c'est respecter le gens, là je parle de respecter leurs choix. Un <span lang="en">web</span> universel, c'est donc un <span lang="en">web</span> qui fonctionne quelque soit le navigateur, le système d'exploitation et le matériel que vous choisissez d'utiliser. C’est lié mais ce n’est pas exactement la même chose.</p>
 
-<p><img src="/images/bestviewedwithie6.jpg" alt="" width="147" height="123" class="right" />J'ai connu un temps où fleurissaient les boutons <span lang="en">"made for <abbr>ie6</abbr>"</span>, un temps où on envoyait des messages aux <span lang="en">webmasters</span> des sites que nous consultions pour signaler des incompatibilité avec <span lang="en">Netscape/Phoenix/Firefox</span> et où ils répondaient «&nbsp;Utilisez <span lang="en">Internet Explorer</span>&nbsp;!&nbsp;».
+<p><img src="/images/2018/06/bestviewedwithie6.jpg" alt="" width="147" height="123" class="right" />J'ai connu un temps où fleurissaient les boutons <span lang="en">"made for <abbr>ie6</abbr>"</span>, un temps où on envoyait des messages aux <span lang="en">webmasters</span> des sites que nous consultions pour signaler des incompatibilité avec <span lang="en">Netscape/Phoenix/Firefox</span> et où ils répondaient «&nbsp;Utilisez <span lang="en">Internet Explorer</span>&nbsp;!&nbsp;».
 
 <h3>Un <span lang="en">web</span> accessible à tous, c'est un <span lang="en">web</span> où chacun choisit librement comment il y accède.</strong></h3>
 
@@ -141,7 +141,7 @@ On cible plusieurs déficiences&nbsp;: sensorielles (cécité, surdité...), cog
 
 <p>Parce que pour répondre à cette problématique, ces «&nbsp;standards&nbsp;» s’appuient sur l’<abbr>HTML</abbr> mais l’optimise pour améliorer les performances… Ils l'optimisent&nbsp;? Oui, alors en fait, ils le brident&nbsp;: plus que des scripts prévalidés, on ne sait comment, via une liste blanche, que des régies présélectionnées, que des composants standardisés.</p>
 
-<div class="center"><img src="/images/notvalidAMPHTML.png" alt="Sorry, this page is not valid AMP HTML" width="523" height="470" /></div>
+<div class="center"><img src="/images/2018/06/notvalidAMPHTML.png" alt="Sorry, this page is not valid AMP HTML" width="523" height="470" /></div>
 
 <p><strong>L’innovation&nbsp;?</strong> Ne vous inquiétez pas, c’est <span lang="en">Google</span> qui s’en charge. Les <abbbr>GAFA</abbbr> innovent, pour le bien de tous, évidemment. Ne vous inquiétez pas.</p>
 
@@ -219,7 +219,7 @@ On cible plusieurs déficiences&nbsp;: sensorielles (cécité, surdité...), cog
 
 <p>Si internet était un pays, il serait le 3<sup>e</sup>&nbsp;plus gros consommateur d’électricité au monde avec 1500&nbsp;TWH par an (La question n'est d'ailleurs pas de savoir s'il va devenir la première source mondiale de pollution, devant la Chine et les États-Unis. Non, la question, c'est de savoir quand).</p>
 
-<div class="center"><img src="/images/consoelectriqueinternet.png" alt="" width="754" height="337"  /></div>
+<div class="center"><img src="/images/2018/06consoelectriqueinternet.png" alt="" width="754" height="337"  /></div>
 
 <figure>
   <figcaption>Répartition des impacts en terme d’émission de gaz à effet de serre&nbsp;:</figcaption>

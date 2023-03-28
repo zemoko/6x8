@@ -13,7 +13,7 @@ noImageOnPost: true
 
 ## Un livre que j'ai aimé lire mais que je n'ai pas aimé.
 
-![](/images/Le_Livre_des_Baltimore-220x300.jpg# book2right)
+{% include image.html class="right book" %}
 
 **J'avais été un brin agacé par "La Vérité sur l'Affaire Harry Québert"** parce qu'on m'en avait tant parlé alors que je ne l'avais pas tant aimé que cela... mais aussi parce qu'il fait partie de ses livres qui agissent comme une drogue : ça se lit bien et ça se lit vite... mais vous auriez envie de le lire encore plus vite. À moitié pour le finir, à moitié pour en finir.
 

@@ -12,7 +12,7 @@ cover2left: true
 
 Souvent on me demande **« Pourquoi six fois huit ? »** et **« Pourquoi quarante-deux ? »** Alors, je me dis que me fendre d'un **billet explicatif** ne serait pas de trop.
 
-![Hitchhiker's Guide to the Galaxy](/images/hitchhiker-s-guide-douglas-adams-657242_451_700-193x300.jpg# book2right)
+![Hitchhiker's Guide to the Galaxy](/images/2016/10/hitchhiker-s-guide-douglas-adams-657242_451_700-193x300.jpg# book2right)
 
 Tout vient du **Guide du routard galactique** (_Hitchhiker's Guide to the Galaxy_) de **Douglas Adams**. C'est une fabuleuse trilogie, unique en son genre (ne serait-ce que parce que c'est une trilogie de 5 tomes). Une des œuvres les plus drôles que j'ai lu. Elle contient pléthore d'histoires toutes plus dingues les unes que les autres. Vous ne trouverez ici **que** la réponse à la vie, à l'univers et au reste.
 
@@ -30,7 +30,7 @@ Ils le construisent, lui pose la question... puis il mouline...
 
 Passé ce temps de calcul, l'ordinateur se réveille. Une grande fête a bien évidemment été organisée et un cérémonial majestueux préparé pour, enfin, obtenir la réponse à la vie, à l'univers et au reste.
 
-![Deep Thought](/images/vlcsnap-2011-01-17-16h21m27s224-1024x422-1024x422.png)
+![Deep Thought](/images/2016/10/vlcsnap-2011-01-17-16h21m27s224-1024x422-1024x422.png)
 
 <blockquote class="citation" lang="en">
 	<ul>
@@ -58,7 +58,7 @@ Passé ce temps de calcul, l'ordinateur se réveille. Une grande fête a bien é
 	</ul>
 </blockquote>
 
-![Mice.. aka vast Hyper-intelligent pan-dimensionnal beings](/images/3ff16dbafbe2ebe50f5415cdf426a6a7.jpg# book2right)
+![Mice.. aka vast Hyper-intelligent pan-dimensionnal beings](/images/2016/10/3ff16dbafbe2ebe50f5415cdf426a6a7.jpg# book2right)
 
 Passé la stupeur, on commence par lyncher les descendants des ingénieurs ayant conçu l'ordinateur puis on songe à lui demander quelques précisions. Il explique alors qu'il est juste assez puissant pour leurs donner la réponse, mais pas assez pour leurs donner la question. **Il n'est _que_ le second ordinateur le plus puissent de tout l'univers et de tous les temps**.
 
@@ -78,7 +78,7 @@ On construit donc la Terre et les chercheurs prennent l'apparence de souris pour
 
 ## Quelques propositions...
 
-![Marvin](/images/marvin_by_mad42sam-d4iz3tc-300x300.png# book2right)
+![Marvin](/images/2016/10/marvin_by_mad42sam-d4iz3tc-300x300.png# book2right)
 
 - Les souris ont proposé **« How many roads must a man walk down? »** (c'est aussi le début de la chanson _Blowin' in the Wind_ de Bob Dylan)
 - Marvin, l'androïde paranoïde, propose **« Pensez à un nombre, n'importe lequel. »**
@@ -86,7 +86,7 @@ On construit donc la Terre et les chercheurs prennent l'apparence de souris pour
 
 <blockquote class="citation">D'après une théorie, le jour où quelqu'un découvrira exactement à quoi sert l'Univers et pourquoi il est là, ledit Univers disparaîtra sur-le-champ pour se voir remplacé par quelque chose de considérablement plus bizarre et inexplicable. Selon une autre théorie, la chose se serait en fait déjà produite.</blockquote>
 
-![Douglas Adams](/images/AVT_Douglas-Adams_9125-300x238.jpeg)
+![Douglas Adams](/images/2016/10/AVT_Douglas-Adams_9125-300x238.jpeg)
 
 En 1993, dans le newsgroup _alt.fan.douglas-adams_ (Qui se rappelle des newsgroups ?) a fourni une réponse :
 

@@ -11,7 +11,8 @@ coverImage: "106029872_o.jpg"
 noImageOnPost: true
 ---
 
-![](/images/106029872_o-202x300.jpg# book2right)Je suis un grand fan de Douglas Coupland… mais je dois commencer par vous avouer que **je ne sais que penser de ce livre. Il arrive à être à la fois amusant et énervant.**
+{% include image.html class="right book" %}
+Je suis un grand fan de Douglas Coupland… mais je dois commencer par vous avouer que **je ne sais que penser de ce livre. Il arrive à être à la fois amusant et énervant.**
 
 Douglas Coupland est souvent sarcastique, ironique, exubérant et improbable, il ne fait pas dans la mesure et sait manier à merveille un humour à plusieurs degrés… Par contre, je ne l’avais jamais vu si noir : il se veut caustique mais flirte avec la vulgarité, il se veut satirique mais je le trouve grossier, graveleux… Un genre de littérature à la « San Antonio » auquel je n’ai jamais vraiment accroché.
 

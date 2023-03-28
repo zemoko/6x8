@@ -3,6 +3,7 @@ layout: instagram
 title:  'Un week-end épuisant 😎'
 date:   2021-10-26
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - paris

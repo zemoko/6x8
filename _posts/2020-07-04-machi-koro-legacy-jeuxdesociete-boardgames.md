@@ -1,6 +1,6 @@
 ---
 layout: instagram
-title: "Machi Koro  Legacy #jeuxdesociété #boardgames"
+title: "Machi Koro Legacy #jeuxdesociété #boardgames"
 date: "2020-07-04"
 categories: 
   - "trucs-instagrammes"

@@ -3,6 +3,7 @@ layout: instagram
 title:  'En faisant le tour de la presqu’île #vacances'
 date:   2022-08-22
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - vacances

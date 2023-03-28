@@ -11,7 +11,8 @@ coverImage: "9782702158890-001-T.jpeg"
 noImageOnPost: true
 ---
 
-![](/images/9782702158890-001-T-196x300.jpeg# book2right)**Jʼai été attiré par de nombreuses critiques**, dans la presse et sur le net, **toutes assez élogieuses**... **mais je dois avouer que je ne suis vraiment pas convaincu par ma lecture**.
+{% include image.html class="right book" %}
+**Jʼai été attiré par de nombreuses critiques**, dans la presse et sur le net, **toutes assez élogieuses**... **mais je dois avouer que je ne suis vraiment pas convaincu par ma lecture**.
 
 Le polar est assez insipide (on devine rapidement le nom du coupable), lʼhistoire traine en longueur et plusieurs des personnages ne mʼont pas parus réellement crédibles... Bref, **voici un livre que je suis heureux dʼavoir terminé :(**
 

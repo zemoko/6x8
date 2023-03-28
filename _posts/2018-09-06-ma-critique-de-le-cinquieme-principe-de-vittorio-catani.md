@@ -13,7 +13,8 @@ noImageOnPost: true
 
 Je reprends le fil de mes critiques. Je vous rassure, je n’ai pas arrêté de lire (j’ai juste ralenti depuis que je circule à vélo), il se trouve juste que mon déménagement/aménagement m’a occupé à plein-temps... J’ai donc 5 critiques en retard :(
 
-![](/images/005007194-222x300.jpg# book2right)Dans ce roman de science-fiction de Vittorio Catani, l’action se passe en 2043. Demain, presque, donc.
+{% include image.html class="right book" %}
+Dans ce roman de science-fiction de Vittorio Catani, l’action se passe en 2043. Demain, presque, donc.
 
 **En 2043, l’ultra-libéralisme n’est plus discuté**, une fraction de l’humanité, ultra-riche, s’est isolée laissant la majorité des terriens dans une pauvreté extrême, voire les mettant en esclavage. **Aux ultra-riches, la spéculation effrénée, aux autres un endettement illimité** (chacun pouvant émettre des obligations personnelles à long-terme pour régler dépenses et factures).
 

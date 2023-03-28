@@ -21,17 +21,17 @@ Comme je n'étais pas sûr d'y aller avec un ou deux zouave, je n'avais pas pris
 <div id="manege-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/fullsizeoutput_9ab6.jpeg" alt="L'hotel de ville en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9aa8.jpeg" alt="Le Panthéon en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9aaa.jpeg" alt="Le Louvre en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9aa9.jpeg" alt="L'arc de triomphe du Carousel en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9aab.jpeg" alt="Notre-Dame en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9aba.jpeg" alt="Notre-Dame en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9ab7.jpeg" alt="La Tour Eiffel en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9ab8.jpeg" alt="Gustave Eiffel en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9ab9.jpeg" alt="Le Baron Haussmann en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9abd.jpeg" alt="L'hotel de ville en Lego"></li>
-<li class="splide__slide"><img src="/images/fullsizeoutput_9abb.jpeg" alt="Minifigures Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9ab6.jpeg" alt="L'hotel de ville en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9aa8.jpeg" alt="Le Panthéon en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9aaa.jpeg" alt="Le Louvre en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9aa9.jpeg" alt="L'arc de triomphe du Carousel en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9aab.jpeg" alt="Notre-Dame en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9aba.jpeg" alt="Notre-Dame en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9ab7.jpeg" alt="La Tour Eiffel en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9ab8.jpeg" alt="Gustave Eiffel en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9ab9.jpeg" alt="Le Baron Haussmann en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9abd.jpeg" alt="L'hotel de ville en Lego"></li>
+<li class="splide__slide"><img src="/images/2016/12/fullsizeoutput_9abb.jpeg" alt="Minifigures Lego"></li>
 </ul>
 </div>
 </div>

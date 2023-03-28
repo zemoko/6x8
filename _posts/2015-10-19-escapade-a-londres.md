@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "londres"
 coverImage: Escapade-a-Londres.jpg
 instagram: 9B6OmuymVz
 ---

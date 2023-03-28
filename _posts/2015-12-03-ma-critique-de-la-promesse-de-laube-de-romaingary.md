@@ -18,7 +18,8 @@ Bizarrement, je n'avais encore jamais lu de livre de Romain Gary... mais j'avais
 
 ## La promesse de l'aube
 
-![](/images/9782070363735.jpg# book2right)**"La promesse de l'aube" est avant tout un hommage de Romain Gary à sa mère**... mais c'est aussi, son autobiographie, enfin non, c'est **la biographie du couple qu'il forma avec sa mère**.
+{% include image.html class="right book" %}
+**"La promesse de l'aube" est avant tout un hommage de Romain Gary à sa mère**... mais c'est aussi, son autobiographie, enfin non, c'est **la biographie du couple qu'il forma avec sa mère**.
 
 C'est donc leur histoire à tous les deux. Un fils fidèle et obéissant, et une (caricature de) mère juive qui vit pour lui, voire à travers lui. **Une histoire émouvante, formidablement bien écrite, souvent drôle, d'une sincérité désarmante et d'une ironie mordante.**
 

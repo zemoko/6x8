@@ -3,6 +3,7 @@ layout: instagram
 title:  'Villainous: Prince John #puzzle'
 date:   2021-07-14
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - boardgames

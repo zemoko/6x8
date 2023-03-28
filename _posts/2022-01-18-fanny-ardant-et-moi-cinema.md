@@ -3,6 +3,7 @@ layout: instagram
 title:  'Fanny Ardant (et moi ?) #cinema'
 date:   2022-01-18
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - film

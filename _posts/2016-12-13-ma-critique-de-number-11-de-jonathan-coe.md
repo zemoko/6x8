@@ -12,7 +12,8 @@ coverImage: "26110947.jpg"
 noImageOnPost: true
 ---
 
-![](/images/26110947-186x300.jpg# book2right)Avec "Number 11", Jonathan Coe nous livre un roman que les britanniques qualifient de **"state-of-the-nation novel"**, c'est à dire un état des lieux de l'Angleterre (post-Blair).
+{% include image.html class="right book" %}
+Avec "Number 11", Jonathan Coe nous livre un roman que les britanniques qualifient de **"state-of-the-nation novel"**, c'est à dire un état des lieux de l'Angleterre (post-Blair).
 
 Le roman est découpé en **5 tableaux** hétérogènes. Seuls **2 fils rouges** nous guident, Rachel et Alison, tout à tour personnages principaux ou secondaires, qu'on suivra de la fin de l'enfance et à l'âge adulte.
 

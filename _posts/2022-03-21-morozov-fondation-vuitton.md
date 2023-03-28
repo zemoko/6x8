@@ -7,7 +7,7 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "expo"
-coverImage: "morozov/morozov.webp"
+coverImage: "morozov.webp"
 cover2left: false
 ---
 

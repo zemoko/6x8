@@ -11,4 +11,4 @@ coverImage: 10453979_650597255033414_208484532_n.jpg
 instagram: o710fYyma4
 ---
 
-Samuel (quasi-portrait)
+##Samuel (quasi-portrait)

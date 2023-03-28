@@ -3,6 +3,7 @@ layout: instagram
 title:  'Bredele #miam'
 date:   2021-12-04
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - "miam"

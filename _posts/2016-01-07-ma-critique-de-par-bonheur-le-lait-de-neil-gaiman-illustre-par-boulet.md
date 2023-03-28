@@ -16,7 +16,8 @@ noImageOnPost: true
 
 **Que ne ferait pas un super papa pour mener à bien sa mission**, ramener du lait pour le petit déj' de ses enfants ? _(et aussi, un peu, pour son thé, faut avouer)_
 
-![](/images/bonheur-lait-402x1024.jpg# book2right)Dans le désordre, et sans trop en dévoiler, il croisera :
+{% include image.html class="right book" %}
+Dans le désordre, et sans trop en dévoiler, il croisera :
 
 - **des extraterrestres** (ils m'ont un peu fait penser aux vogons sauf qu'ils ne veulent pas la détruire la Terre pour faire passer une autoroute hyperspatiale, ils veulent juste la redécorer...)
 - **un stégosaure** (l'inventeur, entre autres, du voyage dans le temps et du transporte-personne-par-boule-flottante)

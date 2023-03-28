@@ -13,7 +13,7 @@ Je me suis donc retrouvé là : [http://www.mondialrelay.fr/trouver-le-point-rel
 Déjà, c'est mal barré pour la Qualité web (coucou [opquast](http://opquast.com/fr/)) puisque la page n'a pas de title... bref... je ne suis pas là pour faire un audit, je suis là pour chercher un point relais. Ce pour quoi on trouve le formulaire rapidement, c'est cool...
 
 <figure style="width:1030px">
-	<img src="/images/Capture-décran-2016-02-13-22.38.23.png" alt="">
+	<img src="/images/2016/02/Capture-décran-2016-02-13-22.38.23.png" alt="">
 	<figcaption>Mondial Relay</figcaption>
 </figure>
 
@@ -24,14 +24,14 @@ Après avoir renseigné ces deux infos, j'ai essayé de valider le formulaire av
 Là, le site m'a trouvé 20 points relais à proximité. C'pas mal, non ? Enfin, sauf que...
 
 <figure style="width:650px">
-	<img src="/images/Capture-décran-2016-02-13-22.43.26.png" alt="">
+	<img src="/images/2016/02/Capture-décran-2016-02-13-22.43.26.png" alt="">
 	<figcaption>Carte des points relais</figcaption>
 </figure>
 
 Je sais pas vous... mais, moi, ce point relais au nord d'Arras (en zoomant, c'est Hazebrouck en fait), ça m'étonne un peu quand même... Je clique sur le picto pour comprendre en quoi "Hazebrouck" est proche de "Paris 19".
 
 <figure style="width:1030px">
-	<img src="/images/Capture-décran-2016-02-13-22.46.06.png" alt="">
+	<img src="/images/2016/02/Capture-décran-2016-02-13-22.46.06.png" alt="">
 	<figcaption>Hazebrouck</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Bref. De toute manière, celui de la rue de Meaux me parait le plus pratique pou
 Mais, je le répète, je suis un utilisateur super avancé, alors je ne m'avoue pas vaincu aussi facilement, j'essaie d'être plus futé que les machines : plutôt que de cliquer sur le lien pour ouvrir la lightbox, je fais un clic droit pour l'ouvrir dans une nouvelle fenêtre. Hé ben, en fait, non. [Ça marche](http://www.mondialrelay.fr/_mvc/fr-FR/PointCollecteLivraison/DetailJson?codePays=FR&numero=15881)... mais je ne suis pas sur que ça aide beaucoup :
 
 <figure style="width:1030px">
-	<img src="/images/Capture-décran-2016-02-13-22.54.46.png" alt="">
+	<img src="/images/2016/02/Capture-décran-2016-02-13-22.54.46.png" alt="">
 	<figcaption>Détails du point relais</figcaption>
 </figure>
 

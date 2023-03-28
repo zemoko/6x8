@@ -33,7 +33,4 @@ Depuis quelques temps, on voit fleurir des articles sur les bloqueurs de pubs un
 
 On en profiterait pour dire que [détecter les bloqueurs de pubs](http://www.commitstrip.com/fr/2014/12/03/adblockers-they-found-a-solution/), pourquoi pas, c'est peut-être un bout de la solution... mais dans ce cas, on dirait qu'ils essaieraient de bien le faire, pas comme [La Chaîne Météo](http://paris.lachainemeteo.com/meteo-france/ville/previsions-meteo-paris-3903-0.php) qui ne veut pas me donner ses pubs alors que je ne bloque pas leurs publicités (mais Privacy Badger bloque quand même **16 traqueurs !**)
 
-<figure style="width:800px">
-	<img src="/images/Capture-décran-2015-09-22-21.29.54.png" alt="">
-	<figcaption>Non, je n'ai pas d'adblocker</figcaption>
-</figure>
+{% include image.html name="Capture-décran-2015-09-22-21.29.54.png" caption="Non, je n'ai pas d'adblocker" %}

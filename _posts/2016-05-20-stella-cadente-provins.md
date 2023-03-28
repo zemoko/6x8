@@ -21,26 +21,26 @@ Vous trouverez des infos et des photos sur Provins partout sur le net, je ne vou
 <div id="jardin-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/Provins/IMG_0019.jpg" alt="La maison"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0024.jpg" alt="Stella Cadente ?"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0020-1.jpg" alt="L'escalier"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0022.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0013.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0016.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0017.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0040.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0041.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0038.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0014.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0012.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0015.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0023.jpg" alt="La suite"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0021.jpg" alt="La chambre"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0006.jpg" alt="Dans la chambre"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0004.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0019-1.jpg" alt="La salle à manger, le soir"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0014-1.jpg" alt="La salle à manger, la nuit"></li>
-<li class="splide__slide"><img src="/images/Provins/IMG_0020.jpg" alt="Jeux dans le parc"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0019.jpg" alt="La maison"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0024.jpg" alt="Stella Cadente ?"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0020-1.jpg" alt="L'escalier"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0022.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0013.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0016.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0017.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0040.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0041.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0038.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0014.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0012.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0015.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0023.jpg" alt="La suite"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0021.jpg" alt="La chambre"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0006.jpg" alt="Dans la chambre"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0004.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0019-1.jpg" alt="La salle à manger, le soir"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0014-1.jpg" alt="La salle à manger, la nuit"></li>
+<li class="splide__slide"><img src="/images/2016/05/Provins/IMG_0020.jpg" alt="Jeux dans le parc"></li>
 </ul>
 </div>
 </div>

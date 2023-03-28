@@ -3,6 +3,7 @@ layout: instagram
 title:  'En passant'
 date:   2022-07-10
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - strasbourg

@@ -3,6 +3,7 @@ layout: instagram
 title:  '#soutenonsepsiloon'
 date:   2021-06-21
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 coverImage: 2021-06-21-soutenonsepsiloon.jpg
 instagram: CQX7i7fhJyc

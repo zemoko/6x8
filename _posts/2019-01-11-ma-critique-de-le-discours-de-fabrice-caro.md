@@ -13,7 +13,7 @@ noImageOnPost: true
 
 <blockquote class="citation">Tu sais, ça ferait très plaisir à ta sœur si tu faisais un petit discours le jour de la cérémonie.</blockquote>
 
-![](/images/121554850-205x300.jpg# book2right)
+{% include image.html class="right book" %}
 
 Quand son futur beau-frère lui demande de faire un discours pour le mariage de sa sœur, Adrien est effondré mais ne trouve rien d’autre à répondre que :
 

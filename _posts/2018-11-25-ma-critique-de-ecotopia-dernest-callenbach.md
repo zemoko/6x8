@@ -12,7 +12,8 @@ coverImage: "5bb772e752d3d.jpg"
 noImageOnPost: true
 ---
 
-![](/images/5bb772e752d3d-300x300.jpg# book2right)[Un article d'Usbek & Rica\]](https://usbeketrica.com/article/ecotopia-bienvenue-dans-le-futur-desirable ) m'a (encore) donné envie de découvrir un roman (paru en 1975, c'est forcément un bon cru !), et un auteur, dont je n'avais jamais entendu parlé alors qu'en cherchant sur le web (anglophone), il s'agit d'un roman vendu à plus d'un million d'exemplaire et d'un auteur que beaucoup comparent à Orson Wells, Aldous Huxley ou Orwell.
+{% include image.html class="right book" %}
+[Un article d'Usbek & Rica\]](https://usbeketrica.com/article/ecotopia-bienvenue-dans-le-futur-desirable ) m'a (encore) donné envie de découvrir un roman (paru en 1975, c'est forcément un bon cru !), et un auteur, dont je n'avais jamais entendu parlé alors qu'en cherchant sur le web (anglophone), il s'agit d'un roman vendu à plus d'un million d'exemplaire et d'un auteur que beaucoup comparent à Orson Wells, Aldous Huxley ou Orwell.
 
 Sauf que **"Écotopia" est l'anti-1984**, **"Écotopia", c'est le meilleur des (deux) mondes** : Il s'agit bien d'un roman d'anticipation, comme 1984 et comme le meilleur des monde, mais on découvre ici **une utopie écologique.**
 
@@ -20,7 +21,7 @@ Sauf que **"Écotopia" est l'anti-1984**, **"Écotopia", c'est le meilleur des (
 
 "Écotopia" imagine que **3 états américains**, la Californie, l'Oregon et Washington, **décident de faire sécession des États-Unis pour fonder une société vraiment écologique** (les États-Unis, on s'en doute, ne sont pas franchement d'accords mais il se dit que les espions écotopiens ont cachés des bombes atomiques dans les grandes villes américaines... alors, dans le doute, ils s'abstiennent de toute réaction).
 
-![Carte d'Écotopia](/images/5bb774c63606e.png)
+![Carte d'Écotopia](/images/2018/11/5bb774c63606e.png)
 
 Écotopia, 20 ans après la sécession (source [reddit](https://www.reddit.com/r/AlternateHistory/comments/8uow1l/north_america_in_the_book_ecotopia_by_ernest/))
 

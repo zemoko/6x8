@@ -12,6 +12,6 @@ cover2left: true
 
 <div class="center">
 <audio controls width="100%">
-	<source src="/images/RealPlayer-20100520-1928.mp3" type="audio/mp3">
+	<source src="/images/2015/08/RealPlayer-20100520-1928.mp3" type="audio/mp3">
 </audio>
 </div>

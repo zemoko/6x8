@@ -21,7 +21,7 @@ Je ne suis plus engagé chez eux donc je ne m'attendais pas à ce qu'ils me prop
 Mais en fait, non. Il ont tout simplement refusé de me le vendre ! "Changement de mobile impossible avec votre forfait" !
 
 <figure>
-	<img src="/images/Capture-d’écran-2014-09-22-à-13.52.15.png" alt="Sélectionnez le prix de votre mobile">
+	<img src="/images/2014/09/Capture-d’écran-2014-09-22-à-13.52.15.png" alt="Sélectionnez le prix de votre mobile">
 	<figcaption>Espace client Bouygues Telecom</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Quelques jours plus tard, j'entends parlé de décalage de livraisons sur le net
 **Le sur-lendemain**, je reçois ce message :
 
 <figure>
-	<img src="/images/Capture-d’écran-2014-09-22-à-13.53.41.png" alt="Nous, à la FNAC, on aime pas les e-mails">
+	<img src="/images/2014/09/Capture-d’écran-2014-09-22-à-13.53.41.png" alt="Nous, à la FNAC, on aime pas les e-mails">
 </figure>
 
 Étonnant, non ? En gros ils me confirment qu'ils sont pas bien doués dans la gestion des e-mails, ils espèrent que je me sois débrouillé tout seul et que, sinon, je peux les appeler (mais dans les heures d'ouvertures hein).
@@ -48,7 +48,7 @@ Je leurs réponds que non, mon problème n'est pas résolu, et que non, je ne so
 Je n'aurais jamais de réponse à ce message mais quelques heures après, je reçois le message générique suivant :
 
 <figure>
-	<img src="/images/Capture-d’écran-2014-09-23-à-11.16.44.png" alt="L'équipe Relation Clients FNAC vous informe">
+	<img src="/images/2014/09/Capture-d’écran-2014-09-23-à-11.16.44.png" alt="L'équipe Relation Clients FNAC vous informe">
 </figure>
 
 OK. C'est vague, ça ne réponds pas précisément sur ma date de livraison (entre temps passée, sur le site Fnac à "début octobre") et ça rejette la faut sur le "fournisseur". Admettons... même si chez les autres, ça m'a l'air moins chaotique et que ce n'est pas la première fois que c'est à la Fnac/ que les précommandes d'iPhone se passent mal... N'empêche que "début octobre", sans plus de précision et avec ce mépris affiché... moi je passe. **Pré-commande annulée**.

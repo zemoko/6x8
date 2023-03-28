@@ -3,6 +3,7 @@ layout: instagram
 title:  'L’industrie magnifique #industriemagnifique #strasbourg'
 date:   2021-06-06
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags: 
   - art

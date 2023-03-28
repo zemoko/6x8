@@ -27,29 +27,29 @@ Nous voilà installés (et bien installés) dans notre nouvelle maison, et dans 
 <div id="jardin-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/Ochsenstein/BjboDZcyQdaUcOu5rM9Ziw.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/WIkYKXyrSqqHkzEM44a3jw.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/Xdww51JSLkDkL6Hrgjg.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/FOgPn6uOQiSSfSFen0C6eA-e1535488697446.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/img_3376.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/6FaDCWAcQW6iCh1w7N8XXQ.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/NvGOO5FsQEWkP3LEedhL7w-e1535488678855.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/4HDSUl9nSFKBX0UnQlbFtA-e1535488662313.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/rmWHXCgVQMOi9u8IXsMVQ.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/Q72nwFpQQ3KHSZheNBIYA-e1535488643157.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/RnrtS69LRBi2cm3uBY6KDg-e1535490590688.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/Ochsenstein/bvXmXoyeScGbmgErQCOlJQ.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/BjboDZcyQdaUcOu5rM9Ziw.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/WIkYKXyrSqqHkzEM44a3jw.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/Xdww51JSLkDkL6Hrgjg.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/FOgPn6uOQiSSfSFen0C6eA-e1535488697446.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/img_3376.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/6FaDCWAcQW6iCh1w7N8XXQ.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/NvGOO5FsQEWkP3LEedhL7w-e1535488678855.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/4HDSUl9nSFKBX0UnQlbFtA-e1535488662313.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/rmWHXCgVQMOi9u8IXsMVQ.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/Q72nwFpQQ3KHSZheNBIYA-e1535488643157.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/RnrtS69LRBi2cm3uBY6KDg-e1535490590688.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/Ochsenstein/bvXmXoyeScGbmgErQCOlJQ.jpg" alt=""></li>
 </ul>
 </div>
 </div>
 
 ## La vue sur la plaine d'Alsace à partir du Grand Château
 
-<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/Ochsenstein/img_3470.jpg&amp;autoLoad=true"></iframe></div>
+<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/02/Ochsenstein/img_3470.jpg&amp;autoLoad=true"></iframe></div>
 
 ## La vue sur l'Alsace et la Lorraine à partir de la terrasse du Geissfels
 
-<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/Ochsenstein/img_3469.jpg&amp;autoLoad=true"></iframe></div>
+<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/08/Ochsenstein/img_3469.jpg&amp;autoLoad=true"></iframe></div>
 
 * * *
 

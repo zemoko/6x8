@@ -12,7 +12,8 @@ coverImage: "2070661989.jpg"
 noImageOnPost: true
 ---
 
-![](/images/2070661989-207x300.jpg# book2right)Nous retrouvons Ophélie là où nous l’avons laissé à la fin du tome 1 : au cœur de la Citacielle. Le 1er  tome se terminait au Clairdelune, ce 2e tome prends de la hauteur car **Ophélie rejoint la tour, et la cour, de Farouk où, encore plus qu’ailleurs dans la Citacielle, tout n'est qu’intrigues de Palais et illusions tapageuses et trompeuses**.
+{% include image.html class="right book" %}
+Nous retrouvons Ophélie là où nous l’avons laissé à la fin du tome 1 : au cœur de la Citacielle. Le 1er  tome se terminait au Clairdelune, ce 2e tome prends de la hauteur car **Ophélie rejoint la tour, et la cour, de Farouk où, encore plus qu’ailleurs dans la Citacielle, tout n'est qu’intrigues de Palais et illusions tapageuses et trompeuses**.
 
 **Farouk**, l’esprit de famille du Pôle, a mauvaise mémoire mais il est fasciné par son Livre et attiré par Ophélie. Tant et si bien qu’elle se retrouve rapidement bombardée vice-conteuse. Pas mal, non, pour une petite animiste à la maladresse pathologique ?!
 

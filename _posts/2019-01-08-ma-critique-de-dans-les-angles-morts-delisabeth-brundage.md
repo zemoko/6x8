@@ -11,7 +11,8 @@ coverImage: "ob_eeec29_dans-les-angles-morts.jpg"
 noImageOnPost: true
 ---
 
-![](/images/ob_eeec29_dans-les-angles-morts-184x300.jpg# book2right)Ce soir-là, quand il rentre de l’université privée de Chosen où il enseigne l’histoire de l’art, **George Clare trouve sa femme assassinée**, et leur fille de 3 ans seule dans sa chambre.
+{% include image.html class="right book" %}
+Ce soir-là, quand il rentre de l’université privée de Chosen où il enseigne l’histoire de l’art, **George Clare trouve sa femme assassinée**, et leur fille de 3 ans seule dans sa chambre.
 
 Huits mois plus tôt, **cette famille de new-yorkais avait aménagé dans leur petite ferme de l’état de New-York**, qu’ils avaient pu acquérir pour une bouchée de pain.
 

@@ -3,6 +3,7 @@ layout: post
 title: "LCA x Babylon  13"
 date: "2021-07-15"
 categories: 
+  - trucs-pris-en-photo
   - trucs-de-lomographe
 tags: 
   - "lomo"

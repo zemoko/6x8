@@ -3,6 +3,7 @@ layout: instagram
 title:  'Plage de Foncillon #Royan'
 date:   2021-07-21
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - royan

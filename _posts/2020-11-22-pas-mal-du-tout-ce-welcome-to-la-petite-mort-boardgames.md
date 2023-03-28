@@ -1,6 +1,6 @@
 ---
 layout: instagram
-title: "Pas mal du tout ce Welcome to La Petite Mort   #boardgames"
+title: "Pas mal du tout ce Welcome to La Petite Mort #boardgames"
 date: "2020-11-22"
 categories: 
   - "trucs-instagrammes"

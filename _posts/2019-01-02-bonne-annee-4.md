@@ -11,7 +11,7 @@ cover2left: true
 Tradition oblige, j'ai fait ma sélection de photos, de billets et de tweets et je profite de ce retour sur **2018** pour vous souhaiter **une bien belle année 2019**
 
 <div class="caption center"><a href="https://www.6x8.org/voeux2019/">
-	<img title="Afficher la carte de vœux (nouvelle fenêtre)" width="500" src="/images/BA2019.jpg" alt=""><br />
+	<img title="Afficher la carte de vœux (nouvelle fenêtre)" width="500" src="/images/2019/01/BA2019.jpg" alt=""><br />
 	Cliquez pour afficher la carte de vœux
 </a></div>
 

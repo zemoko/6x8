@@ -14,7 +14,8 @@ noImageOnPost: true
 
 **La tribu Malaussène est de retour !** Bon, d’accord, c’est un peu moins une tribu, ils ont grandi (mais pas tant changé que cela finalement), ils se sont quelque peu éparpillés (mais se retrouvent souvent), une nouvelle génération est née (fidèle à ses ainés)... mais **l’énergie est toujours là, et le bonheur de lire intact**.
 
-![](/images/product_9782070142316_195x320.jpg# book2right)18 ans ont passé depuis le dernier roman, il faut un petit temps d’adaptation pour bien resituer tout le monde (mais un glossaire en fin de roman aide bien).
+{% include image.html class="right book" %}
+18 ans ont passé depuis le dernier roman, il faut un petit temps d’adaptation pour bien resituer tout le monde (mais un glossaire en fin de roman aide bien).
 
 **Benjamin** travaille toujours aux éditions du Talion, toujours dirigées par la **Reine Zabo**. Il s’occupe des vévés de la reine, ces auteurs qui écrivent la « vérité vraie ».
 

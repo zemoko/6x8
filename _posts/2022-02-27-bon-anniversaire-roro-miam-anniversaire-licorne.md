@@ -3,6 +3,7 @@ layout: instagram
 title:  'Bon anniversaire Roro #miam #anniversaire #licorne'
 date:   2022-02-27
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - miam

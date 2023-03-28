@@ -19,9 +19,7 @@ Peu de temps après, j'ai eu la surprise, désagréable (mais pas si surprenante
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Mais euh ta gu@&amp;€ <a href="https://twitter.com/GoogleFR?ref_src=twsrc%5Etfw">@GoogleFR</a> , je ne t’ai pas demandé ton avis 🤬 <a href="https://t.co/A1lsgbu6R0">pic.twitter.com/A1lsgbu6R0</a></p>— Arnaud MΛL⭕П (@zemoko) <a href="https://twitter.com/zemoko/status/1095075844798726144?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
 
-  
-
-**Mais WTF Google ? Je n'ai rien demandé. Je fais ce que je veux sur mon iPad !**
+**Mais <abbr>WTF</abbr> Google ? Je n'ai rien demandé. Je fais ce que je veux sur mon iPad !**
 
 ## Google veut du bien à tout le monde (défiance)
 

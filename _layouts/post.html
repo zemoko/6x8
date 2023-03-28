@@ -7,65 +7,64 @@ layout: default
     <header class="post-header {% if page.cover2left %} cover2left{% endif %}">
       <div>
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | markdownify }}</h1>
-        {%- if page.date -%}
+{%- if page.date -%}
         <p class="post-meta">
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {% include locale-date.html %}
+  {% include locale-date.html %}
           </time>
-          {%- if page.categories -%}
-            {% assign cat = page.categories | first %}
-            {%- for item in site.data.nav.categories -%}
-              {%- if cat == item.url -%}
-                {%- capture cattit -%}{{ item.title }}{%- endcapture -%}
-                {%- capture caturl -%}/category/{{ item.url }}/{%- endcapture -%}
-              {%- endif -%}
-              {%- if item.subitems -%}
-                {%- for subitem in item.subitems -%}
-                  {%- if cat == subitem.url -%}
-                    {%- capture cattit -%}{{ subitem.title }}{%- endcapture -%}
-                    {%- capture caturl -%}/category/{{ item.url }}/{{ subitem.url }}/{%- endcapture -%}
-                  {%- endif- %}
-                {%- endfor -%}
-              {%- endif -%}
-            {%- endfor -%}
+  {%- if page.categories -%}
+    {% assign cat = page.categories | first %}
+    {%- for item in site.data.nav.categories -%}
+      {%- if cat == item.url -%}
+        {%- capture cattit -%}{{ item.title }}{%- endcapture -%}
+        {%- capture caturl -%}/category/{{ item.url }}/{%- endcapture -%}
+      {%- endif -%}
+      {%- if item.subitems -%}
+        {%- for subitem in item.subitems -%}
+          {%- if cat == subitem.url -%}
+            {%- capture cattit -%}{{ subitem.title }}{%- endcapture -%}
+            {%- capture caturl -%}/category/{{ item.url }}/{{ subitem.url }}/{%- endcapture -%}
+          {%- endif- %}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
             &nbsp;/&nbsp;
             <a href="{{ caturl }}">{{ cattit }}</a>
-            {% assign nbtags = page.tags | size %}
-            {%- if nbtags > 0 -%}
+    {% assign nbtags = page.tags | size %}
+    {%- if nbtags > 0 -%}
             &nbsp;/&nbsp;
-              {%- for tag in page.tags -%}<a href="/tag/{{ tag }}/">#{{ tag }}</a>&thinsp;{%- endfor -%}
-            {%- endif -%}
-          {%- endif -%}
+      {%- for tag in page.tags -%}<a href="/tag/{{ tag }}/">#{{ tag }}</a>&thinsp;{%- endfor -%}
+    {%- endif -%}
+  {%- endif -%}
         </p>
-        {%- endif -%}
+{%- endif -%}
       </div>
-      {%- if page.coverImage -%}
-        {%- unless page.noImageOnPost -%}
+{%- if page.coverImage -%}
+  {%- unless page.noImageOnPost -%}
+    {% capture imagePath %}/images/{{ page.date | date: "%Y/%m" }}/{{ include.name }}{% endcapture %}
         <figure>
-          {%- if page.coverImage contains "https" -%}
-            {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
+    {%- if page.coverImage contains "https" -%}
+      {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
           <img src="{{ coverImage }}" alt="" />
-          {%- else -%}
-            {% capture coverImage %}/images/{{ page.coverImage }}{% endcapture %}
-            {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
-            <picture>
-              <source srcset="{{ coverImageWebp }}" type="image/webp">
-              <img src="{{ coverImage }}" alt="" />
-            </picture>
-          {%- endif -%}
+    {%- else -%}
+      {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
+      {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
+          <picture>
+            <source srcset="{{ coverImageWebp }}" type="image/webp">
+            <img src="{{ coverImage }}" alt="" />
+          </picture>
+    {%- endif -%}
         </figure>
-        {%- endunless -%}
-      {%- endif -%}
+  {%- endunless -%}
+{%- endif -%}
     </header>
     <div class="post-content e-content" itemprop="articleBody">
-      {{ content }}
-
-      {%- if page.carousel -%}
-        {% include carousel.html height="50" unit="%" %}
-      {%- endif -%}
-
-      {%- if content contains 'splide' or page.carousel -%}
+{{ content }}
+{%- if page.carousel -%}
+      {% include carousel.html height="50" unit="%" %}
+{%- endif -%}
+{%- if content contains 'splide' or page.carousel -%}
       <script>
 var splides = document.getElementsByClassName( 'splide' );
 for ( var i = 0; i < splides.length; i++ ) {
@@ -77,10 +76,10 @@ for ( var i = 0; i < splides.length; i++ ) {
   splide.mount();
 }
       </script>
-      {%- endif -%}
-      {%- if content contains 'lightgallery' -%}
-          <script src="js/lightgallery.min.js"></script>
-      {%- endif -%}
+{%- endif -%}
+{%- if content contains 'lightgallery' -%}
+      <script src="js/lightgallery.min.js"></script>
+{%- endif -%}
     </div>
 
     {% include comments.html %}
@@ -91,11 +90,11 @@ for ( var i = 0; i < splides.length; i++ ) {
 
 <div class="navlinks">
   <ul class="pagination">
-    {% if page.previous.url %}
+{% if page.previous.url %}
     <li><a href="{{page.previous.url}}" class="previous-page">{{page.previous.title | markdownify }}</a></li>
-    {% endif %}
-    {% if page.next.url %}
+{% endif %}
+{% if page.next.url %}
     <li><a href="{{page.next.url}}" class="next-page">{{page.next.title | markdownify }}</a></li>
-    {% endif %}
+{% endif %}
   </ul>
 </div>

@@ -11,7 +11,8 @@ coverImage: 9782330139179.jpg
 noImageOnPost: true
 ---
 
-![](/images/9782330139179.jpg# book2right)<strong>Anthony a 14&nbsp;ans et vit dans l’Est de la France</strong>. Attention, pas n’importe quel Est, il vit à Heillange, une ville qui n’existe pas, enfin elle ne s’appelle pas comme ça. On comprend qu’Anthony vit <strong>dans la vallée de la Fensch</strong> que les noms en «&nbsp;-ange&nbsp;», mais aussi les paysages industriels, l’ombre des hauts-fourneaux, dénonce sans ambiguïté.
+{% include image.html class="right book" %}
+<strong>Anthony a 14&nbsp;ans et vit dans l’Est de la France</strong>. Attention, pas n’importe quel Est, il vit à Heillange, une ville qui n’existe pas, enfin elle ne s’appelle pas comme ça. On comprend qu’Anthony vit <strong>dans la vallée de la Fensch</strong> que les noms en «&nbsp;-ange&nbsp;», mais aussi les paysages industriels, l’ombre des hauts-fourneaux, dénonce sans ambiguïté.
 
 <strong>«&nbsp;Leurs enfants après eux&nbsp;»</strong>, c’est donc l’histoire d’Anthony, mais aussi celle de son cousin, de ses parents, celle d’Hacine et de son père, de Stéphanie, de Clém… bref, <strong>c’est l’histoire d’une Vallée</strong>. Nous les suivrons sur 4 années, 1992, 1994, 1996 et 1998. <strong>4 dates pour raconter la Vallée, 4 étés pour raconter les années 90</strong>.
 

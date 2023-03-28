@@ -19,7 +19,8 @@ Quand on a grandit avec Cédric Klapisch, que Cédric Klapisch sort un nouveau f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQZfFB0IecY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](/images/376311.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg# book2right)**Le film se passe donc en Bourgogne**, durant toute une année. Pas moyen de faire moins, évidemment, c’est **le temps de la vigne**. On y suit une fratrie, 2 frères et une sœur :
+{% include image.html class="right book" %}
+**Le film se passe donc en Bourgogne**, durant toute une année. Pas moyen de faire moins, évidemment, c’est **le temps de la vigne**. On y suit une fratrie, 2 frères et une sœur :
 
 - L’ainé revient après 10 ans d’absence, dont 5 ans de silence. L’ainé revient de l’autre côté du Monde car son père est à l’hôpital, en train de mourir.
 - La cadette est restée, fidèle à son père et au domaine viticole familial. Se faisant une place, tout en finesse, dans un monde encore assez masculin.
@@ -31,7 +32,7 @@ Quand on a grandit avec Cédric Klapisch, que Cédric Klapisch sort un nouveau f
 
 Presque 2h plus tard, plus d’un an a passé et on en est tout étonné. On a passé un excellent moment, mais on sent confusément que le sujet n’a été qu’effleuré et que nous pourrons encore en profiter pendant un bon moment. **Bref, un bon cru, qui se déguste comme il se doit, mais qui a de la longueur en bouche. Comme un premier cru de Bourgogne.**
 
-![](/images/Ce-qui-nous-lie.jpg)
+{% include image.html %}
 
 * * *
 

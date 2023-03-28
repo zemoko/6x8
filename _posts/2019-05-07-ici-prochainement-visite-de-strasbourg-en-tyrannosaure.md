@@ -18,17 +18,17 @@ Cet hiver, je suis passé de temps en temps rue de Pâques à Strasbourg et j'av
 <div id="jardin-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_1589.jpg" alt="Visite de strasbourg à dos de tyrannosaure"></li>
-<li class="splide__slide"><img src="/images/IMG_1588.jpg" alt="Centre des super-héros anonymes"></li>
-<li class="splide__slide"><img src="/images/IMG_1587.jpg" alt="Le premier aquarium sec de France"></li>
-<li class="splide__slide"><img src="/images/IMG_1586.jpg" alt="Atelier de bijouterie et d'orfévrerie du Mithril"></li>
-<li class="splide__slide"><img src="/images/IMG_1585.jpg" alt="Musée de la pompe à piston entre 523 et 1911"></li>
-<li class="splide__slide"><img src="/images/IMG_1584.jpg" alt="Apprenez le Vulcain en LV3"></li>
-<li class="splide__slide"><img src="/images/IMG_1583.jpg" alt="Ouverture d'une liaison ferroviaire vers New-York"></li>
-<li class="splide__slide"><img src="/images/IMG_1582.jpg" alt="Rituel de communion avec la présence exceptionnelle de Cthulhu"></li>
-<li class="splide__slide"><img src="/images/IMG_1581.jpg" alt="Nouvelle base secrète des rebelles"></li>
-<li class="splide__slide"><img src="/images/IMG_1580.jpg" alt="Ouverture d'un zoo"></li>
-<li class="splide__slide"><img src="/images/IMG_1579.jpg" alt="Quart de final de la coupe du Monde de Quidditch"></li>
+<li class="splide__slide"><img src="/images/2019/05/IMG_1589.jpg" alt="Visite de strasbourg à dos de tyrannosaure"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1588.jpg" alt="Centre des super-héros anonymes"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1587.jpg" alt="Le premier aquarium sec de France"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1586.jpg" alt="Atelier de bijouterie et d'orfévrerie du Mithril"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1585.jpg" alt="Musée de la pompe à piston entre 523 et 1911"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1584.jpg" alt="Apprenez le Vulcain en LV3"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1583.jpg" alt="Ouverture d'une liaison ferroviaire vers New-York"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1582.jpg" alt="Rituel de communion avec la présence exceptionnelle de Cthulhu"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1581.jpg" alt="Nouvelle base secrète des rebelles"></li>
+<li class="splide__slide"><img src="/images/2019/05//IMG_1580.jpg" alt="Ouverture d'un zoo"></li>
+<li class="splide__slide"><img src="/images/2019/05/IMG_1579.jpg" alt="Quart de final de la coupe du Monde de Quidditch"></li>
 </ul>
 </div>
 </div>

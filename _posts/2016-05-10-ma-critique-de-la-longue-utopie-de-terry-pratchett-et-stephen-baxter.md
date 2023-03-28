@@ -13,7 +13,8 @@ coverImage: "la-longue-utopie.jpg"
 noImageOnPost: true
 ---
 
-![](/images/la-longue-utopie-218x300.jpg# book2right)Après avoir enchainé les 3 premiers tomes de cette formidable saga, je n'ai pas hésité très longtemps pour savoir si j'allais lire le quatrième dans la foulée. J'avais trop envie de retrouver Josué, Lobsang, Sally... et surtout de retrouver la Longue Terre.
+{% include image.html class="right book" %}
+Après avoir enchainé les 3 premiers tomes de cette formidable saga, je n'ai pas hésité très longtemps pour savoir si j'allais lire le quatrième dans la foulée. J'avais trop envie de retrouver Josué, Lobsang, Sally... et surtout de retrouver la Longue Terre.
 
 Comme dans « La Longue Mars », Stephen Baxter et Terry Pratchett entremêlent divers récits :
 

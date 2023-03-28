@@ -12,7 +12,7 @@ coverImage: "51WPObVMgEL._SX307_BO1204203200_.jpg"
 noImageOnPost: true
 ---
 
-![](/images/51WPObVMgEL._SX307_BO1204203200_-186x300.jpg# book2right)
+{% include image.html class="right book" %}
 
 ## Et si les forces de lʼAxe avaient gagné ?
 

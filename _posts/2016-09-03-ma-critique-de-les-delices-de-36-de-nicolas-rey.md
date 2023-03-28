@@ -13,7 +13,8 @@ noImageOnPost: true
 
 "Les délices de 36" fait parti de la collection "Incipit" qui propose à des écrivains de raconter une "première fois".
 
-![](/images/ob_544203_les-delices-de-36-01-211x300.jpg# book2right)Ici, ce sont d'abord évidemment **les premier congés payés** : Jean, Bernadette et leur fils Marius (15 ans) partent en train pour Deauville pour les/leurs premiers congés payés.
+{% include image.html class="right book" %}
+Ici, ce sont d'abord évidemment **les premier congés payés** : Jean, Bernadette et leur fils Marius (15 ans) partent en train pour Deauville pour les/leurs premiers congés payés.
 
 **On peine à réaliser, aujourd'hui, la révolution qu'à été en France cet acquis du Front Populaire**.
 

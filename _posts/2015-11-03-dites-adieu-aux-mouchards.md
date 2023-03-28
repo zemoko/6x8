@@ -20,9 +20,9 @@ Certaines extensions existaient déjà pour faire ce genre de choses ([Privacy B
 <ol>
 	<li>Ouvrez un onglet et tapez [about:config](about:config) dans la barre d'adresse</li>
 	<li>Cliquez sur le bouton **Je ferais attention, promis !**</li>
-<figure style="width: 963px"><img src="/images/Capture-décran-2015-11-03-20.39.27.png" alt=""><figcaption>about:config - Je ferais attention, promis !</figcaption></figure>
+<figure style="width: 963px"><img src="/images/2015/11/Capture-décran-2015-11-03-20.39.27.png" alt=""><figcaption>about:config - Je ferais attention, promis !</figcaption></figure>
 	<li>Cherchez l'option « _privacy.trackingprotection.enabled_ » (en collant son nom dans la zone de recherche) et faites passer sa valeur à « _true_ ».</li>
-<figure style="width: 672px"><img src="/images/Capture-décran-2015-11-03-20.49.53.png" alt=""><figcaption>privacy.trackingprotection.enabled true</figcaption></figure>
+<figure style="width: 672px"><img src="/images/2015/11/Capture-décran-2015-11-03-20.49.53.png" alt=""><figcaption>privacy.trackingprotection.enabled true</figcaption></figure>
 	<li>**C'est tout !**</li>
 </ol>
 
@@ -30,7 +30,7 @@ Certaines extensions existaient déjà pour faire ce genre de choses ([Privacy B
 
 Maintenant, quand vous naviguez sur un site qui (essaie de) vous piste(r), vous verrez un petit bouclier à gauche de la barre d'adresse pour vous informer que des tentatives de pistages ont été bloquées. En cliquant dessus, vous pouvez choisir de désactiver la protection pour certains sites, au cas par cas.
 
-<figure style="width: 409px"><img src="/images/Capture-décran-2015-11-03-21.07.28.png"></figure>
+<figure style="width: 409px"><img src="/images/2015/11/Capture-décran-2015-11-03-21.07.28.png"></figure>
 
 **Bref, si vous n'êtes pas encore utilisateur de Firefox, c'est le moment de [le télécharger](https://www.mozilla.org/fr/firefox/new/). Si vous l'êtes déjà, ça vous fait une (bonne) raison de plus pour lui rester fidèle !**
 

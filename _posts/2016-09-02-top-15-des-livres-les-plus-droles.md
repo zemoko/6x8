@@ -12,7 +12,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 **Pas de commentaire, encore moins de critiques : j'ai juste sélectionné une citation représentative du ton de chacun des livres.**
 
-![Le guide du routard galactique - H2G2](/images/Le_Guide_du_voyageur_galactique_H2G2_tome_1.jpg# book2right)
+![Le guide du routard galactique - H2G2](/images/2016/09/Le_Guide_du_voyageur_galactique_H2G2_tome_1.jpg# book2right)
 
 ## 1\. Le guide du voyageur galactique
 
@@ -22,7 +22,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![Le Grand Livre des gnomes](/images/Le_Grand_Livre_des_gnomes.jpg# book2right)
+![Le Grand Livre des gnomes](/images/2016/09/Le_Grand_Livre_des_gnomes.jpg# book2right)
 
 ## 2\. Le grand livre des gnomes
 
@@ -32,7 +32,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![De bons présages](/images/De_bons_presages.jpg# book2right)
+![De bons présages](/images/2016/09/De_bons_presages.jpg# book2right)
 
 ## 3\. De bons présages
 
@@ -42,7 +42,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![Oncle Dynamite](/images/Oncle_Dynamite.jpg# book2right)
+![Oncle Dynamite](/images/2016/09/Oncle_Dynamite.jpg# book2right)
 
 ## 4\. Oncle Dynamite
 
@@ -53,7 +53,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![La huitième couleur](/images/La_Huitieme_Couleur.jpg# book2right)
+![La huitième couleur](/images/2016/09/La_Huitieme_Couleur.jpg# book2right)
 
 ## 5\. Les annales du Disque-Monde : la huitième couleur
 
@@ -63,7 +63,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![La Vierge froide et autres racontars](/images/La_Vierge_froide_et_autres_racontars.jpg# book2right)
+![La Vierge froide et autres racontars](/images/2016/09/La_Vierge_froide_et_autres_racontars.jpg# book2right)
 
 ## 6\. La vierge froide et autres racontars
 
@@ -73,7 +73,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![La Cantatrice chauve](/images/La_Cantatrice_chauve.jpg# book2right)
+![La Cantatrice chauve](/images/2016/09/La_Cantatrice_chauve.jpg# book2right)
 
 ## 7\. La cantatrice chauve
 
@@ -83,7 +83,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![Comment je suis devenu stupide](/images/Comment_je_suis_devenu_stupide.jpg# book2right)
+![Comment je suis devenu stupide](/images/2016/09/Comment_je_suis_devenu_stupide.jpg# book2right)
 
 ## 8\. Comment je suis devenu stupide
 
@@ -93,7 +93,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![Toutes les familles sont psychotiques](/images/Toutes_les_familles_sont_psychotiques.jpg# book2right)
+![Toutes les familles sont psychotiques](/images/2016/09/Toutes_les_familles_sont_psychotiques.jpg# book2right)
 
 ## 9\. Toutes les familles sont psychotiques
 
@@ -103,7 +103,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![L'épopée du buveur d'eau](/images/L_epopee_du_buveur_d_eau.jpg# book2right)
+![L'épopée du buveur d'eau](/images/2016/09/L_epopee_du_buveur_d_eau.jpg# book2right)
 
 ## 10\. L'épopée du buveur d'eau
 
@@ -113,7 +113,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![Les carnets du Major Thompson](/images/Les_carnets_du_Major_W_Marmaduke_Thompson.jpg# book2right)
+![Les carnets du Major Thompson](/images/2016/09/Les_carnets_du_Major_W_Marmaduke_Thompson.jpg# book2right)
 
 ## 11\. Les carnets du Major Thompson
 
@@ -123,7 +123,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![L'Affaire Jane Eyre](/images/L_Affaire_Jane_Eyre.jpg# book2right)
+![L'Affaire Jane Eyre](/images/2016/09/L_Affaire_Jane_Eyre.jpg# book2right)
 
 ## 12\. L'Affaire Jane Eyre
 
@@ -133,7 +133,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![Le vieux qui ne voulait pas fêter son anniversaire](/images/Le_vieux_qui_ne_voulait_pas_feter_son_anniversaire.jpg# book2right)
+![Le vieux qui ne voulait pas fêter son anniversaire](/images/2016/09/Le_vieux_qui_ne_voulait_pas_feter_son_anniversaire.jpg# book2right)
 
 ## 13\. Le vieux qui ne voulait pas fêter son anniversaire
 
@@ -143,7 +143,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![Au bonheur des ogres](/images/Au_bonheur_des_ogres.jpg# book2right)
+![Au bonheur des ogres](/images/2016/09/Au_bonheur_des_ogres.jpg# book2right)
 
 ## 14\. Au bonheur des ogres
 
@@ -153,7 +153,7 @@ J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais 
 
 <hr class="nof">
 
-![God save la France](/images/God_save_la_France.jpg# book2right)
+![God save la France](/images/2016/09/God_save_la_France.jpg# book2right)
 
 ## 15\. God save la France
 

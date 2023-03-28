@@ -61,8 +61,6 @@ Voici **la réaction de Tim Berners Lee** (l'un des inventeur du World Wide Web)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aaron dead.<br>World wanderers, we have lost a wise elder.<br>Hackers for right, we are one down.<br>Parents all, we have lost a child. Let us weep.</p>— Tim Berners-Lee (@timberners_lee) <a href="https://twitter.com/timberners_lee/status/290140454211698689?ref_src=twsrc%5Etfw">January 12, 2013</a></blockquote>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Biographie ou enquête ?
 
 "Ce quil reste de nos rêves" est un peu des deux évidemment, voire aussi un soupçon de **road-trip**. Flore Vasseur est visiblement subjuguée par la personnalité fascinante d’Aaron (qui ne le serait pas ?). Chapitre après chapitre, de Chicago à Moscou, de Cambridge à New-York, elle va à sa rencontre par l’intermédiaire de ses proches (ses parents, ses mentors, sa petite amie…). Son enquête a duré 4 ans et l'a transformée en **« Chasseuse de fantôme »**. Avec « Ce qu’il reste nos rêves », elle réussit à lui rendre **un vibrant hommage, sensible et poignant**, mais elle réussit surtout à l’incarner pour nous, ses lecteurs.

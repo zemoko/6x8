@@ -8,7 +8,7 @@ categories:
 
 Les années passent, la tradition demeure : j'ai fait ma sélection des mes posts de l'année écoulée (sur ce blog, sur instagram, sur twitter) et je vous en ai fait un mini-site qui tiendra lieu de carte de vœux.
 
-<p class="center"><a href="https://www.6x8.org/voeux2018/"><img src="/images/carte.jpg" alt="" width="800" height="500" /><br />Cliquez pour afficher la carte de vœux</a></p>
+<p class="center"><a href="https://www.6x8.org/voeux2018/"><img src="/images/2018/01/carte.jpg" alt="" width="800" height="500" /><br />Cliquez pour afficher la carte de vœux</a></p>
 
 ## Pour résumer 2017, c'était...
 

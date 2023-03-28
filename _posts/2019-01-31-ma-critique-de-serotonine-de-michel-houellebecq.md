@@ -13,7 +13,8 @@ noImageOnPost: true
 
 **Aahhh retrouver Houellebecq !!! :)**
 
-![](/images/10130153-e1548966227498-175x300.gif# book2right)Bon, **il explore depuis 20 ans la dépression** donc ne vous attendez pas à autre chose : le narrateur (Florent-Claude, je vous demande un peu où il a été chercher son prénom !) est, comme de bien entendu, **un mâle occidental blanc... et dépressif !**
+{% include image.html class="right book" %}
+Bon, **il explore depuis 20 ans la dépression** donc ne vous attendez pas à autre chose : le narrateur (Florent-Claude, je vous demande un peu où il a été chercher son prénom !) est, comme de bien entendu, **un mâle occidental blanc... et dépressif !**
 
 ## La **sérotonine** qui donne son nom au roman est l'**hormone du bonheur**
 

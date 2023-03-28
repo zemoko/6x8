@@ -9,7 +9,6 @@ cover2left: true
 ---
 
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en">🏠 They say an average person lives in 11 homes in their lifetime. What’s your number? (I’m currently at 8🤪)</p>— CanadianPam (@PamelaApostolo1) <a href="https://twitter.com/PamelaApostolo1/status/1388584053666889736?ref_src=twsrc%5Etfw">May 1, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Hummm...
 

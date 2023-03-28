@@ -11,7 +11,8 @@ coverImage: "CVT_Le-Temps-fut_3873.jpg"
 noImageOnPost: true
 ---
 
-![](/images/CVT_Le-Temps-fut_3873-199x300.jpg# book2right)Ce petit ouvrage (140 pages) était depuis un moment dans ma PAL (Pile À Lire). Pour être précis, c'est depuis février où [un article sur le blog "Le culte d'Apophis"](https://lecultedapophis.com/2020/02/06/le-temps-fut-ian-mcdonald/) m'avait intrigué.
+{% include image.html class="right book" %}
+Ce petit ouvrage (140 pages) était depuis un moment dans ma PAL (Pile À Lire). Pour être précis, c'est depuis février où [un article sur le blog "Le culte d'Apophis"](https://lecultedapophis.com/2020/02/06/le-temps-fut-ian-mcdonald/) m'avait intrigué.
 
 Le personnage principale s'appelle **Emmett Leigh** et c'est un bouquiniste anglais. **"Le temps fut", c'est le nom d'un vieux recueil de poésie** qu'Emmett découvre lors de la liquidation d'une très ancienne librairie londonienne.
 

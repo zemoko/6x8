@@ -14,7 +14,7 @@ noImageOnPost: true
 
 ## « Tu arrêtes de frapper ta mère, ou on t'appelle Jean-Patrick »
 
-![](/images/In_utero.jpg# book2right)
+{% include image.html class="right book" %}
 
 **D'habitude** ("Touriste", "Gringoland"...), **Julien Blanc-Gras nous fait voyager au quatre coins du monde.** **Dans "In utero", c'est un voyage plus personnel qu'il nous raconte : celui qui, au long des 9 mois de grossesse de sa femme (qu'il appellera simplement "La" femme), le fera devenir Papa.**
 
@@ -24,6 +24,6 @@ Nombre de références littéraires et d'anecdotes sur la maternité à travers 
 
 * * *
 
-Retrouvez également d'autres critiques de livres de Julien Blanc-Gras : - [Comme à la guerre](https://www.6x8.org/2020/02/ma-critique-de-comme-a-la-guerre-de-julien-blanc-gras/) - [Dans le désert](https://www.6x8.org/2017/11/ma-critique-de-dans-le-desert-de-julien-blanc-gras/) - [Briser la glace](https://www.6x8.org/2018/01/ma-critique-de-briser-la-glace-de-julien-blanc-gras/)
+Retrouvez également d'autres critiques de livres de Julien Blanc-Gras : - [Comme à la guerre](/2020/02/ma-critique-de-comme-a-la-guerre-de-julien-blanc-gras/) - [Dans le désert](/2017/11/ma-critique-de-dans-le-desert-de-julien-blanc-gras/) - [Briser la glace](/2018/01/ma-critique-de-briser-la-glace-de-julien-blanc-gras/)
 
 Retrouvez [cette critique](http://www.senscritique.com/livre/In_utero/critique/73819943) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !

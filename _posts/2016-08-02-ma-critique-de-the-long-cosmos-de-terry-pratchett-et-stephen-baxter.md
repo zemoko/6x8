@@ -15,7 +15,8 @@ Après avoir dévoré les 4 premiers tomes de la série, j'ai du patienter un p
 
 ## Le dernier de la série
 
-![](/images/25859268-195x300.jpg# book2right)Voici donc "The long cosmos", le dernier de la série. **L'histoire se passe 60 ans après le 1er tome et commence par un message reçu tout au long de la Longue Terre, une invitation : "Join us"**. Nous n'étions déjà plus seuls sur la longue Terre, nous avions même découvert des martiens, l'Humanité évoluait avec les "Suivants"... il restait à **trouver d'autres civilisations dans l'Univers.**
+{% include image.html class="right book" %}
+Voici donc "The long cosmos", le dernier de la série. **L'histoire se passe 60 ans après le 1er tome et commence par un message reçu tout au long de la Longue Terre, une invitation : "Join us"**. Nous n'étions déjà plus seuls sur la longue Terre, nous avions même découvert des martiens, l'Humanité évoluait avec les "Suivants"... il restait à **trouver d'autres civilisations dans l'Univers.**
 
 ## On retrouve avec plaisir **Joshua**, **Nelson**, **Lobsang**, **Maggie**... et quelques nouveaux.
 

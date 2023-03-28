@@ -27,11 +27,11 @@ Et maintenant, quelques photos&nbsp;!
 <div id="mac-slider" class="splide">
 <div class="splide__track">
 <ul class="splide__list">
-<li class="splide__slide"><img src="/images/IMG_45671.jpg" alt="Raspberry Pi déguisé en Macintosh Classic en Lego"></li>
-<li class="splide__slide"><img src="/images/IMG_45681.jpg" alt="Il s’ouvre pour accéder au Raspberry"></li>
-<li class="splide__slide"><img src="/images/IMG_45691.jpg" alt="Vu du dessus"></li>
-<li class="splide__slide"><img src="/images/IMG_45701.jpg" alt="Démarrage"></li>
-<li class="splide__slide"><img src="/images/IMG_45713.jpg" alt="Et voici Raspbian lancé :)"></li>
+<li class="splide__slide"><img src="/images/2015/05/IMG_45671.jpg" alt="Raspberry Pi déguisé en Macintosh Classic en Lego"></li>
+<li class="splide__slide"><img src="/images/2015/05/IMG_45681.jpg" alt="Il s’ouvre pour accéder au Raspberry"></li>
+<li class="splide__slide"><img src="/images/2015/05/IMG_45691.jpg" alt="Vu du dessus"></li>
+<li class="splide__slide"><img src="/images/2015/05/IMG_45701.jpg" alt="Démarrage"></li>
+<li class="splide__slide"><img src="/images/2015/05/IMG_45713.jpg" alt="Et voici Raspbian lancé :)"></li>
 </ul>
 </div>
 </div>

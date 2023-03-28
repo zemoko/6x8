@@ -7,12 +7,11 @@ categories:
 tags: 
   - "critique"
   - "livre"
-coverImage: La-gout-des-Mochis-au-Kouign-Amann.jpg
+coverImage: Le-gout-des-Mochis-au-Kouign-Amann.jpg
 noImageOnPost: true
 ---
 
-![](/images/La-gout-des-Mochis-au-Kouign-Amann-Laureat-du-concours-Fyctia-Effet-Papillon.jpg# book2right)
-
+{% include image.html class="right book" %}
 La goût des mochis au kouign amann< est un roman <span lang="en">Feel good</span>. Ce n'est pas un genre que j'affectionne particulièrement mais vu que, comme son nom l'indique assez clairement, il propose un combo quant à mon amour de la Bretagne et ma sincère curiosité vis à vis du Japon. Bref, j'ai tenté.
 
 Je vous fais le <span lang="en">pitch</span>&nbsp;: ce sont 2 histoires parallèles... jusqu'à ce que, évidemment, elles se croisent (je ne vous divulgache rien tant c'est évident et téléphoné depuis le début du livre).

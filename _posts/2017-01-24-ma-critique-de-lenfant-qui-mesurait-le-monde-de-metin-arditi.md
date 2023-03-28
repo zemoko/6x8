@@ -11,7 +11,8 @@ coverImage: "51SukFvdfCL._SX195_.jpg"
 noImageOnPost: true
 ---
 
-![](/images/51SukFvdfCL._SX195_.jpg# book2right)**L’enfant qui mesurait le monde s’appelle Yannis**. Yannis est autiste et tout changement l’angoisse profondément, alors Yannis s’efforce de mesurer le monde et de le maintenir dans l’harmonie : tous les jours ils étudient dans quel ordre les pécheurs rentrent au port et avec quelle quantité poissons, puis il compte les clients du café. De ces mesures, il construit un indice pour mesurer l’écart entre la situation du jour et le monde parfait puis, en pliant des origamis, essaie d’en rétablir l’équilibre.
+{% include image.html class="right book" %}
+**L’enfant qui mesurait le monde s’appelle Yannis**. Yannis est autiste et tout changement l’angoisse profondément, alors Yannis s’efforce de mesurer le monde et de le maintenir dans l’harmonie : tous les jours ils étudient dans quel ordre les pécheurs rentrent au port et avec quelle quantité poissons, puis il compte les clients du café. De ces mesures, il construit un indice pour mesurer l’écart entre la situation du jour et le monde parfait puis, en pliant des origamis, essaie d’en rétablir l’équilibre.
 
 Yannis vit sur l’île grecque de **Kalamaki** avec sa mère, **Maraki**. Maraki est pêcheuse comme l’était son père, elle élève Yannis presque seule, avec beaucoup de courage mais est souvent dépassée par ce fils si différent des autres.
 

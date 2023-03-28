@@ -3,6 +3,7 @@ layout: instagram
 title:  'Journée de l’Europe, visite de l’EuroParlement #europeday #europeanparliament #strasbourg'
 date:   2022-05-15
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - strasbourg

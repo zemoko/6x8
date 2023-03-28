@@ -22,7 +22,7 @@ Je sais qu'il faut **répondre à la haine par l'amour**, j'en suis intimement c
 
 Cette après-midi, j'ai lu ce texte qui m'a **immensément touché**, cette réponse d'un mari et d'un père qui, lui non-plus, ne veux pas céder à la haine mais qui a su trouvé ces mots.
 
-**Voici les mots d'Antoine Leris :** [![« Vous n'aurez pas ma haine » - Antoine-Leris](/images/Antoine-Leris.png)](https://www.facebook.com/antoine.leiris/posts/10154457849999947?fref=nf&pnref=story)
+**Voici les mots d'Antoine Leris :** [![« Vous n'aurez pas ma haine » - Antoine-Leris](/images/2015/11/Antoine-Leris.png)](https://www.facebook.com/antoine.leiris/posts/10154457849999947?fref=nf&pnref=story)
 
 Merci Antoine. Je dois avouer que, depuis dimanche, j'ai retrouvé quelques mots auxquels je voulais donner du sens... Ce soir, je sais qu'ils peuvent en avoir.
 

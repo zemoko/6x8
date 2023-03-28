@@ -3,6 +3,7 @@ layout: instagram
 title:  'Aventuriers du rail #boardgames'
 date:   2021-10-02
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags: 
   - boardgames

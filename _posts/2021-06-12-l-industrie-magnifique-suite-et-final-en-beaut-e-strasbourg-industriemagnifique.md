@@ -3,6 +3,7 @@ layout: instagram
 title:  'L’industrie Magnifique… suite et final en beauté ! #strasbourg #industriemagnifique'
 date:   2021-06-12
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
   - art
