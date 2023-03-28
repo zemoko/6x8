@@ -55,7 +55,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-image-size
-  - jekyll-webp
   - jekyll/mastodon_webfinger
 
 mastodon:
