@@ -62,7 +62,7 @@ mastodon:
   instance: mamot.fr
 
 webp:
-  enabled: true
+  enabled: false
   
   # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
   quality: 75
