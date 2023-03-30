@@ -34,10 +34,10 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem 'jekyll-paginate'
-gem "webrick", "~> 1.7"
+# gem "webrick", "~> 1.7"
 
-gem "jekyll-mastodon_webfinger", "~> 1.0"
+# gem "jekyll-mastodon_webfinger", "~> 1.0"
 
 gem 'nokogiri'
-gem 'rack', '~> 2.2.4'
-gem 'rspec'
+# gem 'rack', '~> 2.2.4'
+# gem 'rspec'
