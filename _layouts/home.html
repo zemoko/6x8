@@ -34,17 +34,8 @@ layout: default
               <source src="/images/{{ post.post_video }}" type="video/mp4">
             </video>
             {%- else -%}
-              {%- if post.coverImage contains "https" -%}
-                {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
+              {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
               <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
-              {%- else -%}
-                {% capture coverImage %}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
-                {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' }}{% endcapture %}
-              <picture>
-                <source srcset="{{ coverImageWebp }}" type="image/webp">
-                <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
-              </picture>
-              {%- endif -%}
             {%- endif -%}
           </figure>
         {%- endif -%}
