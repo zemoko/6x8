@@ -1354,3 +1354,58 @@ details {
     background: #494d53;
   }
 }
+@media (prefers-color-scheme:dark){
+  .container {
+    background: #292929;
+    background-image: url("images/noise.png");
+    background-repeat: repeat;
+  }
+  .page {
+    .post-meta, .post-content {
+      background-image: linear-gradient(to bottom, #313131 0%, #2a2a29 100%);
+      color: white;
+    }
+    .post-content {
+      figure, .card {
+        blockquote, > div {
+          background: none;
+        }
+      }
+      figure {
+        p {
+          color: black;
+        }
+      }
+      .card {
+        > div { 
+          background-image: linear-gradient(to bottom, #313131 0%, #2a2a29 100%);
+        }
+        p {
+          background: none;
+        }
+        blockquote, blockquote p, figure > p {
+          background: #333;
+          color: #fff;
+        }
+      }
+    }
+  }
+  .page a, .page .post-content a {
+    color: #a8a0f7;
+  }
+  .page-heading {
+    color: white;
+  }
+  ol li::marker {
+    color: #a8a0f7;
+  }
+  .splide {
+    background: #494d53;
+  }
+  .pagination a {
+    color: #ccc;
+  }
+  blockquote.citation {
+    background: #494d53;
+  }
+}
