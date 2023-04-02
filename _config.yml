@@ -20,7 +20,8 @@
 
 highlighter: none
 
-destination: ../6x8.org/
+# destination: ../6x8.org/
+destination: _site/
 title: "6x8=42"
 email: "moko@6x8.org"
 description: "Les trucs du Moko."
