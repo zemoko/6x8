@@ -49,9 +49,7 @@ layout: default
           <img src="{{ coverImage }}" alt="" />
     {%- else -%}
       {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
-      {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
           <picture>
-            <source srcset="{{ coverImageWebp }}" type="image/webp">
             <img src="{{ coverImage }}" alt="" />
           </picture>
     {%- endif -%}

@@ -7,9 +7,9 @@ read post
 
 # echo "[?] What is the title of your new post?"
 # read title
-title=$(curl -s "https://api.instagram.com/oembed/?url=http://instagr.am/p/$post" | jq -r '.title')
+# title=$(curl -s "https://api.instagram.com/oembed/?url=http://instagr.am/p/$post" | jq -r '.title')
 
-echo "titre : $title"
+echo "titre : $post"
 
 echo "[?] What should the publish date of the post be? (y-m-d)"
 read date
@@ -23,7 +23,7 @@ postDir = "_posts"
 imgDir = "images"
 
 # Format filename
-fileName=$(echo "$date-$title" | iconv -t ascii//TRANSLIT | sed -E s/[^a-zA-Z0-9]+/-/g | sed -E s/^-+\|-+$//g | tr A-Z a-z)
+fileName=$(echo "$date-$post" | iconv -t ascii//TRANSLIT | sed -E s/[^a-zA-Z0-9]+/-/g | sed -E s/^-+\|-+$//g | tr A-Z a-z)
 path="_posts/$fileName.md"
 
 # Show confirmation on screen
