@@ -3,6 +3,7 @@ layout: pixelfed
 title: "En sortant du ciné #Strasbourg"
 date:   2023-04-02
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags: 
   - "pixelfed"

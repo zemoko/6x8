@@ -3,6 +3,7 @@ layout: pixelfed
 title: "En rentrant de l'école #Strasbourg"
 date:   2023-03-27
 categories: 
+  - trucs-pris-en-photo
   - trucs-instagrammes
 tags: 
   - "pixelfed"
