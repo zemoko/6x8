@@ -7,7 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
-coverImage: "2017_09_21_olivier_guez_la_disparition_de_josef_mengele.jpeg"
+coverImage: "9782246855873-001-T.jpeg"
 noImageOnPost: true
 ---
 

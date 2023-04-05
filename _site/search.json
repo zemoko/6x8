@@ -2,15 +2,23 @@
   
     {
       "title"    : "En sortant du ciné #Strasbourg",
-      "category" : "trucs-instagrammes",
+      "category" : "trucs-pris-en-phototrucs-instagrammes",
       "tags"     : "pixelfed, strasbourg",
       "url"      : "/2023/04/en-sortant-du-cine/",
       "date"     : "2023-04-02 00:00:00 +0200"
     } ,
   
     {
+      "title"    : "Ma critique de «&nbsp;<strong>Périphériques</strong>&nbsp;» de <em>William Gibson</em>",
+      "category" : "trucs-critiques",
+      "tags"     : "critique, livre",
+      "url"      : "/2023/04/ma-critique-de-peripheriques-de-william-gibson/",
+      "date"     : "2023-04-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "En rentrant de l'école #Strasbourg",
-      "category" : "trucs-instagrammes",
+      "category" : "trucs-pris-en-phototrucs-instagrammes",
       "tags"     : "pixelfed, strasbourg",
       "url"      : "/2023/03/en-rentrant-de-l-ecole/",
       "date"     : "2023-03-27 00:00:00 +0200"
@@ -18,7 +26,7 @@
   
     {
       "title"    : "PA_1441 <span lang=\"en\">It’s a new world, it’s a new life…</span> #SpaceInvader #Invaders #Streetart #Paris",
-      "category" : "trucs-instagrammes",
+      "category" : "trucs-pris-en-phototrucs-instagrammes",
       "tags"     : "instagram, invader, paris, spaceinvader, streetart",
       "url"      : "/2023/03/pa_1441/",
       "date"     : "2023-03-18 00:00:00 +0100"
@@ -26,7 +34,7 @@
   
     {
       "title"    : "PA_1315 #SpaceInvader #Invaders #StreetArt #Paris",
-      "category" : "trucs-instagrammes",
+      "category" : "trucs-pris-en-phototrucs-instagrammes",
       "tags"     : "instagram, invader, paris, spaceinvader, streetart",
       "url"      : "/2023/03/pa_1315/",
       "date"     : "2023-03-18 00:00:00 +0100"
@@ -34,7 +42,7 @@
   
     {
       "title"    : "Bon anniversaire ma Roro #7ans #miam #DrWho",
-      "category" : "trucs-instagrammes",
+      "category" : "trucs-pris-en-phototrucs-instagrammes",
       "tags"     : "pixelfed, miam",
       "url"      : "/2023/02/bon-anniversaire-ma-roro/",
       "date"     : "2023-02-27 00:00:00 +0100"
