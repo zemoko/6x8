@@ -2,7 +2,8 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-util": "^1.3.0",
-    "gulp-webp": "^4.0.1"
+    "gulp-webp": "^4.0.1",
+    "webp-batch-convert": "^1.0.1"
   },
   "dependencies": {
     "imagemin-webp": "^6.0.0"

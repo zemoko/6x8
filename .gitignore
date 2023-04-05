@@ -1,6 +1,6 @@
-/.jekyll-cache
-/_site
-/node_modules
+/.jekyll-cache/
+/_site/
+/node_modules/
 
 # Local Netlify folder
 /.netlify
