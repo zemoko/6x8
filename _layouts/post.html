@@ -48,10 +48,17 @@ layout: default
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
           <img src="{{ coverImage }}" alt="" />
     {%- else -%}
+      {%- if post.coverImage contains "png" -%}
+        {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
+          <img src="{{ coverImage }}" alt="" {{ lazyLoad }} />
+        {%- else -%}
       {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
+      {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
           <picture>
+            <source srcset="{{ coverImageWebp }}" type="image/webp">
             <img src="{{ coverImage }}" alt="" />
           </picture>
+      {%- endif -%}
     {%- endif -%}
         </figure>
   {%- endunless -%}

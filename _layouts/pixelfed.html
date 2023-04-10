@@ -48,11 +48,15 @@ layout: default
       </figure>
     </header>
 {% assign txt = content | size %}
-{%- if txt > 5 -%}    
     <div class="post-content e-content" itemprop="articleBody">
+{%- if txt > 5 -%}    
       {{ content }}
-    </div>
+      <hr />
 {%- endif -%}
+{%- if page.pixellink -%}
+<p class="center"><a href="{{ page.pixellink }}">Consulter sur Pixelfed</a></p>
+{%- endif -%}
+    </div>
 
 {% include comments.html %}
 

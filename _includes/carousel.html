@@ -1,23 +1,50 @@
+{%- if page.carousel.size > 1" -%}
 <div id="bottom-slider" class="splide">
   <div class="splide__track">
     <ul class="splide__list">
-{% for item in page.carousel %}
+  {%- for item in page.carousel -%}
       <li class="splide__slide"><div class="lightbox">
         <figure>
-  {% capture slideImage %}{{ item.image }}{% endcapture %}
-  {% if slideImage | slice: 0, 4 = 'http' %}
+    {%- if post.coverImage contains "https" -%}
+      {%- capture slideImage -%}{{ item.image }}{%- endcapture -%}
+    {%- else -%}
+      {% capture slideImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ item.image }}{% endcapture %}
+    {%- endif -%}
+    {%- if slideImage | slice: 0, 4 = 'http' -%}
             <img src="{{ slideImage }}" alt="{{ item.legend }}" />
-  {% else %}
-    {% capture slideImageWebp %}{{ slideImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
+    {%- else -%}
+      {%- capture slideImageWebp %}{{ slideImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture -%}
             <picture>
               <source srcset="{{ slideImageWebp }}" type="image/webp">
               <img src="{{ slideImage }}" alt="{{ item.legend }}" />
             </picture>
-  {% endif %}
+    {%- endif -%}
           <figcaption>{{ item.legend }}</figcaption>
         </figure>
       </div></li>
-{% endfor %}
+  {%- endfor -%}
     </ul>
   </div>
 </div>
+{%- else -%}
+<div id="bottom-slider">
+  <figure>
+  {%- assign item = page.carousel | first -%}
+  {%- if post.coverImage contains "https" -%}
+    {%- capture slideImage -%}{{ item.image }}{%- endcapture -%}
+  {%- else -%}
+    {% capture slideImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ item.image }}{% endcapture %}
+  {%- endif -%}
+  {%- if slideImage | slice: 0, 4 = 'http' -%}
+    <img src="{{ slideImage }}" alt="{{ item.legend }}" />
+  {%- else -%}
+    {%- capture slideImageWebp %}{{ slideImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture -%}
+    <picture>
+      <source srcset="{{ slideImageWebp }}" type="image/webp">
+      <img src="{{ slideImage }}" alt="{{ item.legend }}" />
+    </picture>
+  {%- endif -%}
+    <figcaption>{{ item.legend }}</figcaption>
+  </figure>
+</div>
+{%- endif -%}

@@ -59,11 +59,13 @@ layout: default
       </figure>
     </header>
 {% assign txt = content | size %}
-{%- if txt > 5 -%}    
     <div class="post-content e-content" itemprop="articleBody">
+{%- if txt > 5 -%}    
       {{ content }}
-    </div>
+      <hr />
 {%- endif -%}
+<p class="center"><a href="https://www.instagram.com/p/{{ page.instagram }}/">Consulter sur Instagram</a></p>
+    </div>
 
 {% include comments.html %}
 
