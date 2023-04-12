@@ -1,57 +1,188 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-10T14:44:34+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Joyeuses Pâques ! 🐣🐓</title><link href="http://localhost:4000/2023/04/joyeuses-paques/" rel="alternate" type="text/html" title="Joyeuses Pâques ! 🐣🐓" /><published>2023-04-10T00:00:00+02:00</published><updated>2023-04-10T00:00:00+02:00</updated><id>http://localhost:4000/2023/04/joyeuses-paques</id><content type="html" xml:base="http://localhost:4000/2023/04/joyeuses-paques/"><![CDATA[]]></content><author><name></name></author><category term="trucs-instagrammes" /><category term="miam" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">#52NuancesDeJeux semaine 12 : Indiens #J2S</title><link href="http://localhost:4000/2023/04/52NuancesDeJeux-semaine-12-indiens/" rel="alternate" type="text/html" title="#52NuancesDeJeux semaine 12 : Indiens #J2S" /><published>2023-04-06T00:00:00+02:00</published><updated>2023-04-06T00:00:00+02:00</updated><id>http://localhost:4000/2023/04/52NuancesDeJeux-semaine-12-indiens</id><content type="html" xml:base="http://localhost:4000/2023/04/52NuancesDeJeux-semaine-12-indiens/"><![CDATA[<p>Je me rends compte que j’ai fait les photos mais oublie de poster en semaine 12 😱</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title></title>
+        <description>Les trucs du Moko.</description>
+        <link>http://localhost:4000</link>
+        <image>
+            <url>http://localhost:4000/images/zemoko.png</url>
+            <title></title>
+            <link>http://localhost:4000</link>
+        </image>
+        <lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0200</lastBuildDate>
+        
+            <item>
+                <title>#52NuancesDeJeux semaine 15&amp;nbsp;: Vieux #J2S</title>
+                <description>&lt;p&gt;Cette semaine, j’ai fait le choix d’un « vieux » jeu pour répondre au challenge. &lt;mark&gt;Bohnanza&lt;/mark&gt; est un jeu de gestion de main : chaque joueur a 2 champs pour planter des haricots, et une main de cartes, qu’il doit semer ou échanger mais, et c’est tout l’intérêt du jeu, en respectant l’ordre dans lequel il les a reçu. À chacun de gérer ses transactions en en tenant compte, mais sans trop aider ses adversaires.&lt;/p&gt;</description>
+                <pubDate>Wed, 12 Apr 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/04/52NuancesDeJeux-semaine-15-vieux/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/04/be8c952a8d08d568.jpeg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/04/52NuancesDeJeux-semaine-15-vieux/</guid>
+            </item>
+        
+            <item>
+                <title>Joyeuses Pâques ! 🐣🐓</title>
+                <description></description>
+                <pubDate>Mon, 10 Apr 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/04/joyeuses-paques/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/04/2023-04-10-cq2tnwmojot.jpg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/04/joyeuses-paques/</guid>
+            </item>
+        
+            <item>
+                <title>#52NuancesDeJeux semaine 14&amp;nbsp;: Minimalisme #J2S</title>
+                <description>&lt;p&gt;Je me suis posé la question de quel jeu proposer… puis j’ai pensé à &lt;mark lang=&quot;en&quot;&gt;Palm Island&lt;/mark&gt; qui nous a beaucoup occupé ces derniers été.&lt;/p&gt;
 
-<p>Très en retard, donc… mais je vous propose quand même <mark>Jaipur</mark> : l’un de mes jeux préféré pour jouer à 2 joueurs.</p>
+&lt;p&gt;&lt;span lang=&quot;en&quot;&gt;Palm Island&lt;/span&gt; est un jeu solo, une espèce de casse-tête utilisant une mécanique de gestion de ressources. Futé car avec peu de choses, un jeu de cartes, il donne beaucoup, beaucoup de plaisir.&lt;/p&gt;
 
-<p>Un jeu de gestion de main et de collection, rapide et fluide, avec juste ce qu’il faut d’opportunisme.</p>]]></content><author><name></name></author><category term="trucs-de-geek" /><category term="mastodon" /><category term="jeux-de-societe" /><summary type="html"><![CDATA[Je me rends compte que j’ai fait les photos mais oublie de poster en semaine 12 😱]]></summary></entry><entry><title type="html">#52NuancesDeJeux semaine 14 : Minimalisme #J2S</title><link href="http://localhost:4000/2023/04/52NuancesDeJeux-semaine-14-minimalisme-copie/" rel="alternate" type="text/html" title="#52NuancesDeJeux semaine 14 : Minimalisme #J2S" /><published>2023-04-06T00:00:00+02:00</published><updated>2023-04-06T00:00:00+02:00</updated><id>http://localhost:4000/2023/04/52NuancesDeJeux-semaine-14-minimalisme%20copie</id><content type="html" xml:base="http://localhost:4000/2023/04/52NuancesDeJeux-semaine-14-minimalisme-copie/"><![CDATA[<p>Je me suis posé la question de quel jeu proposer… puis j’ai pensé à <mark lang="en">Palm Island</mark> qui nous a beaucoup occupé ces derniers été.</p>
+&lt;p&gt;On peut aussi jouer à deux, en compétition ou en coop.&lt;/p&gt;</description>
+                <pubDate>Thu, 06 Apr 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/04/52NuancesDeJeux-semaine-14-minimalisme/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/04/1e5b869b03dad7c9.jpeg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/04/52NuancesDeJeux-semaine-14-minimalisme/</guid>
+            </item>
+        
+            <item>
+                <title>#52NuancesDeJeux semaine 12&amp;nbsp;: Indiens #J2S</title>
+                <description>&lt;p&gt;Je me rends compte que j’ai fait les photos mais oublie de poster en semaine 12 😱&lt;/p&gt;
 
-<p><span lang="en">Palm Island</span> est un jeu solo, une espèce de casse-tête utilisant une mécanique de gestion de ressources. Futé car avec peu de choses, un jeu de cartes, il donne beaucoup, beaucoup de plaisir.</p>
+&lt;p&gt;Très en retard, donc… mais je vous propose quand même &lt;mark&gt;Jaipur&lt;/mark&gt; : l’un de mes jeux préféré pour jouer à 2 joueurs.&lt;/p&gt;
 
-<p>On peut aussi jouer à deux, en compétition ou en coop.</p>]]></content><author><name></name></author><category term="trucs-de-geek" /><category term="mastodon" /><category term="jeux-de-societe" /><summary type="html"><![CDATA[Je me suis posé la question de quel jeu proposer… puis j’ai pensé à Palm Island qui nous a beaucoup occupé ces derniers été.]]></summary></entry><entry><title type="html">En sortant du ciné #Strasbourg</title><link href="http://localhost:4000/2023/04/en-sortant-du-cine/" rel="alternate" type="text/html" title="En sortant du ciné #Strasbourg" /><published>2023-04-02T00:00:00+02:00</published><updated>2023-04-02T00:00:00+02:00</updated><id>http://localhost:4000/2023/04/en-sortant-du-cine</id><content type="html" xml:base="http://localhost:4000/2023/04/en-sortant-du-cine/"><![CDATA[]]></content><author><name></name></author><category term="trucs-pris-en-photo" /><category term="trucs-instagrammes" /><category term="pixelfed" /><category term="strasbourg" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Ma critique de « Périphériques » de William Gibson</title><link href="http://localhost:4000/2023/04/ma-critique-de-peripheriques-de-william-gibson/" rel="alternate" type="text/html" title="Ma critique de « Périphériques » de William Gibson" /><published>2023-04-01T00:00:00+02:00</published><updated>2023-04-01T00:00:00+02:00</updated><id>http://localhost:4000/2023/04/ma-critique-de-peripheriques-de-william-gibson</id><content type="html" xml:base="http://localhost:4000/2023/04/ma-critique-de-peripheriques-de-william-gibson/"><![CDATA[<p><img src="/images/2023/04/The_Peripheral_-_William_Gibson.jpg" class="right" /></p>
+&lt;p&gt;Un jeu de gestion de main et de collection, rapide et fluide, avec juste ce qu’il faut d’opportunisme.&lt;/p&gt;</description>
+                <pubDate>Thu, 06 Apr 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/04/52NuancesDeJeux-semaine-12-indiens/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/04/ae54f9c1f3ba046d.jpeg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/04/52NuancesDeJeux-semaine-12-indiens/</guid>
+            </item>
+        
+            <item>
+                <title>En sortant du ciné #Strasbourg</title>
+                <description></description>
+                <pubDate>Sun, 02 Apr 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/04/en-sortant-du-cine/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/04/548199580105267857.png" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/04/en-sortant-du-cine/</guid>
+            </item>
+        
+            <item>
+                <title>Ma critique de «&amp;nbsp;&lt;strong&gt;Périphériques&lt;/strong&gt;&amp;nbsp;» de &lt;em&gt;William Gibson&lt;/em&gt;</title>
+                <description>
+&lt;p&gt;&lt;img src=&quot;/images/2023/04/The_Peripheral_-_William_Gibson.jpg&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
-<p>En décembre, je vous avais parlé de <a href="/2022/12/ma-critique-de-the-peripheral/" lang="en">The Peripheral</a>, une série tirée de « <strong>Périphériques</strong> »… alors, comme j’ai beaucoup aimé la série, ça m’a bien évidemment donné envie de lire le roman… et de vous en parler. Évidemment.</p>
+&lt;p&gt;En décembre, je vous avais parlé de &lt;a href=&quot;/2022/12/ma-critique-de-the-peripheral/&quot; lang=&quot;en&quot;&gt;The Peripheral&lt;/a&gt;, une série tirée de « &lt;strong&gt;Périphériques&lt;/strong&gt; »… alors, comme j’ai beaucoup aimé la série, ça m’a bien évidemment donné envie de lire le roman… et de vous en parler. Évidemment.&lt;/p&gt;
 
-<p>Le livre et la série sont très différents, mais complémentaires. On part d’une idée commune, d’un concept, mais les 2 histoires divergent rapidement. Un peu comme <a href="/2018/02/ma-critique-de-le-maitre-du-haut-chateau-de-philip-k-dick/">Le Maître du Haut-Château</a> dont le livre et la série sont également très différents, sans pour autant pouvoir juger l’un meilleur que l’autre. Finalement, une bonne adaptation, c’est une adaptation qui tire intelligent partie du média… pour le plus grand plaisir du lecteur ou du spectateur.</p>
+&lt;p&gt;Le livre et la série sont très différents, mais complémentaires. On part d’une idée commune, d’un concept, mais les 2 histoires divergent rapidement. Un peu comme &lt;a href=&quot;/2018/02/ma-critique-de-le-maitre-du-haut-chateau-de-philip-k-dick/&quot;&gt;Le Maître du Haut-Château&lt;/a&gt; dont le livre et la série sont également très différents, sans pour autant pouvoir juger l’un meilleur que l’autre. Finalement, une bonne adaptation, c’est une adaptation qui tire intelligent partie du média… pour le plus grand plaisir du lecteur ou du spectateur.&lt;/p&gt;
 
-<p>Tout comme pour la série, <strong>l’action commence dans un avenir proche. Flynne Fisher vit avec son frère et son frère au coeur de l’amérique rurale. Elle et son frère sont parfois engagés par de riches milliardaires oisifs pour leurs talents de gameurs. Jusqu’au soir où une entreprise colombienne leurs proposent de tester un nouveau concept de monde virtuel</strong>, une espèce de métavers, comme on dirait maintenant. Flynne se retrouve plongé dans un Londres post-apocalyptique troublant de réalisme… où elle va assisté à un meurtre….</p>
+&lt;p&gt;Tout comme pour la série, &lt;strong&gt;l’action commence dans un avenir proche. Flynne Fisher vit avec son frère et son frère au coeur de l’amérique rurale. Elle et son frère sont parfois engagés par de riches milliardaires oisifs pour leurs talents de gameurs. Jusqu’au soir où une entreprise colombienne leurs proposent de tester un nouveau concept de monde virtuel&lt;/strong&gt;, une espèce de métavers, comme on dirait maintenant. Flynne se retrouve plongé dans un Londres post-apocalyptique troublant de réalisme… où elle va assisté à un meurtre….&lt;/p&gt;
 
-<p><strong>En fait, il ne s’agissait pas d’un jeu. Le futur qu’elle a vu est bien réel</strong>, et le roman va alterner entre les 2 mondes. Dans l’avenir, Flynne utilise une espèce d’androïde télécommandé. Les « périphériques », ce sont ces corps humains manipulables à distance.</p>
+&lt;p&gt;&lt;strong&gt;En fait, il ne s’agissait pas d’un jeu. Le futur qu’elle a vu est bien réel&lt;/strong&gt;, et le roman va alterner entre les 2 mondes. Dans l’avenir, Flynne utilise une espèce d’androïde télécommandé. Les « périphériques », ce sont ces corps humains manipulables à distance.&lt;/p&gt;
 
-<p>Attention, il ne s’agit pas de voyage dans le temps, enfin pas vraiment. C’est plus compliqué que cela : le fait d’avoir contacté le monde de Flynne a un impact, subtil mais quasimeent immédiat, qui ne peut que faire diverger son histoire, et donc créer une réalité parallèle parfaitement disjointe, parallèle. C’est ça que, dans le livre, on appelle un « fragment ». Le monde que Flynne visite n’est pas le futur du monde dans lequel elle vit. Il ne l’est plus, et ne le sera jamais plus.</p>
+&lt;p&gt;Attention, il ne s’agit pas de voyage dans le temps, enfin pas vraiment. C’est plus compliqué que cela : le fait d’avoir contacté le monde de Flynne a un impact, subtil mais quasimeent immédiat, qui ne peut que faire diverger son histoire, et donc créer une réalité parallèle parfaitement disjointe, parallèle. C’est ça que, dans le livre, on appelle un « fragment ». Le monde que Flynne visite n’est pas le futur du monde dans lequel elle vit. Il ne l’est plus, et ne le sera jamais plus.&lt;/p&gt;
 
-<blockquote class="citation">
-  <p>C'est plutôt simple, en réalité <i>(que le genre de paradoxe que nous sommes habitués à traiter lorsque nous discutons de cas transtemporels imaginaires)</i>. Le fait de se connecter entraîne une déviation de la causalité et la nouvelle branche ainsi créé, que nous appelerons «&nbsp;fragment&nbsp;», est unique.</p>
-</blockquote>
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;C&apos;est plutôt simple, en réalité &lt;i&gt;(que le genre de paradoxe que nous sommes habitués à traiter lorsque nous discutons de cas transtemporels imaginaires)&lt;/i&gt;. Le fait de se connecter entraîne une déviation de la causalité et la nouvelle branche ainsi créé, que nous appelerons «&amp;nbsp;fragment&amp;nbsp;», est unique.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><strong>On comprends rapidement qu’il s’est passé quelque chose, une espèce de catastrophe mais qui n’est cité que sous le nom de jackpot</strong>. Enfin, rapidement… c’est du William Gibson hein, donc ce n’est pas dit rapidement ni clairement. On ne comprends que plus tard de quoi il s’agit exactement… Mais comme je suis sympa, et que ça ne retire rien à l’intrique, je vous divulgache ce qu’est ce « jackpot »</p>
+&lt;p&gt;&lt;strong&gt;On comprends rapidement qu’il s’est passé quelque chose, une espèce de catastrophe mais qui n’est cité que sous le nom de jackpot&lt;/strong&gt;. Enfin, rapidement… c’est du William Gibson hein, donc ce n’est pas dit rapidement ni clairement. On ne comprends que plus tard de quoi il s’agit exactement… Mais comme je suis sympa, et que ça ne retire rien à l’intrique, je vous divulgache ce qu’est ce « jackpot »&lt;/p&gt;
 
-<blockquote class="citation">
-  <p>Le jackpot. [...] il avait entrepris de lui raconter ce qu'il appelait le jackpot. En soulignant tout d'abord qu'il ne s'agissait pas d'un évènement unique. Mais d'un agrégat de causes multiples, sans début, ni fin précis. Un contexte plutôt qu'un incident isolé, pas un de ces cataclysmes qu'affectionnaient les récits apocalyptiques, tuant d'un coup une grande partie de la population et après lesquels les survivants s'armaient jusqu'aux dents [...] C'était androgénique, lui expliqua-t-il, c'est à dire "provoqué par l'homme" [...]. Mais ce n'était pas délibéré, on n'avait pas sciemment cherché à causer tous ces problèmes. Le changement climatique créé par l'excèse d'emissions de carbone avait entrainé toute une série de phénomènes. Qui n'avaient cessé d'empirer. Parce que les gens d'autrefois, qui ignoraient comment tout cela fonctionnait, avaient tout fait foirer sans parvenir à inverser le mouvement, même une fois au courant, et il était désormais trop tard.</p>
-</blockquote>
+&lt;blockquote class=&quot;citation&quot;&gt;
+  &lt;p&gt;Le jackpot. [...] il avait entrepris de lui raconter ce qu&apos;il appelait le jackpot. En soulignant tout d&apos;abord qu&apos;il ne s&apos;agissait pas d&apos;un évènement unique. Mais d&apos;un agrégat de causes multiples, sans début, ni fin précis. Un contexte plutôt qu&apos;un incident isolé, pas un de ces cataclysmes qu&apos;affectionnaient les récits apocalyptiques, tuant d&apos;un coup une grande partie de la population et après lesquels les survivants s&apos;armaient jusqu&apos;aux dents [...] C&apos;était androgénique, lui expliqua-t-il, c&apos;est à dire &quot;provoqué par l&apos;homme&quot; [...]. Mais ce n&apos;était pas délibéré, on n&apos;avait pas sciemment cherché à causer tous ces problèmes. Le changement climatique créé par l&apos;excèse d&apos;emissions de carbone avait entrainé toute une série de phénomènes. Qui n&apos;avaient cessé d&apos;empirer. Parce que les gens d&apos;autrefois, qui ignoraient comment tout cela fonctionnait, avaient tout fait foirer sans parvenir à inverser le mouvement, même une fois au courant, et il était désormais trop tard.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p>Même si le roman n’est pas simple à commencer, comme souvent avec William Gibson il faut s’accrocher, mais ça vaut vraiment le coup. <strong>L’intrigue est solide, et passionante. C’est un vrai bon livre de <abbr>SF</abbr>, décrivant un futur dystopique et des technologies parfaitement crédible, et qui traite de manière originale le sujet pourtant presque banal des voyages dans le temps et des monde parallèles</strong>.</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">#52NuancesDeJeux semaine 13 : Jouets #J2S</title><link href="http://localhost:4000/2023/03/52NuancesDeJeux-semaine-13-jouets/" rel="alternate" type="text/html" title="#52NuancesDeJeux semaine 13 : Jouets #J2S" /><published>2023-03-28T00:00:00+02:00</published><updated>2023-03-28T00:00:00+02:00</updated><id>http://localhost:4000/2023/03/52NuancesDeJeux-semaine-13-jouets</id><content type="html" xml:base="http://localhost:4000/2023/03/52NuancesDeJeux-semaine-13-jouets/"><![CDATA[<p>Pour cette semaine, je ne pouvais que choisir <mark>Histoires de Peluches</mark>, un jeu Livre d’Aventure pour vous et vos marmots.</p>
+&lt;p&gt;Même si le roman n’est pas simple à commencer, comme souvent avec William Gibson il faut s’accrocher, mais ça vaut vraiment le coup. &lt;strong&gt;L’intrigue est solide, et passionante. C’est un vrai bon livre de &lt;abbr&gt;SF&lt;/abbr&gt;, décrivant un futur dystopique et des technologies parfaitement crédible, et qui traite de manière originale le sujet pourtant presque banal des voyages dans le temps et des monde parallèles&lt;/strong&gt;.&lt;/p&gt;</description>
+                <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/04/ma-critique-de-peripheriques-de-william-gibson/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/04/The_Peripheral_-_William_Gibson.jpg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/04/ma-critique-de-peripheriques-de-william-gibson/</guid>
+            </item>
+        
+            <item>
+                <title>#52NuancesDeJeux semaine 13&amp;nbsp;: Jouets #J2S</title>
+                <description>&lt;p&gt;Pour cette semaine, je ne pouvais que choisir &lt;mark&gt;Histoires de Peluches&lt;/mark&gt;, un jeu Livre d’Aventure pour vous et vos marmots.&lt;/p&gt;
 
-<p>Les joueurs incarnent de courageuses peluches bien décidées à sauver leur précieuse fillette d’un génie maléfique et sournois. Ça apprends à jouer en coop, c’est malin, ludique… et passionnant !</p>]]></content><author><name></name></author><category term="trucs-de-geek" /><category term="mastodon" /><category term="jeux-de-societe" /><summary type="html"><![CDATA[Pour cette semaine, je ne pouvais que choisir Histoires de Peluches, un jeu Livre d’Aventure pour vous et vos marmots.]]></summary></entry><entry><title type="html">En rentrant de l’école #Strasbourg</title><link href="http://localhost:4000/2023/03/en-rentrant-de-l-ecole/" rel="alternate" type="text/html" title="En rentrant de l’école #Strasbourg" /><published>2023-03-27T00:00:00+02:00</published><updated>2023-03-27T00:00:00+02:00</updated><id>http://localhost:4000/2023/03/en-rentrant-de-l-ecole</id><content type="html" xml:base="http://localhost:4000/2023/03/en-rentrant-de-l-ecole/"><![CDATA[]]></content><author><name></name></author><category term="trucs-pris-en-photo" /><category term="trucs-instagrammes" /><category term="pixelfed" /><category term="strasbourg" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">PA_1441 It’s a new world, it’s a new life… #SpaceInvader #Invaders #Streetart #Paris</title><link href="http://localhost:4000/2023/03/pa_1441/" rel="alternate" type="text/html" title="PA_1441 It’s a new world, it’s a new life… #SpaceInvader #Invaders #Streetart #Paris" /><published>2023-03-18T00:00:00+01:00</published><updated>2023-03-18T00:00:00+01:00</updated><id>http://localhost:4000/2023/03/pa_1441</id><content type="html" xml:base="http://localhost:4000/2023/03/pa_1441/"><![CDATA[<h2 id="invader">Invader</h2>
+&lt;p&gt;Les joueurs incarnent de courageuses peluches bien décidées à sauver leur précieuse fillette d’un génie maléfique et sournois. Ça apprends à jouer en coop, c’est malin, ludique… et passionnant !&lt;/p&gt;</description>
+                <pubDate>Tue, 28 Mar 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/03/52NuancesDeJeux-semaine-13-jouets/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/03/5a1bf6967e63c20b.jpeg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/03/52NuancesDeJeux-semaine-13-jouets/</guid>
+            </item>
+        
+            <item>
+                <title>En rentrant de l&apos;école #Strasbourg</title>
+                <description></description>
+                <pubDate>Mon, 27 Mar 2023 00:00:00 +0200</pubDate>
+                <link>http://localhost:4000/2023/03/en-rentrant-de-l-ecole/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/03/546009303138086001.png" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/03/en-rentrant-de-l-ecole/</guid>
+            </item>
+        
+            <item>
+                <title>PA_1441 &lt;span lang=&quot;en&quot;&gt;It’s a new world, it’s a new life…&lt;/span&gt; #SpaceInvader #Invaders #Streetart #Paris</title>
+                <description>&lt;h2 id=&quot;invader&quot;&gt;Invader&lt;/h2&gt;
 
-<p>Les mosaïques d’<a href="https://fr.wikipedia.org/wiki/Invader_%28artiste%29">Invader</a> envahissent les murs de nos villes <strong>depuis plus de 20 ans</strong>… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et <a href="/tag/spaceinvader/">sur ce blog</a> depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.</p>
+&lt;p&gt;Les mosaïques d’&lt;a href=&quot;https://fr.wikipedia.org/wiki/Invader_%28artiste%29&quot;&gt;Invader&lt;/a&gt; envahissent les murs de nos villes &lt;strong&gt;depuis plus de 20 ans&lt;/strong&gt;… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et &lt;a href=&quot;/tag/spaceinvader/&quot;&gt;sur ce blog&lt;/a&gt; depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.&lt;/p&gt;
 
-<p>Si ça vous intéresse, <strong>Invader propose une application mobile</strong> pour collectionner ses œuvres : <a href="http://www.space-invaders.com/flashinvaders/">Flash Invaders</a>. C’est aussi un bon moyen de s’assurer s’il s’agit d’un <em>vrai</em> invader/ ou non car les copycat sont légions.</p>
+&lt;p&gt;Si ça vous intéresse, &lt;strong&gt;Invader propose une application mobile&lt;/strong&gt; pour collectionner ses œuvres : &lt;a href=&quot;http://www.space-invaders.com/flashinvaders/&quot;&gt;Flash Invaders&lt;/a&gt;. C’est aussi un bon moyen de s’assurer s’il s’agit d’un &lt;em&gt;vrai&lt;/em&gt; invader/ ou non car les copycat sont légions.&lt;/p&gt;
 
-<h2 id="instagram">Instagram</h2>
+&lt;h2 id=&quot;instagram&quot;&gt;Instagram&lt;/h2&gt;
 
-<p>Depuis 2015 également, je publie mes clichés <a href="https://www.instagram.com/zemoko/">Instagram</a> sur ce blog dans ma rubrique <a href="/category/trucs-pris-en-photos/trucs-instagrammes/">Trucs instagrammés</a>.</p>
+&lt;p&gt;Depuis 2015 également, je publie mes clichés &lt;a href=&quot;https://www.instagram.com/zemoko/&quot;&gt;Instagram&lt;/a&gt; sur ce blog dans ma rubrique &lt;a href=&quot;/category/trucs-pris-en-photos/trucs-instagrammes/&quot;&gt;Trucs instagrammés&lt;/a&gt;.&lt;/p&gt;
 
-<p><strong>Fun fact</strong> : <a href="/2016/01/le-saviez-tu-instagram-en-ascii-art/">vos photos Instagram sont également disponibles en ASCII art</a> !</p>]]></content><author><name></name></author><category term="trucs-pris-en-photo" /><category term="trucs-instagrammes" /><category term="instagram" /><category term="invader" /><category term="paris" /><category term="spaceinvader" /><category term="streetart" /><summary type="html"><![CDATA[Invader]]></summary></entry><entry><title type="html">PA_1315 #SpaceInvader #Invaders #StreetArt #Paris</title><link href="http://localhost:4000/2023/03/pa_1315/" rel="alternate" type="text/html" title="PA_1315 #SpaceInvader #Invaders #StreetArt #Paris" /><published>2023-03-18T00:00:00+01:00</published><updated>2023-03-18T00:00:00+01:00</updated><id>http://localhost:4000/2023/03/pa_1315</id><content type="html" xml:base="http://localhost:4000/2023/03/pa_1315/"><![CDATA[<h2 id="invader">Invader</h2>
+&lt;p&gt;&lt;strong&gt;Fun fact&lt;/strong&gt; : &lt;a href=&quot;/2016/01/le-saviez-tu-instagram-en-ascii-art/&quot;&gt;vos photos Instagram sont également disponibles en ASCII art&lt;/a&gt; !&lt;/p&gt;</description>
+                <pubDate>Sat, 18 Mar 2023 00:00:00 +0100</pubDate>
+                <link>http://localhost:4000/2023/03/pa_1441/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/03/2023-03-18-cp8jhyvic7t.jpg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/03/pa_1441/</guid>
+            </item>
+        
+            <item>
+                <title>PA_1315 #SpaceInvader #Invaders #StreetArt #Paris</title>
+                <description>&lt;h2 id=&quot;invader&quot;&gt;Invader&lt;/h2&gt;
 
-<p>Les mosaïques d’<a href="https://fr.wikipedia.org/wiki/Invader_%28artiste%29">Invader</a> envahissent les murs de nos villes <strong>depuis plus de 20 ans</strong>… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et <a href="/tag/spaceinvader/">sur ce blog</a> depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.</p>
+&lt;p&gt;Les mosaïques d’&lt;a href=&quot;https://fr.wikipedia.org/wiki/Invader_%28artiste%29&quot;&gt;Invader&lt;/a&gt; envahissent les murs de nos villes &lt;strong&gt;depuis plus de 20 ans&lt;/strong&gt;… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et &lt;a href=&quot;/tag/spaceinvader/&quot;&gt;sur ce blog&lt;/a&gt; depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.&lt;/p&gt;
 
-<p>Si ça vous intéresse, <strong>Invader propose une application mobile</strong> pour collectionner ses œuvres : <a href="http://www.space-invaders.com/flashinvaders/">Flash Invaders</a>. C’est aussi un bon moyen de s’assurer s’il s’agit d’un <em>vrai</em> invader/ ou non car les copycat sont légions.</p>
+&lt;p&gt;Si ça vous intéresse, &lt;strong&gt;Invader propose une application mobile&lt;/strong&gt; pour collectionner ses œuvres : &lt;a href=&quot;http://www.space-invaders.com/flashinvaders/&quot;&gt;Flash Invaders&lt;/a&gt;. C’est aussi un bon moyen de s’assurer s’il s’agit d’un &lt;em&gt;vrai&lt;/em&gt; invader/ ou non car les copycat sont légions.&lt;/p&gt;
 
-<h2 id="instagram">Instagram</h2>
+&lt;h2 id=&quot;instagram&quot;&gt;Instagram&lt;/h2&gt;
 
-<p>Depuis 2015 également, je publie mes clichés <a href="https://www.instagram.com/zemoko/">Instagram</a> sur ce blog dans ma rubrique <a href="/category/trucs-pris-en-photos/trucs-instagrammes/">Trucs instagrammés</a>.</p>
+&lt;p&gt;Depuis 2015 également, je publie mes clichés &lt;a href=&quot;https://www.instagram.com/zemoko/&quot;&gt;Instagram&lt;/a&gt; sur ce blog dans ma rubrique &lt;a href=&quot;/category/trucs-pris-en-photos/trucs-instagrammes/&quot;&gt;Trucs instagrammés&lt;/a&gt;.&lt;/p&gt;
 
-<p><strong>Fun fact</strong> : <a href="/2016/01/le-saviez-tu-instagram-en-ascii-art/">vos photos Instagram sont également disponibles en ASCII art</a> !</p>]]></content><author><name></name></author><category term="trucs-pris-en-photo" /><category term="trucs-instagrammes" /><category term="instagram" /><category term="invader" /><category term="paris" /><category term="spaceinvader" /><category term="streetart" /><summary type="html"><![CDATA[Invader]]></summary></entry><entry><title type="html">#52NuancesDeJeux semaine 11 : Réaliste #J2S</title><link href="http://localhost:4000/2023/03/52NuancesDeJeux-semaine-12-realiste/" rel="alternate" type="text/html" title="#52NuancesDeJeux semaine 11 : Réaliste #J2S" /><published>2023-03-15T00:00:00+01:00</published><updated>2023-03-15T00:00:00+01:00</updated><id>http://localhost:4000/2023/03/52NuancesDeJeux-semaine-12-realiste</id><content type="html" xml:base="http://localhost:4000/2023/03/52NuancesDeJeux-semaine-12-realiste/"><![CDATA[<p>Réaliste… mais historique, je propose <mark>Pillards de la Mer du Nord</mark> de l’excellent Shem Phillips.</p>
-
-<p>Dans Pillards, vous incarnez des guerriers vikings qui, pour impressionner le Jarl, mènent des raids et pillent or, fer, bétail…</p>
-
-<p>Un jeu de pose d’ouvrier particulièrement bien équilibré, et un jeu qui, depuis des années, sort beaucoup chez nous !</p>]]></content><author><name></name></author><category term="trucs-de-geek" /><category term="mastodon" /><category term="jeux-de-societe" /><summary type="html"><![CDATA[Réaliste… mais historique, je propose Pillards de la Mer du Nord de l’excellent Shem Phillips.]]></summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;Fun fact&lt;/strong&gt; : &lt;a href=&quot;/2016/01/le-saviez-tu-instagram-en-ascii-art/&quot;&gt;vos photos Instagram sont également disponibles en ASCII art&lt;/a&gt; !&lt;/p&gt;</description>
+                <pubDate>Sat, 18 Mar 2023 00:00:00 +0100</pubDate>
+                <link>http://localhost:4000/2023/03/pa_1315/</link>
+                
+                    
+                <media:content url="http://localhost:4000/images/2023/03/2023-03-18-cp7ojflizid.jpg" type="image/jpeg" medium="image"></media:content>
+                
+                <guid isPermaLink="true">http://localhost:4000/2023/03/pa_1315/</guid>
+            </item>
+        
+    </channel>
+</rss>

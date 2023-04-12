@@ -1,0 +1,33 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>{{ site.name | xml_escape }}</title>
+        <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+        <link>{{ site.url }}</link>
+        <image>
+            <url>{{ site.url }}/images/zemoko.png</url>
+            <title>{{ site.name | xml_escape }}</title>
+            <link>{{ site.url }}</link>
+        </image>
+        <lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
+        {% for post in site.posts limit:10 %}
+            <item>
+                <title>{{ post.title | xml_escape }}</title>
+                <description>{{ post.content | rstrip | xml_escape }}</description>
+                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+                <link>{{ site.url }}{{ post.url }}</link>
+                {% if post.coverImage  %}
+                    {% if post.coverImage contains "https" %}
+                        {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
+                    {% else %}
+                        {% capture coverImage %}{{ site.url }}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
+                    {% endif %}
+                <media:content url="{{ coverImage }}" type="image/jpeg" medium="image"></media:content>
+                {% endif %}
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+            </item>
+        {% endfor %}
+    </channel>
+</rss>
