@@ -45,7 +45,7 @@ Nous voilà installés (et bien installés) dans notre nouvelle maison, et dans 
 
 ## La vue sur la plaine d'Alsace à partir du Grand Château
 
-<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/02/Ochsenstein/img_3470.jpg&amp;autoLoad=true"></iframe></div>
+<div class="vrview"><iframe allowfullscreen src="/pannellum/pannellum.htm#panorama=/images/2019/08/Ochsenstein/img_3470.jpg&amp;autoLoad=true"></iframe></div>
 
 ## La vue sur l'Alsace et la Lorraine à partir de la terrasse du Geissfels
 
