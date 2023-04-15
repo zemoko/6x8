@@ -37,17 +37,12 @@ layout: default
                 {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
               <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
               {%- else -%}
-                {%- if post.coverImage contains "png" -%}
-                  {% capture coverImage %}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
-              <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
-                {%- else -%}
-                  {% capture coverImage %}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
-                  {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
+                {% capture coverImage %}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
+                {% capture coverImageWebp %}{{ coverImage | replace:'.jpg','_360.webp' | replace:'.jpeg','_360.webp' | replace:'.png','_360.webp' }}{% endcapture %}
               <picture>
                 <source srcset="{{ coverImageWebp }}" type="image/webp">
                 <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
               </picture>
-                {%- endif -%}
               {%- endif -%}
             {%- endif -%}
           </figure>

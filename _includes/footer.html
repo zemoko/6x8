@@ -37,48 +37,5 @@
 	</div>
 </footer>
 
-<!-- search -->
 <script src="/js/search-script.js" type="text/javascript" defer></script>
-<script type="text/javascript">
-function getCookie (name) {
-	let value = `; ${document.cookie}`;
-	let parts = value.split(`; ${name}=`);
-	if (parts.length === 2) return parts.pop().split(';').shift();
-}
-if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    document.body.classList.add("dark-mode");
-    document.getElementById("darkmode-toggle").checked = true;
-}
-document.getElementById("darkmode-toggle").addEventListener('change', (event) => {
-	document.body.classList.toggle("dark-mode");
-	document.cookie = 'darkmode='+(document.getElementById("darkmode-toggle").checked)+'; path=/; max-age=${60 * 60 * 24 * 14};';
-});
-if (getCookie("darkmode") !== undefined) {
-	if (getCookie("darkmode") === "true") {
-		document.getElementById("darkmode-toggle").checked = true;
-		document.body.classList.add("dark-mode");
-	}
-} else {
-	if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-		document.getElementById("darkmode-toggle").checked = true;
-		document.body.classList.add("dark-mode");
-		document.cookie = 'darkmode=true; path=/; max-age=${60 * 60 * 24 * 14};';
-	}
-}
-
-var sjs = SimpleJekyllSearch({
-	searchInput: document.getElementById('search-input'),
-	resultsContainer: document.getElementById('results-container'),
-	searchResultTemplate: '<li><a href="{url}?query={query}">{title}</a></li>',
-	json: '/search.json',
-	noResultsText: 'Pas de résultats, désolé'
-})
-
-document.getElementById('search-toggle').onclick = function() {
-	document.getElementById('search-toggle').classList.toggle('active');
-	document.getElementById('search-bar').classList.toggle('active');
-	if (document.getElementById('search-bar').classList.contains('active')) {
-		document.getElementById('search-input').focus();
-	}
-};
-</script>
+<script src="/js/dark-mode.js" type="text/javascript" defer></script>
