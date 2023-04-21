@@ -2,7 +2,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="generator" content="Jekyll" />
-		<link rel="canonical" href="http://www.6x8.org{{ page.url }}" />
+		<link rel="canonical" href="https://www.6x8.org{{ page.url }}" />
 		<meta property="article:published_time" content="{{ page.date }}" />
 		<title>{{ page.title | strip_html | append: ' | ' | append: site.title | default: site.title }}</title>
 		<meta name="description" content="{{ page.excerpt | strip_html  }}" />
@@ -30,6 +30,8 @@
 		<link rel="stylesheet" href="/js/lightbox.css">
 		<script src="/js/lightbox.js" defer></script>
 		{%- endif  -%}
+
+		{% webmentions_head %}
 
 		<!-- Matomo -->
 		<script>
