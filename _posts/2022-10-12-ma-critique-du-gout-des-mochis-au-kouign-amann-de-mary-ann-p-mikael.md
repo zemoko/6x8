@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Le goût des mochis au kouign amann</strong>&nbsp;» de <em>Mary Ann P. Mikael</em>'
 date: "2022-10-12"
 categories: 

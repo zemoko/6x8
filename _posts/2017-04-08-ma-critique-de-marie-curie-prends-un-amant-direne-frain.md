@@ -15,7 +15,6 @@ bookISBN: 9782757862339
 bookRating: 5
 ---
 
-{% include image.html class="right book" %}
 « Marie Curie prends un amant » était depuis un petit moment dans ma liste de lecture. **Je crois que j’avais été attiré par le titre, autant par « Marie Curie » que par « prends un amant », mais que j’avais un peu peur du coté « biographie »**... du coup, il a longtemps stagné en milieu de pile. Et puis un jour, c’était le bon jour, et je m’y suis mis... et **je dois avouer un vrai coup de cœur pour ce livre**.
 
 ## Le scandale Langevin-Curie

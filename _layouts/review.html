@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+{% capture coverImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}{% endcapture %}
+{% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
+
 <div class="page">
   <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -11,6 +15,10 @@ layout: default
         <p class="post-meta">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          <span class="sr-only" itemprop="author" itemscope itemtype="https://schema.org/Person">
+            <a href="/arnaud-malon.html" itemprop="url"><span itemprop="name">Arnaud Malon</span></a>
+          </span>
+          <meta itemprop="image" content="{{ coverImage }}">
   {% include locale-date.html %}
           </time>
   {%- if page.categories -%}
@@ -46,8 +54,6 @@ layout: default
 {{ content }}
         </div>
         <div class="cover" itemtype="https://schema.org/Review">
-{% capture coverImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}{% endcapture %}
-{% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
           <figure itemprop="itemReviewed" itemscope itemtype="https://schema.org/Book">
             <picture>
               <source srcset="{{ coverImageWebp }}" type="image/webp">

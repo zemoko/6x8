@@ -12,7 +12,7 @@ coverImage: "2070661989.jpg"
 bookTitle: "La passe-miroir, tome 2&nbsp;: Les disparus du Clairdelune"
 bookAuthor: "Christelle Dabos"
 bookISBN: 9782070661985  
-bookRating: 4.5
+bookRating: 5
 ---
 
 Nous retrouvons Ophélie là où nous l’avons laissé à la fin du tome 1 : au cœur de la Citacielle. Le 1er  tome se terminait au Clairdelune, ce 2e tome prends de la hauteur car **Ophélie rejoint la tour, et la cour, de Farouk où, encore plus qu’ailleurs dans la Citacielle, tout n'est qu’intrigues de Palais et illusions tapageuses et trompeuses**.

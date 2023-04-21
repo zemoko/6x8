@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Chien 51</strong>&nbsp;» de <em>Laurent Gaudé</em>'
 date: "2022-10-12"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Le Bureau des affaires occultes</strong>&nbsp;» de <em>Éric Fouassier</em>'
 date: "2022-12-26"
 categories: 

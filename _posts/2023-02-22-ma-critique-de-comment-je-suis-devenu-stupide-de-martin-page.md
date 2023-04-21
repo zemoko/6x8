@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Comment je suis devenu stupide</strong>&nbsp;» de <em>Martin Page</em>'
 date: "2023-02-22"
 categories: 

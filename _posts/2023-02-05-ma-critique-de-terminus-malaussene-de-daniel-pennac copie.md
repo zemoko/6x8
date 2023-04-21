@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Le cas Malaussène, tome&nbsp;2&nbsp;: Terminus Malaussène</strong>&nbsp;» de <em>Daniel Pennac</em>'
 date: "2023-02-05"
 categories: 
