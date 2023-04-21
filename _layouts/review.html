@@ -6,7 +6,7 @@ layout: default
 {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
 
 <div class="page">
-  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting https://schema.org/Review">
 
     <header class="post-header {% if page.cover2left %} cover2left{% endif %}">
       <div>
@@ -70,7 +70,7 @@ layout: default
                 {%- endif -%}
                 {%- if page.bookRating -%}
                   <dt>Ma note</dT>
-                    <dd>
+                    <dd itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
                       <meta itemprop="worstRating" content="1">
                       <span class="stars" style="--rating: {{ page.bookRating }};"></span>
                       <span class="sr-only"><span itemprop="ratingValue">{{ page.bookRating }}</span> sur <span itemprop="bestRating">5</span> étoiles</span>

@@ -9,7 +9,7 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 }
 document.getElementById("darkmode-toggle").addEventListener('change', (event) => {
 	document.body.classList.toggle("dark-mode");
-	document.cookie = 'darkmode='+(document.getElementById("darkmode-toggle").checked)+'; path=/; max-age=${60 * 60 * 24 * 14};';
+	document.cookie = 'darkmode='+(document.getElementById("darkmode-toggle").checked)+'; path=/; max-age=${60 * 60 * 24 * 14}; samesite';
 });
 if (getCookie("darkmode") !== undefined) {
 	if (getCookie("darkmode") === "true") {
