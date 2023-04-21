@@ -62,6 +62,17 @@ mastodon:
   username: zemoko
   instance: mamot.fr
 
+webmentions:
+  username: www.6x8.org
+  # Use my own cache folder
+  cache_folder: .cache
+  # skip bad URLs for 5 days
+  cache_bad_uris_for: 5
+  # I moved to www and then to https, so…
+  legacy_domains:
+    - http://www.6x8.org
+
+
 webp:
   enabled: false
   
