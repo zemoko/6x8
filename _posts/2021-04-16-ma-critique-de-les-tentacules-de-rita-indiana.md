@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Les tentacules</strong>&nbsp;» de <em>Rita Indiana</em>"
 date: "2021-04-16"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782374252414.jpg"
-noImageOnPost: true
+bookTitle: "Les tentacules"
+bookAuthor: "Rita Indiana"
+bookISBN: 9782374252414  
+bookRating: 4
 ---
 
 Bon, je suis officiellement en vacances, j'ai enfin accès à mon ordi, les enfants sont en train d'installer un restaurant dans le salon... Il est peut-être temps que je commence à rattraper mon retard dans la rédaction des critiques des livres que j'ai lu ces derniers mois.
 
-{% include image.html class="right book" %}
 Je commence par la critique de « Les tentacules » de Rita Indiana.
 
 **Nous sommes en 2027, en République Dominicaine**. Acilde, ex-ado prostituée, travaille comme domestique pour la grande prêtresse de la Santeria, Esther Escudero. Elle veut changer de sexe, ce qui, en 2027, est possible si elle trouve de quoi se payer le Rainbow Bright, une drogue de synthèse qui permet de le faire sans opération...

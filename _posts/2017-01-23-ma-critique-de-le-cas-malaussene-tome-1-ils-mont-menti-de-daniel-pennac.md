@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Le cas Malaussène, tome 1&nbsp;: Ils m’ont menti</strong>&nbsp;» de <em>Daniel Pennac</em>"
 date: "2017-01-23"
 categories: 
@@ -9,12 +9,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "product_9782070142316_195x320.jpg"
-noImageOnPost: true
+bookTitle: "Le cas Malaussène, tome 1&nbsp;: Ils m’ont menti"
+bookAuthor: "Daniel Pennac"
+bookISBN: 9782072935442  
+bookRating: 5
 ---
 
 **La tribu Malaussène est de retour !** Bon, d’accord, c’est un peu moins une tribu, ils ont grandi (mais pas tant changé que cela finalement), ils se sont quelque peu éparpillés (mais se retrouvent souvent), une nouvelle génération est née (fidèle à ses ainés)... mais **l’énergie est toujours là, et le bonheur de lire intact**.
 
-{% include image.html class="right book" %}
 18 ans ont passé depuis le dernier roman, il faut un petit temps d’adaptation pour bien resituer tout le monde (mais un glossaire en fin de roman aide bien).
 
 **Benjamin** travaille toujours aux éditions du Talion, toujours dirigées par la **Reine Zabo**. Il s’occupe des vévés de la reine, ces auteurs qui écrivent la « vérité vraie ».

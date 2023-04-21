@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Par bonheur, le lait</strong>&nbsp;» de <em>Neil Gaiman<em>, illustré par <em>Boulet</em>"
 date: "2016-01-07"
 categories: 
@@ -9,14 +9,16 @@ tags:
   - "livre"
   - "neil-gailman"
 coverImage: "bonheur-lait.jpg"
-noImageOnPost: true
+bookTitle: "Par bonheur, le lait"
+bookAuthor: "Neil Gaiman"
+bookISBN: 9782846269681  
+bookRating: 4
 ---
 
 ## Un roman « total foutraque »
 
 **Que ne ferait pas un super papa pour mener à bien sa mission**, ramener du lait pour le petit déj' de ses enfants ? _(et aussi, un peu, pour son thé, faut avouer)_
 
-{% include image.html class="right book" %}
 Dans le désordre, et sans trop en dévoiler, il croisera :
 
 - **des extraterrestres** (ils m'ont un peu fait penser aux vogons sauf qu'ils ne veulent pas la détruire la Terre pour faire passer une autoroute hyperspatiale, ils veulent juste la redécorer...)

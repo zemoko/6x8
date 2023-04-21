@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Le temps fut</strong>&nbsp;» de <em>Ian McDonald</em>"
 date: "2020-07-20"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "CVT_Le-Temps-fut_3873.jpg"
-noImageOnPost: true
+bookTitle: "Le temps fut"
+bookAuthor: "Ian McDonald"
+bookISBN: 9782843449604  
+bookRating: 3.5
 ---
 
-{% include image.html class="right book" %}
 Ce petit ouvrage (140 pages) était depuis un moment dans ma PAL (Pile À Lire). Pour être précis, c'est depuis février où [un article sur le blog "Le culte d'Apophis"](https://lecultedapophis.com/2020/02/06/le-temps-fut-ian-mcdonald/) m'avait intrigué.
 
 Le personnage principale s'appelle **Emmett Leigh** et c'est un bouquiniste anglais. **"Le temps fut", c'est le nom d'un vieux recueil de poésie** qu'Emmett découvre lors de la liquidation d'une très ancienne librairie londonienne.

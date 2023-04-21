@@ -1,0 +1,96 @@
+---
+layout: default
+---
+<div class="page">
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header {% if page.cover2left %} cover2left{% endif %}">
+      <div>
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | markdownify }}</h1>
+{%- if page.date -%}
+        <p class="post-meta">
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+  {% include locale-date.html %}
+          </time>
+  {%- if page.categories -%}
+    {% assign cat = page.categories | first %}
+    {%- for item in site.data.nav.categories -%}
+      {%- if cat == item.url -%}
+        {%- capture cattit -%}{{ item.title }}{%- endcapture -%}
+        {%- capture caturl -%}/category/{{ item.url }}/{%- endcapture -%}
+      {%- endif -%}
+      {%- if item.subitems -%}
+        {%- for subitem in item.subitems -%}
+          {%- if cat == subitem.url -%}
+            {%- capture cattit -%}{{ subitem.title }}{%- endcapture -%}
+            {%- capture caturl -%}/category/{{ item.url }}/{{ subitem.url }}/{%- endcapture -%}
+          {%- endif- %}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+            &nbsp;/&nbsp;
+            <a href="{{ caturl }}">{{ cattit }}</a>
+    {% assign nbtags = page.tags | size %}
+    {%- if nbtags > 0 -%}
+            &nbsp;/&nbsp;
+      {%- for tag in page.tags -%}<a href="/tag/{{ tag }}/">#{{ tag }}</a>&thinsp;{%- endfor -%}
+    {%- endif -%}
+  {%- endif -%}
+        </p>
+{%- endif -%}
+      </div>
+    </header>
+    <div class="post-content e-content book" itemprop="articleBody">
+        <div class="review">
+{{ content }}
+        </div>
+        <div class="cover" itemtype="https://schema.org/Review">
+{% capture coverImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}{% endcapture %}
+{% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
+          <figure itemprop="itemReviewed" itemscope itemtype="https://schema.org/Book">
+            <picture>
+              <source srcset="{{ coverImageWebp }}" type="image/webp">
+              <img src="{{ coverImage }}" alt="Couverture du livre" {% imagesize coverImage:props %} itemprop="image" />
+            </picture>
+            {%- if page.bookTitle -%}
+            <figcaption>
+              <dl>
+                <dt>Titre</dt>
+                  <dd><strong itemprop="name">{{ page.bookTitle }}</strong></dd>
+                {%- if page.bookAuthor -%}
+                <dt>Auteur</dt>
+                  <dd><em itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.bookAuthor }}</span></em></dd>
+                {%- endif -%}
+                {%- if page.bookRating -%}
+                  <dt>Ma note</dT>
+                    <dd>
+                      <meta itemprop="worstRating" content="1">
+                      <span class="stars" style="--rating: {{ page.bookRating }};"></span>
+                      <span class="sr-only"><span itemprop="ratingValue">{{ page.bookRating }}</span> sur <span itemprop="bestRating">5</span> étoiles</span>
+                      </span>
+                    </dd>
+                {%- endif -%}
+              </dd>
+            </figcaption>
+            {%- endif -%}
+          </figure>
+        </div>
+    </div>
+
+    {% include comments.html %}
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+</div>
+
+<div class="navlinks">
+  <ul class="pagination">
+{% if page.previous.url %}
+    <li><a href="{{page.previous.url}}" class="previous-page">{{page.previous.title | markdownify }}</a></li>
+{% endif %}
+{% if page.next.url %}
+    <li><a href="{{page.next.url}}" class="next-page">{{page.next.title | markdownify }}</a></li>
+{% endif %}
+  </ul>
+</div>

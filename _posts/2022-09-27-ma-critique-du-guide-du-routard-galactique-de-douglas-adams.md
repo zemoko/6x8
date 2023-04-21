@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong lang="en">The Hitchhiker’s Guide to the Galaxy (<abbr>H2G2</abbr>)</strong>&nbsp;» de <em>Douglas Adams</em>'
 date: "2022-09-27"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: 9781529034523.jpg
-noImageOnPost: true
+bookTitle: "<abbr>H2G2</abbr>, tome 1&nbsp;: Le Guide du voyageur galactique"
+bookAuthor: "Douglas Adams"
+bookISBN: 9782070319015  
+bookRating: 5
 ---
 
-{% include image.html class="right book" %}
 J’avais déjà essayé de vous expliquer <a href="/2016/10/la-vie-lunivers-et-le-reste/">La vie, l’univers et le reste</a> et donc pourquoi «&nbsp;6&nbsp;x&nbsp;8&nbsp;=&nbsp;42&nbsp;», et donc de vous présenter <strong>le Guide du routard galactique</strong> (<a href="https://fr.wikipedia.org/wiki/Le_Guide_du_voyageur_galactique_(roman)#Titre_en_fran%C3%A7ais">n’en déplaise au routard</a>, je continuerais de l’appeler comme ça, na&nbsp;!).
 
 Cet été, j’ai commencé à le re-re-relire, et c’est donc l’occasion d’écrire une (petite ?) critique de ce premier volume&nbsp;:)

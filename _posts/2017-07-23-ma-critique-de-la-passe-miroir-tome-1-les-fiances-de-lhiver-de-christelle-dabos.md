@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;La passe-miroir, tome&nbsp;1&nbsp;: Les fiancés de l’hiver&nbsp;» de Christelle Dabos"
 date: "2017-07-23"
 categories: 
@@ -10,6 +10,10 @@ tags:
   - "livre"
 coverImage: "PM1.jpg"
 cover2left: true
+bookTitle: "La passe-miroir, tome 1&nbsp;: Les fiancés de l’hiver"
+bookAuthor: "Christelle Dabos"
+bookISBN: 9782070653768   
+bookRating: 5
 ---
 
 Faut que je vous dise, je suis en train de lire une série complétement folle, « La passe-miroir », pour laquelle j’ai un VRAI coup de cœur.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de <strong>«&nbsp;Le Paris des merveilles, tome 3&nbsp;: Le royaume immobile&nbsp;»</strong> de <em>Pierre Pevel</em>"
 date: "2019-12-16"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Le-Royaume-Immobile.png"
-noImageOnPost: true
+bookTitle: "Le Paris des merveilles, tome 3&nbsp;: Le royaume immobile"
+bookAuthor: "Pierre Pevel"
+bookISBN: 9791028113308  
+bookRating: 4.5
 ---
 
 <blockquote class="citation">Il était une fois le Paris des Merveilles... Où l'on plante, pour la troisième fois, le décor d'un Paris qui n'exista jamais tout à fait.</blockquote>
 
-{% include image.html class="right book" %}
 Suite (et fin ?) des aventures de **Louis Denizart Hippolyte Griffont**, mage le la loge parisienne du cercle Cyan, et d’**Isabel de Saint-Gil**, son enchanteresse de femme.
 
 Nous les retrouvons quelques mois après la fin du tome 2 alors que Griffont est pressenti pour représenter son cercle lors des prochaines élections du Parlement des Fées où, pour la première fois, des humains siègeront avec les autres peuples de l’Outremonde.

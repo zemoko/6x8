@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Les cosmonautes ne font que passer</strong>&nbsp;» d’<em>Elitza Gueorguieva</em>"
 date: "2017-02-06"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Les_cosmonautes_ne_font_que_passer.jpg"
-noImageOnPost: true
+bookTitle: "Périphériques"
+bookAuthor: "Elitza Gueorguieva"
+bookISBN: 9782070187096  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 Dans son roman « Les cosmonautes ne font que passer », Elitza Gueorguieva laisse parler la petite fille qu’elle était, de son entrée à l’école Iouri Gagarine à 7 ans jusqu’à ses 14 ans.
 
 ## Devenir Iouri gagarine

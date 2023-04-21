@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Ma critique de « Fire & Blood » de George R.R. Martin"
+layout: review
+title: 'Ma critique de «&nbsp;<strong lang="en">Fire &amp; Blood</strong>&nbsp;» de <em>George R.R. Martin</em>'
 date: "2019-01-15"
 categories: 
   - "trucs-critiques"
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51AJASdBSYL._SX323_BO1204203200_.jpg"
-noImageOnPost: true
+bookTitle: '<span lang="en">Fire &amp; Blood</span>'
+bookAuthor: "George R.R. Martin"
+bookISBN: 9782756427874  
+bookRating: 3.5
 ---
 
 <blockquote class="citation">Oh oui ! Enfin ! Un nouveau livre de George R.R. Martin ! Quoi ? « Fire & Blood » ? Mais il ne devait pas s’appeler « The Winds of Winter » le sixième tome du Trône de Fer ? » Ah mais, en fait, ce n’est pas le trône de fer, c’est carrément autre chose ? Mais euh ?</blockquote>
 
-{% include image.html class="right book" %}
 Hé oui, « Fire & Blood » n’est pas même un roman : c’est **un livre d’Histoire**, écrit par l’archimestre Gyldayn, qui compile des sources diverses pour faire une synthèse de l’histoire des Targaryens, **de la conquête de Westeros par Aegon Ier jusqu’à Aegon III**, juste après la « Danse des dragons », la grande guerre civile Targaryenne. Soit **un bon millier de pages pour 150 ans d’histoire** mais ne vous inquiétez pas, ce n’est que le premier tome\*, un autre suivra.
 
 Voici comment Georges R.R. Martin l’a présenté sur son blog « Not a blog » :

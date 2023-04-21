@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>La flèche du temps</strong>&nbsp;» de <em>Martin Amis</em>"
 date: "2016-02-15"
 categories: 
@@ -9,12 +9,14 @@ tags:
   - "livre"
   - "martin-amis"
 coverImage: Time-s-arrow.jpg
-noImageOnPost: true
+bookTitle: "La flèche du temps"
+bookAuthor: "Martin Amis"
+bookISBN: 9782264023582  
+bookRating: 4
 ---
 
-## Un OLNI (Objet Littéraire Non Identifié) exigeant mais passionnant
+## Un <abbr>OLNI</abbr> (Objet Littéraire Non Identifié) exigeant mais passionnant
 
-{% include image.html class="right book" %}
 Alors qu'il était plongé dans un sommeil pressenti comme éternel, Tod Friendly réintègre le monde des vivants pour revivre chaque moment de son existence. Mais son existence n'est pas racontée par Tod, ou du moins, pas directement : le narrateur est comme coincé dans le corps de Tod (s'il est Tod, il ne l'assume pas même si, plus loin dans le roman, il passera du "je/il" au "nous" qui inclut le narrateur et Tod).
 
 **Le narrateur revit donc la vie de Tod, mais à l'envers.** Sans points de comparaisons, rien, ou presque, ne le choque... Oh, il y a bien quelques anomalies qui l'étonnent tout de même : les relations amoureuses qui commencent généralement par de grandes disputes, les médecins qui semblent payés à blesser les gens ou à les rendre malades, les échanges monétaires dont la logique lui échappe...

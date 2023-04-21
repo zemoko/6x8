@@ -1415,3 +1415,48 @@ details {
     background: #494d53;
   }
 }
+
+.book {
+  display: flex;
+  @media screen and (max-device-width: @md-large) {
+    flex-direction: column-reverse;
+  }
+  .cover {
+    min-width: 280px;
+    padding-left: 2rem;
+    text-align: center;
+  }
+  dt {
+    float: left;
+    clear: left;
+    width: 60px;
+    min-height: 22px;
+    text-align: right;
+  }
+  dt::after {
+    content: " :";
+  }  
+  dd {
+    margin: 0 0 0 60px;
+  }
+}
+
+:root {
+  --star-size: 22px;
+  --star-color: #fff;
+  --star-background: #fc0;
+}
+.stars {
+  --percent: calc(var(--rating) / 5 * 100%);
+  display: inline-block;
+  font-size: var(--star-size);
+  line-height: 1;
+  &::before {
+    content: '★★★★★';
+    letter-spacing: 3px;
+    background: linear-gradient(90deg, var(--star-background) var(--percent), var(--star-color) var(--percent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+

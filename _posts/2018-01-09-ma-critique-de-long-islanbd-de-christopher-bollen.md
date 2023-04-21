@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong lang=\"en\">Long Island</strong>&nbsp;» de <em>Christopher Bollen</em>"
 date: "2018-01-09"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782702158890-001-T.jpeg"
-noImageOnPost: true
+bookTitle: '<span lang="en">Long Island</span>'
+bookAuthor: "Christopher Bollen"
+bookISBN: 9782702158890  
+bookRating: 3
 ---
 
-{% include image.html class="right book" %}
 **Jʼai été attiré par de nombreuses critiques**, dans la presse et sur le net, **toutes assez élogieuses**... **mais je dois avouer que je ne suis vraiment pas convaincu par ma lecture**.
 
 Le polar est assez insipide (on devine rapidement le nom du coupable), lʼhistoire traine en longueur et plusieurs des personnages ne mʼont pas parus réellement crédibles... Bref, **voici un livre que je suis heureux dʼavoir terminé :(**

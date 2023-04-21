@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La faucheuse</strong>&nbsp;» de <em>Neal Shusterman</em>"
 date: "2017-12-26"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "CVT_La-Faucheuse_6195.jpg"
-noImageOnPost: true
+bookTitle: "La faucheuse"
+bookAuthor: "Neal Shusterman"
+bookISBN: 9782221198674  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 **Plus de famine, plus de misère, plus de guerres... plus de gouvernements. Le « Thunderhead »,** une IA héritière du Cloud, et avant lui de l’internet primitif, **gère tout pour le plus grand bien de l’Humanité**.
 
 Enfin tout... non, pas vraiment tout. Quand **l’Humanité a conquis la Mort** en fournissant le moyen à tout à chacun de rajeunir comme bon lui semble, voire de ressusciter si besoin, elle a également décidé que, pour maintenir la démographie, il fallait se substituer à la nature et que, naturellement, cette tâche devait être réservée aux humains.

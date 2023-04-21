@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Frappe-toi le c&oelig;ur</strong>&nbsp;» d’<em>Amélie Nothomb</em>"
 date: "2017-10-10"
 categories: 
@@ -9,7 +9,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "870x489_fich_diff_nothomb.jpg"
-cover2left: true
+bookTitle: "Frappe-toi le coeur"
+bookAuthor: "Amélie Nothomb"
+bookISBN: 9782226399168   
+bookRating: 4
 ---
 
 [J’avais peu goûté la cuvée Nothomb 2016](/2016/09/ma-critique-de-riquet-a-la-houppe-damelie-nothomb/), je ne me suis donc pas précipité sur le traditionnel Nothomb de la rentrée... mais j’ai fini par y céder, et grand bien m’en a pris car je l’ai beaucoup aimé.

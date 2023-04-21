@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Ma critique de «&nbsp;Dans les angles morts&nbsp;» d’Elisabeth Brundage"
+layout: review
+title: "Ma critique de «&nbsp;<strong>Dans les angles morts</strong>&nbsp;» d’<em>Elisabeth Brundage</em>"
 date: "2019-01-08"
 categories: 
   - "trucs-critiques"
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "ob_eeec29_dans-les-angles-morts.jpg"
-noImageOnPost: true
+bookTitle: "Dans les angles morts"
+bookAuthor: "Elisabeth Brundage"
+bookISBN: 9782253258292  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 Ce soir-là, quand il rentre de l’université privée de Chosen où il enseigne l’histoire de l’art, **George Clare trouve sa femme assassinée**, et leur fille de 3 ans seule dans sa chambre.
 
 Huits mois plus tôt, **cette famille de new-yorkais avait aménagé dans leur petite ferme de l’état de New-York**, qu’ils avaient pu acquérir pour une bouchée de pain.

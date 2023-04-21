@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong lang=\"en\">Uprooted</strong>&nbsp;» de <em>Naomi Novik</em>"
 date: "2017-06-09"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9781447294146.jpg"
-noImageOnPost: true
+bookTitle: '<span lang="en">Uprooted</span>'
+bookAuthor: "Naomi Novik"
+bookISBN: 9782290154892  
+bookRating: 5
 ---
 
-{% include image.html class="right book" %}
 Uprooted se trouve à la croisée des genres, **entre fantasy médiévale et conte de fée** (l’auteur s’est inspirée des contes polonais de son enfance).
 
 **Agnieszka** vit dans une vallée, dans le royaume de **Polnya**. C’est une simple fille de village, heureuse quand elle peut courir (et se salir), grimper aux arbres, chercher baies et fruits... bref, profiter de la nature. Mais **la vallée d’Agnieszka vit à l’ombre du « Bois », une entité maléfique et corrompue, dont il faut se tenir éloignée, dont il faut se protéger et qu’il faut surveiller pour éviter que la corruption ne s’étende**. Éviter que la corruption, et que le Bois, ne s’étende, c’est la tâche du « Dragon », un Sorcier vivant dans une tour ancienne. Il veille sur la vallée en échangé d’un tribu annuel et, tout les 10 ans, de la livraison d’une jeune fille.

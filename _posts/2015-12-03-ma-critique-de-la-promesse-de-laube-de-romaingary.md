@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>La Promesse de l'Aube</strong>&nbsp;» de <em>Romain&nbsp;Gary</em>"
 date: "2015-12-03"
 categories: 
@@ -9,7 +9,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "La_Promesse_de_l_aube.jpg"
-noImageOnPost: true
+bookTitle: "La Promesse de l'Aube"
+bookAuthor: "Romain Gary"
+bookISBN: 9782070363735  
+bookRating: 5
 ---
 
 Le mois dernier, Fabrice Drouelle a consacré un épisode d'Affaires sensible à Romain Gary, relatant par quel subterfuge Romain Gary a pu être le seul écrivain français à obtenir deux fois le Prix Goncourt ([Ajar a-t-il tué Gary ?](http://www.franceinter.fr/emission-affaires-sensibles-ajar-a-t-il-tue-gary)).
@@ -18,7 +21,6 @@ Bizarrement, je n'avais encore jamais lu de livre de Romain Gary... mais j'avais
 
 ## La promesse de l'aube
 
-{% include image.html class="right book" %}
 **"La promesse de l'aube" est avant tout un hommage de Romain Gary à sa mère**... mais c'est aussi, son autobiographie, enfin non, c'est **la biographie du couple qu'il forma avec sa mère**.
 
 C'est donc leur histoire à tous les deux. Un fils fidèle et obéissant, et une (caricature de) mère juive qui vit pour lui, voire à travers lui. **Une histoire émouvante, formidablement bien écrite, souvent drôle, d'une sincérité désarmante et d'une ironie mordante.**

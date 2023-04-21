@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong lang="en">How to stop time</strong>&nbsp;» de <em>Matt Haig</em>'
 date: "2022-07-17"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: how_to_stop_time-paperback-cover-9781838858476.250x0.jpg
-noImageOnPost: true
+bookTitle: '<span lang="en">How to stop time</span>'
+bookAuthor: "Matt Haig"
+bookISBN: 9782330120658   
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 <strong>Tom Hazard a 41&nbsp;ans</strong> et il est professeur d’histoire dans un collège londonien. Tom est solitaire et fait tout pour rester à l’écart des autres, de tous les autres.
 
 Il faut vous dire que <strong>Tom ne s’appelle pas vraiment Tom</strong>, et qu’<strong>il n’a pas vraiment 41 ans</strong>. En apparence, c’est bien le cas, <strong>mais</strong> en réalité il en a <strong>439</strong>. <strong>Tom est atteinte d’une maladie, l’anagéria</strong>, qui le fait vieillir beaucoup plus lentement que la moyenne. Est un privilège ou une malédiction ? C’est tout l’enjeu de ce livre.

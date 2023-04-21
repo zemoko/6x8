@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Dans le désert</strong>&nbsp;» de <em>Julien Blanc-Gras</em>"
 date: "2017-11-24"
 categories: 
@@ -9,13 +9,14 @@ tags:
   - "julien-blanc-gras"
   - "livre"
 coverImage: "dans-le-désert.jpg"
-noImageOnPost: true
+bookTitle: "Dans le désert"
+bookAuthor: "Julien Blanc-Gras"
+bookISBN: 9791030701586  
+bookRating: 4
 ---
 
 <blockquote class="citation">Voyager, c’est découvrir que tout le monde a tort. » _Aldous Huxley_</blockquote>
 
-{% include image.html class="right book" %}
-s
 Infatigable écrivain voyageur, Julien Blanc-Gras nous fait cette année découvrir la péninsule arabique. **Du Qatar à Oman, en passant par Dubaï**, en essayant de passer par le Bahreïn (les journalistes n’y sont pas bienvenus), et sans passer par l’Arabie Saoudite (le pays tout entier est interdit aux non-musulmans). Dans tous ces voyages, il essaie de rencontrer des locaux pour mieux les comprendre et, éventuellement, s’en faire des amis. Y arrivera-t-il dans ces pétromonarchies ?
 
 Le projet est d’autant plus intéressant que **nous avons, nous occidentaux, une connaissance assez lacunaire de ces pays, faite de clichés, d’idées préconçues et surtout sans nuances**. Défaut que Julien Blanc-Gras admet lui-même partager.

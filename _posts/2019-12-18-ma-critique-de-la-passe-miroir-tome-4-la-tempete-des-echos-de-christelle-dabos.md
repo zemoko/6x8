@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La passe-miroir, tome&nbsp;4&nbsp;: La tempête des Échos</strong>&nbsp;» de <em>Christelle Dabos</em>"
 date: "2019-12-18"
 categories: 
@@ -10,10 +10,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "la-tempete-des-echos-la-passe-miroir-tome-4-christelle-concernant-seul-au-monde-livre-tome-4.jpg"
-noImageOnPost: true
+bookTitle: "La passe-miroir, tome 4&nbsp;: La tempête des échos "
+bookAuthor: "Christelle Dabos"
+bookISBN: 9782075093866  
+bookRating: 5
 ---
 
-{% include image.html class="right book" %}
 Suite et fin des aventures d’Ophélie, notre passe-miroir préférée. Nous la retrouvons toujours à Babel, alors que **les effondrements se multiplient et que plus aucune arche n’est épargnée**.
 
 Ophélie a grandi, Ophélie a muri. Elle est **toujours aussi maladroite** mais elle est aussi t**oujours aussi attachante**. Surtout, elle fait preuve maintenant d’**une volonté de fer** et d’**un courage à toute épreuve**. Sa relation avec Thorn l’a rendue plus forte comme elle a également transformé Thorn.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>In utero</strong>&nbsp;» de <em>Julien&nbsp;Blanc-Gras</em>"
 date: "2015-11-13"
 categories: 
@@ -9,12 +9,13 @@ tags:
   - "julien-blanc-gras"
   - "livre"
 coverImage: "In_utero.jpg"
-noImageOnPost: true
+bookTitle: "In utero"
+bookAuthor: "Julien Blanc-Gras"
+bookISBN: 9791030700121  
+bookRating: 4
 ---
 
 ## « Tu arrêtes de frapper ta mère, ou on t'appelle Jean-Patrick »
-
-{% include image.html class="right book" %}
 
 **D'habitude** ("Touriste", "Gringoland"...), **Julien Blanc-Gras nous fait voyager au quatre coins du monde.** **Dans "In utero", c'est un voyage plus personnel qu'il nous raconte : celui qui, au long des 9 mois de grossesse de sa femme (qu'il appellera simplement "La" femme), le fera devenir Papa.**
 

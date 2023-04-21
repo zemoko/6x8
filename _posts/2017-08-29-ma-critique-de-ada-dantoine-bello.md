@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Ada</strong>&nbsp;» d’<em>Antoine Bello</em>"
 date: "2017-08-29"
 categories: 
@@ -9,12 +9,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "ob_728156_adabello.jpg"
-noImageOnPost: true
+bookTitle: "Ada"
+bookAuthor: "Antoine Bello"
+bookISBN: 9782070179671  
+bookRating: 4.5
 ---
 
 Ma lecture précédente était un autre roman d’Antoine Bello (dont j’avais déjà lu L’homme qui s’envola au mois de mai dernier). Hasard, il se situe lui-aussi en Californie (comme [Little Brother](https://wp.me/p4uQyJ-Qf) je veux dire).
 
-{% include image.html class="right book" %}
 **Franck Logan est flic. Il doit enquêter sur la disparition d’Ada** mais c’est une disparition un peu particulière car Ada n’existe pas, ou plutôt disons qu’elle n’existe pas « physiquement ». **Ada est une intelligence artificielle** créée par la startup "Turing Corp" pionnière sur le sujet.
 
 Je ne vous en dirais pas plus ici sur l’intrigue, sachez juste que c’est un bon polar.

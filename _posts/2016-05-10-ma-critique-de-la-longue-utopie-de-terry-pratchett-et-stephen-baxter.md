@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>La Longue Utopie</strong>&nbsp;» de <em>Terry Pratchett</em> et <em>Stephen Baxter</em>"
 date: "2016-05-10"
 categories: 
@@ -10,10 +10,12 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "la-longue-utopie.jpg"
-noImageOnPost: true
+bookTitle: "La Longue Terre, tome 4&nbsp;: La longue utopie"
+bookAuthor: "Terry Pratchett et Stephen Baxter"
+bookISBN: 9782841727537  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 Après avoir enchainé les 3 premiers tomes de cette formidable saga, je n'ai pas hésité très longtemps pour savoir si j'allais lire le quatrième dans la foulée. J'avais trop envie de retrouver Josué, Lobsang, Sally... et surtout de retrouver la Longue Terre.
 
 Comme dans « La Longue Mars », Stephen Baxter et Terry Pratchett entremêlent divers récits :

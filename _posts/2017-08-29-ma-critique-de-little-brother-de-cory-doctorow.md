@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong lang=\"en\">Little Brother</strong>&nbsp;» de <em>Cory Doctorow</em>"
 date: "2017-08-29"
 categories: 
@@ -8,14 +8,16 @@ tags:
   - "critique"
   - "livre"
 coverImage: "littlebrother-US-cover-large.jpg"
-noImageOnPost: true
+bookTitle: '<span lang="en">Little Brother</span>'
+bookAuthor: "Cory Doctorow"
+bookISBN: 9782266187299  
+bookRating: 4.5
 ---
 
 Bon allez, c’est fini les vacances, on arrête de rigoler, j’ai PLEIN de critiques en retard moi !
 
 Commençons par « Little Brother » que j'ai terminé hier soir et que je conseille fortement à tout bon geek qui se respecte, mais aussi à toute personne qui s’interroge sur la défense de nos libertés et les dérives sécuritaires de nos sociétés actuelles.
 
-{% include image.html class="right book" %}
 **« Little Brother » a été publié en 2008 mais, lu en 2017, il est plus que troublant**. Cory Doctorow l’a écrit comme une dystopie se passant dans un futur proche. Il décrit **comment une société déjà prompte à utiliser les nouvelles technologies pour surveiller ses citoyens, bascule rapidement et sans résistance dans un tout-sécuritaire pour « rassurer » sa population, à défaut de la protéger**.
 
 Le narrateur du livre s’appelle **Marcus Yallow**, c’est un lycéen de 17 ans qui habite à Sans Francisco. Il est un peu geek sur les bords, a pratiqué les jeux de rôles grandeur nature mais se passionne maintenant pour les jeux ARG (Alternate Reality Game), des jeux en « réalité alternée » qui se passent autant en ligne que dans le monde physique, notamment un jeu nommé « Harakuju Fun Madness ». Il n’apprécie guère les systèmes de surveillance mis en place par son lycée mais sait intelligemment utiliser ses connaissances technologiques pour les déjouer (il mets, par exemple, du gravier dans ses chaussures pour déjouer les analyseurs de démarche).

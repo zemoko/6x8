@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Saga</strong>&nbsp;» de <em>Tonino Benacquista</em>"
 date: "2021-12-02"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: Saga.jpg
-noImageOnPost: true
+bookTitle: "Saga"
+bookAuthor: "Tonino Benacquista"
+bookISBN: 9782070408450  
+bookRating: 5
 ---
 
-{% include image.html class="right book" %}
 Bon, maintenant que mon blog est devenu statique (<a href="/2021/11/pourquoi-et-comment-je-suis-devenu-statique/">une bonne chose de faite&nbsp;!</a>), il est temps de rattraper mon retard et rédiger les critiques des livres que j’ai lu ces derniers mois.
 
 Je vous fais le pitch&nbsp;: c’est l’histoire de **quatre auteurs embauchés pour écrire le scénario d’un feuilleton télévisé**. Rien de bien glorieux puisque cette commande n’existe que pour satisfaire aux quotas de production française et sera diffusée pendant les heures creuses de la nuit. L**e cahier des charges est d’ailleurs des plus simples : coûter le moins cher possible**.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Shakespeare Antibiographie</strong>&nbsp;» de <em>Bill Bryson</em>'
 date: "2021-12-31"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: shakespeare.jpg
-noImageOnPost: true
+bookTitle: "Shakespeare Antibiographie"
+bookAuthor: "Bill Bryson"
+bookISBN: 9782228905602  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 **Tout le monde connait William Shakespeare (1564, 1616)… et pourtant.**
 
 Il a écrit d’innombrables pièces, **plus de 900&nbsp;000&nbsp;mots** à vraie dire. Il en a même inventé plus de 2000 qui sont aujourd’hui entré dans l’anglais de tous les jours… **et pourtant, nous n’en possédons que 14&nbsp;écrits de sa main**&nbsp;: 6&nbsp;signatures (avec son nom et son prénom), et la formule «&nbsp;Par moi&nbsp;» dans son testament.

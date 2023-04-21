@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de <strong>«&nbsp;<span lang=\"en\">The Rook</span> - Au service surnaturel de sa majesté&nbsp;»</strong> de <em>Daniel O’Malley</em>"
 date: "2019-02-25"
 categories: 
@@ -10,10 +10,12 @@ tags:
   - "daniel-omalley"
   - "livre"
 coverImage: "41O61Mga-L._SX210_.jpg"
-noImageOnPost: true
+bookTitle: "Au service surnaturel de sa majesté, tome 1&nbsp;: The Rook"
+bookAuthor: "Daniel O’Malley"
+bookISBN: 9782266250566  
+bookRating: 5
 ---
 
-{% include image.html class="right book" %}
 Vous qui n’avez pas encore lu « Au service surnaturel de sa majesté », vous avez bien de la chance car vous ne connaissez encore rien à la « Chequy », mais vous allez avoir la chance de le découvrir !
 
 ## La Chequy ?

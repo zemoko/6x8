@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Sauveur &amp; fils</strong>&nbsp;» de <em>Marie-Aude Murail</em>"
 date: "2018-12-28"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782211236331.jpg"
-noImageOnPost: true
+bookTitle: "Sauveur &amp; fils"
+bookAuthor: "Marie-Aude Murail"
+bookISBN: 9782211232746  
+bookRating: 3.5
 ---
 
-{% include image.html class="right book" %}
 Sauveur Saint-Yves est psychologue, il a son cabinet à Orléans où il reçoit enfants et adolescents, leurs familles et leurs proches. Et, quand on s’appelle Sauveur, comment s’étonner des espoirs qu’on met en vous ?
 
 Et ça défile dans son cabinet : phobie scolaire, automutilation, addiction aux jeux vidéo, difficultés des familles recomposées… **un bel inventaire de problèmes actuels, traités avec finesse et humanité**.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Le cœur de l’Angleterre</strong>&nbsp;» de <em>Jonathan Coe</em>"
 date: "2019-10-05"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "jonathan-coe"
   - "livre"
 coverImage: "liv-20386-le-coeur-de-l-angleterre.jpg"
-noImageOnPost: true
+bookTitle: "Le cœur de l’Angleterre"
+bookAuthor: "Jonathan Coe"
+bookISBN: 9782072922664  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 Celui fait plus de 30 ans que Jonathan Coe nous raconte l’Angleterre. On le savait francophile, on le soupçonnait europhile… Ce n’est donc pas une surprise qu’il chronique les années Brexit.
 
 **Si vous avez lu « Bienvenue au club » ou « Le cercle fermé », vous serez heureux de retrouver la famille Trotter**, auxquels s’ajouteront quelques autres pour compléter une galerie de personnages riche et variée. Chacun évolue, au gré des évènements, tantôt positifs, tantôt négatifs… mais ce sont surtout les interactions entre eux qui sont passionnantes.

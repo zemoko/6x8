@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La Pire. Personne. Au Monde.</strong>&nbsp;» de <em>Douglas Coupland</em>"
 date: "2018-12-21"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "106029872_o.jpg"
-noImageOnPost: true
+bookTitle: "La Pire. Personne. Au Monde."
+bookAuthor: "Douglas Coupland"
+bookISBN: 9781030700085  
+bookRating: 3
 ---
 
-{% include image.html class="right book" %}
 Je suis un grand fan de Douglas Coupland… mais je dois commencer par vous avouer que **je ne sais que penser de ce livre. Il arrive à être à la fois amusant et énervant.**
 
 Douglas Coupland est souvent sarcastique, ironique, exubérant et improbable, il ne fait pas dans la mesure et sait manier à merveille un humour à plusieurs degrés… Par contre, je ne l’avais jamais vu si noir : il se veut caustique mais flirte avec la vulgarité, il se veut satirique mais je le trouve grossier, graveleux… Un genre de littérature à la « San Antonio » auquel je n’ai jamais vraiment accroché.

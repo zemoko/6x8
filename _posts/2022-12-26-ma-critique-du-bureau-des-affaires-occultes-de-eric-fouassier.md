@@ -9,10 +9,12 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: 9782226460745-j.jpg
-noImageOnPost: true
+bookTitle: "Le Bureau des affaires occultes"
+bookAuthor: "Éric Fouassier"
+bookISBN: 9782253107729  
+bookRating: 2.5
 ---
 
-{% include image.html class="right book" %}
 <strong>Paris 1830</strong>, Louis-Philippe succède à son cousin Charles X, renversé par les émeutes parisiennes, devenues révolutions, des 27, 28 et 29 juillet 1930. La monarchie de Juillet est toute récente, donc fragile et l'équilibre des pouvoirs est précaire entre le roi et les chambres des pairs et des députés avec lesquels il partage désormais le pouvoir législatif.
 
 Quand <strong>le fils d'un bourgeois parisien se suicide dans des conditions étranges</strong>, on demande au jeune inspecteur <strong>Valentin Verne</strong>, pourtant posté aux mœurs, de mener l'enquête. Alors que la société se modernise, on juge, à raison, que la jeunesse et les connaissances scientifiques de Valentin devraient lui être d'une aide précieuse.

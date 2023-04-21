@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Une histoire de tout ou presque</strong>&nbsp;» de <em>Bill Bryson</em>"
 date: "2016-09-01"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "41Vj8QMbLL._SX321_BO1204203200_.jpg"
-noImageOnPost: true
+bookTitle: "Une histoire de tout ou presque"
+bookAuthor: "Bill Bryson"
+bookISBN: 9782228902182  
+bookRating: 4.5
 ---
 
 ## À mettre entre toutes les mains
 
-{% include image.html class="right book" %}
 "Une histoire de tout ou presque" explique de manière **simple et vivante**, avec moules **anecdotes pertinentes** et **images marquantes** :
 
 - Le cosmos et ses mystères

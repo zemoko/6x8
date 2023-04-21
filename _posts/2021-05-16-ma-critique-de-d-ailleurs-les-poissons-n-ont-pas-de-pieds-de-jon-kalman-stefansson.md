@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>D’ailleurs, les poissons n’ont pas de pieds</strong>&nbsp;» de <em>Jón Kalman Stefánsson</em>"
 date: "2021-12-10"
 categories: 
@@ -8,11 +8,13 @@ tags:
   - "critique"
   - "livre"
 coverImage: d-ailleurs-les-poissons.jpg
-noImageOnPost: true
+bookTitle: "D’ailleurs, les poissons n’ont pas de pieds<"
+bookAuthor: "Jón Kalman Stefánsson"
+bookISBN: 9782070145959  
+bookRating: 3.5
 ---
 
-{% include image.html class="right book" %}
-Voici 2 ans qu’Ari a quitté l’Islande pour le Danemark, abandonnant femme et enfant. Cette rupture, il l’a voulu et mais il la regrette. Mais Ari reçoit une lettre de sa belle-mère et un colis rempli de souvenirs qui le pousse à quitter sa maison d’édition danoise et à revenir au pays.
+Voici 2&nbsp;ans qu’Ari a quitté l’Islande pour le Danemark, abandonnant femme et enfant. Cette rupture, il l’a voulu et mais il la regrette. Mais Ari reçoit une lettre de sa belle-mère et un colis rempli de souvenirs qui le pousse à quitter sa maison d’édition danoise et à revenir au pays.
 
 « D’ailleurs, les poissons n’ont pas de pieds », c’est l’histoire d’Ari mais aussi de ses parents, et des grands-parents. C’est **l’histoire de l’Islande : 3 époques et tout un siècle**.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Plonger</strong>&nbsp;» de <em>Christophe Ono-Dit-Biot</em>"
 date: "2017-09-22"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "images.jpg"
-noImageOnPost: true
+bookTitle: "Plonger"
+bookAuthor: "Christophe Ono-Dit-Biot"
+bookISBN: 9782070134274  
+bookRating: 3.5
 ---
 
 ## Les histoires d’amour finissent mal (en général)
 
-{% include image.html class="right book" %}
 « Plonger » a reçu, en 2013, le **Grand Prix du Roman de l’Académie Française** ainsi que le **Renaudot des lycéens**. Je m’attendais donc à un "Grand" roman... mais, en le finissant, je dois dire qui même si sa lecture est globalement agréable, il n’en ai rien. **C’est bien écrit mais assez convenu, voire parfois un peu cliché**. De plus, l’accumulation de références rends la lecture parfois pénible.
 
 **J’ai par contre plutôt apprécié la structure du roman** : une manière de multiplier les fils de la narraton pour donner, touches par touches, flashbacks après flashbacks, une vision complète au lecteur donne du rythme et du souffle au roman.

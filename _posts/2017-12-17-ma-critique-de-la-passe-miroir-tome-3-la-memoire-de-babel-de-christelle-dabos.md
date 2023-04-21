@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La passe-miroir, tome&nbsp;3&nbsp;: La mémoire De Babel</strong>&nbsp;» de <em>Christelle Dabos</em>"
 date: "2017-12-17"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "couv7225099.jpg"
-noImageOnPost: true
+bookTitle: "La passe-miroir, tome 3&nbsp;: La mémoire de Babel"
+bookAuthor: "Christelle Dabos"
+bookISBN: 9782075081894  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 Une nouvelle arche, de nouveaux personnages, de nouvelles familles, et donc de nouveaux pouvoirs familiaux … **L’univers de Christelle Dabos est toujours aussi cohérent, et passionnant**.
 
 **Tome après tome, je vais, pour ma part, de coup de cœur en coup de cœur.**

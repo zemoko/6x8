@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Si j’étais vous</strong>&nbsp;» de <em><abbr>P.G.</abbr> Woodehouse</em>"
 date: "2016-12-16"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "livre"
   - "woodehouse"
 coverImage: "51gwNadkaKL._SX195_.jpg"
-noImageOnPost: true
+bookTitle: "Si j’étais vous"
+bookAuthor: "<abbr>P.G.</abbr> Woodehouse"
+bookISBN: 9782251210155  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 « Anthony, cinquième comte de Droitwich, découvre qu’il a été échangé, au berceau, avec le fils de sa nourrice, Syd Price, actuellement coiffeur à Londres ». Hé oui, « La vie est un long fleuve tranquille » n’a rien inventé, **dès 1931 le génial Sir PG Woodehouse avait déjà imaginé l’échange de bébés à la naissance !**
 
 Comme dans tout bon Woodehouse, **on bascule rapidement dans un vaudeville animé, voire effréné**, où :

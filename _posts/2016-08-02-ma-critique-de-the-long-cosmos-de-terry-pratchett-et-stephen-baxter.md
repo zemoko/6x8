@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong lang=\"en\">The Long Cosmos</strong>&nbsp;» de <em>Terry Pratchett</em> et <em>Stephen Baxter</em>"
 date: "2016-08-02"
 categories: 
@@ -8,14 +8,16 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "25859268.jpg"
-noImageOnPost: true
+bookTitle: " La Longue Terre, tome 5&nbsp;: Le long Cosmos"
+bookAuthor: "Terry Pratchett et Stephen Baxter"
+bookISBN: 9782841728213  
+bookRating: 4
 ---
 
 Après avoir dévoré les 4 premiers tomes de la série, j'ai du patienter un peu car le dernier n'était pas encore sorti... La bonne nouvelle, c'est qu'il est finalement sorti en juillet. **La très bonne nouvelle, c'est que**, malgré cette sortie récente, **il semble bien qu'il ait été grandement discuté, préparé et travaillé par Stephen Baxter et Terry Pratchett** avant la mort de ce dernier. **En avant la critique !**
 
 ## Le dernier de la série
 
-{% include image.html class="right book" %}
 Voici donc "The long cosmos", le dernier de la série. **L'histoire se passe 60 ans après le 1er tome et commence par un message reçu tout au long de la Longue Terre, une invitation : "Join us"**. Nous n'étions déjà plus seuls sur la longue Terre, nous avions même découvert des martiens, l'Humanité évoluait avec les "Suivants"... il restait à **trouver d'autres civilisations dans l'Univers.**
 
 ## On retrouve avec plaisir **Joshua**, **Nelson**, **Lobsang**, **Maggie**... et quelques nouveaux.

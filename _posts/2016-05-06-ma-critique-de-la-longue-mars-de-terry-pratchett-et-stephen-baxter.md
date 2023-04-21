@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>La Longue Mars</strong>&nbsp;» de <em>Terry Pratchett</em> et <em>Stephen Baxter</em>"
 date: "2016-05-06"
 categories: 
@@ -10,12 +10,14 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "La-longue-Mars-Pratchett-Baxter.jpg"
-noImageOnPost: true
+bookTitle: "La Longue Terre, tome 3&nbsp;: La longue Mars"
+bookAuthor: "Terry Pratchett et Stephen Baxter"
+bookISBN: 9782841727063  
+bookRating: 4.5
 ---
 
 **J'ai décidément été happé par l'univers (enfin le multivers) de la Longue Terre, j'enchaine donc les tomes l'un après l'autre ! Après [La Longue Terre](/2016/04/ma-critique-de-la-longue-terre-de-terry-pratchett-et-stephen-baxter/) et [La Longue Guerre](/2016/05/ma-critique-de-la-longue-guerre-de-terry-pratchett-et-stephen-baxter/), voici donc ma critique de « La Longue Mars ».**
 
-{% include image.html class="right book" %}
 5 ans ont passé depuis la fin du tome précédent, c'est-à-dire depuis l'éruption du Yellowstone qui a chamboulé le climat de la Primeterre et déclenché une émigration sans précédent vers la Longue Terre.
 
 Dans « La Longue Mars », Stephen Baxter et Terry Pratchett entremêlent **3 récits parallèles** :

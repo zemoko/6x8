@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Hiroshima n'aura pas lieu</strong>&nbsp;» de <em>James&nbsp;Morrow</em>"
 date: "2015-11-09"
 categories: 
@@ -8,12 +8,13 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Hiroshime-n-aura-pas-lieu.jpg"
-noImageOnPost: true
+bookTitle: "Hiroshima n'aura pas lieu"
+bookAuthor: "James Morrow"
+bookISBN: 9782846268004  
+bookRating: 4
 ---
 
 ## Surréaliste !
-
-{% include image.html class="right book" %}
 
 Je vous fait le pitch, c'est le seul moyen d'introduire ce (drôle de) livre.
 

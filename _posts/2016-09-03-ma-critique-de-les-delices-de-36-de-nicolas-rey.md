@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Les délices de 36</strong>&nbsp;» de <em>Nicolas Rey</em>"
 date: "2016-09-03"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "ob_544203_les-delices-de-36-01.jpg"
-noImageOnPost: true
+bookTitle: "Les délices de 36"
+bookAuthor: "Nicolas Rey"
+bookISBN: 9782368460641  
+bookRating: 4
 ---
 
 "Les délices de 36" fait parti de la collection "Incipit" qui propose à des écrivains de raconter une "première fois".
 
-{% include image.html class="right book" %}
 Ici, ce sont d'abord évidemment **les premier congés payés** : Jean, Bernadette et leur fils Marius (15 ans) partent en train pour Deauville pour les/leurs premiers congés payés.
 
 **On peine à réaliser, aujourd'hui, la révolution qu'à été en France cet acquis du Front Populaire**.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong lang=\"en\">Number 11</strong>&nbsp;» de <em>Jonathan Coe</em>"
 date: "2016-12-13"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "jonathan-coe"
   - "livre"
 coverImage: "26110947.jpg"
-noImageOnPost: true
+bookTitle: "Numéro 11"
+bookAuthor: "Jonathan Coe"
+bookISBN: 9782070178391   
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 Avec "Number 11", Jonathan Coe nous livre un roman que les britanniques qualifient de **"state-of-the-nation novel"**, c'est à dire un état des lieux de l'Angleterre (post-Blair).
 
 Le roman est découpé en **5 tableaux** hétérogènes. Seuls **2 fils rouges** nous guident, Rachel et Alison, tout à tour personnages principaux ou secondaires, qu'on suivra de la fin de l'enfance et à l'âge adulte.

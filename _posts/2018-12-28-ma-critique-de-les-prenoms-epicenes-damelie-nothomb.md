@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Les prénoms épicènes</strong>&nbsp;» d’<em>Amélie Nothomb</em>"
 date: "2018-12-28"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782226437341-j.jpg"
-noImageOnPost: true
+bookTitle: "Les prénoms épicènes"
+bookAuthor: "Amélie Nothomb"
+bookISBN: 9782226437341  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 L’an dernier, dans [Frappe-toi le cœur](/2017/10/ma-critique-de-frappe-toi-le-cur-damelie-nothomb/), Amélie nous racontait l’histoire d’une mère qui n’aimait pas sa fille. **Le roman de cette année est dans la continuité avec une histoire de père qui n’aime pas sa fille.**
 
 « Les prénoms épicènes » raconte l’histoire de Claude et de Dominique : leur rencontre, leur mariage, la montée à Paris, la naissance tant attendue de leur fille, cette enfant dont le prénom est le reflet de ceux de ses parents\*…

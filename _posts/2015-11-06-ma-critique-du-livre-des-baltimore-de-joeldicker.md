@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique du «&nbsp;<strong>Livre des Baltimore</strong>&nbsp;» de <em>Joël&nbsp;Dicker</em>"
 date: "2015-11-06"
 categories: 
@@ -8,12 +8,13 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Le_Livre_des_Baltimore.jpg"
-noImageOnPost: true
+bookTitle: "Les Livre des Baltimore<"
+bookAuthor: "Joël Dicker"
+bookISBN: 9782877069472  
+bookRating: 3
 ---
 
 ## Un livre que j'ai aimé lire mais que je n'ai pas aimé.
-
-{% include image.html class="right book" %}
 
 **J'avais été un brin agacé par "La Vérité sur l'Affaire Harry Québert"** parce qu'on m'en avait tant parlé alors que je ne l'avais pas tant aimé que cela... mais aussi parce qu'il fait partie de ses livres qui agissent comme une drogue : ça se lit bien et ça se lit vite... mais vous auriez envie de le lire encore plus vite. À moitié pour le finir, à moitié pour en finir.
 

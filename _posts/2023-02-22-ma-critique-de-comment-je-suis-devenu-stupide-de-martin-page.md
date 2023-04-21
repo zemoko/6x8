@@ -9,10 +9,11 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: 978-2-84263-040-9.jpg
-noImageOnPost: true
+bookTitle: "Comment je suis devenu stupide"
+bookAuthor: "Martin Page"
+bookISBN: 9782290319871  
+bookRating: 5
 ---
-
-{% include image.html class="right" %}
 
 <strong>J'avais déjà lu «&nbsp;Comment je suis devenu stupide&nbsp;», en 2001, quand il est sorti. Je l'ai beaucoup conseillé, je l'ai beaucoup offert. J'en ai reparlé dernièrement, à plusieurs personnes, dans de multiples occasions... et puis j'ai eu envie de le relire... et, du coup, de vous en parler.</strong>
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>On se reverra</strong>&nbsp;» de <em>Lisa Jewel</em>"
 date: "2019-08-14"
 categories: 
@@ -8,10 +8,11 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51yUv9TrPRL._SX331_BO1204203200_-200x300.jpg"
-noImageOnPost: true
+bookTitle: "On se reverra"
+bookAuthor: "Lisa Jewel"
+bookISBN: 9782811229504  
+bookRating: 3
 ---
-
-{% include image.html class="right book" %}
 
 ## Déjà 200 000 lecteurs… conquis ?
 

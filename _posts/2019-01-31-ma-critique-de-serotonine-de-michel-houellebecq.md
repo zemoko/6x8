@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Ma critique de « Sérotonine » de Michel Houellebecq"
+layout: review
+title: "Ma critique de «&nbsp;<strong>Sérotonine</strong>&nbsp;» de <em>Michel Houellebecq</em>"
 date: "2019-01-31"
 categories: 
   - "trucs-critiques"
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "10130153-e1548966227498.gif"
-noImageOnPost: true
+bookTitle: "Sérotonine"
+bookAuthor: "Michel Houellebecq"
+bookISBN: 9782081471757  
+bookRating: 4
 ---
 
 **Aahhh retrouver Houellebecq !!! :)**
 
-{% include image.html class="right book" %}
 Bon, **il explore depuis 20 ans la dépression** donc ne vous attendez pas à autre chose : le narrateur (Florent-Claude, je vous demande un peu où il a été chercher son prénom !) est, comme de bien entendu, **un mâle occidental blanc... et dépressif !**
 
 ## La **sérotonine** qui donne son nom au roman est l'**hormone du bonheur**

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Scherbius (et&nbsp;moi)</strong>&nbsp;» d'<em>Antoine Bello</em>"
 date: "2018-11-05"
 categories: 
@@ -10,12 +10,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "41FEhRKCngL._SX195_.jpg"
-noImageOnPost: true
+bookTitle: "Scherbius (et moi)"
+bookAuthor: "Antoine Bello"
+bookISBN: 9782072791673  
+bookRating: 5
 ---
 
 Encore un roman d'Antoine Bello, et encore un régal. Décidément.
 
-{% include image.html class="right book" %}
 «&nbsp;Scherbius (et moi)&nbsp;» est **le portrait d'un imposteur génial** que le psychiatre Maxime le Verrier se donne pour mission de diagnostiquer puis de guérir.
 
 Par un beau matin de 1977, Scherbius débarque dans le cabinet que Maxime le Verrier, jeune psychiatre, vient d'ouvrir sur le Boulevard St Germain. Il diagnostique rapidement un "Syndrome de personnalités multiples" et se doute rapidement que cela pourrait lancer sa carrière et faire sa réputation (et ce sera le cas !).

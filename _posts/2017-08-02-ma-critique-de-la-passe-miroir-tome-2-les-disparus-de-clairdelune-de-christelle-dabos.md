@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La passe-miroir, tome&nbsp;2&nbsp;: Les disparus de Clairdelune</strong>&nbsp;» de <em>Christelle Dabos</em>"
 date: "2017-08-02"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "2070661989.jpg"
-noImageOnPost: true
+bookTitle: "La passe-miroir, tome 2&nbsp;: Les disparus du Clairdelune"
+bookAuthor: "Christelle Dabos"
+bookISBN: 9782070661985  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 Nous retrouvons Ophélie là où nous l’avons laissé à la fin du tome 1 : au cœur de la Citacielle. Le 1er  tome se terminait au Clairdelune, ce 2e tome prends de la hauteur car **Ophélie rejoint la tour, et la cour, de Farouk où, encore plus qu’ailleurs dans la Citacielle, tout n'est qu’intrigues de Palais et illusions tapageuses et trompeuses**.
 
 **Farouk**, l’esprit de famille du Pôle, a mauvaise mémoire mais il est fasciné par son Livre et attiré par Ophélie. Tant et si bien qu’elle se retrouve rapidement bombardée vice-conteuse. Pas mal, non, pour une petite animiste à la maladresse pathologique ?!

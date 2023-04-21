@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Le Maître du Haut Château</strong>&nbsp;» de <em>Philip K. Dick</em>"
 date: "2018-02-15"
 categories: 
@@ -9,10 +9,11 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51WPObVMgEL._SX307_BO1204203200_.jpg"
-noImageOnPost: true
+bookTitle: "Le Maître du Haut Château"
+bookAuthor: "Philip K. Dick"
+bookISBN: 9782290302484  
+bookRating: 5
 ---
-
-{% include image.html class="right book" %}
 
 ## Et si les forces de lʼAxe avaient gagné ?
 

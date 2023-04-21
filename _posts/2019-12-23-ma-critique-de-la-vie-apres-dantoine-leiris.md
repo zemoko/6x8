@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La vie, après</strong>&nbsp;» d'<em>Antoine Leiris</em>"
 date: "2019-12-23"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "La-vie-apres-e1577118650673.jpg"
-noImageOnPost: true
+bookTitle: "La vie, après"
+bookAuthor: "Antoine Leiris"
+bookISBN: 9782221246412  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 Comme beaucoup, j’ai été profondément touché par le **13 novembre 2015, l'attentat au Bataclan**. Touché, meurtri… questionné aussi. Je me rappelle avoir d’abord été perdu, avoir perdu les mots. Et je me rappelle que, dans sa la lettre ouverte, [Antoine Leiris avait su, lui qui fut bien plus que moi la victime de ce soir tragique, trouver les mots justes](https://www.6x8.org/2015/11/vous-naurez-pas-ma-haine/).
 
 Quelques mois plus tard, il en a fait [un roman racontant les premiers jours qui ont suivi le drame](https://www.6x8.org/2016/06/ma-critique-de-vous-naurez-pas-ma-haine-dantoine-leiris/).

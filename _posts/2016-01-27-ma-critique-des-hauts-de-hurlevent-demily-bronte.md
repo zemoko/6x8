@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique des «&nbsp;<strong>Hauts de Hurlevent</strong>&nbsp;» d'<em>Emily Brontë</em>"
 date: "2016-01-27"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "wuthering-heights1.jpg"
-noImageOnPost: true
+bookTitle: "Les Hauts de Hurle-vent"
+bookAuthor: "Emily Brontë"
+bookISBN: 9782253004752  
+bookRating: 4.5
 ---
 
 ## Une œuvre unique, puissante et originale
 
-{% include image.html class="right book" %}
 J'ai commencé à lire _Wuthering Heights_ en croyant lire un classique, mais **c'est un roman moderne que j'ai refermé**.
 
 **Moderne par sa construction** : le livre commence par le récit de Lockwood mais ce n'est qu'un prétexte pour découvrir la véritable histoire des _Haut de Hurlevent_ : l'histoire d'amour entre Heathcliff et Catherine Earnshaw, racontée par Mrs Dean dans **un récit patient et riche qui nous emmène à travers les époques dans un tourbillon destructeur inexorable, de l'amour à la folie**.

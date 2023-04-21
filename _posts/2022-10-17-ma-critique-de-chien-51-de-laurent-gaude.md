@@ -9,10 +9,11 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: couv-Chien-51.jpg
-noImageOnPost: true
+bookTitle: "Chien 51"
+bookAuthor: "Laurent Gaudé"
+bookISBN: 9782330168339  
+bookRating: 4
 ---
-
-{% include image.html class="right book" %}
 
 <p><strong>J’adore Laurent Gaudé depuis bien longtemps</strong>, depuis <strong>« La mort du roi Tsongor »</strong> pour être précis. C’est à dire depuis 20&nbsp;ans puisque c’est le Goncourt des lycéens 2002.</p>
 

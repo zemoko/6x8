@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Matin brun</strong>&nbsp;» de <em>Franck&nbsp;Pavloff</em>"
 date: "2015-12-09"
 categories: 
@@ -9,7 +9,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Matinbrun.jpg"
-noImageOnPost: true
+bookTitle: "Matin brun"
+bookAuthor: "Franck Pavloff"
+bookISBN: 9782841160297  
+bookRating: 5
 ---
 
 ## Urgent : à lire, à offrir et à abandonner sur des bancs publics.
@@ -18,7 +21,6 @@ noImageOnPost: true
 	Sait-on assez où risquent de nous mener collectivement les petites lâchetés de chacun d’entre nous&nbsp;?
 </blockquote>
 
-{% include image.html class="right book" %}
 **Cette nouvelle de Franck Pavloff est courte**, à peine 11 pages, **mais percutante**. Une fable de la trempe de "La ferme des animaux" ou de "Rhinocéros" (ces 3 œuvres sont complémentaires, on devrait en faire des coffrets qu'on pourrait offrir pour Noël).
 
 **"Matin brun", c'est l'histoire de 2 amis qui ont du se séparer de leurs animaux de compagnie, un chien et un chat, qui avait le défaut de ne pas être bruns... chose insupportable à "l'État national".**

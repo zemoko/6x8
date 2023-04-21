@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Gagner la guerre</strong>&nbsp;» de <em>Jean-Philippe Jaworski</em>"
 date: "2017-03-06"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "50205.jpg"
-noImageOnPost: true
+bookTitle: "Gagner la guerre"
+bookAuthor: "Jean-Philippe Jaworski"
+bookISBN: 9782915793642  
+bookRating: 3.5
 ---
 
-{% include image.html class="right book" %}
 On m’a beaucoup conseillé « Gagner la guerre », beaucoup le qualifient de « Chef d’œuvre », il est présent dans nombre de listes « Meilleurs livres de... » sur Sens Critique. Bref, je ne pouvais qu’être intrigué, attiré... et y céder.
 
 **Ai-je été séduit ? Pas complétement. Ce n’est ni un coup de cœur, ni une réelle déception. Un bon roman mais qui me laisse sur un sentiment mitigé.**

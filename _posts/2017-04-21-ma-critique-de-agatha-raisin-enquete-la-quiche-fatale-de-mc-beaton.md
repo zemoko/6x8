@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Agatha Raisin enquête&nbsp;: la quiche fatale</strong>&nbsp;» de <em><abbr>MC</abbr>&nbsp;Beaton</em>"
 date: "2017-04-21"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "mo_9782226317322.jpg"
-noImageOnPost: true
+bookTitle: " Agatha Raisin enquête, tome 1&nbsp;: La quiche fatale"
+bookAuthor: "<abbr>MC</abbr>&nbsp;Beaton"
+bookISBN: 9782226475367  
+bookRating: 3
 ---
 
-{% include image.html class="right book" %}
 Agatha Raisin est dynamique mais, à 52 ans, elle décide de revendre sa boite de comm’ londonienne pour réaliser un rêve d’enfance et prendre une retraite anticipée à **Carsely**, un petit village des Cotswold, une verdoyante campagne du coté d’Oxford.
 
 Mais Agatha est plutôt solitaire, et puis elle a le caractère bien trempé, elle est un brin agaçante, elle peut être quelque peu vindicative... alors **ce n’est pas aussi facile qu’elle l’avait imaginé de se faire à sa nouvelle vie et de s’intégrer dans son nouveau village**.

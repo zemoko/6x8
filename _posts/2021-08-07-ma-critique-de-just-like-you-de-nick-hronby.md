@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong lang="en">Just like you</strong>&nbsp;» de <em>Nick Hornby</em>'
 date: "2021-12-28"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: just-like-you.jpg
-noImageOnPost: true
+bookTitle: 'Tout comme toi'
+bookAuthor: "Nick Hornby"
+bookISBN: 9782234091146  
+bookRating: 3.5
 ---
 
-{% include image.html class="right book" %}
 **Lucie** est **professeur** à **Londres**. Elle a **42 ans** et **2 enfants**. Mais pas de mari, enfin plus de mari, car elle est en plein divorce. Elle a longtemps été l’épouse d’un homme qui semblait fait pour elle : blanc, éduqué, cultivé… mais il s’est révèlé avoir des problèmes de dépendances et c’est donc désormais son ex-mari.
 
 Lucie ne cherche pas forcément à refaire sa vie, ne brûlons pas les étapes. Non, ce qu’elle cherche, c’est un baby-sitter pour garder ses enfants de manière à ce qu’elle puisse entretenir une vie sociale avec ses amis.

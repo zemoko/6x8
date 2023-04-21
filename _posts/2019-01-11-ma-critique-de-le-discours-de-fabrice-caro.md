@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Ma critique de « Le discours » de Fabrice Caro"
+layout: review
+title: "Ma critique de «&nbsp;<strong>Le discours</strong>&nbsp;» de <em>Fabrice Caro</em>"
 date: "2019-01-11"
 categories: 
   - "trucs-critiques"
@@ -8,12 +8,13 @@ tags:
   - "critique"
   - "livre"
 coverImage: "121554850.jpg"
-noImageOnPost: true
+bookTitle: "Le discours"
+bookAuthor: "Fabrice Caro"
+bookISBN: 9782072873904  
+bookRating: 4.5
 ---
 
 <blockquote class="citation">Tu sais, ça ferait très plaisir à ta sœur si tu faisais un petit discours le jour de la cérémonie.</blockquote>
-
-{% include image.html class="right book" %}
 
 Quand son futur beau-frère lui demande de faire un discours pour le mariage de sa sœur, Adrien est effondré mais ne trouve rien d’autre à répondre que :
 

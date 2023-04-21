@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Un cheval dans la salle de bain</strong>&nbsp;» de <em>Douglas Adams</em> (\"<span lang=\"en\">Dirk Gently's Holistic Detective Agency</span>\")"
 date: "2017-01-16"
 categories: 
@@ -10,12 +10,14 @@ tags:
   - "douglas-adams"
   - "livre"
 coverImage: "Dirk-Gentlys-Holistic-Detective-Agency.jpg"
-noImageOnPost: true
+bookTitle: "Un cheval dans la salle de bain"
+bookAuthor: "Douglas Adams"
+bookISBN: 9782070426829  
+bookRating: 5
 ---
 
 J’avais lu "Un cheval dans la salle de bain" voici 20 ans, mais la série « Dirk Gently, détective holistique » (excellente au demeurant, il faudrait que je vous en touche 2  mots) m’a donné envie de plus de Dirk Gently... et puis, c'était l’occasion, de le relire en anglais.
 
-{% include image.html class="right book" %}
 On connaît surtout Douglas Adams pour sa trilogie en 5 volumes (et demi) du **Guide du routard galactique** mais **les aventures de Dirk Gently sont tout aussi barrés et total foutraque**.
 
 ## Un détective holistique ?

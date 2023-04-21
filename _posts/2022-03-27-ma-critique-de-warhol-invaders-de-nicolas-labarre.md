@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong lang="en">Warhol Invaders</strong>&nbsp;» de <em>Nicolas Labarre</em>'
 date: "2022-03-27"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: warhol-invaders.jpg
-noImageOnPost: true
+bookTitle: '<span lang="en">Warhol Invaders</span'
+bookAuthor: "Nicolas Labarre"
+bookISBN: 9782361837570  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 Je ne sais plus qui m'en a parlé, ni à quel endroit j'en ai entendu parler... mais, si jamais, je remercie cette personne. "Warhol Invaders" est un <abbr>OLNI</abbr> (Objets Littéraires Non Identifié), <a href="/2016/02/ma-critique-de-la-fleche-du-temps-de-martin-amis/">encore un</a>, paru chez un petit éditeur (Les Moutons Électriques) dont le Pitch autant que la couverture m'ont intrigués et m'ont convaincu d'en tenter la lecture.
 
 <blockquote>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La Disparition de Josef Mengele</strong>&nbsp;» d’<em>Olivier Guez</em>"
 date: "2017-11-09"
 categories: 
@@ -8,10 +8,11 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782246855873-001-T.jpeg"
-noImageOnPost: true
+bookTitle: "La Disparition de Josef Mengele"
+bookAuthor: "Olivier Guez"
+bookISBN: 9782253073802  
+bookRating: 4
 ---
-
-{% include image.html class="right book" %}
 
 **Josef Mengele était médecin à Auschwitz**. On le surnomme parfois **« L’ange de la mort »** ou **« Le boucher d’Auschwitz »**. Il participait à la sélection des arrivants pour déterminer ceux capables de travailler, ce qui condamnait les autres à la chambre à gaz. Il collectionnait les yeux bleus qu’il épinglait tels des papillons sur les murs de son bureau et pratiquait toutes sortes d’expérimentations, notamment sur les jumeaux.
 
@@ -36,7 +37,7 @@ Enfin, **une conclusion bienvenue car il est toujours bon de faire acte de mémo
 
 <blockquote class="citation">Toutes les deux ou trois générations, lorsque la mémoire s’étiole et que les derniers témoins des massacres précédents disparaissent, la raison s’éclipse et des hommes reviennent propager le mal.</blockquote>
 
-Ah, et j'ai failli oublier... mais « La Disparition de Josef Mengele » d'avoir le prix Renaudot !
+Ah, et j'ai failli oublier... mais « La Disparition de Josef Mengele » vient d'avoir le prix Renaudot !
 
 * * *
 

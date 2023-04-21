@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La ballade de lʼenfant gris</strong>&nbsp;» de <em>Baptiste Beaulieu</em>"
 date: "2018-06-09"
 categories: 
@@ -9,12 +9,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782863744444-001-T.jpeg"
-noImageOnPost: true
+bookTitle: "La ballade de lʼenfant gris"
+bookAuthor: "Baptiste Beaulieu"
+bookISBN: 9782253070986  
+bookRating: 5
 ---
 
 **Une quête initiatives dans laquelle les apparences sont parfois trompeuses**
 
-{% include image.html class="right book" %}
 **Joʼ est un jeune interne en service pédiatrique**.
 
 **Noʼ est un petit garçon de 7 ans, au teint gris car atteint dʼune maladie du sang**.

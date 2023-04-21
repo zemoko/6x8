@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Périphériques</strong>&nbsp;» de <em>William Gibson</em>'
 date: "2023-04-01"
 categories: 
@@ -8,10 +8,11 @@ tags:
   - "critique"
   - "livre"
 coverImage: The_Peripheral_-_William_Gibson.jpg
-noImageOnPost: true
+bookTitle: "Périphériques"
+bookAuthor: "William Gibson"
+bookISBN: 9791030702132 
+bookRating: 4.5
 ---
-
-{% include image.html class="right" %}
 
 En décembre, je vous avais parlé de <a href="/2022/12/ma-critique-de-the-peripheral/" lang="en">The Peripheral</a>, une série tirée de «&nbsp;<strong>Périphériques</strong>&nbsp;»... alors, comme j'ai beaucoup aimé la série, ça m'a bien évidemment donné envie de lire le roman... et de vous en parler. Évidemment.
 
@@ -33,4 +34,4 @@ Attention, il ne s'agit pas de voyage dans le temps, enfin pas vraiment. C'est p
   <p>Le jackpot. [...] il avait entrepris de lui raconter ce qu'il appelait le jackpot. En soulignant tout d'abord qu'il ne s'agissait pas d'un évènement unique. Mais d'un agrégat de causes multiples, sans début, ni fin précis. Un contexte plutôt qu'un incident isolé, pas un de ces cataclysmes qu'affectionnaient les récits apocalyptiques, tuant d'un coup une grande partie de la population et après lesquels les survivants s'armaient jusqu'aux dents [...] C'était androgénique, lui expliqua-t-il, c'est à dire "provoqué par l'homme" [...]. Mais ce n'était pas délibéré, on n'avait pas sciemment cherché à causer tous ces problèmes. Le changement climatique créé par l'excèse d'emissions de carbone avait entrainé toute une série de phénomènes. Qui n'avaient cessé d'empirer. Parce que les gens d'autrefois, qui ignoraient comment tout cela fonctionnait, avaient tout fait foirer sans parvenir à inverser le mouvement, même une fois au courant, et il était désormais trop tard.</p>
 </blockquote>
 
-Même si le roman n'est pas simple à commencer, comme souvent avec William Gibson il faut s'accrocher, mais ça vaut vraiment le coup. <strong>L'intrigue est solide, et passionante. C'est un vrai bon livre de <abbr>SF</abbr>, décrivant un futur dystopique et des technologies parfaitement crédible, et qui traite de manière originale le sujet pourtant presque banal des voyages dans le temps et des monde parallèles</strong>.
+Même si le roman n'est pas simple à commencer, comme souvent avec William Gibson il faut s'accrocher, mais ça vaut vraiment le coup. <strong>L'intrigue est solide, et passionante. C'est un vrai bon livre de <abbr>SF</abbr>, décrivant un futur dystopique et des technologies parfaitement crédibles, et qui traite de manière originale le sujet pourtant presque banal des voyages dans le temps et des monde parallèles</strong>.

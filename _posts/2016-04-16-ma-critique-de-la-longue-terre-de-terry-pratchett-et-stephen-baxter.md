@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>La Longue Terre</strong>&nbsp;» de <em>Terry Pratchett</em> et <em>Stephen Baxter</em>"
 date: "2016-04-16"
 categories: 
@@ -11,12 +11,14 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "La_Longue_Terre.jpg"
-noImageOnPost: true
+bookTitle: "La Longue Terre, tome 1&nbsp;: La longue terre"
+bookAuthor: "Terry Pratchett et Stephen Baxter"
+bookISBN: 9782841726370  
+bookRating: 5
 ---
 
 ## À l'ouest, du nouveau !
 
-{% include image.html class="right book" %}
 Tout commence quand un scientifique mets à disposition, sur internet, le plan du « Passeur », **une machine qui, si on l'assemble en respectant des consignes précises et qu'on finit par lui ajouter sa source d'énergie (une pomme de terre), permet de se déplacer vers les terres parallèles**, dans un sens ou dans l'autre, à l'infini.
 
 En fait, non, tout avait commencé avant... car certains avaient déjà la capacité de passer sans avoir besoin de cette machine. Mais c'est le « Jour du Passage » qui a ouvert à toute l'Humanité cette « Longue Terre » infinie.

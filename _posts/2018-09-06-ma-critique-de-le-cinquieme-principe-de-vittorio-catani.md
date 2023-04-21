@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Le cinquième principe</strong>&nbsp;» de <em>Vittorio Catani</em>"
 date: "2018-09-06"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "005007194.jpg"
-noImageOnPost: true
+bookTitle: "Le cinquième principe"
+bookAuthor: "Vittorio Catani"
+bookISBN: 9782370490476  
+bookRating: 4
 ---
 
 Je reprends le fil de mes critiques. Je vous rassure, je n’ai pas arrêté de lire (j’ai juste ralenti depuis que je circule à vélo), il se trouve juste que mon déménagement/aménagement m’a occupé à plein-temps... J’ai donc 5 critiques en retard :(
 
-{% include image.html class="right book" %}
 Dans ce roman de science-fiction de Vittorio Catani, l’action se passe en 2043. Demain, presque, donc.
 
 **En 2043, l’ultra-libéralisme n’est plus discuté**, une fraction de l’humanité, ultra-riche, s’est isolée laissant la majorité des terriens dans une pauvreté extrême, voire les mettant en esclavage. **Aux ultra-riches, la spéculation effrénée, aux autres un endettement illimité** (chacun pouvant émettre des obligations personnelles à long-terme pour régler dépenses et factures).

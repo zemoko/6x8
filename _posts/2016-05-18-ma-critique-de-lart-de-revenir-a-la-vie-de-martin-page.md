@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>L’art de revenir à la vie</strong>&nbsp;» de <em>Martin Page</em>"
 date: "2016-05-18"
 categories: 
@@ -8,7 +8,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "martin_page.jpg"
-noImageOnPost: true
+bookTitle: "L’art de revenir à la vie"
+bookAuthor: "Martin Page"
+bookISBN: 9782021174960  
+bookRating: 4.5
 ---
 
 _« Comment je suis devenir stupide »_ m’avait tout de suite paru être « mon » roman, _« L’art de revenir à la vie »_ est celui de ma génération.
@@ -17,7 +20,6 @@ _« Comment je suis devenir stupide »_ m’avait tout de suite paru être «�
 	J’appartiens à une génération extensible. Notre vie n’en finit pas de démarrer. Nous avançons et l’instant d’après l’océan nous rejette sur le rivage. Nous ne désirons pas réussir, nous ne voulons pas être riches et célèbres, nous voulons simplement ne pas échouer trop lamentablement.
 </blockquote>
 
-{% include image.html class="right book" %}
 Le narrateur, Martin, a tout juste 40 ans. Il est écrivain, il a quitté Paris pour la banlieue de Bruxelles, il est jeune papa... mais surtout il est fauché alors que sa toiture fuit et que sa chaudière a rendu l’âme... Bref, **Martin c’est Martin Page**. Enfin presque car sur ces bases autobiographiques, Martin Page nous livre **un récit sincère, touchant et souvent très drôle**. Il fait preuve de **toujours autant de finesse et d’une imagination débordante**.
 
 Si vous avez lu d’autres romans de Martin Page, vous pourrez être étonné car la forme littéraire choisie fait que Martin (celui du roman) est sans doute moins burlesque que ses personnages habituels... mais **vous serez ravi en découvrant quelques personnages secondaires hauts en couleurs**, à commencer par **le truculent Joachim**, l’ami chez qui loge Martin à Paris et, surtout, **l’incroyable Sanaa Okaria**, une productrice qui souhaite adapter un roman de Martin (elle m’a beaucoup fait penser à Zora de _« La libellule de ses huit ans »_ (mais ça fait un moment que je l’ai lu, il faudrait que je le relise pour creuser cette impression)).

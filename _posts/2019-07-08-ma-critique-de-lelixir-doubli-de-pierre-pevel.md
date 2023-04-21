@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Le Paris des merveilles, tome&nbsp;2&nbsp;: L’Élixir d’Oubli</strong>&nbsp;» de <em>Pierre Pevel</em>"
 date: "2019-07-08"
 categories: 
@@ -8,11 +8,13 @@ tags:
   - "critique"
   - "livre"
   - "pierre-pevel"
-coverImage: "ob_d9c612_9782352948490-org.png.jpg"
-noImageOnPost: true
+coverImage: "ob_d9c612_9782352948490-org.jpg"
+bookTitle: "Le Paris des merveilles, tome 2&nbsp;: L'élixir d'oubli"
+bookAuthor: "Pierre Pevel"
+bookISBN: 9791028115746  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 « L’Élixir d’Oubli » est le tome 2 de la série « Le Paris des merveilles » initiée par [« Les enchantements d'Ambremer »](/2019/06/ma-critique-de-les-enchantements-dambremer-de-pierre-pevel/).
 
 On retrouve, avec bonheur, le mage **Louis Denizart Hippolyte Griffont** ainsi qu’**Aurélia** son enchanteresse de femme, alias Isabel de Saint-Gil. L’histoire se passe quelques mois après les enchantements d’Ambremer… mais aussi au XVIIIe siècle où l’on découvre incidemment **comment Louis, alias le chevalier de Castelgriffe, fit la connaissance de la baronne de Saint-Gil**.

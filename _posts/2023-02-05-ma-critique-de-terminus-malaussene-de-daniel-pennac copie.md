@@ -9,10 +9,11 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: Terminus-Malausene.jpg
-noImageOnPost: true
+bookTitle: "Terminus Malaussène"
+bookAuthor: "Daniel Pennac"
+bookISBN: 9782072743863  
+bookRating: 4.5
 ---
-
-{% include image.html class="right" width="301" height="440" %}
 
 Pour ce 9<sup>e</sup> et dernier tome de la saga Malaussène, j'ai hésité... D'un côté, j'avais <strong>hâte de retrouver le tribu Malaussène, mais aussi peur de les quitter définitivement</strong>... Comment Daniel Pennac allait-il pouvoir mettre un terme aux histoires de cette tribu si spéciale, à cette saga qui a une place à part dans mon coeur de lecteur&nbsp;? Bon, je vous rassure... J'ai hésité mais pas longtemps. J'ai relu ce que j'avais écrit du cas Malaussène, tome 1 <a href="/2017/01/ma-critique-de-le-cas-malaussene-tome-1-ils-mont-menti-de-daniel-pennac/
 ">«&nbsp;Ils m’ont menti&nbsp;»</a>... et ça m'a convaincu... alors je me suis lancé... et <strong>j'ai été, une nouvelle fois, happé</strong>. Je ne les avais plus croisé depuis 2017 mais, finalement, comme des amis qu'on sait proches même si on ne le croisent que rarement, j'ai senti que la distance ne s'était pas installé, que l'énergie des Malaussène était intacte, que leur petite musique était toujours là, je m'en suis senti toujours aussi proche.

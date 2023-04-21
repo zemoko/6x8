@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: 'Ma critique de «&nbsp;<strong>Voyages avec ma tante</strong>&nbsp;» de <em>Graham Greene</em>'
 date: "2022-05-06"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: voyages-avec-ma-tante.jpg
-noImageOnPost: true
+bookTitle: "Voyages avec ma tante"
+bookAuthor: "Graham Greene"
+bookISBN: 9782264038005  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 <strong>L'histoire est contée par Harry Pulling, directeur de banque fraichement retraité, amateur de poésie lyrique et de jardinage</strong>strong> et, surtout, célibataire endurci. Mais voici que sa mère trépasse et, qu'à l’enterrent de celle-ci, il rencontre sa <strong>tante Augusta, 70 ans, dont la vie a été sans tabous ni limites</strong>. Elle a beaucoup voyagé, et beaucoup aimé : en Angleterre, elle partageait la vie d'un révérend d'une église pour chiens, en Italie, M. Visconti lui vola son argent et son cœur, en Turquie, elle eut affaires aux services secrets...
 
 <blockquote>

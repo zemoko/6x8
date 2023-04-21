@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Briser la glace</strong>&nbsp;» de <em>Julien Blanc-Gras</em>"
 date: "2018-01-16"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "julien-blanc-gras"
   - "livre"
 coverImage: "30495946886_707475ba49_k.jpg"
-cover2left: true
+bookTitle: "Briser la glace"
+bookAuthor: "Julien Blanc-Gras"
+bookISBN: 9782352211730   
+bookRating: 3.5
 ---
 
-{% include image.html class="right book" %}
 Nous l'avons déjà suivi en Amérique du sud, au Mexique, aux Émirats... C'est au Groenland que Julien Blanc-Gras nous invite à le suivre dans « Briser la glace ».
 
 **Un périple étonnant dans un pays qui ne l'est pas moins**. Nous avons tous des idées reçues sur ce pays (en tout cas JBG et moi), on se rendra compte à la lecture qu'elles sont, pour la plupart fausses.

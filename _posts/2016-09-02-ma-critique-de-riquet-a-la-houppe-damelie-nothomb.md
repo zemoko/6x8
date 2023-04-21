@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Riquet à la houppe</strong>&nbsp;» d'<em>Amélie Nothomb</em>"
 date: "2016-09-02"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "index.jpg"
-noImageOnPost: true
+bookTitle: "Riquet à la houppe"
+bookAuthor: "Amélie Nothomb"
+bookISBN: 9782226328779  
+bookRating: 3.5
 ---
 
-{% include image.html class="right book" %}
 Tous les ans, quand vient la rentrée, je suis toujours impatient de retrouver Amélie. La plupart du temps, elle me bluffe : je dévore son livre avec gourmandise et le finit avec bonheur... mais, de temps en temps, ça ne fonctionne pas.
 
 **Et bien, pour moi, cette année, ça n'a pas fonctionné :(**

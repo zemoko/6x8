@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de <strong>«&nbsp;Marie Curie prends un amant&nbsp;»</strong> d’<em>Irène Frain</em>"
 date: "2017-04-08"
 categories: 
@@ -9,7 +9,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "marie-curie-640x360.jpg"
-noImageOnPost: true
+bookTitle: "Marie Curie prends un amant"
+bookAuthor: "Irène Frain"
+bookISBN: 9782757862339  
+bookRating: 5
 ---
 
 {% include image.html class="right book" %}

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong lang=\"en\">Harry Potter and the Cursed Child</strong>&nbsp;» de <em>Jack Thorne</em>, <em>John Tiffany</em> et <em><abbr>JK</abbr> Rowling</em>"
 date: "2016-08-09"
 categories: 
@@ -9,7 +9,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Harry-Potter-and-the-Cursed-Child-artwork.jpg"
-cover2left: true
+bookTitle: '<span lang="en">Harry Potter and the Cursed Child</span>'
+bookAuthor: "John Tiffany et <abbr>JK</abbr> Rowling"
+bookISBN: 9782075074209   
+bookRating: 4.5
 ---
 
 _J'aime beaucoup Harry Potter mais je ne suis pas un "vrai" fan... Peut-être est-ce pour cela que je semble moins déçu (voire pas déçu ?) que d'autres ? Je n'ai jamais lu de fan-fictions sur l'univers d'Harry Potter donc je ne saurais leurs comparer "Harry Potter and the Cursed Child"._

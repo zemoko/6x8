@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de <strong>«&nbsp;Le gène Atlantis&nbsp;»</strong> de <em><abbr>A.G.</abbr> Riddle</em>"
 date: "2019-08-30"
 categories: 
@@ -8,7 +8,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "le-gene-Atlantis.jpg"
-noImageOnPost: true
+bookTitle: "Le gène Atlantis"
+bookAuthor: "<abbr>A.G.</abbr> Riddle"
+bookISBN: 9791028105273  
+bookRating: 3.5
 ---
 
 ## Le livre qui voulait être un film (de série Z)
@@ -25,8 +28,6 @@ Je laisse Bragelonne vous faire le pitch :
 Ça et la bande sur le livre, **« No 1 des ventes aux USA, en Allemagne, en Italie, en Russie et au Japon ! »**, ça m’a autant donné envie de le lire, que ça m’a fait peur… mais, allez, c’était les vacances alors, au pire, lire un bon nanar ce n’était pas si grave.
 
 ## Alors, c’était un nanar ?
-
-{% include image.html class="right book" %}
 
 Ben… ça dépendra sans doute de la personne à qui vous demandez. **Moi, ça m’a irrésistiblement fait penser à Dan Brown… or je n’ai jamais aimé Dan Brown.**
 

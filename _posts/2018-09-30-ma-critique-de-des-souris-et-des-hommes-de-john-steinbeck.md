@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de <strong>«&nbsp;Des souris et des hommes&nbsp;»</strong> de <em>John Steinbeck</em>"
 date: "2018-09-30"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "OfMiceAndMen_main.jpg"
-cover2left: true
+bookTitle: "Des souris et des hommes"
+bookAuthor: "John Steinbeck"
+bookISBN: 9782070360376   
+bookRating: 4
 ---
 
 Ouille, 30 septembre et je viens juste de finir "Of Mice and Men", c'était moins une pour ma première lecture suggérée par [Le Fifou Reading Club](https://www.facebook.com/groups/283686568904144/) ! (maintenant que je vais au boulot en vélo, je lis beaucoup moins, forcément... alors comme en plus j'ai commencé tard et qu'il faut avouer que je lis quand même moins vite en anglais). Bref... j'ai autant de retard dans mes lecture que de retard dans mes critiques. Je suis un Strasbourgeois heureux, un Strasbourgeois adapte du vélo... mais un Strasbourgeois en retard.
 
-{% include image.html class="right book" %}
 J'ai été très content de trouver l'occasion de lire, enfin, l'un des grands classiques de la littérature américaine. Un roman **court mais saisissant**, **une des meilleures histoires d'amitié qu'il m'ait été donné de lire**, racontée dans **une langue incroyablement juste**. On est tout de suite transporté dans la campagne californienne (au sud de Soledad, quelque part entre SF et LA). On est tout de suite transporté dans les années 30, au début de la Grands Dépression, avant la mécanisation de l'agriculture, quand des nuées de journaliers parcouraient les routes américaines, de ranchs en ranchs, en quête de petits boulots mal-payés, vivant dans des conditions plus que précaires.
 
 <blockquote class="citation" lang="en">Maybe ever’body in the whole damn world is scared of each other.</blockquote>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>L’homme qui s’envola</strong>&nbsp;» d'<em>Antoine Bello</em>"
 date: "2017-05-25"
 categories: 
@@ -10,14 +10,16 @@ tags:
   - "critique"
   - "livre"
 coverImage: "product_9782070197385_195x320.jpg"
-noImageOnPost: true
+bookTitle: "L’homme qui s’envola"
+bookAuthor: "Antoine Bello"
+bookISBN: 9782070197385  
+bookRating: 5
 ---
 
 J’avais dévoré « les falsificateurs », « les éclaireurs » et « les producteurs », je les ai ensuite beaucoup conseillé, et on m’en a souvent remercié... C’est donc avec un réel enthousiasme que je me suis proposé quand Babelio a proposé à ses membres de lire son dernier roman puis de le rencontrer, et ce fut un vrai plaisir quand j’ai appris que j’avais été sélectionné.
 
 Bref, je viens de finir « L’homme qui s’envola », et lundi prochain j’aurais la chance de rencontrer Antoine Bello chez Gallimard !
 
-{% include image.html class="right book" %}
 **L’homme qui s’envola, c’est John Walker** (mais tout le monde l’appelle juste « Walker »). **Walker est un privilégié : riche entrepreneur à qui tout réussi, mari et père comblé, il est envié et admiré. Bref, il a tout pour être heureux, il ne peut que être heureux... en tout cas, vu de l’extérieur car lui, Walker, déteste sa vie**. Réussite professionnelle, félicité familiale, position sociale ne sont pas, pour Walker, des satisfactions mais des obligations. Qui plus est, ce sont des obligations qui prennent encore et toujours plus de place dans sa vie, et plus de temps dans son agenda. Or, pour Walker, le temps est un combat de tous les instants, presque une obsession. Il cherche en permanence à en gagner. Il est prêt à dépenser beaucoup pour grappiller quelques secondes, pour éviter toute attente superflue. Il est le pilier sur lequel s’appuie sa famille, le mari dévoué, le père impliqué, l’homme d’affaires qui depuis 15 ans a su développer l’entreprise familiale jusqu’à en faire le premier employeur de son État mais, lui, Walker, a l’impression de se sacrifier, de sacrifier son temps, et donc sa vie.
 
 <blockquote class="citation">Walker ne comprenait pas cette logique : si chaque génération s’effaçait au profit de la suivante, quand s’épanouissait-on&nbsp;?</blockquote>

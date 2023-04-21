@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Couleurs de l'incendie</strong>&nbsp;» de <em>Pierre Lemaitre</em>"
 date: "2020-06-27"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Couleurs-de-l-incendie.jpg"
-noImageOnPost: true
+bookTitle: "Couleurs de l'incendie"
+bookAuthor: "Pierre Lemaitre"
+bookISBN: 9782253100416  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 [Au revoir là-haut](https://www.6x8.org/2020/03/ma-critique-de-au-revoir-la-haut-de-pierre-lemaitre/) s'achevait sur le décès d’Édouard Péricourt. **"Couleurs de l'incendie" commence, 7 ans après, sur l'enterrement de son père, le banquier Marcel Péricourt**.
 
 Aux histoires d'Albert et d’Édouard succèdent celle de Madeleine Péricourt, sœur d’Édouard et héritière de l'empire Péricourt. Difficile d'en dire quoi que ce soit sans vous en révéler trop... Sachez juste que **j'avais beaucoup aimé "Au revoir là-haut"** et que **j'ai dévoré "Couleurs de l'incendie"** : une histoire haletante et captivante, des personnages toujours aussi bien campés et aussi touchants (j'ai un faible pour l'incroyable Vladi) et un arrière-plan historique passionnant, ces années 30 incroyables où nous, lecteurs du XXIe siècle, décelons les prémices de cet incendie qui va s'abattre sur l'Europe.

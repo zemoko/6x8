@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La vie ô combien ordinaire d’Hannah Green</strong>&nbsp;» de <em>Michael Marshall Smith</em>"
 date: "2021-11-30"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: la-vie-o-combien-ordinaire-d-hannah-green.jpg
-noImageOnPost: true
+bookTitle: "La vie ô combien ordinaire d’Hannah Green"
+bookAuthor: "Michael Marshall Smith"
+bookISBN: 9791028113490  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 Bon, maintenant que mon blog est devenu statique (<a href="/2021/11/pourquoi-et-comment-je-suis-devenu-statique/">une bonne chose de faite&nbsp;!</a>), il est temps de rattraper mon retard et rédiger les critiques des livres que j’ai lu ces derniers mois.
 
 Commençons par <strong>La vie ô combien ordinaire d'Hannah Green</strong>.

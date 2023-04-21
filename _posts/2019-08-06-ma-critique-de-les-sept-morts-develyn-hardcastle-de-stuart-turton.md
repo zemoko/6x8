@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de <strong>«&nbsp;Les sept morts d’Evelyn Hardcastle&nbsp;»</strong> de <em>Stuart Turton</em>"
 date: "2019-08-06"
 categories: 
@@ -9,12 +9,13 @@ tags:
   - "critique"
   - "livre"
 coverImage: "717tSUBZ3hL.jpg"
-noImageOnPost: true
+bookTitle: "Les sept morts d’Evelyn Hardcastle"
+bookAuthor: "Stuart Turton"
+bookISBN: 9782264064066  
+bookRating: 5
 ---
 
 <blockquote class="citation">Lord et Lady Hardcastle requièrent le plaisir de votre compagnie lors du bal masqué célébrant le retour de leur fille, Evelyn, de Paris. Les festivités auront lieu à Blackheath House durant le deuxième week-end de septembre. Étant donné l'isolement de Blackheath, un transport jusqu'à la demeure sera organisé pour tous les invités depuis le village proche d'Abberly.</blockquote>
-
-{% include image.html class="right book" %}
 
 ## C’est quoi, « Les sept morts d’Evelyn Hardcastle » ?
 

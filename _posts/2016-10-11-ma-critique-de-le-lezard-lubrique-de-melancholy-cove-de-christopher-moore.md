@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Le lézard lubrique de Melancholy Cove</strong>&nbsp;» de <em>Christopher Moore</em>"
 date: "2016-10-11"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51vXfUiN8JL._SX195_.jpg"
-noImageOnPost: true
+bookTitle: "Le lézard lubrique de Melancholy Cove"
+bookAuthor: "Christopher Moore"
+bookISBN: 9782070338863  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 L'histoire se passe à Melancholy Cove, petite cité balnéaire sur la côte californienne. Tous les ans, à la fin de la saison touristique, Melancholy Cove redevient calme, voire morne, à la grande satisfaction de ses habitants. Tous les ans... mais pas cette année.
 
 **Cette année, trois évènements vont changer la donne :**

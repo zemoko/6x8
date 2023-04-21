@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Une sirène à Paris</strong>&nbsp;» de <em>Mathias Malzieu</em>"
 date: "2019-03-08"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "514su-cbfnL._SX340_BO1204203200_.jpg"
-noImageOnPost: true
+bookTitle: "Une sirène à Paris"
+bookAuthor: "Mathias Malzieu"
+bookISBN: 9782226439772  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 C’est toujours avec le même plaisir qu’on retrouve le grain de folie de Mathias Malzieu, toujours avec le même bonheur qu’on se laisse emporter par sa plume alerte et fantasque. Il sait faire appel à l’enfant qui reste en nous, à sa capacité d’émerveillement. **En avant la critique !**
 
 ## **Une sirène à Paris** est un conte moderne et poétique

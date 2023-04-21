@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Quand sort la recluse</strong>&nbsp;» de <em>Fred Vargas</em>"
 date: "2017-06-13"
 categories: 
@@ -9,7 +9,10 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Quand-sort-la-recluse.jpg"
-noImageOnPost: true
+bookTitle: "Quand sort la recluse"
+bookAuthor: "Fred Vargas"
+bookISBN: 9782081413146  
+bookRating: 5
 ---
 
 "Quand sort la recluse" : **Nous retrouvons, avec un bonheur toujours intact, le commissaire Adamsberg** dans les brumes islandaises. Il doit bien vite quitter l’Islande, rappelé à Paris pour une affaire de meurtre... qu’il résoudra brillamment, en 2 temps 3 mouvements. Il doit quitter l’Islande, mais va rester dans les brumes car, oui, **Adamsberg, peut-être encore plus que pour ses précédentes enquêtes, fait preuve d’encore moins d’orthodoxie, et la vie de sa Brigade est de plus en plus compliquée...**
@@ -18,7 +21,6 @@ noImageOnPost: true
 
 ## Tout commence par un fait divers
 
-{% include image.html class="right book" %}
 Adamsberg est happé par un fait divers : **on constate, du côté de Nîmes, des décès à la suite de morsures d’araignées, de recluses plus précisèrent.** Certes, les victimes sont des hommes âgés... mais tout de même, les morsures de recluses ne sont pas létales. **Il n’en fallait pas plus pour que, sur internet, réseaux sociaux et forums s’enflamment et que, démangés par cette affaire, le commissaire ne décide de s’en emparer. Au mépris des procédures, et au risque de fracturer la Brigade**.
 
 ## C'est du Vargas

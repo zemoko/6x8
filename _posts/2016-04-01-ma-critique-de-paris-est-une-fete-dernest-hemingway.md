@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Paris est une fête</strong>&nbsp;» d'<em>Ernest Hemingway</em>"
 date: "2016-04-01"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "1507-1.jpg"
-noImageOnPost: true
+bookTitle: "Paris est une fête"
+bookAuthor: "Ernest Hemingway"
+bookISBN: 9782070364657  
+bookRating: 4
 ---
 
-{% include image.html class="right book" %}
 Je viens de terminer "Paris est une fête". **Ce n'est pas le livre auquel je m'attendais mais j'ai pris grand plaisir à le lire** : parce que **je suis définitivement amoureux de ma ville**, mais aussi parce que **l'écriture d'Hemingway est magnifique** (on sent, et on voit dans les notes, qu'il a écrit et réécrit les textes jusqu'à arriver aux textes qu'on peut lire aujourd'hui).
 
 **Si ce n'est pas le livre auquel je m'attendais... alors c'est quoi ?**

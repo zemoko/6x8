@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Les intéressants</strong>&nbsp;» de <em>Meg Wolitzer</em>"
 date: "2016-06-06"
 categories: 
@@ -9,12 +9,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9781594632341_1_75.jpg"
-noImageOnPost: true
+bookTitle: "Les intéressants"
+bookAuthor: "Meg Wolitzer"
+bookISBN: 9782253182870  
+bookRating: 5
 ---
 
 Les intéressants, ce sont 6 amis qui se rencontrent lors de l'été 1974, au camp de vacances de **Spirit-in-the-Woods,** un endroit où les ados créatifs peuvent se retrouver l'été pour s'adonner à toutes sortes d'activités artistiques.
 
-{% include image.html class="right book" %}
 - **Julie**, la banlieusarde qui peine à trouver sa place et que la vie de ces new-yorkais bien nés fait rêver. Elle, elle fuit une maison devenu triste après la mort de son père et découvre ici un univers qui la fait rêver. Son humour et la qualité de son écoute la font rapidement être aimée de tous. Après Spirit-in-the-Woods, elle ne sera plus jamais la même, d'ailleurs, elle devient _Jules_.
 - **Ethan**, le surdoué de l'animation, toujours à gribouiller dans ses carnets, incroyablement imaginatif et doué. - **Ash**, la belle et parfaite Ash. Raffinée, éduquée, intelligente, pleine d'esprit... on ne peut qu'être amoureux d'elle. 
 - **Goodman**, son frère, plein de charisme mais aussi le plus sombre des six.

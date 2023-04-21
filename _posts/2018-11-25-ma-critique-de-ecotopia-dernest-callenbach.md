@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Écotopia</strong>&nbsp;» d'<em>Ernest Callenbach</em>"
 date: "2018-11-25"
 categories: 
@@ -9,10 +9,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "5bb772e752d3d.jpg"
-noImageOnPost: true
+bookTitle: "Écotopia"
+bookAuthor: "Ernest Callenbach"
+bookISBN: 9782072872549  
+bookRating: 5
 ---
 
-{% include image.html class="right book" %}
 [Un article d'Usbek & Rica\]](https://usbeketrica.com/article/ecotopia-bienvenue-dans-le-futur-desirable ) m'a (encore) donné envie de découvrir un roman (paru en 1975, c'est forcément un bon cru !), et un auteur, dont je n'avais jamais entendu parlé alors qu'en cherchant sur le web (anglophone), il s'agit d'un roman vendu à plus d'un million d'exemplaire et d'un auteur que beaucoup comparent à Orson Wells, Aldous Huxley ou Orwell.
 
 Sauf que **"Écotopia" est l'anti-1984**, **"Écotopia", c'est le meilleur des (deux) mondes** : Il s'agit bien d'un roman d'anticipation, comme 1984 et comme le meilleur des monde, mais on découvre ici **une utopie écologique.**

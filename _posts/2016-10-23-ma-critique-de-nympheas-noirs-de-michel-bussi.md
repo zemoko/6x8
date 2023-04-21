@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma Critique de «&nbsp;<strong>Nymphéas noirs</strong>&nbsp;» de <em>Michel Bussi</em>"
 date: "2016-10-23"
 categories: 
@@ -8,12 +8,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782266264112.jpg"
-noImageOnPost: true
+bookTitle: "Nymphéas noirs"
+bookAuthor: "Michel Bussi"
+bookISBN: 9782258089617  
+bookRating: 3.5
 ---
 
 <blockquote class="citation">Trois femmes vivaient dans un village. La troisième était la plus douée, la deuxième la plus rusée, la première était la plus déterminée. A votre avis, laquelle parvint à s’échapper ? La troisième la plus jeune s’appelait Fanette Morelle ; la deuxième s’appelait Stéphanie Dupain ; la plus vieille c’était moi.</blockquote>
 
-{% include image.html class="right book" %}
 C'est cela, "Nympheas noirs". Les 3 femmes, ce sont :
 
 - **Fanette**, une écolière de 11 ans, particulièrement douée pour la peinture,

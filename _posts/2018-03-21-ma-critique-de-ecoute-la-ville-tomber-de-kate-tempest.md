@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>Écoute la ville tomber</strong>&nbsp;» de <em>Kate Tempest</em>"
 date: "2018-03-21"
 categories: 
@@ -9,12 +9,14 @@ tags:
   - "critique"
   - "livre"
 coverImage: "écoute-1.jpg"
-noImageOnPost: true
+bookTitle: "Écoute la ville tomber"
+bookAuthor: "Kate Tempest"
+bookISBN: 9782743642105  
+bookRating: 5
 ---
 
 « Écoute la ville tomber » est le premier roman de Kate Tempest dont on me dit quʼelle serait une rappeuse anglaise déjà connue et reconnue dʼune trentaine dʼannée (ce que je veux bien le croire).
 
-{% include image.html class="right book" %}
 Dans ce roman, elle nous plonge **au cœur de Londres** à travers 3 personnages principaux, Becky, Harry et Leon, mais aussi leurs amis et leurs familles. **Un roman très actuel** mais qui se construit avec de multiples sauts temporels, pour reconstituer les enfances de chacun des protagonistes, de manière à mieux comprendre comment ils sont devenus ce quʼil sont. Des parcours quʼon découvre inexorables, sous le poids dʼ**une société de plus en plus pesante, donnant de moins en moins de perspectives à une jeunesse désenchantée**, vivant de petits boulots et se réfugiant dans la drogue.
 
 **Raconté comme cela, ça pourrait avoir lʼair sordide mais, étrangement, le sentiment que laisse le roman est finalement assez optimiste.**

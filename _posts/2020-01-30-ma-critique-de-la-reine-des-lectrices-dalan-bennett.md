@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Ma critique de «&nbsp;<strong>La Reine des lectrices</strong>&nbsp;» d'<em>Alan Bennett</em>"
 date: "2020-01-30"
 categories: 
@@ -8,10 +8,12 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782207260128.jpg"
-noImageOnPost: true
+bookTitle: "La Reine des lectrices"
+bookAuthor: "Alan Bennett"
+bookISBN: 9782070419609  
+bookRating: 4.5
 ---
 
-{% include image.html class="right book" %}
 Nous avons fini il y a peu la saison 3 de **« The Crown »**, série que nous apprécions toujours autant. Alors, pour ne pas quitter « the Queen » si rapidement, j’ai ressorti un livre qui était depuis un bon moment dans ma PAL (Pile À Lire) : **« La Reine des lectrices »**.
 
 Je vous fais le pitch avec la quatrième de couverture : « Que se passerait-il outre-Manche si Sa Majesté la Reine se découvrait une passion pour la lecture ? Si, tout d'un coup, rien n'arrêtait son insatiable soif de livres, au point qu'elle en vienne à négliger ses engagements royaux ? »
