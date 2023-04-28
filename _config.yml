@@ -72,7 +72,6 @@ webmentions:
   legacy_domains:
     - http://www.6x8.org
 
-
 webp:
   enabled: false
   

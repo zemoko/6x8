@@ -23,3 +23,20 @@ if (getCookie("darkmode") !== undefined) {
 		document.cookie = 'darkmode=true; path=/; max-age=${60 * 60 * 24 * 14};';
 	}
 }
+
+if (document.getElementsByClassName("previous-page").length > 0) {
+	var prevUrl = document.getElementsByClassName("previous-page")[0].href;
+}
+if (document.getElementsByClassName("next-page").length > 0) {
+	var nextUrl = document.getElementsByClassName("next-page")[0].href;
+}
+document.onkeydown = function (e) {
+	var e = e || event,
+	keycode = e.which || e.keyCode;
+	if ( (keycode == 37 || keycode == 33) && prevUrl ) {
+		location = prevUrl;
+	}
+	if ( (keycode == 39 || keycode == 34) && nextUrl ) {
+		location = nextUrl;
+	}
+}
