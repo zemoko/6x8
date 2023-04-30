@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "coup-de-coeur"
 coverImage: stagiaire-au-spatioport-omega-3000.jpg
 bookTitle: "Stagiaire au Spatioport Omega 3000 et autres joyeusetés que nous réserve le futur"
 bookAuthor: "Ploum"

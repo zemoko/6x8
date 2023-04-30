@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "coup-de-coeur"
 coverImage: shakespeare.jpg
 bookTitle: "Shakespeare Antibiographie"
 bookAuthor: "Bill Bryson"

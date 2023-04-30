@@ -7,7 +7,6 @@ categories:
 tags: 
   - "critique"
   - "livre"
-  - "coup-de-coeur"
 coverImage: 9782226460745-j.jpg
 bookTitle: "Le Bureau des affaires occultes"
 bookAuthor: "Éric Fouassier"

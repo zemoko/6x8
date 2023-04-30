@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "film"
+  - "coup-de-coeur"
 coverImage: l_en_corps_affiche_officielle.jpg
 cover2left: true
 ---

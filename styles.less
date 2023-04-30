@@ -508,6 +508,34 @@ nav {
     box-shadow:0 3px 3px rgba(0,0,0,0.7),0 3px 9px rgba(0,0,0,0.2);
   }
 }
+.home, .page {
+  .post-content {
+    a {
+      position: relative;
+      overflow: hidden;
+      text-decoration: none;
+      color: @primary;
+      z-index: 1;
+      &::after {
+        content: "";
+        background: rgba(@primary, 0.25);
+        position: absolute;
+        left: 12px;
+        bottom: -6px;
+        width: calc(100% - 8px);
+        height: calc(100% - 8px);
+        z-index: -1;
+        transition: 0.35s cubic-bezier(0.25, 0.1, 0, 2.05);
+      }
+      &:hover:after, &:focus:after {
+        left: 0;
+        bottom: -2px;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}
 .page {
   transform:translateY(-.05rem);
   &:before {
@@ -604,30 +632,6 @@ nav {
     strike {
       color: #aaa;
     } 
-    a {
-      position: relative;
-      overflow: hidden;
-      text-decoration: none;
-      color: @primary;
-      z-index: 1;
-      &::after {
-        content: "";
-        background: rgba(@primary, 0.25);
-        position: absolute;
-        left: 12px;
-        bottom: -6px;
-        width: calc(100% - 8px);
-        height: calc(100% - 8px);
-        z-index: -1;
-        transition: 0.35s cubic-bezier(0.25, 0.1, 0, 2.05);
-      }
-      &:hover:after, &:focus:after {
-        left: 0;
-        bottom: -2px;
-        width: 100%;
-        height: 100%;
-      }
-    }
     mark {
       a {
         color: darken( desaturate(@primary, 40%), 15%);
@@ -1316,12 +1320,15 @@ details {
       }
     }
   }
-  .page a, .page .post-content a {
+  .page a, .page .post-content a, .home .post-content a {
     color: #a8a0f7;
   }
-  .page-heading {
+  .page-heading, .page-heading + p {
     color: white;
     margin-left: 1rem;
+  }
+  .page-heading + p a {
+    color: #6d5dfc;
   }
   ol li::marker {
     color: #a8a0f7;
@@ -1375,7 +1382,7 @@ body.dark-mode {
       }
     }
   }
-  .page a, .page .post-content a {
+  .page a, .page .post-content a, .home .post-content a {
     color: #a8a0f7;
   }
   .page-heading {
