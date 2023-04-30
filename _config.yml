@@ -54,8 +54,8 @@ url: "https://www.6x8.org" # the base hostname & protocol for your site
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-image-size
+  - jekyll-sitemap
   - jekyll/mastodon_webfinger
 
 mastodon:
