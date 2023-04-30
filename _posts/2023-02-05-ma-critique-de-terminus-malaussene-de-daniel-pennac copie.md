@@ -18,9 +18,9 @@ bookRating: 4.5
 Pour ce 9<sup>e</sup> et dernier tome de la saga Malaussène, j'ai hésité... D'un côté, j'avais <strong>hâte de retrouver le tribu Malaussène, mais aussi peur de les quitter définitivement</strong>... Comment Daniel Pennac allait-il pouvoir mettre un terme aux histoires de cette tribu si spéciale, à cette saga qui a une place à part dans mon coeur de lecteur&nbsp;? Bon, je vous rassure... J'ai hésité mais pas longtemps. J'ai relu ce que j'avais écrit du cas Malaussène, tome 1 <a href="/2017/01/ma-critique-de-le-cas-malaussene-tome-1-ils-mont-menti-de-daniel-pennac/
 ">«&nbsp;Ils m’ont menti&nbsp;»</a>... et ça m'a convaincu... alors je me suis lancé... et <strong>j'ai été, une nouvelle fois, happé</strong>. Je ne les avais plus croisé depuis 2017 mais, finalement, comme des amis qu'on sait proches même si on ne le croisent que rarement, j'ai senti que la distance ne s'était pas installé, que l'énergie des Malaussène était intacte, que leur petite musique était toujours là, je m'en suis senti toujours aussi proche.
 
-On retrouve <strong>quatre générations de Malaussène</strong>, de Maman Malaussène à Terminus Malaussène, en passant évidemment par Benjamin, mais aussi Julie et Julius, aussi ses frères et ses soeurs, leurs enfants... et les pièces rapportées, la Reine Zabo, Alceste, Gervaise, Titus, Hadouch... 
+On retrouve <strong>quatre générations de Malaussène</strong>, de Maman Malaussène à Terminus Malaussène, en passant évidemment par Benjamin, mais aussi Julie et Julius, aussi ses frères et ses sœurs, leurs enfants... et les pièces rapportées, la Reine Zabo, Alceste, Gervaise, Titus, Hadouch... 
 
-D'ailleurs, c'est le 9<sup>e</sup>&nbsp;tome... mais il comporte "L'équation de Maman", telle que proposé par le petit (plus si petit que cela)nbsp;:
+D'ailleurs, c'est le 9<sup>e</sup>&nbsp;tome... mais il comporte "L'équation de Maman", telle que proposé par le petit (plus si petit que cela)&nbsp;:
 
 <figure class="center">
   <div>Δt<sub>Mam</sub> = τ<sub>Malaussène</sub> × log(1+Δt/τ<sub>Malaussène</sub>)</div>
@@ -37,4 +37,4 @@ Enfin, c'est le 9<sup>e</sup>&nbsp;tome d'une saga commencé il y a presque 40&n
   <div><p>... les bonbons tuent, les virus pandémisent, le Russe a des appétits d'Empire, le soleil surchauffe et la démocratie fond comme les neiges éternelles...</p></div>
 </blockquote>
 
-<strong>Bref, c'est toujours aussi drôle, toujours aussi surprenant, les personnages se renouvelent mais sont toujours aussi extravagants, et toujours aussi bien croqués</strong>. On sent que Daniel Pennac a pris un malin plaisir à les  retrouver encore une fois, à nous perdre une dernière fois. <strong>Merci monsieur Pennac</strong>.
+<strong>Bref, c'est toujours aussi drôle, toujours aussi surprenant, les personnages se renouvèlent mais sont toujours aussi extravagants, et toujours aussi bien croqués</strong>. On sent que Daniel Pennac a pris un malin plaisir à les  retrouver encore une fois, à nous perdre une dernière fois. <strong>Merci monsieur Pennac</strong>.
