@@ -109,11 +109,13 @@ var msnry = new Masonry( '.grid', {
   // options
 });
 
-document.addEventListener("DOMContentLoaded", function () {
-    msnry.layout()
-});
-
 imagesLoaded( elem ).on( 'progress', function() {
   msnry.layout();
-});  
+});
+
+document.addEventListener("scroll", (event) => {
+  if (window.scrollY > 1000) {
+    msnry.layout();
+  }
+});
 </script>

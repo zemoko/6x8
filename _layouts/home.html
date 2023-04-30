@@ -126,10 +126,6 @@ var msnry = new Masonry( '.grid', {
   // options
 });
 
-document.addEventListener("DOMContentLoaded", function () {
-    msnry.layout()
-});
-
 imagesLoaded( elem ).on( 'progress', function() {
   msnry.layout();
 });
