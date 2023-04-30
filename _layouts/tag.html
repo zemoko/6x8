@@ -94,6 +94,7 @@ layout: default
 
 </div>
 <script src="/masonry.pkgd.min.js"></script>
+<script src="/imagesloaded.pkgd.min.js"></script>
 <script>
 var elem = document.querySelector('.grid');
 var msnry = new Masonry( elem, {
@@ -111,4 +112,8 @@ var msnry = new Masonry( '.grid', {
 document.addEventListener("DOMContentLoaded", function () {
     msnry.layout()
 });
+
+imagesLoaded( grid ).on( 'progress', function() {
+  msnry.layout();
+});  
 </script>
