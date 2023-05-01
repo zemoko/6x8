@@ -9,6 +9,8 @@ tags:
   - "paris"
   - "parisjetaime"
   - "parismaville"
-coverImage: un-bassin-dans-le-bassin-a-la-villette-paris-parisjetaime-parismaville.jpg 
+coverImage: un-bassin-dans-le-bassin-a-la-villette-paris-parisjetaime-parismaville.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BVRFhibDyNc
 ---

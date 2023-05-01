@@ -9,6 +9,8 @@ tags:
   - "lego"
   - "paris"
 coverImage: "IMG_5402.jpg"
+imgWidth: 360
+imgHeight: 167
 cover2left: true
 ---
 

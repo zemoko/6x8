@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: shakespeare.jpg
+imgWidth: 360
+imgHeight: 554
 bookTitle: "Shakespeare Antibiographie"
 bookAuthor: "Bill Bryson"
 bookISBN: 9782228905602  

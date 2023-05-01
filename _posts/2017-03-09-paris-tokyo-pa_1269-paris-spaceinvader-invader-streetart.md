@@ -11,5 +11,7 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: paris-tokyo-pa_1269-paris-spaceinvader-invader-streetart.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BRaxbuADcFr
 ---

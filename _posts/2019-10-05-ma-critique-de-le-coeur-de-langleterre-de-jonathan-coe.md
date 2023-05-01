@@ -9,6 +9,8 @@ tags:
   - "jonathan-coe"
   - "livre"
 coverImage: "liv-20386-le-coeur-de-l-angleterre.jpg"
+imgWidth: 360
+imgHeight: 526
 bookTitle: "Le cœur de l’Angleterre"
 bookAuthor: "Jonathan Coe"
 bookISBN: 9782072922664  

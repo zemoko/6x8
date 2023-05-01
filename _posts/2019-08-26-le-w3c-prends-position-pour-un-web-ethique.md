@@ -9,6 +9,8 @@ tags:
   - "rgpd"
   - "web"
 coverImage: "775435112e7f83a51ed5942d891a200c.jpg"
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: escapade-ladefense-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BgiaRr1A1OU
 ---

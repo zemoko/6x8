@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "121554850.jpg"
+imgWidth: 360
+imgHeight: 527
 bookTitle: "Le discours"
 bookAuthor: "Fabrice Caro"
 bookISBN: 9782072873904  

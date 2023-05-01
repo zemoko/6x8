@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "smashingconf"
 coverImage: smashingconf-day-2.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Be7geiwAY1_
 ---

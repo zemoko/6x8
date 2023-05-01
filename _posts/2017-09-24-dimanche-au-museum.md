@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: dimanche-au-museum.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BZbfb2KgB2t
 ---

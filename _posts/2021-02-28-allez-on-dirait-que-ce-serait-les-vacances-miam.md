@@ -7,6 +7,8 @@ categories:
 tags: 
   - "miam"
 coverImage: "154551899_442802966944069_5193063682389027106_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: "CL1QP1vhDv8"
 ---
 

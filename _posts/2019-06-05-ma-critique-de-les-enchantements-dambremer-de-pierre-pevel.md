@@ -10,6 +10,8 @@ tags:
   - "livre"
   - "pierre-pevel"
 coverImage: "91gEzc0nWxL.jpg"
+imgWidth: 360
+imgHeight: 540
 bookTitle: "Le Paris des merveilles, tome 1&nbsp;: Les enchantements d'Ambremer"
 bookAuthor: "Pierre Pevel"
 bookISBN: 9782070793259  

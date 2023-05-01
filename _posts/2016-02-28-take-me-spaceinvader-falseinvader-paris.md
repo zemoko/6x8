@@ -10,5 +10,7 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: Take-me-spaceinvader-falseinvader-Paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCVdT61ymcR
 ---

@@ -10,5 +10,7 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: pa_730-spaceinvader-invader-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BPxmUEADCh-
 ---

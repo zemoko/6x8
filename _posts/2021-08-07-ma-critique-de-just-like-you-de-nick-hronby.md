@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: just-like-you.jpg
+imgWidth: 360
+imgHeight: 552
 bookTitle: 'Tout comme toi'
 bookAuthor: "Nick Hornby"
 bookISBN: 9782234091146  

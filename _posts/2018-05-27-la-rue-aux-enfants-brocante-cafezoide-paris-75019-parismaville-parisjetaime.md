@@ -11,5 +11,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: la-rue-aux-enfants-brocante-cafezoide-paris-75019-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BjSGyF6jZav
 ---

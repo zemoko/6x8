@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Quand-sort-la-recluse.jpg"
+imgWidth: 360
+imgHeight: 554
 bookTitle: "Quand sort la recluse"
 bookAuthor: "Fred Vargas"
 bookISBN: 9782081413146  

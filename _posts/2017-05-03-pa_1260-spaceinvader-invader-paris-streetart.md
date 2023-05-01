@@ -11,5 +11,7 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1260-spaceinvader-invader-paris-streetart.jpg
+imgWidth: 360
+imgHeight: 270
 instagram: BTolf3uDM6U
 ---

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: jours-de-fete-a-@la_villette.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BdQSI4fge_b
 ---

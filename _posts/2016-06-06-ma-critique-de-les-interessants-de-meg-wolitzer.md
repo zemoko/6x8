@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9781594632341_1_75.jpg"
+imgWidth: 360
+imgHeight: 563
 bookTitle: "Les intéressants"
 bookAuthor: "Meg Wolitzer"
 bookISBN: 9782253182870  

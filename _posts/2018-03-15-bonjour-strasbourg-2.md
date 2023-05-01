@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: bonjour-strasbourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BgW5jiXgw9S
 ---

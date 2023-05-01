@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "lego"
 coverImage: Ouverture-du-Lego-Store-au-Forum-des-Halles-Brique-974-sur-3000.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BD3G1Ijymb2
 ---

@@ -5,6 +5,8 @@ date: "2018-11-26"
 categories: 
   - "trucs"
 coverImage: "stormtrooper-2293057_960_720.jpg"
+imgWidth: 360
+imgHeight: 260
 cover2left: true
 ---
 

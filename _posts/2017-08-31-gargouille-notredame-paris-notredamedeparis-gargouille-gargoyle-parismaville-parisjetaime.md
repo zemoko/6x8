@@ -11,5 +11,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: gargouille-notredame-paris-notredamedeparis-gargouille-gargoyle-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BYeNhCdjd8K
 ---

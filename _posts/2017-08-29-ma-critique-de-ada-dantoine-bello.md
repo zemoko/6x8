@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "ob_728156_adabello.jpg"
+imgWidth: 360
+imgHeight: 527
 bookTitle: "Ada"
 bookAuthor: "Antoine Bello"
 bookISBN: 9782070179671  

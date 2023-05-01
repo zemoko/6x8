@@ -7,6 +7,8 @@ categories:
 tags: 
   - "dcaout"
 coverImage: horizon.png
+imgWidth: 360
+imgHeight: 244
 cover2left: true
 ---
 

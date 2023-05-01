@@ -11,5 +11,7 @@ tags:
   - "parismaville"
   - "villette"
 coverImage: ca-a-change-la-villette-paris-parismaville-parisjetaime-villette-citedessciencesetdelindustrie.jpg
+imgWidth: 360
+imgHeight: 282
 instagram: BY3NHdDjzMh
 ---

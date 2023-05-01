@@ -9,6 +9,8 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: "49800453_630265657389080_1495415313282878138_n.jpg"
+imgWidth: 360
+imgHeight: 450
 instagram: BtLnDz5hGdu
 ---
 

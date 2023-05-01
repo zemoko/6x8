@@ -9,6 +9,8 @@ tags:
   - "film"
   - "starwars"
 coverImage: "Star_Wars.png"
+imgWidth: 360
+imgHeight: 203
 cover2left: true
 ---
 

@@ -9,5 +9,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: il-est-pas-beau-mon-telephone-dans-ma-chambre-d’hotel-boma-strasbourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BaJ9EL1A-9m
 ---

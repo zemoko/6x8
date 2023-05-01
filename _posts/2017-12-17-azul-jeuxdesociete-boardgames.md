@@ -9,5 +9,7 @@ tags:
   - "jeux-de-societe"
   - "boardgames"
 coverImage: azul-jeuxdesociete-boardgames.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bcz3dFHgido
 ---

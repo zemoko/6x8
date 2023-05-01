@@ -8,6 +8,8 @@ tags:
   - "jeux-de-societe"
   - "boardgames"
 coverImage: "66428344_2474210959304588_6068265788559400635_n.jpg"
+imgWidth: 360
+imgHeight: 269
 instagram: B0BW0WzoZzW
 ---
 

@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "écoute-1.jpg"
+imgWidth: 360
+imgHeight: 507
 bookTitle: "Écoute la ville tomber"
 bookAuthor: "Kate Tempest"
 bookISBN: 9782743642105  

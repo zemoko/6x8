@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "ob_eeec29_dans-les-angles-morts.jpg"
+imgWidth: 360
+imgHeight: 588
 bookTitle: "Dans les angles morts"
 bookAuthor: "Elisabeth Brundage"
 bookISBN: 9782253258292  

@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "marie-curie-640x360.jpg"
+imgWidth: 360
+imgHeight: 203
 bookTitle: "Marie Curie prends un amant"
 bookAuthor: "Irène Frain"
 bookISBN: 9782757862339  

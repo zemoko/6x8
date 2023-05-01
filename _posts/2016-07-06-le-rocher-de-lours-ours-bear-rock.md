@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Le-rocher-de-lours-ours-bear-rock.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BHhfmKlBnxC
 ---

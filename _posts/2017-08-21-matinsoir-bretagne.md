@@ -8,5 +8,7 @@ tags:
   - "bretagne"
   - "instagram"
 coverImage: matinsoir-bretagne.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BYEKLJsgETS
 ---

@@ -11,6 +11,8 @@ tags:
   - "streetart"
   - "versailles"
 coverImage: vrs_07-the-king-is-dead-spaceinvader-invader-streetart-versailles.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bi_wEIijckV
 ---
 

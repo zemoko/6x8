@@ -9,5 +9,7 @@ tags:
   - "paindepice"
   - "saintnicolas"
 coverImage: bonne-saint-nicolas-paindepice-miam-gingerbread-saintnick-saintnicolas.jpg
+imgWidth: 360
+imgHeight: 318
 instagram: BNsSe6FDAoL
 ---

@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: en-passant.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BOnBWpRjF1U
 ---

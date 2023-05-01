@@ -11,6 +11,8 @@ tags:
   - "samaritaine"
   - "starwars"
 coverImage: expo-contre-attaque-12275.jpg
+imgWidth: 360
+imgHeight: 225
 cover2left: true
 ---
 

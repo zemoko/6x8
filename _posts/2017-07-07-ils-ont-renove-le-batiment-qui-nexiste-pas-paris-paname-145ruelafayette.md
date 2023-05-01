@@ -9,6 +9,8 @@ tags:
   - "paname"
   - "paris"
 coverImage: ils-ont-renove-le-batiment-qui-n’existe-pas-paris-paname-145ruelafayette.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BWP0RHsg-zL
 ---
 

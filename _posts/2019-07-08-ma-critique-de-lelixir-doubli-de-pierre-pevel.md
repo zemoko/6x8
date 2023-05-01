@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "pierre-pevel"
 coverImage: "ob_d9c612_9782352948490-org.jpg"
+imgWidth: 360
+imgHeight: 571
 bookTitle: "Le Paris des merveilles, tome 2&nbsp;: L'élixir d'oubli"
 bookAuthor: "Pierre Pevel"
 bookISBN: 9791028115746  

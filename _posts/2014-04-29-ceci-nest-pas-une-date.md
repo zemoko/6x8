@@ -5,6 +5,8 @@ date: "2014-04-29"
 categories: 
   - "trucs-de-webmaster"
 coverImage: "Ceci-nest-pas-une-date.png"
+imgWidth: 360
+imgHeight: 244
 cover2left: true
 ---
 

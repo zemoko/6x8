@@ -7,6 +7,8 @@ categories:
 tags: 
   - "instagram"
   - "miam"
-coverImage: on-a-change-nos-plans-on-a-fait-des-gateaux-miam.jpg 
+coverImage: on-a-change-nos-plans-on-a-fait-des-gateaux-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BevkwAYgrgb
 ---

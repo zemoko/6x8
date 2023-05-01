@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: la-ville-ephemere-olivier-grossetete-@la_villette.jpg
+imgWidth: 360
+imgHeight: 239
 instagram: BXBlHVEAitK
 ---

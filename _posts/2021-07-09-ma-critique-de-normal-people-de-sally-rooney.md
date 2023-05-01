@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: normal-people.jpg
+imgWidth: 360
+imgHeight: 527
 bookTitle: '<span lang="en">Normal People</span>'
 bookAuthor: "Sally Rooney"
 bookISBN: 9782757888124  

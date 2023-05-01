@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: how_to_stop_time-paperback-cover-9781838858476.250x0.jpg
+imgWidth: 360
+imgHeight: 553
 bookTitle: '<span lang="en">How to stop time</span>'
 bookAuthor: "Matt Haig"
 bookISBN: 9782330120658   

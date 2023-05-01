@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: rompre-le-silence.jpg
+imgWidth: 360
+imgHeight: 576
 bookTitle: "Rompre le silence"
 bookAuthor: "Mechtild Borrmann"
 bookISBN: 9782253092902 

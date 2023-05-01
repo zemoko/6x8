@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "martin_page.jpg"
+imgWidth: 360
+imgHeight: 527
 bookTitle: "L’art de revenir à la vie"
 bookAuthor: "Martin Page"
 bookISBN: 9782021174960  

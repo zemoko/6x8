@@ -7,6 +7,8 @@ categories:
 tags: 
   - "dcaout"
 coverImage: Soiree.jpg
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

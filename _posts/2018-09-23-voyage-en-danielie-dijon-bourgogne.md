@@ -9,5 +9,7 @@ tags:
   - "dijon"
   - "instagram"
 coverImage: voyage-en-danielie-dijon-bourgogne.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BoEGObGDIE0
 ---

@@ -9,6 +9,8 @@ tags:
   - "paris"
   - "parisjetaime"
   - "parismaville"
-coverImage: notre-rendez-vous-annuel-avec-la-tour-et-avec-paris-paris-parismaville-parisjetaime.jpg 
+coverImage: notre-rendez-vous-annuel-avec-la-tour-et-avec-paris-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BZTrVmqj3UZ
 ---

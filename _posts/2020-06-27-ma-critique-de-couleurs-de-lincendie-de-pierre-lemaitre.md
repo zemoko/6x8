@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Couleurs-de-l-incendie.jpg"
+imgWidth: 360
+imgHeight: 527
 bookTitle: "Couleurs de l'incendie"
 bookAuthor: "Pierre Lemaitre"
 bookISBN: 9782253100416  

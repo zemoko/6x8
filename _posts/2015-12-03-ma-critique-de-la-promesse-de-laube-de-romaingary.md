@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "La_Promesse_de_l_aube.jpg"
+imgWidth: 360
+imgHeight: 491
 bookTitle: "La Promesse de l'Aube"
 bookAuthor: "Romain Gary"
 bookISBN: 9782070363735  

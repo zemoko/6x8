@@ -7,6 +7,8 @@ categories:
 tags: 
   - "jeux-de-societe"
 coverImage: "fullsizeoutput_6352.jpeg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "106029872_o.jpg"
+imgWidth: 360
+imgHeight: 534
 bookTitle: "La Pire. Personne. Au Monde."
 bookAuthor: "Douglas Coupland"
 bookISBN: 9781030700085  

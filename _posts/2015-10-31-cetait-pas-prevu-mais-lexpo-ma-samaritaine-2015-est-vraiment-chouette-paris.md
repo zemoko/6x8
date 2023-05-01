@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Cetait-pas-prevu...-Mais-lexpo-«-ma-samaritaine-2015-»-est-vraiment-chouette-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9gOPZkymQ8
 ---

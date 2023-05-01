@@ -9,6 +9,8 @@ tags:
   - "alsace"
   - "rando"
 coverImage: "75403191_517471992437645_7767911542855099364_n.jpg"
+imgWidth: 360
+imgHeight: 270
 instagram: B473x33ooUE
 ---
 

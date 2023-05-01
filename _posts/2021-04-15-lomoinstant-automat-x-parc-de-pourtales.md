@@ -11,6 +11,8 @@ tags:
   - "lomo"
   - "strasbourg"
 coverImage: "IMG_6704-scaled-e1618503891479.jpeg"
+imgWidth: 360
+imgHeight: 270
 noImageOnPost: true
 carousel: 
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/09/20211109195946-26e5a065-xx.jpg

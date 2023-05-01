@@ -8,6 +8,8 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "25859268.jpg"
+imgWidth: 360
+imgHeight: 554
 bookTitle: " La Longue Terre, tome 5&nbsp;: Le long Cosmos"
 bookAuthor: "Terry Pratchett et Stephen Baxter"
 bookISBN: 9782841728213  

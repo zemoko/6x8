@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: le-defile-de-saint-nicolas.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bq2tiLNBCmt
 ---

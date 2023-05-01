@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: pereire-ceinture.-via-ferrata.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BLobDfTD7oD
 ---

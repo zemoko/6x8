@@ -9,5 +9,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: en-balade...-cathedrale-strasbourg.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BoT8vbID5D2
 ---

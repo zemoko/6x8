@@ -7,6 +7,8 @@ categories:
 tags: 
   - "dcaout"
 coverImage: "162690535_d3b0562d41_o.jpg"
+imgWidth: 360
+imgHeight: 214
 cover2left: true
 ---
 

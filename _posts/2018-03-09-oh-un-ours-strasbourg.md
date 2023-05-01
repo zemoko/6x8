@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: oh-un-ours-strasbourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BgHLMwmgArb
 ---

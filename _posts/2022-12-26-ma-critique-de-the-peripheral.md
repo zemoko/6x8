@@ -9,6 +9,8 @@ tags:
   - "serie-tv"
   - "coup-de-coeur"
 coverImage: peripheral.jpg
+imgWidth: 360
+imgHeight: 450
 cover2left: true
 ---
 

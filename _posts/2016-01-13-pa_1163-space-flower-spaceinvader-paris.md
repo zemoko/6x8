@@ -8,6 +8,8 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: PA_1163-Space-Flower-spaceinvader-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BAe2-9HymQn
 ---
 

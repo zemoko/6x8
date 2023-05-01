@@ -5,6 +5,8 @@ date: "2015-09-22"
 categories: 
   - "trucs-de-geek"
 coverImage: "adblock-1000x4301-750x430.jpg"
+imgWidth: 360
+imgHeight: 206
 cover2left: true
 ---
 

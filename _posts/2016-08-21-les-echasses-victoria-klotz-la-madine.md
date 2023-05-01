@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Les-echasses-Victoria-Klotz-@-La-Madine.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BJYNJQ0ABCp
 ---

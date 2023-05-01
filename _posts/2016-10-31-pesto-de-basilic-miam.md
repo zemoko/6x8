@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: pesto-de-basilic-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BMOtwtCDV49
 ---

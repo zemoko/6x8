@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: Premiers-Manele-de-la-saison-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -WtIOOymUm/
 ---

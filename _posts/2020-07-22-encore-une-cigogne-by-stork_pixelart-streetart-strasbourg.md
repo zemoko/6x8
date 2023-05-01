@@ -10,6 +10,8 @@ tags:
   - "streetart"
   - "stork7567"
 coverImage: "110989135_4115945865147234_7269222823582300537_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: CC87AvFhpl9
 ---
 

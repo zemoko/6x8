@@ -7,6 +7,8 @@ categories:
 tags: 
   - "conference-oxford-smashingconf"
 coverImage: "11024147_945286378848849_249341564_n.jpg"
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

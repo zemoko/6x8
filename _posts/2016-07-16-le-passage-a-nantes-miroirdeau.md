@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "nantes"
 coverImage: Le-passage-a-Nantes-miroirdeau.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BH76UR9BpSl
 ---

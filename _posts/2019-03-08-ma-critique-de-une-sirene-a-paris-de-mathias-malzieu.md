@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "514su-cbfnL._SX340_BO1204203200_.jpg"
+imgWidth: 360
+imgHeight: 525
 bookTitle: "Une sirène à Paris"
 bookAuthor: "Mathias Malzieu"
 bookISBN: 9782226439772  

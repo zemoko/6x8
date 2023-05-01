@@ -8,6 +8,8 @@ tags:
   - "architecture"
   - "royan"
 coverImage: Je-crois-que-cest-la-maison-de-vacances-de-Spirou-et-Fantasio-Royan-Architecture-Annees50-fifties.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BIK-yk6Ahii
 ---
 

@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: perspective-paris-parismaville-parisjetaime-canaldelourcq.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BNrxL4RjBaf
 ---

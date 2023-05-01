@@ -11,6 +11,8 @@ tags:
   - "vacances"
   - "lomo"
 coverImage: "IMG_1235.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

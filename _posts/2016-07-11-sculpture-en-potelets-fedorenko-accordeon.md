@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Sculpture-en-potelets-Fedorenko-accordeon.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BHvAz3xB0D1
 ---

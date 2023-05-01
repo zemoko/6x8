@@ -9,6 +9,8 @@ tags:
   - "documentaire"
   - "film"
 coverImage: "demain.jpg"
+imgWidth: 360
+imgHeight: 199
 cover2left: true
 ---
 

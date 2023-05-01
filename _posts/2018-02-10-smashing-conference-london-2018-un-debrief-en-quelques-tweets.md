@@ -8,6 +8,8 @@ tags:
   - "smashingconf"
   - "web"
 coverImage: "img_1649.jpg"
+imgWidth: 360
+imgHeight: 151
 cover2left: true
 ---
 

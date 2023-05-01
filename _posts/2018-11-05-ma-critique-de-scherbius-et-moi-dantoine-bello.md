@@ -10,6 +10,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "41FEhRKCngL._SX195_.jpg"
+imgWidth: 360
+imgHeight: 526
 bookTitle: "Scherbius (et moi)"
 bookAuthor: "Antoine Bello"
 bookISBN: 9782072791673  

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "spaceinvader"
 coverImage: PA_1183-spaceinvader-sur-le-chemin-de-la-maternite.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCSaJcnSmbs
 ---

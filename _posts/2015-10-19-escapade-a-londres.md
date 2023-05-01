@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "londres"
 coverImage: Escapade-a-Londres.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9B6OmuymVz
 ---

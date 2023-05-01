@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: Il-est-cool-ce-buffet-de-petit-dej-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9VYomBymc8
 ---

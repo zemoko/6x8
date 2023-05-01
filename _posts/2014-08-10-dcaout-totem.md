@@ -8,6 +8,8 @@ tags:
   - "dcaout"
   - "j2s"
 coverImage: IMG_39701.jpg
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: Sous-la-Canopee-paris-ParisMaVille.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BD38F44SmU7
 ---

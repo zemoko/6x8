@@ -7,5 +7,7 @@ categories:
 tags:
   - "royan"
 coverImage: "116427274_312773149920942_2860136837277525612_n-2.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: CDb4RQAhn8B
 ---

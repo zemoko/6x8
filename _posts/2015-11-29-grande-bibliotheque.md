@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Grande-bibliotheque.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -rDGGpymRR
 ---

@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782211236331.jpg"
+imgWidth: 360
+imgHeight: 548
 bookTitle: "Sauveur &amp; fils"
 bookAuthor: "Marie-Aude Murail"
 bookISBN: 9782211232746  

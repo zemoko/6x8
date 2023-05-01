@@ -9,5 +9,7 @@ tags:
   - "instagram"
   - "smashingconf"
 coverImage: lego-contest-html-smashingconf.jpg
+imgWidth: 360
+imgHeight: 270
 instagram: Be5gf4GAS_E
 ---

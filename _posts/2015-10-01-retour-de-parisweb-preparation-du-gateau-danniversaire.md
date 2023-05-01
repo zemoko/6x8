@@ -9,5 +9,7 @@ tags:
   - "parisweb"
   - "miam"
 coverImage: 11420713_483818388446978_453752878_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 8TZFAOymdX
 ---

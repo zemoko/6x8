@@ -7,7 +7,9 @@ categories:
 tags: 
   - "dcaout"
   - "londres"
-coverImage: "MONUMENT.jpg" 
+coverImage: "MONUMENT.jpg"
+imgWidth: 360
+imgHeight: 213
 cover2left: true
 ---
 

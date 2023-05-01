@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: bon-anniversaire-romane.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bf6BQusgx5m
 ---

@@ -9,6 +9,8 @@ tags:
   - "boardgames"
   - "strasbourg"
 coverImage: "61080992_883172952021715_7240147075238498229_n.jpg"
+imgWidth: 360
+imgHeight: 450
 instagram: BxzZ_vkI_1L
 ---
 

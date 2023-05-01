@@ -8,6 +8,8 @@ tags:
   - "boma"
   - "instagram"
   - "strasbourg"
-coverImage: a-room-with-a-view-boma-strasbourg.jpg
+coverImage: 2018-07-bkvjx7njtww.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BkvjX7njTww
 ---

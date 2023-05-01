@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "41Vj8QMbLL._SX321_BO1204203200_.jpg"
+imgWidth: 360
+imgHeight: 556
 bookTitle: "Une histoire de tout ou presque"
 bookAuthor: "Bill Bryson"
 bookISBN: 9782228902182  

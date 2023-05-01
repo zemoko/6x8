@@ -11,6 +11,8 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1244-time-for-a-beer-beer-spaceinvader-invader-streetart-paris.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: Bkp6-5mDikd
 ---
 

@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: Saga.jpg
+imgWidth: 360
+imgHeight: 604
 bookTitle: "Saga"
 bookAuthor: "Tonino Benacquista"
 bookISBN: 9782070408450  

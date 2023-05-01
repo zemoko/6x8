@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782207260128.jpg"
+imgWidth: 360
+imgHeight: 503
 bookTitle: "La Reine des lectrices"
 bookAuthor: "Alan Bennett"
 bookISBN: 9782070419609  

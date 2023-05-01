@@ -8,6 +8,8 @@ tags:
   - "dcaout"
   - "londres"
 coverImage: 83a8d7c4e93d11e19c031231380e6971_7.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: OeNuUJSmcP
 ---
 

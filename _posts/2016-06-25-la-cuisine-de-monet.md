@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: La-cuisine-de-Monet.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BHFYHAoBpmv
 ---

@@ -9,6 +9,8 @@ tags:
   - "livres"
   - "terry-pratchett"
 coverImage: "L_Hiverrier.jpg"
+imgWidth: 360
+imgHeight: 491
 bookTitle: "L'Hiverrier, un roman du Disque-Monde"
 bookAuthor: "William"
 bookISBN: 9782841724680  

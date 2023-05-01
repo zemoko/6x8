@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782226249678-j.jpg"
+imgWidth: 360
+imgHeight: 527
 bookTitle: "Au revoir là-haut"
 bookAuthor: "Pierre Lemaitre"
 bookISBN: 9782253194613  

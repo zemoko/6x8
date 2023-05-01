@@ -7,6 +7,8 @@ categories:
 tags: 
   - "web"
 coverImage: LGDCR.png
+imgWidth: 360
+imgHeight: 315
 noImageOnPost: true
 ---
 

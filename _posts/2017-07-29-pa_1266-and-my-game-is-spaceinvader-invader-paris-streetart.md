@@ -9,6 +9,8 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1266-and-my-game-is...-spaceinvader-invader-paris-streetart.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BXItd8Dg-uw
 ---
 

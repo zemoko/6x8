@@ -6,7 +6,10 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "miam"
 coverImage: 1172144_421871547913726_1543332644_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: giAYO8SmXZ
 ---
 

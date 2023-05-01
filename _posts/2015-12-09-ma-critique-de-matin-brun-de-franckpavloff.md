@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Matinbrun.jpg"
+imgWidth: 360
+imgHeight: 635
 bookTitle: "Matin brun"
 bookAuthor: "Franck Pavloff"
 bookISBN: 9782841160297  

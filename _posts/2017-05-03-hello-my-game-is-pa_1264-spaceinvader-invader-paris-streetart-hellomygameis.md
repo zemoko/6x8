@@ -11,5 +11,7 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: hello-my-game-is...-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BTol4VFj0as
 ---

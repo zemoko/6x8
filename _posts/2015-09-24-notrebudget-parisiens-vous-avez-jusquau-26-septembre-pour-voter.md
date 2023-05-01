@@ -8,6 +8,8 @@ categories:
 tags: 
   - "notrebudget"
 coverImage: "19932675110_df4c71f8ba_k.jpg"
+imgWidth: 360
+imgHeight: 240
 cover2left: true
 ---
 

@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: Terminus-Malausene.jpg
+imgWidth: 360
+imgHeight: 527
 bookTitle: "Terminus Malaussène"
 bookAuthor: "Daniel Pennac"
 bookISBN: 9782072743863  

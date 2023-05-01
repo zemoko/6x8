@@ -5,6 +5,8 @@ date: "2021-05-05"
 categories: 
   - "trucs"
 coverImage: "15.png"
+imgWidth: 360
+imgHeight: 216
 cover2left: true
 ---
 

@@ -10,6 +10,8 @@ tags:
   - "livre"
   - "woodehouse"
 coverImage: "22510100364910L.jpg"
+imgWidth: 360
+imgHeight: 549
 bookTitle: "Un pélican à Blandings"
 bookAuthor: "<abbr>PG</abbr> Wodehouse"
 bookISBN: 9782251210162  

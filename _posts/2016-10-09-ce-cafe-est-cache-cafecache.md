@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: ce-cafe-est-cache-cafecache.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BLWNEZsDqTo
 ---

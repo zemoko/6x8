@@ -5,6 +5,8 @@ date: "2019-01-10"
 categories: 
   - "trucs"
 coverImage: "Lego-Minifigure-Series-07-Wallpaper-Computer-Programmer.jpg"
+imgWidth: 360
+imgHeight: 238
 cover2left: true
 ---
 

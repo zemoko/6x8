@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: chevaliers.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BSHCxWcj6Kf
 ---

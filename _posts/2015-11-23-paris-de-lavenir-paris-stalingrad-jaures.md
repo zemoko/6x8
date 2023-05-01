@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Paris-de-lavenir-Paris-Stalingrad-Jaures.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -b0ujxymXX
 ---

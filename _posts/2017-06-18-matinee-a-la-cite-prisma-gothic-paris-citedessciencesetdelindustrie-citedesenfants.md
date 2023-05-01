@@ -10,5 +10,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: matinee-a-la-cite-prisma-gothic-paris-citedessciencesetdelindustrie-citedesenfants.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BVfgQJPgppa
 ---

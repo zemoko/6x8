@@ -9,6 +9,8 @@ tags:
   - "strasbourg"
   - "stork7567"
 coverImage: "119656782_326785998533559_6064687591069766913_n.jpg"
+imgWidth: 360
+imgHeight: 450
 instagram: CFUroR1BlYz
 ---
 

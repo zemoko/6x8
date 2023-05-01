@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "005007194.jpg"
+imgWidth: 360
+imgHeight: 486
 bookTitle: "Le cinquième principe"
 bookAuthor: "Vittorio Catani"
 bookISBN: 9782370490476  

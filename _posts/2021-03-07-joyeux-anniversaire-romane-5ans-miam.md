@@ -7,6 +7,8 @@ categories:
 tags: 
   - "miam"
 coverImage: "158436046_280863913400531_3539730046152437816_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: "CMH8Ny-BwWi"
 ---
 

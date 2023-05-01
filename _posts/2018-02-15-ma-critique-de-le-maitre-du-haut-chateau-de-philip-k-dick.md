@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51WPObVMgEL._SX307_BO1204203200_.jpg"
+imgWidth: 360
+imgHeight: 581
 bookTitle: "Le Maître du Haut Château"
 bookAuthor: "Philip K. Dick"
 bookISBN: 9782290302484  

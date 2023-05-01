@@ -9,6 +9,8 @@ tags:
   - "julien-blanc-gras"
   - "livre"
 coverImage: "In_utero.jpg"
+imgWidth: 360
+imgHeight: 495
 bookTitle: "In utero"
 bookAuthor: "Julien Blanc-Gras"
 bookISBN: 9791030700121  

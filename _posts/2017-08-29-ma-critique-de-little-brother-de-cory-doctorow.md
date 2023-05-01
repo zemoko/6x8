@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "littlebrother-US-cover-large.jpg"
+imgWidth: 360
+imgHeight: 540
 bookTitle: '<span lang="en">Little Brother</span>'
 bookAuthor: "Cory Doctorow"
 bookISBN: 9782266187299  

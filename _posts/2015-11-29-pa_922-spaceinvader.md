@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "spaceinvader"
 coverImage: PA_922-spaceinvader.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -rGt2BSmZX
 ---

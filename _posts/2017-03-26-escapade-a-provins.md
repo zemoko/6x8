@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: escapade-a-provins.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BSHBO52jKlh
 ---

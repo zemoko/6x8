@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: yeah-ces-vacances-commencent-bien.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BQa-Az-Dg6G
 ---

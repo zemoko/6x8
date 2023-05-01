@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "mo_9782226317322.jpg"
+imgWidth: 360
+imgHeight: 493
 bookTitle: " Agatha Raisin enquête, tome 1&nbsp;: La quiche fatale"
 bookAuthor: "<abbr>MC</abbr>&nbsp;Beaton"
 bookISBN: 9782226475367  

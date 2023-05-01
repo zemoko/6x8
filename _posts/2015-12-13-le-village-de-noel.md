@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Le-village-de-Noel.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: _Os_s8ymV4
 ---

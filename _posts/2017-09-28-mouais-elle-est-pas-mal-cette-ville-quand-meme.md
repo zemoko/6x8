@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: mouais...-elle-est-pas-mal-cette-ville-quand-meme.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BZmG9rhDO32
 ---

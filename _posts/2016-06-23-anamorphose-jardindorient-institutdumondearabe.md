@@ -8,6 +8,8 @@ tags:
   - "anamorphose"
   - "paris"
 coverImage: anamorphose-jardindorient-institutdumondearabe.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BHAJUlZSmQT
 ---
 

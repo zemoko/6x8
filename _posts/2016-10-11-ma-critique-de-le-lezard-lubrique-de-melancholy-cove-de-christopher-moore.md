@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51vXfUiN8JL._SX195_.jpg"
+imgWidth: 360
+imgHeight: 598
 bookTitle: "Le lézard lubrique de Melancholy Cove"
 bookAuthor: "Christopher Moore"
 bookISBN: 9782070338863  

@@ -8,7 +8,9 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Le_Livre_des_Baltimore.jpg"
-bookTitle: "Les Livre des Baltimore<"
+imgWidth: 360
+imgHeight: 491
+bookTitle: "Les Livre des Baltimore"
 bookAuthor: "Joël Dicker"
 bookISBN: 9782877069472  
 bookRating: 3

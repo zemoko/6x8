@@ -10,6 +10,8 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: PA_946-Sublime-spaceinvader-paris-rue-de-Metz.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9gCn8PSmaX
 ---
 

@@ -10,6 +10,8 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: pa_1166-black-pinot-spaceinvader-invader-paris-wine-vin-bottle-bouteille-blackpinot-pinotnoir.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BNPKHbiDEmd
 ---
 

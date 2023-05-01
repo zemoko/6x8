@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "le-gene-Atlantis.jpg"
+imgWidth: 360
+imgHeight: 540
 bookTitle: "Le gène Atlantis"
 bookAuthor: "<abbr>A.G.</abbr> Riddle"
 bookISBN: 9791028105273  

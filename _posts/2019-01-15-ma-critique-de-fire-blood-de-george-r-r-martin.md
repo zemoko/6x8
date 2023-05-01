@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51AJASdBSYL._SX323_BO1204203200_.jpg"
+imgWidth: 360
+imgHeight: 553
 bookTitle: '<span lang="en">Fire &amp; Blood</span>'
 bookAuthor: "George R.R. Martin"
 bookISBN: 9782756427874  

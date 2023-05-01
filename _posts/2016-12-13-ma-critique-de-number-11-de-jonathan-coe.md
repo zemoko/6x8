@@ -9,6 +9,8 @@ tags:
   - "jonathan-coe"
   - "livre"
 coverImage: "26110947.jpg"
+imgWidth: 360
+imgHeight: 580
 bookTitle: "Numéro 11"
 bookAuthor: "Jonathan Coe"
 bookISBN: 9782070178391   

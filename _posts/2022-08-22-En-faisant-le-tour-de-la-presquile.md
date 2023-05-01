@@ -8,6 +8,8 @@ categories:
 tags:
   - vacances
 coverImage: 2022-08-22.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: ChkfsY0ILM0
 post_image: 2022-08-22.jpg
 post_image_large: 2022-08-22_large.jpg

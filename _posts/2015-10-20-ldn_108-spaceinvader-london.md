@@ -9,6 +9,8 @@ tags:
   - "londres"
   - "spaceinvader"
 coverImage: LDN_108-spaceinvader-london.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9EO8A1ymen
 ---
 

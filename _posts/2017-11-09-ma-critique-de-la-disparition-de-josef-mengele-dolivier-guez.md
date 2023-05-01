@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782246855873-001-T.jpeg"
+imgWidth: 360
+imgHeight: 556
 bookTitle: "La Disparition de Josef Mengele"
 bookAuthor: "Olivier Guez"
 bookISBN: 9782253073802  

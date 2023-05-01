@@ -9,6 +9,8 @@ tags:
   - "pixelfed"
   - "paris"
 coverImage: Sf1dl4j3s75TDHdF15a9VCpH1sxkSil9yQBa03dk.png
+imgWidth: 360
+imgHeight: 270
 pixelfed: Sf1dl4j3s75TDHdF15a9VCpH1sxkSil9yQBa03dk.png
 pixellink: https://pixelfed.social/i/web/post/556909515382276238
 ---

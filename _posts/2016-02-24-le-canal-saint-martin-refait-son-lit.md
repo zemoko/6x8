@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Le-canal-Saint-Martin-refait-son-lit.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCLV2i8ymRr
 ---

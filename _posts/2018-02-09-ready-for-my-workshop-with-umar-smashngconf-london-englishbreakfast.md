@@ -10,5 +10,7 @@ tags:
   - "london"
   - "smashngconf"
 coverImage: ready-for-my-workshop-with-umar-smashngconf-london-englishbreakfast.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Be9-O0RgFcS
 ---

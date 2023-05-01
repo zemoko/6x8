@@ -10,6 +10,8 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "54afd8cd4b05f7fc57217b82272f9820.jpg"
+imgWidth: 360
+imgHeight: 497
 bookTitle: "La longue Terre, tome 2&nbsp;: La longue guerre"
 bookAuthor: "Terry Pratchett et Stephen Baxter"
 bookISBN: 9782841726646  

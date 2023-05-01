@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livres"
 coverImage: "IMG_5817-scaled.jpeg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 carousel: 
  - image: /images/2020/08/IMG_5806.jpeg

@@ -8,5 +8,7 @@ tags:
   - "dinosaures"
   - "miam"
 coverImage: Vous-etes-plutot-Petit-beurre-maison-ou-dinosaures-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 88izXZymXN
 ---

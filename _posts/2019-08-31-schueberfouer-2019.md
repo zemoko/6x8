@@ -7,6 +7,8 @@ categories:
 tags: 
   - "schueberfouer"
 coverImage: "67585185_123993065596789_3777158284106836216_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: B11Gjj5oaD1
 ---
 

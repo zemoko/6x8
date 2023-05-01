@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: c’etait-y’a-10-ans-nocesdetain.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BWhPGojg4kI
 ---

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: et-aussi-quelques-bredeles-quand-meme-miam-preparernoel.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BcQBAC0Ap5O
 ---

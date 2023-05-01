@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: le-blanc-paris-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bgfx9cJgPA_
 ---

@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: 978-2-84263-040-9.jpg
+imgWidth: 360
+imgHeight: 548
 bookTitle: "Comment je suis devenu stupide"
 bookAuthor: "Martin Page"
 bookISBN: 9782290319871  

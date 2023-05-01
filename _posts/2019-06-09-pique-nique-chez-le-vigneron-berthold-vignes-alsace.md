@@ -7,5 +7,7 @@ categories:
 tags:
   - "alsace"
 coverImage: "61913548_461879804560904_7451653215228665851_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: ByfiHFvogIN
 ---

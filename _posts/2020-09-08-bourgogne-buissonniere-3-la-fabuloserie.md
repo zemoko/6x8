@@ -6,6 +6,8 @@ categories:
   - "qui-voyage"
   - "trucs-de-parisien"
 coverImage: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104204630-26ff93da-xx.jpg
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

@@ -7,6 +7,8 @@ categories:
 tags: 
   - "jesuischarlie"
 coverImage: "16232547095_8b07ebe508_o.png"
+imgWidth: 360
+imgHeight: 178
 cover2left: true
 ---
 

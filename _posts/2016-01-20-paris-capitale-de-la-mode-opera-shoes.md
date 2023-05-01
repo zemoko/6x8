@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Paris-capitale-de-la-mode-Opera-shoes.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BAww-pbymWa
 ---

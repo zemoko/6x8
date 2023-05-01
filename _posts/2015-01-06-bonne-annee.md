@@ -5,6 +5,8 @@ date: "2015-01-06"
 categories: 
   - "trucs"
 coverImage: "voeux2015.png"
+imgWidth: 360
+imgHeight: 216
 cover2left: true
 ---
 

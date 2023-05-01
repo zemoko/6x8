@@ -8,6 +8,8 @@ tags:
   - "google"
   - "vie-privee"
 coverImage: "71614192_4118537f26_b.jpg"
+imgWidth: 360
+imgHeight: 271
 cover2left: true
 ---
 

@@ -10,5 +10,7 @@ tags:
   - "pokemon"
   - "pokemongo"
 coverImage: et-une-fournee-de-pokeballs-une-miam-pokemon-pokemongo.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BQs0RrKDsvd
 ---

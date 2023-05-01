@@ -7,6 +7,8 @@ categories:
 tags: 
   - "douglas-adams"
 coverImage: "Dont-Panic.jpg"
+imgWidth: 360
+imgHeight: 146
 cover2left: true
 ---
 

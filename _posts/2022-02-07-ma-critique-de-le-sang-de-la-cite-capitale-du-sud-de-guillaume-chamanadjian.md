@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: capitale-du-sud.jpg
+imgWidth: 360
+imgHeight: 526
 bookTitle: "Capitale du Sud, tome 1&nbsp;: Le sang de la cité "
 bookAuthor: "Guillaume Chamanadjian"
 bookISBN: 9782253103523  

@@ -10,6 +10,8 @@ tags:
   - "daniel-omalley"
   - "livre"
 coverImage: "41O61Mga-L._SX210_.jpg"
+imgWidth: 360
+imgHeight: 602
 bookTitle: "Au service surnaturel de sa majesté, tome 1&nbsp;: The Rook"
 bookAuthor: "Daniel O’Malley"
 bookISBN: 9782266250566  

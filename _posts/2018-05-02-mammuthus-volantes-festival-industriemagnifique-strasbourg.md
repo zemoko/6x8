@@ -8,6 +8,8 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: mammuthus-volantes-festival-industriemagnifique-strasbourg-1.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BiSXfg2j9zD
 ---
 

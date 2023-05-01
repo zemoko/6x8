@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: 9782226460745-j.jpg
+imgWidth: 360
+imgHeight: 522
 bookTitle: "Le Bureau des affaires occultes"
 bookAuthor: "Éric Fouassier"
 bookISBN: 9782253107729  

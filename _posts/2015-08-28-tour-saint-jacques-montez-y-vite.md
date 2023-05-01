@@ -8,6 +8,8 @@ categories:
 tags: 
   - "paris"
 coverImage: "DSC00785.jpg"
+imgWidth: 360
+imgHeight: 82
 cover2left: true
 ---
 

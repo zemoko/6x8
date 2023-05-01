@@ -8,6 +8,8 @@ categories:
 tags:
   - royan
 coverImage: 2021-07-21-plage-de-foncillon-royan.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: CRmOkBRBjCV
 post_image: 2021-07-21-plage-de-foncillon-royan.jpg
 post_image_large: 2021-07-21-plage-de-foncillon-royan_large.jpg

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "royan"
 coverImage: ces-vacances-de-paques-sannoncent-plutot-pas-mal-️.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BSq4IgsD2UF
 ---

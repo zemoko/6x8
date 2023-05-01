@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: warhol-invaders.jpg
+imgWidth: 360
+imgHeight: 526
 bookTitle: '<span lang="en">Warhol Invaders</span'
 bookAuthor: "Nicolas Labarre"
 bookISBN: 9782361837570  

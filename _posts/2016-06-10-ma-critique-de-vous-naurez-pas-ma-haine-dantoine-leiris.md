@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "image.html.jpg"
+imgWidth: 360
+imgHeight: 571
 bookTitle: "Vous n'aurez pas ma haine"
 bookAuthor: "Antoine Leiris"
 bookISBN: 9782213701295  

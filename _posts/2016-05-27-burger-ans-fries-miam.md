@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: Burger-ans-Fries-miam.jpg
+imgWidth: 360
+imgHeight: 321
 instagram: BF6IzuZSmf9
 ---

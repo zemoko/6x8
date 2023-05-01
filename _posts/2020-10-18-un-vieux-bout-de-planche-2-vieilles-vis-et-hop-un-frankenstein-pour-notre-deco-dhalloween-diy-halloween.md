@@ -8,5 +8,7 @@ tags:
   - "diy"
   - "halloween"
 coverImage: "122011551_714509086079886_5563927324479379772_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: p/CGffLybhg90
 ---

@@ -11,5 +11,7 @@ tags:
   - "parismaville"
   - "streetart"
 coverImage: ourq-living-color-streetart-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BkaboQPjpD0
 ---

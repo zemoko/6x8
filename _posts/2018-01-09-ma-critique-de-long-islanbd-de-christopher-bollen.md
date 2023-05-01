@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782702158890-001-T.jpeg"
+imgWidth: 360
+imgHeight: 552
 bookTitle: '<span lang="en">Long Island</span>'
 bookAuthor: "Christopher Bollen"
 bookISBN: 9782702158890  

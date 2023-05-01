@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: Pont-Alexandre-III-paris-parismaville-seine-crue-flood.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BGMTQyjymYe
 ---

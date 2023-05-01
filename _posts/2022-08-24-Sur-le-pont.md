@@ -8,6 +8,8 @@ categories:
 tags:
   - vacanceds
 coverImage: 2022-08-24.jpg
+imgWidth: 360
+imgHeight: 327
 instagram: Chpe4JAorjp
 post_image: 2022-08-24.jpg
 post_image_large: 2022-08-24_large.jpg

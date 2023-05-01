@@ -8,6 +8,8 @@ categories:
 tags: 
   - "paris"
 coverImage: "img_1499.jpg"
+imgWidth: 360
+imgHeight: 241
 cover2left: true
 carousel: 
   - image: /images/2017/08/IMG_1481.jpg

@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: la-vie-o-combien-ordinaire-d-hannah-green.jpg
+imgWidth: 360
+imgHeight: 541
 bookTitle: "La vie ô combien ordinaire d’Hannah Green"
 bookAuthor: "Michael Marshall Smith"
 bookISBN: 9791028113490  

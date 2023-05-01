@@ -8,6 +8,8 @@ categories:
 tags:
   - paris
 coverImage: 2021-10-26-un-week-end-epuisant.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: CUSPZSUoPdB
 post_image: 2021-10-26-un-week-end-epuisant.jpg
 post_image_large: 2021-10-26-un-week-end-epuisant_large.jpg

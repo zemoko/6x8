@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782226437341-j.jpg"
+imgWidth: 360
+imgHeight: 554
 bookTitle: "Les prénoms épicènes"
 bookAuthor: "Amélie Nothomb"
 bookISBN: 9782226437341  

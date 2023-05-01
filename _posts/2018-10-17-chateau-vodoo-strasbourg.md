@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: chateau-vodoo-strasbourg.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BpDMn-hDph2
 ---

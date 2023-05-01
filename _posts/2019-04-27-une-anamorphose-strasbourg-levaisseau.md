@@ -9,6 +9,8 @@ tags:
   - "anamorphose"
   - "strasbourg"
 coverImage: "56997690_334027307254647_8873459679463804047_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: Bww_DsFhP5d
 ---
 

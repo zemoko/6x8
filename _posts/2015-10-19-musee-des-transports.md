@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "londres"
 coverImage: Musee-des-transports.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9B6kMdymWh
 ---

@@ -9,6 +9,8 @@ tags:
   - "daniel-omalley"
   - "livre"
 coverImage: "agent-double-au-service-surnaturel-de-sa-majeste-2-roman-daniel-o-malley-1.jpg"
+imgWidth: 360
+imgHeight: 443
 bookTitle: "Au service surnaturel de sa majesté, tome 2&nbsp;: Agent double"
 bookAuthor: "Daniel O’Malley"
 bookISBN: 9782266286107  

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Non-rien...-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BAjVeG6ymdy
 ---

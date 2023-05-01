@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: premieres-gourmandises-de-2017-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BOxlp9sDByc
 ---

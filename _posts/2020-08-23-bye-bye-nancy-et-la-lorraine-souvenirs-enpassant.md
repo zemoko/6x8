@@ -7,5 +7,7 @@ categories:
 tags: 
   - "nancy"
 coverImage: "118127113_1024152921373229_1904899816683857084_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: CEPMhFcBAMV
 ---

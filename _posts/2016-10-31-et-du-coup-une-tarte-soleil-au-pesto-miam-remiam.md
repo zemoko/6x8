@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: et-du-coup-une-tarte-soleil-au-pesto-miam-remiam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BMPQ5qgDhlq
 ---

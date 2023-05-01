@@ -9,6 +9,8 @@ tags:
   - "strasbourg"
   - "streetart"
 coverImage: "75562941_179420369874202_5931597134647044369_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: B6NsAr0oBUC
 ---
 

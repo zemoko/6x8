@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "starwars"
 coverImage: Mythes-fondateurs-dHercule-a-DarkVador.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: _kRFeCymfL
 ---

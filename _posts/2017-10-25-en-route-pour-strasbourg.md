@@ -6,7 +6,11 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-coverImage: en-route-pour-strasbourg.jpg 
+  - "video"
+coverImage: en-route-pour-strasbourg.jpg
+post_video: 22831857_2045188399047829_6753676854227369984_n.mp4
+imgWidth: 360
+imgHeight: 360
 noImageOnPost: true
 ---
 

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: un-anniversaire-de-chevalier-ca-se-prepare-miam.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BPiITU1DPCp
 ---

@@ -9,6 +9,8 @@ tags:
   - "douglas-adams"
   - "livre"
 coverImage: "105-City-of-Death.jpg"
+imgWidth: 360
+imgHeight: 141
 cover2left: true
 ---
 

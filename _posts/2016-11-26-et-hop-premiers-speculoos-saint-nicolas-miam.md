@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: et-hop-premiers-speculoos-saint-nicolas-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BNSKFUXDlET
 ---

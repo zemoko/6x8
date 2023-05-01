@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Escapade à Baden-Baden et en Forêt Noire"
+title: "Escapade à <strong>Baden-Baden</strong> et en Forêt Noire"
 date: "2020-07-19"
 categories: 
   - "qui-sont-maintenant-alsaciens"
@@ -9,6 +9,8 @@ tags:
   - musee
   - rando
 coverImage: "AADCA387-7EE2-4FA0-A770-11E281E321F1_1_105_c.jpeg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 carousel:
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/09/20211109214605-45b3b246-xx.jpg

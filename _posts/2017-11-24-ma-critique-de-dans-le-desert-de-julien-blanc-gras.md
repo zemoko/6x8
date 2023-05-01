@@ -9,6 +9,8 @@ tags:
   - "julien-blanc-gras"
   - "livre"
 coverImage: "dans-le-désert.jpg"
+imgWidth: 360
+imgHeight: 549
 bookTitle: "Dans le désert"
 bookAuthor: "Julien Blanc-Gras"
 bookISBN: 9791030701586  

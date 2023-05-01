@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: 9781529034523.jpg
+imgWidth: 360
+imgHeight: 545
 bookTitle: "<abbr>H2G2</abbr>, tome 1&nbsp;: Le Guide du voyageur galactique"
 bookAuthor: "Douglas Adams"
 bookISBN: 9782070319015  

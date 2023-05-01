@@ -8,5 +8,7 @@ tags:
   - "rando"
   - "alsace"
 coverImage: "53302414_918536428477695_5891428883553612626_n.jpg"
+imgWidth: 360
+imgHeight: 269
 instagram: BvZizcWhlIG
 ---

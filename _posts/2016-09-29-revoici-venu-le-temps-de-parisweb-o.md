@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: revoici-venu-le-temps-de-@parisweb-o.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BK7jv6ajWGp
 ---

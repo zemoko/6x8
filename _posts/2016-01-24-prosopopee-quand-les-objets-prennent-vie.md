@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Prosopopee-quand-les-objets-prennent-vie.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BA7e5E3ymVv
 ---

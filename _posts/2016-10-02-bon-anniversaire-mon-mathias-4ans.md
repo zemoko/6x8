@@ -8,5 +8,7 @@ tags:
   - "miam"
   - "instagram"
 coverImage: bon-anniversaire-mon-mathias-4ans.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BLEP6M-DYLe
 ---

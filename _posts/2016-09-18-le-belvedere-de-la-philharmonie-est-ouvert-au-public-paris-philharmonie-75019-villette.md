@@ -10,5 +10,7 @@ tags:
   - "philharmonie"
   - "villette"
 coverImage: le-belvedere-de-la-philharmonie-est-ouvert-au-public-paris-philharmonie-75019-villette.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BKgDoCWhJwB
 ---

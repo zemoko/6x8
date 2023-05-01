@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "londres"
 coverImage: Cest-lautomne-a-Hyde-Park.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9EgrtVymQO
 ---

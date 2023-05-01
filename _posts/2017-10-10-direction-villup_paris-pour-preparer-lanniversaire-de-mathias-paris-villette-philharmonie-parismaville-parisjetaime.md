@@ -11,5 +11,7 @@ tags:
   - "parismaville"
   - "villette"
 coverImage: direction-@villup_paris-pour-preparer-l’anniversaire-de-mathias-paris-villette-philharmonie-parism.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BaEb30GgmHi
 ---

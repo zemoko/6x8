@@ -11,5 +11,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: paris-plage-c’est-fini-paris-parisplage-parismaville-parisjetaime-bassindelavillette.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BYlzZbrD-KH
 ---

@@ -9,5 +9,7 @@ tags:
   - "jeux-de-societe"
   - "boardgames"
 coverImage: on-valide-la-version-«-mon-premier-voyage-»-des-aventuriers-du-rail.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BKfNjQch5_h
 ---

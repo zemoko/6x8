@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: bonne-annee.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BOs1u-Ljz46
 ---

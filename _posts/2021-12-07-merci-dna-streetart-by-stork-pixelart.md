@@ -10,6 +10,8 @@ tags:
   - streetart
   - strasbourg
 coverImage: 2021-12-07-merci-dna-streetart-by-stork-pixelart.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: CXMhBsmo6_D
 post_image: 2021-12-07-merci-dna-streetart-by-stork-pixelart.jpg
 post_image_large: 2021-12-07-merci-dna-streetart-by-stork-pixelart_large.jpg

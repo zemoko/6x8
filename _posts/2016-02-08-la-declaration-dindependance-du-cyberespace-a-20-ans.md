@@ -5,6 +5,8 @@ date: "2016-02-08"
 categories: 
   - "trucs-de-geek"
 coverImage: "6523513689_baeec3c53c_b.jpg"
+imgWidth: 360
+imgHeight: 240
 cover2left: true
 ---
 

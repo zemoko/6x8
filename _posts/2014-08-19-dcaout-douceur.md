@@ -6,7 +6,10 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "japon"
 coverImage: 2008765458_a8f703713b_b.jpg
+imgWidth: 360
+imgHeight: 239
 cover2left: true
 ---
 

@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: en-rentrant-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BQLZvLGjwkO
 ---

@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Un-dimanche-aux-buttes.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BFRwfzJSmYR
 ---

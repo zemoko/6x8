@@ -10,6 +10,8 @@ tags:
   - anniversaire
   - birthday
 coverImage: 2021-10-02-bon-anniversaire-mathias.jpg
+imgWidth: 360
+imgHeight: 358
 instagram: CUh7Y23o1P2
 post_image: 2021-10-02-bon-anniversaire-mathias.jpg
 post_image_large: 2021-10-02-bon-anniversaire-mathias_large.jpg

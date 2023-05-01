@@ -7,6 +7,8 @@ categories:
 tags: 
   - "londres"
 coverImage: "Londres.png"
+imgWidth: 360
+imgHeight: 244
 cover2left: true
 ---
 

@@ -9,6 +9,8 @@ tags:
   - "lomo"
   - "LCA"
 coverImage: https://sitofotos.6x8.org/_data/i/upload/2021/07/14/20210714142959-6c69fa54-me.jpg
+imgWidth: 360
+imgHeight: 228
 cover2left: true
 carousel: 
   - image: https://sitofotos.6x8.org/_data/i/upload/2021/07/14/20210714143018-51642294-xx.jpg

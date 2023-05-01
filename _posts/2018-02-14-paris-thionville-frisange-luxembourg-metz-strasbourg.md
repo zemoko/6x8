@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "strasbourg"
 coverImage: paris-thionville-frisange-luxembourg-metz-strasbourg.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BfLYNg5gz8l
 ---

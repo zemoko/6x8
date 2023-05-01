@@ -10,6 +10,8 @@ tags:
   - "villette"
   - "art"
 coverImage: "DSC00832.jpg"
+imgWidth: 360
+imgHeight: 240
 cover2left: true
 ---
 

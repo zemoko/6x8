@@ -6,6 +6,8 @@ categories:
   - "trucs"
   - "trucs-de-webmaster"
 coverImage: "ba2023.png"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

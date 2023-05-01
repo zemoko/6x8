@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: cimetiere-juif-de-koenigshoffen.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: Bo6OCqujYVI
 ---

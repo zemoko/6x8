@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "martin-amis"
 coverImage: Time-s-arrow.jpg
+imgWidth: 360
+imgHeight: 556
 bookTitle: "La flèche du temps"
 bookAuthor: "Martin Amis"
 bookISBN: 9782264023582  

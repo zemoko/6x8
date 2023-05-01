@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Station-Cadet-1er-avril.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BDqgemvSmZ6
 ---

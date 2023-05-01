@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: Quand-il-ne-fait-pas-beau-on-fait-des-petits-gateaux-totoro-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BBuwUkwymVX
 ---

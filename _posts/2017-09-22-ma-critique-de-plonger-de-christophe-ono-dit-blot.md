@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "images.jpg"
+imgWidth: 360
+imgHeight: 592
 bookTitle: "Plonger"
 bookAuthor: "Christophe Ono-Dit-Biot"
 bookISBN: 9782070134274  

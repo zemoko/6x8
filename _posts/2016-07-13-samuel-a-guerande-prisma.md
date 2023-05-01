@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Samuel-a-Guerande-Prisma.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BH0UOnYj2xi
 ---

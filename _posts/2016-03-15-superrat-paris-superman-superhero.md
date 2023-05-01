@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Superrat-paris-superman-superhero.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BC-oSKnSmV7
 ---

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: visite-annuelle-chez-lallergologue-paris-panorama.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BLJTZxNjwy2
 ---

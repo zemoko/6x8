@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: Pas-Mathias-lautre-zouave-zouave-Alma-Paris-parismaville-seine-crue-flood.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BGMYD68SmUT
 ---

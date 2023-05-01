@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Inauguration-de-Little-Villette.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BFq5cAPymaU
 ---

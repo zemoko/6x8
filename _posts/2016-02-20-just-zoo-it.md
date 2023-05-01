@@ -5,6 +5,8 @@ date: "2016-02-20"
 categories: 
   - "trucs-instagrammes"
 coverImage: Just-zoo-it.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCBIWAcSma3
 ---
 

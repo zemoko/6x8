@@ -10,6 +10,8 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: Anamorphose-au-Louvre.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BF1g_mESmf2
 ---
 

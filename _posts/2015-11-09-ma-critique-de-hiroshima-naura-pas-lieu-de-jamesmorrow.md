@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Hiroshime-n-aura-pas-lieu.jpg"
+imgWidth: 360
+imgHeight: 428
 bookTitle: "Hiroshima n'aura pas lieu"
 bookAuthor: "James Morrow"
 bookISBN: 9782846268004  

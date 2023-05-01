@@ -9,6 +9,8 @@ tags:
   - "paris"
   - "philharmonie"
 coverImage: "IMG_6316.jpg"
+imgWidth: 360
+imgHeight: 83
 carousel: 
   - image: /images/2016/09/IMG_0757.jpg
   - image: /images/2016/09/IMG_0731.jpg

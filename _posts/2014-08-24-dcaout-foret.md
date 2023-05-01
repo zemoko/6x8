@@ -8,6 +8,8 @@ tags:
   - "dcaout"
   - "instagram"
 coverImage: 10533099_632411480189658_1417773562_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: sGC28SymV7
 ---
 

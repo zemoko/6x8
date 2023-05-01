@@ -9,5 +9,7 @@ tags:
   - "jeux-de-societe"
   - "boardgames"
 coverImage: Je-vous-presente-mon-nouveau-jeux-Star-Wars-Carcassonne-starwars-carcassonne-jeux.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BHC7lKnB_Mb
 ---

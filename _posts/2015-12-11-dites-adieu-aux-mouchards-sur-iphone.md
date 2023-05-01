@@ -9,6 +9,8 @@ tags:
   - "iphone"
   - "vie-privee"
 coverImage: "11791842566_3c2c71878a_k.jpg"
+imgWidth: 360
+imgHeight: 240
 cover2left: true
 ---
 

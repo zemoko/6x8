@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "La-vie-apres-e1577118650673.jpg"
+imgWidth: 360
+imgHeight: 575
 bookTitle: "La vie, après"
 bookAuthor: "Antoine Leiris"
 bookISBN: 9782221246412  

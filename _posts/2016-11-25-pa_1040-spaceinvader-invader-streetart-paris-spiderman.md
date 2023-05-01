@@ -10,6 +10,8 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1040-spaceinvader-invader-streetart-paris-spiderman.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BNPCFPIDoSs
 ---
 

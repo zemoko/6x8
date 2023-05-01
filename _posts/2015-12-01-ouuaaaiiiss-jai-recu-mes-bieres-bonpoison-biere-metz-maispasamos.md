@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "metz"
 coverImage: Ouuaaaiiiss-jai-recu-mes-bieres-@bonpoison-biere-metz-maisPasAmos.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -wZl7KSmbu
 ---

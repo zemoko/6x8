@@ -8,5 +8,7 @@ tags:
   - "bapteme"
   - "instagram"
 coverImage: passion-pliage-de-boites-et-remplissage-avec-des-dragees-bapteme.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BQ6Jw1CjtVi
 ---

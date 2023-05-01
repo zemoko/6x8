@@ -10,6 +10,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "la-tempete-des-echos-la-passe-miroir-tome-4-christelle-concernant-seul-au-monde-livre-tome-4.jpg"
+imgWidth: 360
+imgHeight: 522
 bookTitle: "La passe-miroir, tome 4&nbsp;: La tempête des échos "
 bookAuthor: "Christelle Dabos"
 bookISBN: 9782075093866  

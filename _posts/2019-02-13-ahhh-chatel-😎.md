@@ -7,5 +7,7 @@ categories:
 tags: 
   - "chatel"
 coverImage: "50590555_1975033696139262_858444522345748196_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: Bt1ZprdAJCQ
 ---

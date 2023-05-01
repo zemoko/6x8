@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "lego"
 coverImage: Jaime-trop-mon-cadeau-de-Noel-lego-DrWho.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: _6-UdZymbC
 ---

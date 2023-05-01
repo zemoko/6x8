@@ -7,6 +7,8 @@ categories:
 tags: 
   - "dcaout"
 coverImage: DCAout-tube-map.png
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

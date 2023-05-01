@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "royan"
 coverImage: A-Royan-le-violon-est-sur-le-sable-violonsurlesable.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BINj6JVg7O5
 ---

@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51yUv9TrPRL._SX331_BO1204203200_-200x300.jpg"
+imgWidth: 360
+imgHeight: 540
 bookTitle: "On se reverra"
 bookAuthor: "Lisa Jewel"
 bookISBN: 9782811229504  

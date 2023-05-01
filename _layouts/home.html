@@ -21,7 +21,14 @@ layout: default
       {%- for post in posts -%}
       <li class="grid-item">
         <div class="card {% if post.tags contains 'critique' %}critique{% endif %}">
-        {%- if post.coverImage -%}
+        {%- if post.coverImage or post.post_video -%}
+          {%- assign imageSize = '' -%}
+          {%- if post.imgWidth -%}
+            {% capture imageSize %}width="{{ post.imgWidth }}"{% endcapture %}
+          {%- endif -%}
+          {%- if post.imgHeight -%}
+            {% capture imageSize %}{{imageSize}} height="{{ post.imgHeight }}"{% endcapture %}
+          {%- endif -%}
           {%- if forloop.index > 6 -%}
             {%- assign lazyLoad = 'loading="lazy"' -%}
           {%- else -%}
@@ -29,19 +36,19 @@ layout: default
           {%- endif -%}
           <figure>
             {%- if post.post_video -%}
-            <video autoplay>
-              <source src="/images/{{ post.post_video }}" type="video/mp4">
+            <video controls autoplay muted loop {{imageSize}}>
+              <source src="/images/{{ post.date | date: "%Y/%m" }}/{{ post.post_video }}" type="video/mp4">
             </video>
             {%- else -%}
               {%- if post.coverImage contains "https" -%}
                 {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
-              <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
+              <img src="{{ coverImage }}" alt="" {{imageSize}}{{ lazyLoad }} />
               {%- else -%}
                 {% capture coverImage %}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
                 {% capture coverImageWebp %}{{ coverImage | replace:'.jpg','_360.webp' | replace:'.jpeg','_360.webp' | replace:'.png','_360.webp' }}{% endcapture %}
               <picture>
                 <source srcset="{{ coverImageWebp }}" type="image/webp">
-                <img src="{{ coverImage }}" alt="" {% imagesize coverImage:props %} {{ lazyLoad }} />
+                <img src="{{ coverImage }}" alt="" {{imageSize}} {{ lazyLoad }} />
               </picture>
               {%- endif -%}
             {%- endif -%}
@@ -111,7 +118,6 @@ layout: default
 
 </div>
 <script src="/masonry.pkgd.min.js"></script>
-<script src="/imagesloaded.pkgd.min.js"></script>
 <script>
 var elem = document.querySelector('.grid');
 var msnry = new Masonry( elem, {
@@ -124,9 +130,5 @@ var msnry = new Masonry( elem, {
 //   for an individual element
 var msnry = new Masonry( '.grid', {
   // options
-});
-
-imagesLoaded( elem ).on( 'progress', function() {
-  msnry.layout();
 });
 </script>

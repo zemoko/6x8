@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "royan"
 coverImage: hotel-arc-en-ciel.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BXdHjPyAHrw
 ---

@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "CVT_Le-secret-du-mari_5326.gif"
+imgWidth: 360
+imgHeight: 525
 bookTitle: "Périphériques"
 bookAuthor: "Liane Moriarty"
 bookISBN: 9782253067948  

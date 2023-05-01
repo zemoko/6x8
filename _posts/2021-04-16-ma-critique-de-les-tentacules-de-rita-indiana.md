@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782374252414.jpg"
+imgWidth: 360
+imgHeight: 540
 bookTitle: "Les tentacules"
 bookAuthor: "Rita Indiana"
 bookISBN: 9782374252414  

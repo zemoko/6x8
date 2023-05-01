@@ -10,5 +10,7 @@ tags:
   - "santaclaus"
   - "stnick"
 coverImage: o-bon-saint-nicolas-donne-nous-des-bonbons-saintnicolas-santaclaus-stnick.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bq2qCpdhXuY
 ---

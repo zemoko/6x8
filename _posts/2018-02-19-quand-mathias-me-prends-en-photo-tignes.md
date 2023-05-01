@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "tignes"
 coverImage: quand-mathias-me-prends-en-photo-tignes.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BfY05iQAqeU
 ---

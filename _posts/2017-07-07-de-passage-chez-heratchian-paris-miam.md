@@ -9,5 +9,7 @@ tags:
   - "miam"
   - "paris"
 coverImage: de-passage-chez-heratchian-paris-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BWPyUaZgFMy
 ---

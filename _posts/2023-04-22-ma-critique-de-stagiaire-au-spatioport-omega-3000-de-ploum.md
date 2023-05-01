@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: stagiaire-au-spatioport-omega-3000.jpg
+imgWidth: 360
+imgHeight: 240
 bookTitle: "Stagiaire au Spatioport Omega 3000 et autres joyeusetés que nous réserve le futur"
 bookAuthor: "Ploum"
 bookISBN: 9782940609291  

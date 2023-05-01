@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: bye-bye-chatel.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BQpRhK-DwNq
 ---

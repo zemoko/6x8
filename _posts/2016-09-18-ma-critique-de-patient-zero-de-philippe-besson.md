@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "ob_0e63d8_patient-zero-sida.jpg"
+imgWidth: 360
+imgHeight: 517
 bookTitle: "Patient Zéro"
 bookAuthor: "Philippe Besson"
 bookISBN: 9782368460115  

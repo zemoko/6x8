@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "51SukFvdfCL._SX195_.jpg"
+imgWidth: 360
+imgHeight: 526
 bookTitle: "L’enfant qui mesurait le monde"
 bookAuthor: "Metin Arditi"
 bookISBN: 9782757864487  

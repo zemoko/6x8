@@ -9,6 +9,8 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: spaceinvader-falseinvader-Paris-totoro.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BA1wZYbymVw
 ---
 

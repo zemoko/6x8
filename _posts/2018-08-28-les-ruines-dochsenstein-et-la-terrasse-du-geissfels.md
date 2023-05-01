@@ -8,6 +8,8 @@ tags:
   - "rando"
   - "alsaxe"
 coverImage: "img_3470.jpg"
+imgWidth: 360
+imgHeight: 180
 cover2left: true
 ---
 

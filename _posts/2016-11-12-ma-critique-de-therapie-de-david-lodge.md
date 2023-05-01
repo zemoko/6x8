@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "41VbWCmorML._SX330_BO1204203200_.jpg"
+imgWidth: 360
+imgHeight: 541
 bookTitle: "Thérapie"
 bookAuthor: "David Lodge"
 bookISBN: 9782743603298  

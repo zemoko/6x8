@@ -8,6 +8,8 @@ tags:
   - "firefox"
   - "vie-privee"
 coverImage: "3620040021_b483d77f7b_b.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

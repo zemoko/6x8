@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: retour-a-paname.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BRJYP7kDSBD
 ---

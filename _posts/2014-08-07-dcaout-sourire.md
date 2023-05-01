@@ -7,6 +7,8 @@ categories:
 tags: 
   - "dcaout"
 coverImage: DSCF00281.jpg
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

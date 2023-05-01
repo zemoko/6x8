@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: joyeux-noel.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BdGCPWigCEX
 ---

@@ -11,6 +11,8 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "La_Longue_Terre.jpg"
+imgWidth: 360
+imgHeight: 487
 bookTitle: "La Longue Terre, tome 1&nbsp;: La longue terre"
 bookAuthor: "Terry Pratchett et Stephen Baxter"
 bookISBN: 9782841726370  

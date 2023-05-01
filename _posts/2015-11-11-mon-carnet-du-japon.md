@@ -7,6 +7,8 @@ categories:
 tags: 
   - "japon"
 coverImage: "2010989949_716700ef44_b.jpg"
+imgWidth: 360
+imgHeight: 147
 cover2left: true
 ---
 

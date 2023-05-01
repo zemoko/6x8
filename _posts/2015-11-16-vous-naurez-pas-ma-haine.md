@@ -7,6 +7,8 @@ categories:
 tags: 
   - "paris"
 coverImage: "22590133777_407447f938_k.jpg"
+imgWidth: 360
+imgHeight: 240
 cover2left: true
 ---
 

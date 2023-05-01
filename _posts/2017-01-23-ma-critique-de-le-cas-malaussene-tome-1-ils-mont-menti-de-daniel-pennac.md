@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "product_9782070142316_195x320.jpg"
+imgWidth: 360
+imgHeight: 532
 bookTitle: "Le cas Malaussène, tome 1&nbsp;: Ils m’ont menti"
 bookAuthor: "Daniel Pennac"
 bookISBN: 9782072935442  

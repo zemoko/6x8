@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: bulle...-ou-geode-geode-paris-parismaville-parisjetaime-villette.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BVNGHSpDaRE
 ---

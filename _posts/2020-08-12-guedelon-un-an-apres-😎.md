@@ -7,6 +7,8 @@ categories:
 tags:
   - "chateau"
 coverImage: "117228792_126762212117862_1505238928589540526_n-2.jpg"
+imgWidth: 360
+imgHeight: 340
 instagram: CDy4gCgheU-
 ---
 

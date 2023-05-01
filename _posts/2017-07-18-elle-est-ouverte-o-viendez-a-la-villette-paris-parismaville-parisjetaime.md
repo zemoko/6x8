@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: elle-est-ouverte-o-viendez-a-la-villette-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BWrXWIEAPuw
 ---

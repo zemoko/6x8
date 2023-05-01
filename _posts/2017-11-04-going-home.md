@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: going-home.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BbFCHiCgjBq
 ---

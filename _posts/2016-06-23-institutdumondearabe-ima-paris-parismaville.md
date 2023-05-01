@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: institutdumondearabe-IMA-paris-parismaville.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BHAsb5hSmQM
 ---

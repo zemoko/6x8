@@ -9,6 +9,8 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: Bowg7MHDcjG
 ---
 

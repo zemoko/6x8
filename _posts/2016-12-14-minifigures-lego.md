@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "lego"
 coverImage: minifigures-lego.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BOAumP-lUrm
 ---

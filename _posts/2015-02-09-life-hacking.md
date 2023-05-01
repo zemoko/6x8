@@ -5,6 +5,8 @@ date: "2015-02-09"
 categories: 
   - "trucs"
 coverImage: "7419840080_f62121ffb8_o.png"
+imgWidth: 360
+imgHeight: 122
 cover2left: true
 ---
 

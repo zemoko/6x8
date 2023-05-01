@@ -9,6 +9,8 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1249-spaceinvader-invader-paris-streetart-mario-supermario-yoshi.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: "BYdroAaDe3z"
 ---
 

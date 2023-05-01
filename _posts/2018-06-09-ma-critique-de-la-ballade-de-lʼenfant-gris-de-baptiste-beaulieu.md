@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782863744444-001-T.jpeg"
+imgWidth: 360
+imgHeight: 577
 bookTitle: "La ballade de lʼenfant gris"
 bookAuthor: "Baptiste Beaulieu"
 bookISBN: 9782253070986  

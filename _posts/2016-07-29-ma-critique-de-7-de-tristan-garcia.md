@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "7.jpg"
+imgWidth: 360
+imgHeight: 428
 noImageOnPost: true
 ---
 

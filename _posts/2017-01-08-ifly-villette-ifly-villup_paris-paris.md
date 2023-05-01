@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "villette"
 coverImage: ifly-villette-@ifly-@villup_paris-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BPAz4HODZhk
 ---

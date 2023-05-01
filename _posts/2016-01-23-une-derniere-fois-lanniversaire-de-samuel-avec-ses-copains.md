@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: Une-derniere-fois-lanniversaire-de-Samuel-avec-ses-copains.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BA4wv0JymUe
 ---

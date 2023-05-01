@@ -7,6 +7,8 @@ categories:
 tags: 
   - "instagram"
 coverImage: ballade-en-seine.jpg
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

@@ -8,6 +8,8 @@ categories:
 tags:
   - film
 coverImage: 2022-01-18-fanny-ardant-et-moi-cinema.jpg
+imgWidth: 360
+imgHeight: 325
 instagram: CY45aT5IgPw
 post_image: 2022-01-18-fanny-ardant-et-moi-cinema.jpg
 post_image_large: 2022-01-18-fanny-ardant-et-moi-cinema_large.jpg

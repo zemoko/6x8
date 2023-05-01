@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: non-rien-paris-parismaville.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BM8bgwXj46i
 ---

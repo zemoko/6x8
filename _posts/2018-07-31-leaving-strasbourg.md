@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: leaving-strasbourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bl4q7fEDFAb
 ---

@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Sur-la-jetee-du-Trehic-lecroisic.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BHiF9YTBcVm
 ---

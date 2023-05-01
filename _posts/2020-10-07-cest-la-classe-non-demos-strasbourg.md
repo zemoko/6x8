@@ -7,5 +7,7 @@ categories:
 tags: 
   - "strasbourg"
 coverImage: "120844364_370281607490093_7892448175592103183_n.jpg"
+imgWidth: 360
+imgHeight: 450
 instagram: CGCmW4-htOA
 ---

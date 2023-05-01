@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: escapade-a-saint-peray.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BNAb-flj408
 ---

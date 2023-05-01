@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "steeetart"
 coverImage: steeetart-Paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCQn1GCSmY1
 ---

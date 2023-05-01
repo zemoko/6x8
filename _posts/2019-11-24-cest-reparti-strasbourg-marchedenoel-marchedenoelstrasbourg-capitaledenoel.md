@@ -6,6 +6,12 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "strasbourg"
-coverImage: "72953740_969691173430321_108880143202172057_n.jpg"
+coverImage: 2019-11-b5qmvejo1ce.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: B5QMVeJo1Ce
+post_image: 2019-11-b5qmvejo1ce.jpg
+post_image_large: 2019-11-b5qmvejo1ce_large.jpg
+post_image_small: 2019-11-b5qmvejo1ce_thumbnail.jpg
+
 ---

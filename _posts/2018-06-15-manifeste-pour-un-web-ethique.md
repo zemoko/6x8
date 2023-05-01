@@ -10,6 +10,8 @@ tags:
   - "rgpd"
   - "web"
 coverImage: "all-we-need.jpg"
+imgWidth: 360
+imgHeight: 202
 cover2left: true
 ---
 

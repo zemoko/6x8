@@ -7,6 +7,8 @@ categories:
 tags: 
   - "histoires"
 coverImage: fullsizeoutput_9d87.jpeg
+imgWidth: 360
+imgHeight: 269
 cover2left: true
 ---
 

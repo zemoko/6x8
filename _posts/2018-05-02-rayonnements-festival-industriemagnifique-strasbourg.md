@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: rayonnements-festival-industriemagnifique-strasbourg.jpg 
+imgWidth: 360
+imgHeight: 450
 instagram: BiShTg0jQ-d
 ---

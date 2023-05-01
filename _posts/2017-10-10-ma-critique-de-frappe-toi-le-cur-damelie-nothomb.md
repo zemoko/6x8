@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "870x489_fich_diff_nothomb.jpg"
+imgWidth: 360
+imgHeight: 202
 bookTitle: "Frappe-toi le coeur"
 bookAuthor: "Amélie Nothomb"
 bookISBN: 9782226399168   

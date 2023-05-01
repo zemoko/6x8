@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "wuthering-heights1.jpg"
+imgWidth: 360
+imgHeight: 568
 bookTitle: "Les Hauts de Hurle-vent"
 bookAuthor: "Emily Brontë"
 bookISBN: 9782253004752  

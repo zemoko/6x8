@@ -11,6 +11,8 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: p1a_1097-joconde-monalisa-spaceinvader-invader-streetart-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BNPDgYdjtRY
 ---
 

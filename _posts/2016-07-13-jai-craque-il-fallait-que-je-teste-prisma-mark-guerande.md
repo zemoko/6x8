@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Jai-craque-il-fallait-que-je-teste-prisma-mark-guerande.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BH0SYLujeCq
 ---

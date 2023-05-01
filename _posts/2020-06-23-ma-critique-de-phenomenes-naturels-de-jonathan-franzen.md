@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "71AIN4ukn3L.jpg"
+imgWidth: 360
+imgHeight: 546
 bookTitle: "Phénomènes naturels"
 bookAuthor: "Jonathan Franzen"
 bookISBN: 9782823601930  

@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "index.jpg"
+imgWidth: 360
+imgHeight: 555
 bookTitle: "Riquet à la houppe"
 bookAuthor: "Amélie Nothomb"
 bookISBN: 9782226328779  

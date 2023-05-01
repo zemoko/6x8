@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "parisweb"
 coverImage: 12081248_423292121205216_2024622900_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 8XaUlvymRL
 ---

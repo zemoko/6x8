@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782234084407-001-T.jpeg"
+imgWidth: 360
+imgHeight: 573
 bookTitle: "Comme à la guerre"
 bookAuthor: "William"
 bookISBN: 9782234084407  

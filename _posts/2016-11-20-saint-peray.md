@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: saint-peray.jpg
+imgWidth: 360
+imgHeight: 449
 instagram: BNBpP5RjO2z
 ---

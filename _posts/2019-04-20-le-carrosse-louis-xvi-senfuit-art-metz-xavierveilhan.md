@@ -7,5 +7,7 @@ categories:
 tags:
   - "metz"
 coverImage: "56414162_342410093079230_3066979874244681635_n.jpg"
+imgWidth: 360
+imgHeight: 269
 instagram: BweHyE8hlny
 ---

@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "woodehouse"
 coverImage: "51gwNadkaKL._SX195_.jpg"
+imgWidth: 360
+imgHeight: 548
 bookTitle: "Si j’étais vous"
 bookAuthor: "<abbr>P.G.</abbr> Woodehouse"
 bookISBN: 9782251210155  

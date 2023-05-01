@@ -7,6 +7,8 @@ categories:
 tags:
   - musee
 coverImage: "109258914_1609005642591416_5014296665043535052_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: CCydkx0B2Fv
 ---
 

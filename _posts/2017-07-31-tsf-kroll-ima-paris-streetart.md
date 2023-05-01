@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "streetart"
 coverImage: tsf-kroll-ima-paris-streetart.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BXN-gybggbW
 ---

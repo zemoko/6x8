@@ -7,5 +7,7 @@ categories:
 tags:
   - "strasbourg"
 coverImage: "54266427_1084064521778774_1494976549555827448_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: BvPhEKihbR8
 ---

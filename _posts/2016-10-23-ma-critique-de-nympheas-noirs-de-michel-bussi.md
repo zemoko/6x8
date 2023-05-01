@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782266264112.jpg"
+imgWidth: 360
+imgHeight: 590
 bookTitle: "Nymphéas noirs"
 bookAuthor: "Michel Bussi"
 bookISBN: 9782258089617  

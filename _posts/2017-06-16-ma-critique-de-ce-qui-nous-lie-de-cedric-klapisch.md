@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "film"
 coverImage: "116426.jpg"
+imgWidth: 360
+imgHeight: 200
 cover2left: true
 ---
 

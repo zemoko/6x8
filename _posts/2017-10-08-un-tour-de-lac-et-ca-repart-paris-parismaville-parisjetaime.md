@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: un-tour-de-lac-et-ca-repart-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BZ_kdTFAHOt
 ---

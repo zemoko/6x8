@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: bonjour-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BohKuvMDv1n
 ---

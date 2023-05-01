@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "comédies-françaises.jpg"
+imgWidth: 360
+imgHeight: 527
 bookTitle: "Comédies françaises"
 bookAuthor: "Éric Reinhardt"
 bookISBN: 9782072796982  

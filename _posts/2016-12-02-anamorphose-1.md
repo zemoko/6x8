@@ -7,6 +7,8 @@ categories:
 tags: 
   - "anamorphose"
 coverImage: anamorphose-1.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BNg8LtUDtpf
 ---
 

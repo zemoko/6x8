@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: La-nouvelle-Canopee-des-Halles-paris-ParisMaVille.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BD3Fo8uSmZh
 ---

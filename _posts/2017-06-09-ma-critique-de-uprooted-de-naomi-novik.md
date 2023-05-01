@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9781447294146.jpg"
+imgWidth: 360
+imgHeight: 548
 bookTitle: '<span lang="en">Uprooted</span>'
 bookAuthor: "Naomi Novik"
 bookISBN: 9782290154892  

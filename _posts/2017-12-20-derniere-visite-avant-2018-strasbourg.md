@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: derniere-visite-avant-2018-strasbourg.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: Bc74lLggmrw
 ---

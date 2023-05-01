@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Ordinary-people.jpg"
+imgWidth: 360
+imgHeight: 533
 bookTitle: '<span lang="en">Ordinary People</span>'
 bookAuthor: "Diana Evans"
 bookISBN: 9782266313087  

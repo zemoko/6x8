@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: Jai-fini-mes-calissons-Je-peux-aller-voir-Star-Wars.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: _zHRYfSmRM
 ---

@@ -10,6 +10,8 @@ tags:
   - "douglas-adams"
   - "livre"
 coverImage: "Dirk-Gentlys-Holistic-Detective-Agency.jpg"
+imgWidth: 360
+imgHeight: 566
 bookTitle: "Un cheval dans la salle de bain"
 bookAuthor: "Douglas Adams"
 bookISBN: 9782070426829  

@@ -9,6 +9,8 @@ tags:
   - "paris"
   - "parisjetaime"
   - "parismaville"
-coverImage: un-dimanche-a-la-villette-paris-parismaville-parisjetaime.jpg 
+coverImage: un-dimanche-a-la-villette-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BaRg41hAQN2
 ---

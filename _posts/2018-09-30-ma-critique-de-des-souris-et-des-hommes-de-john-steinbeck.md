@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "OfMiceAndMen_main.jpg"
+imgWidth: 360
+imgHeight: 203
 bookTitle: "Des souris et des hommes"
 bookAuthor: "John Steinbeck"
 bookISBN: 9782070360376   

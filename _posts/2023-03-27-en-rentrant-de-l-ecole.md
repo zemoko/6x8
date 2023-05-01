@@ -9,6 +9,8 @@ tags:
   - "pixelfed"
   - "strasbourg"
 coverImage: 546009303138086001.png
+imgWidth: 360
+imgHeight: 360
 pixelfed: 546009303138086001.png
 pixellink: https://pixelfed.social/p/zemoko/546009303138086001
 ---

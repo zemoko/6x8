@@ -11,5 +11,7 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: Love-is-in-the-air-PA_1218-spaceinvader-paris-streetart.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BIsUSvLA8WC
 ---

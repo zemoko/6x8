@@ -5,6 +5,8 @@ date: "2014-10-16"
 categories: 
   - "trucs-de-webmaster"
 coverImage: "logo-parisweb.png"
+imgWidth: 360
+imgHeight: 164
 cover2left: true
 ---
 

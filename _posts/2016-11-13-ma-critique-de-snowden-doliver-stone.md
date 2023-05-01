@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "film"
 coverImage: "ob_a748d4_snowden.jpg"
+imgWidth: 360
+imgHeight: 133
 cover2left: true
 ---
 

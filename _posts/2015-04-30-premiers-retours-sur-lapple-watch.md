@@ -7,6 +7,8 @@ categories:
 tags: 
   - "apple-watch"
 coverImage: "16320048483_802e27e2c4_b.jpg"
+imgWidth: 360
+imgHeight: 257
 cover2left: true
 ---
 

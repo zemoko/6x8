@@ -4,7 +4,12 @@ title: "Bombe Braquier #Dragées #Verdun #Baptême"
 date: "2019-05-12"
 categories: 
   - "trucs-instagrammes"
+tags:
+  - "video"
 coverImage: "59713168_458899024918038_1769040322631263361_n.jpg"
+post_video: "60465446_2290634434544716_7191347636662371067_n.mp4"
+imgWidth: 360
+imgHeight: 360
 instagram: BxXlpYPoGU8
 ---
 

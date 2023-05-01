@@ -7,6 +7,8 @@ categories:
 tags: 
   - "streetart"
 coverImage: "72410257_2368546753362788_4189585875336741156_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: B37Ese_Iqzw
 ---
 

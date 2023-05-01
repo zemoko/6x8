@@ -10,5 +10,7 @@ tags:
   - "legostore"
   - "london"
 coverImage: lego-store-lego-legostore-london.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Be8-2icARBe
 ---

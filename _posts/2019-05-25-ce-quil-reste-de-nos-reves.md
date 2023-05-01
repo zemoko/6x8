@@ -11,6 +11,8 @@ tags:
   - "web"
   - "livre"
 coverImage: "640_vasseur-reve.jpg"
+imgWidth: 360
+imgHeight: 200
 cover2left: true
 ---
 

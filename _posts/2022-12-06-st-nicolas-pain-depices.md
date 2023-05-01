@@ -8,6 +8,8 @@ tags:
   - "recette"
   - "miam"
 coverImage: "st-nicolas.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

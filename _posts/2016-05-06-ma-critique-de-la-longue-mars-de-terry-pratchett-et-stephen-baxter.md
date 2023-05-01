@@ -10,6 +10,8 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "La-longue-Mars-Pratchett-Baxter.jpg"
+imgWidth: 360
+imgHeight: 497
 bookTitle: "La Longue Terre, tome 3&nbsp;: La longue Mars"
 bookAuthor: "Terry Pratchett et Stephen Baxter"
 bookISBN: 9782841727063  

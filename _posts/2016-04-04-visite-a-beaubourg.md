@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Visite-a-Beaubourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BDyBhBkymfQ
 ---

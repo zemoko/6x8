@@ -9,6 +9,8 @@ tags:
   - "recette"
   - "miam"
 coverImage: "66408376_884290791905189_3781925000901696145_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: BzYeCTLIPJj
 ---
 

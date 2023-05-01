@@ -12,5 +12,7 @@ tags:
   - "parisis"
   - "parismaville"
 coverImage: Ce-soir-je-me-reconfortes-en-buvant-une-Parisis-Paris-JeSuisParisien-ParisMaVille-PrayForParis-Fluct.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -ExMqpymdx
 ---

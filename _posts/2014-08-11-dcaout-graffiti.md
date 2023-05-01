@@ -7,6 +7,8 @@ categories:
 tags: 
   - "dcaout"
 coverImage: 9a0372ae5b1111e2a82422000a9e07ae_7.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: UTNSH_ymYD
 ---
 

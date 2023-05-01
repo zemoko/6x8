@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "strasbourg"
 coverImage: week-end-a-strasbourg-strasbourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BgrU52Ogaro
 ---

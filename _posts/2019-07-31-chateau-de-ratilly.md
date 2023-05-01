@@ -7,6 +7,8 @@ categories:
 tags: 
   - "chateau"
 coverImage: "66492490_117758129529965_4439183750547749869_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: B0lKw_QIcrN
 ---
 

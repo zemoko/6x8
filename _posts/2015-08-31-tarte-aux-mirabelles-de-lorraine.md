@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: 11909934_924284060971260_479247879_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 7C9tPFSmSw
 ---

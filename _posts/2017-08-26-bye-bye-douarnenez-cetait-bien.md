@@ -8,5 +8,7 @@ tags:
   - "douarnenez"
   - "instagram"
 coverImage: bye-bye-douarnenez.-c’etait-bien.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BYPu9zKDxre
 ---

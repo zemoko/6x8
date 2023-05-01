@@ -9,5 +9,7 @@ tags:
   - "instagram"
   - "qualiteweb"
 coverImage: merci-@opquast-fier-qualiteweb.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BQLzZZ9D_5u
 ---

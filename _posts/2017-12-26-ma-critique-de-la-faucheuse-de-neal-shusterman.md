@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "CVT_La-Faucheuse_6195.jpg"
+imgWidth: 360
+imgHeight: 572
 bookTitle: "La faucheuse"
 bookAuthor: "Neal Shusterman"
 bookISBN: 9782221198674  

@@ -7,6 +7,8 @@ categories:
 tags: 
   - "voyage"
 coverImage: "IMG_1176.jpg"
+imgWidth: 360
+imgHeight: 81
 cover2left: true
 ---
 

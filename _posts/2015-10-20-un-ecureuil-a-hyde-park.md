@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "londres"
 coverImage: Un-ecureuil-a-Hyde-Park.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9En3EzymeD
 ---

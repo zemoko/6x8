@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Aujourdhui-grace-au-Cafezoide-on-rends-la-rue-aux-enfants.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BF_LQFsSmZK
 ---

@@ -10,5 +10,7 @@ tags:
   - "parismaville"
   - "philharmonie"
 coverImage: Tiens-on-voit-la-philharmonie-paris-parismaville.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BGj0SgWymTW
 ---

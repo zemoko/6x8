@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Fluctuat-nec-mergitur-Paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -DroVISmSD
 ---

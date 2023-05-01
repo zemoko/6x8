@@ -10,5 +10,7 @@ tags:
   - "paris"
   - "villette"
 coverImage: Foot-Foraine-a-la-villette-paris-manege.jpg
+imgWidth: 360
+imgHeight: 249
 instagram: BG2YKwhymbq
 ---

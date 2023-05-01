@@ -11,5 +11,7 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1317-lonesome-cowboy-bill-streetart-paris-spaceinvader-invader.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BfGbR57A7LD
 ---

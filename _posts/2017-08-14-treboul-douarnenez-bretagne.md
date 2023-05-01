@@ -9,5 +9,7 @@ tags:
   - "douarnenez"
   - "instagram"
 coverImage: treboul-douarnenez-bretagne.jpg
+imgWidth: 360
+imgHeight: 203
 instagram: BXxxooCA14V
 ---

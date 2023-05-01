@@ -9,6 +9,8 @@ tags:
   - "oxford"
   - "smashingconf"
 coverImage: "10954581_455883447909616_172403037_n.jpg"
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

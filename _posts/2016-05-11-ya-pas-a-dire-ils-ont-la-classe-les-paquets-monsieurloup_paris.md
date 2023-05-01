@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Ya-pas-a-dire-ils-ont-la-classe-les-paquets-@monsieurloup_paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BFRwt35SmY7
 ---

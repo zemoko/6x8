@@ -8,6 +8,8 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: PA_1008-spaceinvader-Paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: -lr8xwSmVo
 ---
 

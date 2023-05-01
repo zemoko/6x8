@@ -9,6 +9,8 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1347-good-fortune-spaceinvader-streetart-paris-invader-pole-le-@cic.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bkcjn9EjVpy
 ---
 

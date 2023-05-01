@@ -9,6 +9,8 @@ tags:
   - "neige"
   - "ski"
   - "tignes"
-coverImage: quelle-hauteur-de-neige-deja-tignes-neige-ski.jpg 
+coverImage: quelle-hauteur-de-neige-deja-tignes-neige-ski.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BfivxWaAEXM
 ---

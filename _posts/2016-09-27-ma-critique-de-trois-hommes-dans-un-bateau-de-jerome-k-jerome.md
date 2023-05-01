@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Trois_hommes_dans_un_bateau.jpg"
+imgWidth: 360
+imgHeight: 491
 bookTitle: "Trois hommes dans un bateau"
 bookAuthor: "Jérôme K. Jérôme"
 bookISBN: 9782080705365  

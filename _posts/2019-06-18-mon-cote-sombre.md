@@ -5,6 +5,8 @@ date: "2019-06-18"
 categories: 
   - "trucs-de-webmaster"
 coverImage: "dark-toy-computer-black.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

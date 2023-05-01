@@ -10,6 +10,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "product_9782070197385_195x320.jpg"
+imgWidth: 360
+imgHeight: 526
 bookTitle: "L’homme qui s’envola"
 bookAuthor: "Antoine Bello"
 bookISBN: 9782070197385  

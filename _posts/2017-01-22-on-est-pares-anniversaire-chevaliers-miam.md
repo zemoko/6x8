@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: on-est-pares-anniversaire-chevaliers-miam.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BPkehqCD6Q0
 ---

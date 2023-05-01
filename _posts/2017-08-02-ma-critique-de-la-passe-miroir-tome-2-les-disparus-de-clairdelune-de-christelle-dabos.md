@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "2070661989.jpg"
+imgWidth: 360
+imgHeight: 522
 bookTitle: "La passe-miroir, tome 2&nbsp;: Les disparus du Clairdelune"
 bookAuthor: "Christelle Dabos"
 bookISBN: 9782070661985  

@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "50205.jpg"
+imgWidth: 360
+imgHeight: 444
 bookTitle: "Gagner la guerre"
 bookAuthor: "Jean-Philippe Jaworski"
 bookISBN: 9782915793642  

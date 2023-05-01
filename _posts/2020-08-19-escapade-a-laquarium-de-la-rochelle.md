@@ -9,6 +9,8 @@ tags:
   - "aquarium"
   - "la-rochelle"
 coverImage: "https://sitofotos.6x8.org/i.php?/upload/2020/08/18/20200818202758-15e2097f-xx.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 carousel: 
   - image: https://sitofotos.6x8.org/i.php?/upload/2020/08/18/20200818202932-c50ea7c8-xx.jpg

@@ -7,6 +7,8 @@ categories:
 tags: 
   - "parisweb"
 coverImage: "logo-parisweb.png"
+imgWidth: 360
+imgHeight: 164
 cover2left: true
 ---
 

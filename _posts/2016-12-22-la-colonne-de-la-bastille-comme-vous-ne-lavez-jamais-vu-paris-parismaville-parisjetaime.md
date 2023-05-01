@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: la-colonne-de-la-bastille-comme-vous-ne-lavez-jamais-vu-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BOU9uNoj8Aj
 ---

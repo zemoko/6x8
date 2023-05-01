@@ -8,6 +8,8 @@ categories:
 tags: 
   - "jeux-de-societe"
 coverImage: "IMG_4479-scaled.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

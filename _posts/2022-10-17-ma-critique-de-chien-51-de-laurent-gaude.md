@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: couv-Chien-51.jpg
+imgWidth: 360
+imgHeight: 679
 bookTitle: "Chien 51"
 bookAuthor: "Laurent Gaudé"
 bookISBN: 9782330168339  

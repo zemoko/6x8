@@ -5,5 +5,7 @@ date: "2020-10-19"
 categories: 
   - "trucs-instagrammes"
 coverImage: "121734791_378193956924901_4593603472920618973_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: CGiNb6kB_oi
 ---

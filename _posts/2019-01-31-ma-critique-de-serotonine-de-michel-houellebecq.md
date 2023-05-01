@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "10130153-e1548966227498.gif"
+imgWidth: 360
+imgHeight: 617
 bookTitle: "Sérotonine"
 bookAuthor: "Michel Houellebecq"
 bookISBN: 9782081471757  

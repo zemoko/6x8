@@ -9,5 +9,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: paris-paname-seine-parismaville-parisjetaime.jpg 
+imgWidth: 360
+imgHeight: 269
 instagram: BfGrjV-gY6r
 ---

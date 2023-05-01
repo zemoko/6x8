@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: 9782330139179.jpg
+imgWidth: 360
+imgHeight: 576
 bookTitle: "Leurs enfants après eux"
 bookAuthor: "Nicolas Mathieu"
 bookISBN: 9782330108717   

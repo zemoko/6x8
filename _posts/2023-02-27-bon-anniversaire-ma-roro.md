@@ -9,5 +9,7 @@ tags:
   - "pixelfed"
   - "miam"
 coverImage: 535907069028593806.jpg
+imgWidth: 360
+imgHeight: 360
 pixelfed: 535907069028593806.jpg
 ---

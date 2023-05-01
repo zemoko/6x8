@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: le-corbeau-d-oxford.jpg
+imgWidth: 360
+imgHeight: 568
 bookTitle: "Le corbeau d'Oxford"
 bookAuthor: "Faith Martin"
 bookISBN: 9791033909941  

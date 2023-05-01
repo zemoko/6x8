@@ -7,6 +7,8 @@ categories:
 tags: 
   - "instagram"
 coverImage: "50068008_2223124481283499_8796968167034481640_n.jpg"
+imgWidth: 360
+imgHeight: 270
 instagram: Bs3QOJBhewl
 ---
 

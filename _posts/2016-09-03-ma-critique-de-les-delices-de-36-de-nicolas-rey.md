@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "ob_544203_les-delices-de-36-01.jpg"
+imgWidth: 360
+imgHeight: 511
 bookTitle: "Les délices de 36"
 bookAuthor: "Nicolas Rey"
 bookISBN: 9782368460641  

@@ -8,6 +8,8 @@ tags:
   - "miam"
   - "paris"
 coverImage: Nitrogenie-le-nouveau-glacier-parisien-qui-fait-de-bien-bonnes-glaces-a-l-azote-paris-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BJIeqQ_gQQb
 ---
 

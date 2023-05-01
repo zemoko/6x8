@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Harry-Potter-and-the-Cursed-Child-artwork.jpg"
+imgWidth: 360
+imgHeight: 203
 bookTitle: '<span lang="en">Harry Potter and the Cursed Child</span>'
 bookAuthor: "John Tiffany et <abbr>JK</abbr> Rowling"
 bookISBN: 9782075074209   

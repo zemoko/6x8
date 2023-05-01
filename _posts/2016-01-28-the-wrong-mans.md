@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "serie-tv"
 coverImage: "maxresdefault.jpg"
+imgWidth: 360
+imgHeight: 203
 cover2left: true
 ---
 

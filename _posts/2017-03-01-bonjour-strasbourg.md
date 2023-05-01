@@ -8,6 +8,8 @@ categories:
 tags: 
   - "strasbourg"
 coverImage: bonjour-strasbourg-nd.jpg
+imgWidth: 360
+imgHeight: 449
 instagram: BRGtefjDi4G
 ---
 

@@ -9,5 +9,7 @@ tags:
   - "miam"
   - "starwars"
 coverImage: Bon-anniversaire-mon-Samuel-miam-starwars.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BAff_jRSmQb
 ---

@@ -10,6 +10,8 @@ tags:
   - "strasbourg"
   - "streetart"
 coverImage: "collage.jpg"
+imgWidth: 360
+imgHeight: 133
 ---
 
 **Ça doit bien faire 20 ans que je m'amuse à chasser les [Space invaders](http://sitofotos.6x8.org/index.php?/category/2) sur les murs de Paris** (et de quelques autres villes). J'aime le street art, les inspirations d'Invader me parlent, et cette habitude m'a toujours forcé à ouvrir les yeux, voire lever le regard, et à diversifier et multiplier mes trajets. Bref, que du bon. Merci [Invader](http://www.space-invaders.com/home/).

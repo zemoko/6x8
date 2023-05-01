@@ -9,5 +9,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Baon-JDg7RU
 ---

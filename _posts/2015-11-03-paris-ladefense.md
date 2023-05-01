@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Paris-ladefense.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9oEURoSmUI
 ---

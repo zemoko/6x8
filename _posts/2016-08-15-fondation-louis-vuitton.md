@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Fondation-Louis-Vuitton.jpg
+imgWidth: 360
+imgHeight: 449
 instagram: BJI_nrjArlm
 ---

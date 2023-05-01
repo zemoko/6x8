@@ -8,5 +8,7 @@ tags:
   - "jeux-de-societe"
   - "boardgames"
 coverImage: l’age-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: Bm5d-IgjrzL
 ---

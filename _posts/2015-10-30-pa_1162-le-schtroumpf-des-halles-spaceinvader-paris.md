@@ -8,6 +8,8 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: "PA_1162-le-Schtroumpf-des-Halles-spaceinvader-paris.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: 9doMzOSmev
 ---
 

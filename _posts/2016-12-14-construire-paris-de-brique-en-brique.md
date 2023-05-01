@@ -9,6 +9,8 @@ tags:
   - "expo"
   - "lego"
 coverImage: MDP_LEGO_Affiche_WEB.jpg
+imgWidth: 360
+imgHeight: 528
 cover2left: true
 ---
 

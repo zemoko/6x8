@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "CVT_Ecoutez-nos-defaites_3325.jpg"
+imgWidth: 360
+imgHeight: 685
 bookTitle: "Écoutez nos défaites"
 bookAuthor: "Laurent Gaudé"
 bookISBN: 9782330066499  

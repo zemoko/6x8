@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "coup-de-coeur"
 coverImage: The_Peripheral_-_William_Gibson.jpg
+imgWidth: 360
+imgHeight: 544
 bookTitle: "Périphériques"
 bookAuthor: "William Gibson"
 bookISBN: 9791030702132 

@@ -8,6 +8,8 @@ categories:
 tags:
   - miam
 coverImage: 2022-10-09-cjfizh5ir7o.jpg
+imgWidth: 360
+imgHeight: 329
 instagram: CjfiZh5IR7o
 post_image: 2022-10-09-cjfizh5ir7o.jpg
 post_image_large: 2022-10-09-cjfizh5ir7o_large.jpg

@@ -9,5 +9,7 @@ tags:
   - "aquarium"
   - "paris"
 coverImage: Le-canal-Saint-Martin-refait-son-lit.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCBIllsSmbY
 ---

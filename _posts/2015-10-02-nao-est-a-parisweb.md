@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "parisweb"
 coverImage: 12070634_985361594819777_1133198581_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 8VHNyEymbe
 ---

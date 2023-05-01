@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: voyages-avec-ma-tante.jpg
+imgWidth: 360
+imgHeight: 564
 bookTitle: "Voyages avec ma tante"
 bookAuthor: "Graham Greene"
 bookISBN: 9782264038005  

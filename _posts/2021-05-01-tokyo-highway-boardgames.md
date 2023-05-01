@@ -9,6 +9,8 @@ tags:
   - boardgames
   - jeux-de-societe
 coverImage: 2021-05-01-tokyo-highway-boardgames.jpg
+imgWidth: 360
+imgHeight: 270
 instagram: COVR5YehOop
 post_image: 2021-05-01-tokyo-highway-boardgames.jpg
 post_image_large: 2021-05-01-tokyo-highway-boardgames_large.jpg

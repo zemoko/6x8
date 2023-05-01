@@ -8,6 +8,8 @@ tags:
   - "allonsenfantsdubataclan"
   - "bataclan"
 coverImage: allons-enfants-du-bataclan.jpg
+imgWidth: 360
+imgHeight: 203
 cover2left: true
 ---
 

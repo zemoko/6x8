@@ -7,6 +7,8 @@ categories:
 tags: 
   - "nantes"
   - "instagram"
-coverImage: nantes-eboy.jpg 
+coverImage: nantes-eboy.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BZRntuPAlut
 ---

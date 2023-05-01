@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: sauver-la-planete.-une-biere-a-la-fois.-pbc.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bl6K-L8jUjY
 ---

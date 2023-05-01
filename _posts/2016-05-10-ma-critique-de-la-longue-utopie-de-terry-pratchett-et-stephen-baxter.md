@@ -10,6 +10,8 @@ tags:
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "la-longue-utopie.jpg"
+imgWidth: 360
+imgHeight: 497
 bookTitle: "La Longue Terre, tome 4&nbsp;: La longue utopie"
 bookAuthor: "Terry Pratchett et Stephen Baxter"
 bookISBN: 9782841727537  

@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: d-ailleurs-les-poissons.jpg
+imgWidth: 360
+imgHeight: 532
 bookTitle: "D’ailleurs, les poissons n’ont pas de pieds<"
 bookAuthor: "Jón Kalman Stefánsson"
 bookISBN: 9782070145959  

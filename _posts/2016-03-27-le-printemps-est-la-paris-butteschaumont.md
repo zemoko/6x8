@@ -9,5 +9,7 @@ tags:
   - "instagram"
   - "paris"
 coverImage: Le-printemps-est-la-paris-butteschaumont.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BDdYubmymdS
 ---

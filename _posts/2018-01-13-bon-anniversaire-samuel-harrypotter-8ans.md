@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: bon-anniversaire-samuel-harrypotter-8ans.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Bd43VcVg6EF
 ---

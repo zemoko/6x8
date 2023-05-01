@@ -4,7 +4,11 @@ title: "« Les 100 lumières », installation de Yann Kersalé"
 date: "2017-08-20"
 categories: 
   - "trucs-instagrammes"
+  - "video"
 coverImage:  «-les-100-lumieres-»-installation-de-yann-kersale.jpg
+post_video: 21037282_138653083409161_2463226519497998336_n.mp4
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

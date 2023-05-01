@@ -7,6 +7,8 @@ categories:
 tags: 
   - "lego"
 coverImage: "IMG_45713.jpg"
+imgWidth: 360
+imgHeight: 360
 cover2left: true
 ---
 

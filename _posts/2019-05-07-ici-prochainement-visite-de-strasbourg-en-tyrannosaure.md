@@ -8,6 +8,8 @@ tags:
   - "jeux-de-societe"
   - "strasbourg"
 coverImage: "IMG_1589.jpg"
+imgWidth: 360
+imgHeight: 585
 noImageOnPost: true
 ---
 

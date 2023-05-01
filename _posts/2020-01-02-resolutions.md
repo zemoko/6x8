@@ -6,6 +6,8 @@ categories:
   - "trucs-de-geek"
   - "trucs-de-webmaster"
 coverImage: "4538657204_d337a72477_k.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

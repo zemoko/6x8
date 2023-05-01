@@ -11,5 +11,7 @@ tags:
   - "parismaville"
   - "villette"
 coverImage: apres-la-glace-le-brouillard-villette-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BP68zORDcnB
 ---

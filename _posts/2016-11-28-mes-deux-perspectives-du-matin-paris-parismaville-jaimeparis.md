@@ -10,5 +10,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: mes-deux-perspectives-du-matin-paris-parismaville-jaimeparis.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BNWMaSFjn-r
 ---

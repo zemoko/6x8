@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: EXTERMINATE-DrWho-Manele-miam-dalek-doctorwho.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: YgoxdSmdN/
 ---

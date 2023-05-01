@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: Les-Lames-du-Cardinal.jpeg
+imgWidth: 360
+imgHeight: 560
 bookTitle: "Les lames du Cardinal"
 bookAuthor: "Pierre Pevel"
 bookISBN: 9782352941613  

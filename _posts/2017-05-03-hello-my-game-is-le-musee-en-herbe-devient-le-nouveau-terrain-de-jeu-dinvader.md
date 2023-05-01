@@ -10,6 +10,8 @@ tags:
   - "invader"
   - "paris"
 coverImage: "IMG_8623.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

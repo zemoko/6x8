@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: bye-bye-la-lorraine.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BdaSsypgGkm
 ---

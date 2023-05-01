@@ -7,5 +7,7 @@ categories:
 tags:
   - "miam"
 coverImage: "53341587_387362218747787_5687172862306206112_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: BuZRINaBhg5
 ---

@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "tignes"
 coverImage: allons-skier-sur-le-glacier-tignes-️️⛷.jpg 
+imgWidth: 360
+imgHeight: 188
 instagram: Bfay6gYg-iX
 ---

@@ -8,6 +8,8 @@ categories:
 tags: 
   - "expo"
 coverImage: "morozov.webp"
+imgWidth: 360
+imgHeight: 180
 cover2left: false
 ---
 

@@ -11,5 +11,7 @@ tags:
   - "spaceinvader"
   - "streetart"
 coverImage: as-good-as-david-vincent-ldn_77-20-points-spaceinvader-invader-london-streetart.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Be6e2a8AAry
 ---

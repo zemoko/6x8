@@ -6,7 +6,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-coverImage: Aux-Buttes-Chaumont-certains-bancs-hebergent-des-histoires-lt3-httpsurlesbancs.com_.jpg
+coverImage: Aux-Buttes-Chaumont-certains-bancs-hebergent-des-histoires.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BFeK0LMymY
 ---
 

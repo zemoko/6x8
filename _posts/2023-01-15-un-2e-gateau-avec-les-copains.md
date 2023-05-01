@@ -8,6 +8,8 @@ categories:
 tags:
   - miam
 coverImage: 2023-01-15-cnchzvni4iq.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: CncHZVnI4IQ
 post_image: 2023-01-15-cnchzvni4iq.jpg
 post_image_large: 2023-01-15-cnchzvni4iq_large.jpg

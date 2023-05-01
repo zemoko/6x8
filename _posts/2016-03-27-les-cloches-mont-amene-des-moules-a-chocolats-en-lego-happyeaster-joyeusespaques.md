@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "lego"
 coverImage: Les-cloches-mont-amene-des-moules-a-chocolats-en-Lego-happyeaster-joyeusespaques.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BDdmRJeymYr
 ---

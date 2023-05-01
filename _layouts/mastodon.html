@@ -42,21 +42,28 @@ layout: default
       </div>
 {%- if page.coverImage -%}
   {%- unless page.noImageOnPost -%}
+    {%- assign imageSize = '' -%}
+    {%- if page.imgWidth -%}
+      {% capture imageSize %}width="{{ page.imgWidth }}"{% endcapture %}
+    {%- endif -%}
+      {%- if page.imgHeight -%}
+        {% capture imageSize %}{{imageSize}} height="{{ page.imgHeight }}"{% endcapture %}
+    {%- endif -%}
     {% capture imagePath %}/images/{{ page.date | date: "%Y/%m" }}/{{ include.name }}{% endcapture %}
         <figure>
     {%- if page.coverImage contains "https" -%}
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
-          <img src="{{ coverImage }}" alt="" />
+          <img src="{{ coverImage }}" alt="" {{imageSize}} />
     {%- else -%}
-      {%- if post.coverImage contains "png" -%}
-        {% capture coverImage %}{{ post.coverImage }}{% endcapture %}
-          <img src="{{ coverImage }}" alt="" {{ lazyLoad }} />
+      {%- if page.coverImage contains "png" -%}
+        {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
+          <img src="{{ coverImage }}" alt="" {{imageSize}} {{ lazyLoad }} />
         {%- else -%}
       {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
       {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
           <picture>
             <source srcset="{{ coverImageWebp }}" type="image/webp">
-            <img src="{{ coverImage }}" alt="" />
+            <img src="{{ coverImage }}" alt="" {{imageSize}} />
           </picture>
       {%- endif -%}
     {%- endif -%}

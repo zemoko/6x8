@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: tiens-il-a-neige...-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BfxLjNfAWoe
 ---

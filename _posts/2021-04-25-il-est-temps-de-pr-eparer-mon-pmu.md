@@ -7,6 +7,8 @@ categories:
   - trucs-instagrammes
 tags: []
 coverImage: 2021-04-25-il-est-temps-de-pr-eparer-mon-pmu.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: COFe0EIhAdk
 post_image: 2021-04-25-il-est-temps-de-pr-eparer-mon-pmu.jpg
 post_image_large: 2021-04-25-il-est-temps-de-pr-eparer-mon-pmu_large.jpg

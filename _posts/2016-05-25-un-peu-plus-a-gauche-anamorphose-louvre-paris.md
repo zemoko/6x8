@@ -9,6 +9,8 @@ tags:
   - "louvre"
   - "paris"
 coverImage: Un-peu-plus-a-gauche-anamorphose-louvre-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BF13yc1SmZ-
 ---
 

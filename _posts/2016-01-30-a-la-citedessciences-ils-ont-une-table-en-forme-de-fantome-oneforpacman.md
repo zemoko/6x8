@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: A-la-@citedessciences-ils-ont-une-table-en-forme-de-fantome-oneforpacman.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BBKcWEwymSI
 ---

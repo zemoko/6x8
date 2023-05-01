@@ -9,5 +9,7 @@ tags:
   - "ski"
   - "tignes"
 coverImage: yeaaaahhhh-ski-vacances-bonheur-tignes.jpg
+imgWidth: 360
+imgHeight: 188
 instagram: BfYNaiQg_wU
 ---

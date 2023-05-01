@@ -9,6 +9,8 @@ tags:
   - "musee"
   - "paris"
 coverImage: "/MA/img_1658-2.jpg"
+imgWidth: 360
+imgHeight: 241
 cover2left: true
 ---
 

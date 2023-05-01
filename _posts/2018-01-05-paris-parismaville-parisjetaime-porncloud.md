@@ -9,5 +9,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: paris-parismaville-parisjetaime-porncloud.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: BdkwTR1AGEg
 ---

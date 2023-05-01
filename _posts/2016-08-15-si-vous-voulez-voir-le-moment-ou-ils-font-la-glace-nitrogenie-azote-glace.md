@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Si-vous-voulez-voir-le-moment-ou-ils-font-la-glace-nitrogenie-azote-glace.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BJIhbgiAxmB
 ---

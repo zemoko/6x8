@@ -10,5 +10,7 @@ tags:
   - "miam"
   - "instagram"
 coverImage: Samuel.-Episode-VI.-anniversaire-birthday-gateau-rainbowcake-starwars.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BApgAzBSmYo
 ---

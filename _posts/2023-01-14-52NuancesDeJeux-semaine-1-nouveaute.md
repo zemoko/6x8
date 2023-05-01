@@ -8,6 +8,8 @@ tags:
   - "mastodon"
   - "jeux-de-societe"
 coverImage: "86c48eed94b768a9.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 noImageOnPost: false
 carousel: 

@@ -6,6 +6,8 @@ categories:
   - "trucs"
   - "trucs-de-webmaster"
 coverImage: "Bonne-annee-2021.png"
+imgWidth: 360
+imgHeight: 222
 cover2left: true
 ---
 

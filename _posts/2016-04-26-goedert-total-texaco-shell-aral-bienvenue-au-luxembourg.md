@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Goedert-Total-Texaco-Shell-Aral...-Bienvenue-au-Luxembourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BErAjJiSmZW
 ---

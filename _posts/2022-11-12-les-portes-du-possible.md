@@ -9,6 +9,8 @@ tags:
   - "expo"
   - "metz"
 coverImage: "les-portes-du-possible.jpg"
+imgWidth: 360
+imgHeight: 223
 cover2left: true
 ---
 

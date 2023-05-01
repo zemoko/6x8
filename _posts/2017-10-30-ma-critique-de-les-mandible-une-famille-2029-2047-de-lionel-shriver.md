@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9782714474230.jpg"
+imgWidth: 360
+imgHeight: 583
 bookTitle: "Les Mandible&nbsp;: Une famille, 2029-2047"
 bookAuthor: "Lionel Shriver"
 bookISBN: 9782714474230  

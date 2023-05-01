@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "parismaville"
 coverImage: Encore-Beaubourg.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BDyzE_XymWt
 ---

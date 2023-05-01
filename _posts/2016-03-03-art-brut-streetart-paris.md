@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "streetart"
 coverImage: Art-brut-streetart-Paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCfs6U7Smd5
 ---

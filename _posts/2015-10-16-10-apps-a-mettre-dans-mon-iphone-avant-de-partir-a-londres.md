@@ -8,6 +8,8 @@ tags:
   - "iphone"
   - "londres"
 coverImage: "Londres.jpg"
+imgWidth: 360
+imgHeight: 159
 cover2left: true
 ---
 

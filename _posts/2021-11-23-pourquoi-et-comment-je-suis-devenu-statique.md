@@ -5,6 +5,8 @@ date: "2021-11-23"
 categories: 
   - "trucs-de-webmaster"
 coverImage: 7588800922_b7abff2da3_c.jpg
+imgWidth: 360
+imgHeight: 240
 cover2left: true
 ---
 

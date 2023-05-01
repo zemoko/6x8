@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "CVT_Le-Temps-fut_3873.jpg"
+imgWidth: 360
+imgHeight: 541
 bookTitle: "Le temps fut"
 bookAuthor: "Ian McDonald"
 bookISBN: 9782843449604  

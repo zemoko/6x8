@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "717tSUBZ3hL.jpg"
+imgWidth: 360
+imgHeight: 560
 bookTitle: "Les sept morts d’Evelyn Hardcastle"
 bookAuthor: "Stuart Turton"
 bookISBN: 9782264064066  

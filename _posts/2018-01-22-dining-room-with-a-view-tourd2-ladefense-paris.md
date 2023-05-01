@@ -7,6 +7,8 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-coverImage: dining-room-with-a-view-tourd2-ladefense-paris.jpg 
+coverImage: dining-room-with-a-view-tourd2-ladefense-paris.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BeQ7E0rgFGN
 ---

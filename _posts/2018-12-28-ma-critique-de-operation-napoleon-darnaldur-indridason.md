@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "9791022604413.jpg"
+imgWidth: 360
+imgHeight: 553
 bookTitle: "Opération Napoléon<"
 bookAuthor: "Arnaldur Indridason"
 bookISBN: 9782757862582  

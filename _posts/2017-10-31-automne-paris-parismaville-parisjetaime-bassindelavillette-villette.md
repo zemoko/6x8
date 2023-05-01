@@ -11,5 +11,7 @@ tags:
   - "parismaville"
   - "villette"
 coverImage: automne-paris-parismaville-parisjetaime-bassindelavillette-villette.jpg
+imgWidth: 360
+imgHeight: 269
 instagram: Ba56JX0AuFF
 ---

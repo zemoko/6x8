@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: musee-de-la-chasse-et-de-la-nature.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: Baon1XGgfn-
 ---

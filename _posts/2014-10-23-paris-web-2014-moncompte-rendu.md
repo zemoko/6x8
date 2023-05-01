@@ -6,7 +6,9 @@ categories:
   - "trucs-de-webmaster"
 tags: 
   - "parisweb"
-coverImage: "B0IqsSbIMAAMZ43.jpg-large.jpg"
+coverImage: "B0IqsSbIMAAMZ43.jpg"
+imgWidth: 360
+imgHeight: 146
 cover2left: true
 ---
 

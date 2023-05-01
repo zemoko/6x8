@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "1507-1.jpg"
+imgWidth: 360
+imgHeight: 593
 bookTitle: "Paris est une fête"
 bookAuthor: "Ernest Hemingway"
 bookISBN: 9782070364657  

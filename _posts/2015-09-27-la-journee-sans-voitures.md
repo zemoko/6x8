@@ -6,6 +6,8 @@ categories:
   - "a-paris"
   - "trucs-de-parisien"
 coverImage: "IMG_0322.jpg"
+imgWidth: 360
+imgHeight: 241
 cover2left: true
 ---
 

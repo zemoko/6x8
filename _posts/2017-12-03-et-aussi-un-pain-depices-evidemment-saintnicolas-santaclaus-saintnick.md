@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "saintnicolas"
 coverImage: et-aussi-un-pain-d’epices-evidemment-saintnicolas-santaclaus-saintnick.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BcPju51gDAT
 ---

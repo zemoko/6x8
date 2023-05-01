@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "miam"
 coverImage: cette-annee-les-sables-de-noel-sont-bicolores-miam.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BOILnbRjhJ2
 ---

@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Le-Royaume-Immobile.png"
+imgWidth: 360
+imgHeight: 572
 bookTitle: "Le Paris des merveilles, tome 3&nbsp;: Le royaume immobile"
 bookAuthor: "Pierre Pevel"
 bookISBN: 9791028113308  

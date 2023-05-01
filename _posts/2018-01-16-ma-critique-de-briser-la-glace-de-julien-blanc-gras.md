@@ -9,6 +9,8 @@ tags:
   - "julien-blanc-gras"
   - "livre"
 coverImage: "30495946886_707475ba49_k.jpg"
+imgWidth: 360
+imgHeight: 123
 bookTitle: "Briser la glace"
 bookAuthor: "Julien Blanc-Gras"
 bookISBN: 9782352211730   

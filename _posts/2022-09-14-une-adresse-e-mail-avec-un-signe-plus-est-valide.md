@@ -6,6 +6,8 @@ categories:
   - trucs-de-webmaster
 tags: []
 coverImage: 23457159216_bef9ca53bd_c.jpg
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

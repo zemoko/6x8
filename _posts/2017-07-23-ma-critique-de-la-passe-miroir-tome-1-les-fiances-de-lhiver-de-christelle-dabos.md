@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "PM1.jpg"
+imgWidth: 360
+imgHeight: 153
 cover2left: true
 bookTitle: "La passe-miroir, tome 1&nbsp;: Les fiancés de l’hiver"
 bookAuthor: "Christelle Dabos"

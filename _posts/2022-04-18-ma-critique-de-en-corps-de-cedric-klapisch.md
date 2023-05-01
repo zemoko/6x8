@@ -9,6 +9,8 @@ tags:
   - "film"
   - "coup-de-coeur"
 coverImage: l_en_corps_affiche_officielle.jpg
+imgWidth: 360
+imgHeight: 489
 cover2left: true
 ---
 

@@ -8,6 +8,8 @@ categories:
 tags: 
   - "playmobil"
 coverImage: "playmobil_1_la-ville-medievale.jpg"
+imgWidth: 360
+imgHeight: 270
 noImageOnPost: true
 ---
 

@@ -9,6 +9,8 @@ tags:
   - miam
   - anniversaire
 coverImage: 2022-02-27-bon-anniversaire-roro-miam-anniversaire-licorne.jpg
+imgWidth: 360
+imgHeight: 405
 instagram: Cae2IAZoyU3
 post_image: 2022-02-27-bon-anniversaire-roro-miam-anniversaire-licorne.jpg
 post_image_large: 2022-02-27-bon-anniversaire-roro-miam-anniversaire-licorne_large.jpg

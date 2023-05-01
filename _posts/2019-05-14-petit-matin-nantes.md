@@ -5,6 +5,8 @@ date: "2019-05-14"
 categories: 
   - "trucs-instagrammes"
 coverImage: "59461547_488644691709294_4873303546066401695_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: BxbuWcvIpAp
 ---
 

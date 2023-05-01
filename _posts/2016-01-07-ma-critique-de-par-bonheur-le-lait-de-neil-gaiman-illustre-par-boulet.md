@@ -9,6 +9,8 @@ tags:
   - "livre"
   - "neil-gailman"
 coverImage: "bonheur-lait.jpg"
+imgWidth: 360
+imgHeight: 916
 bookTitle: "Par bonheur, le lait"
 bookAuthor: "Neil Gaiman"
 bookISBN: 9782846269681  

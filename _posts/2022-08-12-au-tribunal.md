@@ -10,6 +10,8 @@ tags:
   - streetart
   - strasbourg
 coverImage: 2022-08-12.jpg
+imgWidth: 360
+imgHeight: 324
 instagram: ChKjPSnIfit
 post_image: 2022-08-12.jpg
 post_image_large: 2022-08-12_large.jpg

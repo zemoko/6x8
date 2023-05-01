@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "Les_cosmonautes_ne_font_que_passer.jpg"
+imgWidth: 360
+imgHeight: 491
 bookTitle: "Périphériques"
 bookAuthor: "Elitza Gueorguieva"
 bookISBN: 9782070187096  

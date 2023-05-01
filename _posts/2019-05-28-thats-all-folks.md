@@ -4,7 +4,11 @@ title: "That's all folks!"
 date: "2019-05-28"
 categories: 
   - "trucs"
+tags:
+  - "video"
 coverImage: "785234673.jpg"
+imgWidth: 360
+imgHeight: 203
 cover2left: true
 ---
 

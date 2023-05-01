@@ -8,5 +8,7 @@ tags:
   - "instagram"
   - "mozilla"
 coverImage: fouyouyou-il-etait-complique-a-monter-ce-@firefox-papertoys-mozilla.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BdkoeXxgU-V
 ---

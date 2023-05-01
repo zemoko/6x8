@@ -8,6 +8,8 @@ categories:
 tags: 
   - "strasbourg"
 coverImage: "66363143_153385329098543_390724314002078107_n.jpg"
+imgWidth: 360
+imgHeight: 269
 instagram: B0_S5-Bhy8l
 ---
 

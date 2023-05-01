@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Bien-arrive-a-Madrid.-Stop.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 9Sza6nymWa
 ---

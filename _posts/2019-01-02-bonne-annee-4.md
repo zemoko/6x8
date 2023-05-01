@@ -5,6 +5,8 @@ date: "2019-01-02"
 categories: 
   - "trucs"
 coverImage: "BA2019.jpg"
+imgWidth: 360
+imgHeight: 237
 cover2left: true
 ---
 

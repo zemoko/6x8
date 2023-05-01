@@ -7,5 +7,7 @@ categories:
 tags: 
   - "instagram"
 coverImage: Evrange-Iewrengen.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BEqpHo0SmZ3
 ---

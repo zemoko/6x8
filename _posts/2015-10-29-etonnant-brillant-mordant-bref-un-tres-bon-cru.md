@@ -10,6 +10,8 @@ tags:
   - "film"
   - "woody-allen"
 coverImage: "Photo-du-film-LHOMME-IRRATIONNEL.jpg"
+imgWidth: 360
+imgHeight: 158
 cover2left: true
 ---
 

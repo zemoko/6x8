@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "couv7225099.jpg"
+imgWidth: 360
+imgHeight: 522
 bookTitle: "La passe-miroir, tome 3&nbsp;: La mémoire de Babel"
 bookAuthor: "Christelle Dabos"
 bookISBN: 9782075081894  

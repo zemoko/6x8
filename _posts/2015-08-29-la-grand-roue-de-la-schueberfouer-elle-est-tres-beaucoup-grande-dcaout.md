@@ -8,5 +8,7 @@ tags:
   - "dcaout"
   - "instagram"
 coverImage: 10611077_111874362499390_75272657_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 6-MZ5OSmcG
 ---

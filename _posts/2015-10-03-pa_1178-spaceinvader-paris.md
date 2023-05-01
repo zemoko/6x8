@@ -9,6 +9,8 @@ tags:
   - "paris"
   - "spaceinvader"
 coverImage: 12080641_1646346808966296_630388639_n.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: 8YA6PdSmW7
 ---
 

@@ -10,5 +10,7 @@ tags:
   - "parisjetaime"
   - "parismaville"
 coverImage: tout-eiffel-paris-parismaville-parisjetaime.jpg
+imgWidth: 360
+imgHeight: 450
 instagram: BaooxDzgqxf
 ---

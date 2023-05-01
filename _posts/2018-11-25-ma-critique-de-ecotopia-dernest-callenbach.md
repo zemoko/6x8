@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "5bb772e752d3d.jpg"
+imgWidth: 360
+imgHeight: 360
 bookTitle: "Écotopia"
 bookAuthor: "Ernest Callenbach"
 bookISBN: 9782072872549  

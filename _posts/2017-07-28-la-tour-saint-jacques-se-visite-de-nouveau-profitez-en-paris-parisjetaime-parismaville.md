@@ -9,6 +9,8 @@ tags:
   - "paris"
   - "parisjetaime"
   - "parismaville"
-coverImage: la-tour-saint-jacques-se-visite-de-nouveau-profitez-en-paris-parisjetaime-parismaville.jpg 
+coverImage: la-tour-saint-jacques-se-visite-de-nouveau-profitez-en-paris-parisjetaime-parismaville.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BXFx4OaAitJ
 ---

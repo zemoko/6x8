@@ -10,5 +10,7 @@ tags:
   - "paris"
   - "villette"
 coverImage: pokemon-lego-paris-villette-pokemon-lego-pokemongo-littlevilette.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BKOOQQCgMvJ
 ---

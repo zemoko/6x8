@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Marivaudage à Auschwitz"
 date: "2015-10-18"
 categories: 
@@ -9,12 +9,17 @@ tags:
   - "livre"
   - "martin-amis"
 coverImage: "La_Zone_d_interet-220x300.jpg"
+imgWidth: 360
+imgHeight: 491
 noImageOnPost: true
+bookTitle: "La zone d'intérêt"
+bookAuthor: "Martin Amis"
+bookISBN: 9782702157275   
+bookRating: 4
 ---
 
 ## Critique de **« La zone d'intérêt »** de _Martin Amis_
 
-{% include image.html class="right book" %}
 L'endroit n'est jamais mentionné mais on reconnait Auschwitz.
 
 Trois voix se succèdent sous la plume de Martin Amis pour **raconter l'irracontable** dans une farce burlesque :

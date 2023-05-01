@@ -9,6 +9,8 @@ tags:
   - "anamorphose"
   - "paris"
 coverImage: "11184644_356906051172358_208299288_n.jpg"
+imgWidth: 360
+imgHeight: 360
 instagram: 18UTd_ymVA
 ---
 

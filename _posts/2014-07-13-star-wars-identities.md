@@ -8,6 +8,8 @@ tags:
   - "expo"
   - "starwars"
 coverImage: "7769398251_l-exposition-star-wars-identites.jpg"
+imgWidth: 360
+imgHeight: 244
 cover2left: true
 ---
 

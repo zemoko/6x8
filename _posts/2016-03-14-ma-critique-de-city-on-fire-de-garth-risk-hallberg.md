@@ -9,6 +9,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: "City-on-fire-e1457974184657.jpg"
+imgWidth: 360
+imgHeight: 563
 bookTitle: '<span lang="en">City on Fire</span>'
 bookAuthor: "Garth Risk Hallberg"
 bookISBN: 9782259228190  

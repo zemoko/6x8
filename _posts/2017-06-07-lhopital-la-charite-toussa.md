@@ -7,6 +7,8 @@ categories:
 tags: 
   - "vie-privee"
 coverImage: "455502609_2d90b892a9_b.jpg"
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 ---
 

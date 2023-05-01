@@ -9,5 +9,7 @@ tags:
   - "paris"
   - "streetart"
 coverImage: Ride-un-Peace-paris-streetart.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BBpMF1ZSmdn
 ---

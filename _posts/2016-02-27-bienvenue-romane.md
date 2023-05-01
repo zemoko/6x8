@@ -5,6 +5,8 @@ date: "2016-02-27"
 categories: 
   - "trucs-instagrammes"
 coverImage: Bienvenue-Romane.jpg
+imgWidth: 360
+imgHeight: 360
 instagram: BCSsC2hSmQs
 ---
 
