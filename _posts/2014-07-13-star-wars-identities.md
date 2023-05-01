@@ -42,7 +42,6 @@ Bien sûr, j'ai pris quelques photos :
 <li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 16.jpg" alt=""></li>
 <li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 17.jpg" alt=""></li>
 <li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 18.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/2014/07/Star-Wars-Identities/13_07_2014 - 19.jpg" alt=""></li>
 </ul>
 </div>
 </div>
@@ -50,8 +49,8 @@ Bien sûr, j'ai pris quelques photos :
 Pendant toute l'expo, on porte un bracelet et on se construit un personnage de Star Wars : race, nom, origines, caractère, ideaux... jusqu'au choix finale : allez-vous succomber au coté obscure de la force ou non ? C'est plutôt rigolo et vraiment bien fait :) Je vous présente donc le Sénateur Moko, Kaminoan natif de Coruscant :
 
 <figure style="width:500px">
-	<img src="/images/StarWarsIdentities_moko_53c29a94a8ea3.jpg" alt="">
-	<figcaption>http://www.starwarsidentites.com/hero/fr-ca/53c29a94a8ea3</figcaption>
+	<img src="/images/2014/07/Star-Wars-Identities/StarWarsIdentities_moko_53c29a94a8ea3.jpg" alt="">
+	<figcaption>Moko, chevalier Jedi</figcaption>
 </figure>
 
 _Et sinon, je suis très fier de moi_ parce que y'avait plein, mais alors PLEIN, de trucs dans la boutique (forcèment) et je ne suis revenu qu'avec une petite figurine de Yoda. Pas mal, non ?

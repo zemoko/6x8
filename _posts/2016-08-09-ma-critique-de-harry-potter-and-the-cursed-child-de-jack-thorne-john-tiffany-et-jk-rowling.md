@@ -8,6 +8,7 @@ tags:
   - "coup-de-coeur"
   - "critique"
   - "livre"
+  - "harry-potter"
 coverImage: "Harry-Potter-and-the-Cursed-Child-artwork.jpg"
 imgWidth: 360
 imgHeight: 203

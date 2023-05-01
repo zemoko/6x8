@@ -52,14 +52,14 @@ layout: default
       {%- if page.imgHeight -%}
         {% capture imageSize %}{{imageSize}} height="{{ page.imgHeight }}"{% endcapture %}
     {%- endif -%}
-    {% capture imagePath %}/images/{{ page.date | date: "%Y/%m" }}/{{ include.name }}{% endcapture %}
+    {% capture imagePath %}/images/{{ page.date | date: "%Y/%m" }}{% endcapture %}
         <figure>
     {%- if page.coverImage contains "https" -%}
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
           <img src="{{ coverImage }}" alt="" {{imageSize}} />
     {%- else -%}
       {%- if page.coverImage contains "png" -%}
-        {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
+        {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
           <img src="{{ coverImage }}" alt="" {{imageSize}} {{ lazyLoad }} />
         {%- else -%}
       {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
