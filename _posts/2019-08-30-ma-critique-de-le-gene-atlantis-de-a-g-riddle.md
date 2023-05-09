@@ -18,7 +18,7 @@ bookRating: 3.5
 
 ## Le livre qui voulait être un film (de série Z)
 
-Je laisse Bragelonne vous faire le pitch :
+Je laisse Bragelonne vous faire le pitch&nbsp;:
 
 <blockquote class="citation">
 	<div>
@@ -27,7 +27,7 @@ Je laisse Bragelonne vous faire le pitch :
 	</div>
 </blockquote>
 
-Ça et la bande sur le livre, **« No 1 des ventes aux USA, en Allemagne, en Italie, en Russie et au Japon ! »**, ça m’a autant donné envie de le lire, que ça m’a fait peur… mais, allez, c’était les vacances alors, au pire, lire un bon nanar ce n’était pas si grave.
+Ça et la bande sur le livre, **« No 1 des ventes aux <abbr>USA</abbr>, en Allemagne, en Italie, en Russie et au Japon ! »**, ça m’a autant donné envie de le lire, que ça m’a fait peur… mais, allez, c’était les vacances alors, au pire, lire un bon nanar ce n’était pas si grave.
 
 ## Alors, c’était un nanar ?
 
@@ -35,13 +35,13 @@ Ben… ça dépendra sans doute de la personne à qui vous demandez. **Moi, ça 
 
 Dans ma tête, j’ai une catégorie **« Les livres qui voulaient être des films »** et c’est exactement ça. Les méchants sont tout droits sortis d’un _James Bond_, les héros se prennent pour _Indiana Jones_ (et les méchants nazis sont dans les deux catégories). L’histoire elle-même, dans son rythme, dans sa construction, se prend pour une série (_24h chrono_ évidemment).
 
-Le gène Atlantis est donc **aussi efficace qu’un Dan Brown, pas vraiment mieux écrit** (mais pas pire, ça aurait été difficile). J’ai eu **le même besoin de le finir pour démêler l’intrigue**, mais aussi **le même sentiment mitigé une fois terminé** : l’histoire est finalement plus tirée par les cheveux que complexe, tout cela est assez peu crédible finalement.
+Le gène Atlantis est donc **aussi efficace qu’un Dan Brown, pas vraiment mieux écrit** (mais pas pire, ça aurait été difficile). J’ai eu **le même besoin de le finir pour démêler l’intrigue**, mais aussi **le même sentiment mitigé une fois terminé** : l’histoire est finalement plus tirée par les cheveux que complexe, tout cela est assez peu crédible.
 
 ## C'est bien un nanar. À la plage ?
 
-**Si vous cherchez une lecture haletante**, si, comme moi, vous êtes secrètement attirés par tous les récits sur l’Altantide, les sociétés secrètes et les grandes conspirations… **Pourquoi pas ?**
+**Si vous cherchez une lecture haletante**, si, comme moi, vous êtes secrètement attirés par tous les récits sur l’Altantide, les sociétés secrètes et les grandes conspirations… **Pourquoi pas&nbsp;?**
 
-**Mais si, comme moi, vous aimé qu’un livre son un minimum bien écrit et que son auteur se soit appliqué à produire une histoire cohérente…. Alors, passez votre chemin.**
+**Mais si, comme moi, vous amez qu’un livre soit un minimum bien écrit et que son auteur se soit appliqué à produire une histoire cohérente…. Alors, passez votre chemin.**
 
 * * *
 

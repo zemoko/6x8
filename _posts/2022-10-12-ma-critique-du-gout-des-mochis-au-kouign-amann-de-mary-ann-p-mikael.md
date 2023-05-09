@@ -16,7 +16,7 @@ bookISBN: 9782755694338
 bookRating: 3
 ---
 
-La goût des mochis au kouign amann< est un roman <span lang="en">Feel good</span>. Ce n'est pas un genre que j'affectionne particulièrement mais vu que, comme son nom l'indique assez clairement, il propose un combo quant à mon amour de la Bretagne et ma sincère curiosité vis à vis du Japon. Bref, j'ai tenté.
+Le goût des mochis au kouign amann est un roman <span lang="en">Feel good</span>. Ce n'est pas un genre que j'affectionne particulièrement mais vu que, comme son nom l'indique assez clairement, il propose un combo quant à mon amour de la Bretagne et ma sincère curiosité vis à vis du Japon. Bref, j'ai tenté.
 
 Je vous fais le <span lang="en">pitch</span>&nbsp;: ce sont 2 histoires parallèles... jusqu'à ce que, évidemment, elles se croisent (je ne vous divulgache rien tant c'est évident et téléphoné depuis le début du livre).
 

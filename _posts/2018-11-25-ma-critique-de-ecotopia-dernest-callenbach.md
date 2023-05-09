@@ -37,7 +37,7 @@ Le roman se situe **20 ans après la sécession**. Depuis 20 ans, la frontièr
 
 **Le roman alterne les articles qu'il écrit pour son journal, et son journal intime.**
 
-Au fil de ses articles, il décrit tous les aspects de la société écotopienne : comment ils ont décidé de **lutter contre la surconsommation, contre la production des déchets, contre la pollution, le chômage, les inégalités, en développant leur rapport à la nature, en interdissant les voitures et, globalement, en cherchant partout un état d'équilibre**.
+Au fil de ses articles, il décrit tous les aspects de la société écotopienne : comment ils ont décidé de **lutter contre la surconsommation, contre la production des déchets, contre la pollution, le chômage, les inégalités, en développant leur rapport à la nature, en interdisant les voitures et, globalement, en cherchant partout un état d'équilibre**.
 
 Dans son journal intime, on voit se perception évoluer peu à peu... (et, évidemment, on découvre aussi son histoire d'Amour avec une écotopienne).
 

@@ -16,7 +16,7 @@ bookISBN: 9782264038005
 bookRating: 4
 ---
 
-<strong>L'histoire est contée par Harry Pulling, directeur de banque fraichement retraité, amateur de poésie lyrique et de jardinage</strong>strong> et, surtout, célibataire endurci. Mais voici que sa mère trépasse et, qu'à l’enterrent de celle-ci, il rencontre sa <strong>tante Augusta, 70 ans, dont la vie a été sans tabous ni limites</strong>. Elle a beaucoup voyagé, et beaucoup aimé : en Angleterre, elle partageait la vie d'un révérend d'une église pour chiens, en Italie, M. Visconti lui vola son argent et son cœur, en Turquie, elle eut affaires aux services secrets...
+<strong>L'histoire est contée par Harry Pulling, directeur de banque fraichement retraité, amateur de poésie lyrique et de jardinage</strong> et, surtout, célibataire endurci. Mais voici que sa mère trépasse et, qu'à l’enterrent de celle-ci, il rencontre sa <strong>tante Augusta, 70 ans, dont la vie a été sans tabous ni limites</strong>. Elle a beaucoup voyagé, et beaucoup aimé : en Angleterre, elle partageait la vie d'un révérend d'une église pour chiens, en Italie, M. Visconti lui vola son argent et son cœur, en Turquie, elle eut affaires aux services secrets...
 
 <blockquote>
 	<p>«&nbsp;Je rencontrai ma tante Augusta pour la première fois en plus d'un demi-siècle aux obsèques de ma mère. J'ai toujours mené une existence paisible ; sauf un penchant pour les dahlias, je n'ai pas de violon d'Ingres. Autant de raisons qui ajoutaient aux obsèques de ma mère un brin de piquant nullement déplaisant…</p>
