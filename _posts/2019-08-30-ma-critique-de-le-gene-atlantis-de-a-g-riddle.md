@@ -41,7 +41,7 @@ Le gène Atlantis est donc **aussi efficace qu’un Dan Brown, pas vraiment mieu
 
 **Si vous cherchez une lecture haletante**, si, comme moi, vous êtes secrètement attirés par tous les récits sur l’Altantide, les sociétés secrètes et les grandes conspirations… **Pourquoi pas&nbsp;?**
 
-**Mais si, comme moi, vous amez qu’un livre soit un minimum bien écrit et que son auteur se soit appliqué à produire une histoire cohérente…. Alors, passez votre chemin.**
+**Mais si, comme moi, vous aimez qu’un livre soit un minimum bien écrit et que son auteur se soit appliqué à produire une histoire cohérente…. Alors, passez votre chemin.**
 
 * * *
 
