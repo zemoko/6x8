@@ -12,9 +12,10 @@ tags:
 coverImage: "collage.jpg"
 imgWidth: 360
 imgHeight: 133
+cover2left: true
 ---
 
-**Ça doit bien faire 20 ans que je m'amuse à chasser les [Space invaders](http://sitofotos.6x8.org/index.php?/category/2) sur les murs de Paris** (et de quelques autres villes). J'aime le street art, les inspirations d'Invader me parlent, et cette habitude m'a toujours forcé à ouvrir les yeux, voire lever le regard, et à diversifier et multiplier mes trajets. Bref, que du bon. Merci [Invader](http://www.space-invaders.com/home/).
+**Ça doit bien faire 20 ans que je m'amuse à chasser les [Space invaders](https://sitofotos.6x8.org/index.php?/category/2) sur les murs de Paris** (et de quelques autres villes). J'aime le street art, les inspirations d'Invader me parlent, et cette habitude m'a toujours forcé à ouvrir les yeux, voire lever le regard, et à diversifier et multiplier mes trajets. Bref, que du bon. Merci [Invader](https://www.space-invaders.com/home/).
 
 En arrivant à Strasbourg, j'ai bien trouvé quelques copycat, mais aucune œuvre d'Invader **#tristesse**.
 
@@ -54,13 +55,13 @@ J'aime beaucoup les clin d’œil et les allusions plus ou moins discrètes qui 
 <li class="splide__slide"><img src="/images/2019/08/66304626_2439347306126657_5462203439568469669_n.jpg" alt=""></li>
 <li class="splide__slide"><img src="/images/2019/08/67568747_127892448473789_6654739684311271373_n.jpg" alt=""></li>
 <li class="splide__slide"><img src="/images/2019/08/66413664_2386941631558666_4597465839033169871_n.jpg" alt=""></li>
-<li class="splide__slide"><img src="/images/2019/08s/69807076_192636408433806_7914540101871050547_n.jpg" alt=""></li>
+<li class="splide__slide"><img src="/images/2019/08/69807076_192636408433806_7914540101871050547_n.jpg" alt=""></li>
 </ul>
 </div>
 </div>
 
 ## Bref, **je suis fan**...
 
-...et j'espère qu'il continuera longtemps à m'amuser/me divertir/me stimuler/m'étonner/alimenter <a href="[ma galerie](https://www.6x8.org/tag/stork7567/).
+...et j'espère qu'il continuera longtemps à m'amuser/me divertir/me stimuler/m'étonner/alimenter [ma galerie](https://www.6x8.org/tag/stork7567/).
 
 **Merci Stork !**
