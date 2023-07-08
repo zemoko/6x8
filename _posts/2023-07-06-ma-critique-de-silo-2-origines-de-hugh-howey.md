@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 'Ma critique de «&nbsp;<strong>Silo, tome&nbsp;2&nbsp;: Origines</strong>&nbsp;» de <em>Hugh Howey</em>'
-date: "2023-07-01"
+date: "2023-07-06"
 categories: 
   - "trucs-critiques"
 tags: 
