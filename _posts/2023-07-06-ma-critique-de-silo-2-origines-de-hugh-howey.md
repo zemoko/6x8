@@ -16,7 +16,6 @@ bookISBN: 9782253133063
 bookRating: 4
 ---
 
-
 J'avais beaucoup aimé <a href="/2023/05/ma-critique-de-silo-de-hugh-howey/">Silo</a>, j'ai donc eu envie de rapidement enchainé sur le tome 2 (dont je ne vous parle que maintenant uniquement parce que jr procrastine depuis quelques temps déjà la rédaction de ce billet... d'ailleurs j'ai déjà fini un autre livre depuis que j'ai fini Origines... enfin bref, revenons à nos moutons).
 
 <strong>Origines</strong> n'est pas la suite du tome&nbsp;1, mais son prequel. L'histoire commence avant que les silos n'apparaissent. Ce que le tome&nbsp;1 ne faisait que suggérer, la genèse des siols, ce tome&nbsp;2 nous en fait la narration.
