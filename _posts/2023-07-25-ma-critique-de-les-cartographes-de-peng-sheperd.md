@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Les cartographes</strong>&nbsp;» de <em>Peng shperd</em>'
+title: 'Ma critique de «&nbsp;<strong>Les cartographes</strong>&nbsp;» de <em>Peng Sheperd</em>'
 date: "2023-07-25"
 categories: 
   - "trucs-critiques"
