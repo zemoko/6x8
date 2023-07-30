@@ -1,0 +1,77 @@
+---
+layout: default
+---
+<div class="page">
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header {% if page.cover2left %} cover2left{% endif %}">
+      <div>
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | markdownify }}</h1>
+{%- if page.date -%}
+        <p class="post-meta">
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          <span class="sr-only" itemprop="author" itemscope itemtype="https://schema.org/Person">
+            <a href="/arnaud-malon.html" itemprop="url"><span itemprop="name">Arnaud Malon</span></a>
+          </span>
+  {% include locale-date.html %}
+          </time>
+  {%- if page.categories -%}
+    {% assign cat = page.categories | first %}
+    {%- for item in site.data.nav.categories -%}
+      {%- if cat == item.url -%}
+        {%- capture cattit -%}{{ item.title }}{%- endcapture -%}
+        {%- capture caturl -%}/category/{{ item.url }}/{%- endcapture -%}
+      {%- endif -%}
+      {%- if item.subitems -%}
+        {%- for subitem in item.subitems -%}
+          {%- if cat == subitem.url -%}
+            {%- capture cattit -%}{{ subitem.title }}{%- endcapture -%}
+            {%- capture caturl -%}/category/{{ item.url }}/{{ subitem.url }}/{%- endcapture -%}
+          {%- endif- %}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+            &nbsp;/&nbsp;
+            <a href="{{ caturl }}">{{ cattit }}</a>
+    {% assign nbtags = page.tags | size %}
+    {%- if nbtags > 0 -%}
+            &nbsp;/&nbsp;
+      {%- for tag in page.tags -%}<a href="/tag/{{ tag }}/">#{{ tag }}</a>&thinsp;{%- endfor -%}
+    {%- endif -%}
+  {%- endif -%}
+        </p>
+{%- endif -%}
+      </div>
+    </header>
+    <div class="post-content e-content" itemprop="articleBody">
+{{ content }}
+    </div>
+
+    {% include comments.html %}
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+</div>
+
+<div class="navlinks">
+  <ul class="pagination">
+{% if page.previous.url %}
+    <li><a href="{{page.previous.url}}" class="previous-page">{{page.previous.title | markdownify }}</a></li>
+{% endif %}
+{% if page.next.url %}
+    <li><a href="{{page.next.url}}" class="next-page">{{page.next.title | markdownify }}</a></li>
+{% endif %}
+  </ul>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+/>
+<script>
+Fancybox.bind("[data-fancybox]", {
+  // Your custom options
+});
+</script>
