@@ -7,15 +7,15 @@ categories:
 tags: 
   - "mastodon"
   - "jeux-de-societe"
-coverImage: "d4d5066da1a295db.jpeg"
-imgWidth: 360
-imgHeight: 48
+coverImage: "d4d5066da1a295db.jpg"
+imgWidth: 768
+imgHeight: 1024
 cover2left: true
 noImageOnPost: false
 carousel: 
-  - image: "fda6ed552dfaab24.jpeg"
+  - image: "fda6ed552dfaab24.jpg"
     legend: "Sub Terra, le jeu"
-  - image: "f222fedb76a16944.jpeg"
+  - image: "f222fedb76a16944.jpg"
     legend: "On peut aussi jouer avec une lampe <abbr>UV</abbr>"
 mastolink: "https://mamot.fr/@zemoko/109780056536930611"
 ---
