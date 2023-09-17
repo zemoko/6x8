@@ -9,9 +9,11 @@ categories:
   - qui-sont-maintenant-alsaciens
 tags: 
   - "pixelfed"
+  - "stork7567"
+  - "streetart"
 coverImage: qdRxWODVjouaA3tEDWrwLgyZ6VMyH4Mgi6X2O8dZ.jpg
 imgWidth: 1440
 imgHeight: 1080
 pixelfed: qdRxWODVjouaA3tEDWrwLgyZ6VMyH4Mgi6X2O8dZ.jpg
-pixellink: https://pixelfed.social/p/zemoko/608601828450123877
+pixellink: https://pixelfed.social/p/zemoko/609020646050022285
 ---
