@@ -42,7 +42,7 @@ carousel:
   - image: "strasnbike/IMG_3307.jpg"
     legend: "Le Grand Charles, l'impressionant batiment de la Soprema"
   - image: "strasnbike/IMG_3308.jpg"
-    legend: "Dans le hall de la Soprema, on retrouve une ville connaissance : un mammouth croisé autrefois place du chateau "
+    legend: "Dans le hall de la Soprema, on retrouve une ville connaissance : un mammouth croisé autrefois place du chateau"
 ---
 
 <h2>C'est quoi</h2>
