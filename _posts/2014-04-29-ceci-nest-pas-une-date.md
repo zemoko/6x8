@@ -157,7 +157,7 @@ Exemples d'implémentation&nbsp;:
 <li><em>Champs date</em>&nbsp;: simple à mettre en &oelig;uvre, accessible, peu ergonomique avec un clavier, pas ergonomique du tout avec un téléphone ou une tablette</li>
 <li><em>3 champs textes</em>&nbsp;: un peu plus complexe à mettre en &oelig;uvre et à rendre accessible, ergonomique sur ordinateur et sur mobile</li>
 <li><em>3 listes déroulantes</em>&nbsp;: également plus complexe à mettre en &oelig;uvre et à rendre accessible, pas ergonomique, quelque que soit le contexte</li>
-</em>
+</ul>
 
 <div class="encart">Les méthodes les plus ergonomiques, <strong>un champs texte unique</strong> et <strong>3 champs textes</strong>, sont aussi les méthodes les plus simple à mettre en &oelig;uvre et à rendre accessible... <strong>alors pourquoi faire compliqué&nbsp;? Globalement, je privilégierai la solution des 3 champs textes, visiblement la plus universelle.</strong></div>
 
