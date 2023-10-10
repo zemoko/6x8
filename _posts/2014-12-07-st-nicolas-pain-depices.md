@@ -32,6 +32,7 @@ Voici donc...
 9. **Mélanger pendant 1/4 d'heure** (cette année, j'ai triché, me suis offert un Companion)
 10. **Mettre à four très doux** (thermostat 5/6) **pendant 1h30** (Sans ouvrir la porte du four)
 
-<figure style="width:1000px">
-	<img src="/images/IMG_4244.jpg" alt="St Nicolas">
+<figure class="center">
+	<img src="/images/2014/12/IMG_4244.jpg" alt="St Nicolas sur son char">
+  <figcaption>Saint Nicolas lors du défilé, à Bar-le-Duc</figcaption>
 </figure>
