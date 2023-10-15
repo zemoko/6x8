@@ -30,7 +30,7 @@ La situation politique est sur le point de basculer en Allemagne, donc dans tout
 Je nʼen dévoile pas plus... sauf deux choses que jʼai particulièrement aimé :
 
 - Lʼusage du [Yi-King](https://fr.wikipedia.org/wiki/Yi_Jing), le livre des transformations utilisé depuis des siècles en chine pour faire de la divination, que Philip K. Dick utilise de manière plus quʼhabile,
-- Le trait de génie, enfin, **cʼest le livre dans le livre quʼil nous propose, lʼuchronie dans lʼuchronie : le « maître du haut château » est un écrivain de science-fiction ayant écrit un livre « Le poids de la sauterelle » qui raconte un monde dans lequel les alliés auraient gagné la guerre en 1945**... Et cʼest là que le lecteur a le tournis car ce monde ressemble au nombre... sans être le nôtre exactement. Plusieurs détails ne concordent pas. Nous voici donc dans une uchronie quʼon imagine quasi-infinie.
+- Le trait de génie, enfin, **cʼest le livre dans le livre quʼil nous propose, lʼuchronie dans lʼuchronie : le « maître du haut château » est un écrivain de science-fiction ayant écrit un livre « Le poids de la sauterelle » qui raconte un monde dans lequel les alliés auraient gagné la guerre en 1945**... Et cʼest là que le lecteur a le tournis car ce monde ressemble au nôtre... sans être le nôtre exactement. Plusieurs détails ne concordent pas. Nous voici donc dans une uchronie quʼon imagine quasi-infinie.
 
 ## Mais une fin... dickienne
 
@@ -38,7 +38,7 @@ Je nʼen dévoile pas plus... sauf deux choses que jʼai particulièrement aimé
 
 **Bref, une lecture que je conseille vivement.**
 
-Maintenant, je regarde l’adaptation en série TV qu’Amazon a produite et que j’apprécie également beaucoup. Je vous en reparle ici très prochainement :)
+Maintenant, je regarde l’adaptation en série <abbr>TV</abbr> qu’Amazon a produite et que j’apprécie également beaucoup. Je vous en reparle ici très prochainement :)
 
 * * *
 
