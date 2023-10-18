@@ -25,7 +25,7 @@ Encore un livre qui m’a attiré par sa couverture et que le bandeau, **<mark>�
 
 Bref, je vous fais le Pitch&nbsp;: c’est l’histoire d’Hannah Green (vous ne l’auriez jamais deviné&nbsp;!). **Hannah a 11&nbsp;ans et trouve sa vie banale**… jusqu’au jour où ses parents divorcent. Vous allez me dire que ça reste (tristement, certes) banal… mais cela pousse le père d’Hannah à l’envoyer pour quelques jours chez son papi. Et **le grand-père d’Hanna est tout sauf banal**…
 
-Je ne vous en dis pas plus, je ne voudrais pas gâcher le plaisir de la surprise. Sachez juste que **vous aller rencontrer le Diable en personne, mais aussi un gnome accidenter qui ressemble fichtrement à un champignon, quelques anges déchus et démons mineurs**.
+Je ne vous en dis pas plus, je ne voudrais pas gâcher le plaisir de la surprise. Sachez juste que **vous aller rencontrer le Diable en personne, mais aussi un gnome accidenteur qui ressemble fichtrement à un champignon, quelques anges déchus et démons mineurs**.
 
 Hé oui, **elle a l’air simple comme ça cette histoire, mais en fait non**. Ça commence comme un roman classique, puis rapidement on a l’impression d’un conte un peu modernisé, voire un roman jeunesse un peu fantastique… mais ce n’est pas non plus cela. **L’auteur explose les codes pour notre plus grand plaisir.**
 

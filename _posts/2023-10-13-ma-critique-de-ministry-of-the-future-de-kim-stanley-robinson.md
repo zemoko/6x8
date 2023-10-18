@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong lang="en">The ministry for the future</strong>&nbsp;» (Le Ministère du futur) de <em>KimStanley  Robinson</em>'
+title: 'Ma critique de «&nbsp;<strong lang="en">The ministry for the future</strong>&nbsp;» (Le Ministère du futur) de <em>Kim Stanley Robinson</em>'
 date: "2023-10-13"
 categories: 
   - "trucs-critiques"
@@ -11,7 +11,7 @@ tags:
 coverImage: TMFTF.jpg
 imgWidth: 318
 imgHeight: 500
-bookTitle: "The ministry for the future<"
+bookTitle: "The ministry for the future"
 bookAuthor: "Kim Stanley Robinson"
 bookISBN: 9780316300131     
 bookRating: 5
