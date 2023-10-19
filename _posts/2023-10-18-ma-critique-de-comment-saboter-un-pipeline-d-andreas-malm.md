@@ -80,4 +80,4 @@ Sa conclusion, logique, est donc que <mark><strong>«&nbsp;La question n'est pas
   <p><strong>La violence comporte des périls, mais le statu quo nous condamne. Nous devons apprendre à lutter dans un monde en feu.</strong></p>
 </blockquote>
 
-Que dire de plus&nbsp;? <a href="https://extinctionrebellion.fr/">Il est temps se se rebeller</a>.
+Que dire de plus&nbsp;? <a href="https://extinctionrebellion.fr/">Il est temps de se rebeller</a>.
