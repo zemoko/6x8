@@ -39,7 +39,7 @@ bookRating: 4
 
 <p>Je n’en dirais pas plus, je vous laisse découvrir… mais vous aurez compris que <strong>ce roman est encore une fois bien noire, et questionne encore une fois notre humanité et nos valeurs</strong>. Chien 51, c’est un monde où le capitalisme le plus dur a triomphé, c’est un monde où on a laissé Elon Musk et ses semblables se partager le Monde et ses habitants.</p>
 
-<p><strong>« Chien 51 », c’est à la fois un roman de <abbr>SF</abbr> et un polar, mais c’est surtout une critère de l’époque, un questionnement sociale, économique et écologique. Une œuvre forte et originale.</strong></p>
+<p><strong>« Chien 51 », c’est à la fois un roman de <abbr>SF</abbr> et un polar, mais c’est surtout une critique de l’époque, un questionnement sociale, économique et écologique. Une œuvre forte et originale.</strong></p>
 
 * * *
 

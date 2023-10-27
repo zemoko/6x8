@@ -8,8 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: Le-gout-des-Mochis-au-Kouign-Amann.jpg
-imgWidth: 360
-imgHeight: 427
+imgWidth: 400
+imgHeight: 586
 bookTitle: "Le goût des mochis au kouign amann"
 bookAuthor: "Mary Ann P. Mikael"
 bookISBN: 9782755694338  
