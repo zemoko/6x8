@@ -55,5 +55,5 @@ Aujourd’hui c’est <mark>#MardiPatisserie</mark> alors j’ai fait un cake à
 
 <ol>
   <li>Mélanger <strong>les 3&nbsp;ingrédients</strong> au batteur électrique <strong>pendant 3&nbsp;minutes</strong>.</li>
-  <li>Nappez le cake quand a refroidi</li>
+  <li>Napper le cake un fois refroidi</li>
 </ol>
