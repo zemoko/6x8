@@ -11,8 +11,8 @@ tags:
   - "Horizon"
   - "mastodon"
 coverImage: photoktober/bonus.jpg
-imgWidth: 400
-imgHeight: 613
+imgWidth: 360
+imgHeight: 235
 noImageOnPost: true
 carousel: 
   - image: photoktober/01.jpg

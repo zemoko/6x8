@@ -8,8 +8,8 @@ tags:
   - "mastodon"
   - "miam"
 coverImage: "carrot-cake.jpg"
-imgWidth: 768
-imgHeight: 1024
+imgWidth: 360
+imgHeight: 270
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/111330159188621518"
