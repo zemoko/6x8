@@ -8,8 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: capitale-du-nord1.jpg
-imgWidth: 1024
-imgHeight: 699
+imgWidth: 360
+imgHeight: 527
 bookTitle: "Capital du Nord, tome 1&nbsp;: Citadins de demain"
 bookAuthor: "Claire Duvivier"
 bookISBN: 9782253106869     

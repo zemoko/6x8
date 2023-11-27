@@ -3,7 +3,6 @@ layout: default
 ---
 
 {% capture coverImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}{% endcapture %}
-{% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
 
 <div class="page">
   <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting https://schema.org/Review">
@@ -63,8 +62,12 @@ layout: default
   {% capture imageSize %}{{imageSize}} height="{{ page.imgHeight }}"{% endcapture %}
 {%- endif -%}
             <picture>
-              <source srcset="{{ coverImageWebp }}" type="image/webp">
-              <img src="{{ coverImage }}" alt="Couverture du livre" itemprop="image" {{imageSize}} />
+{%- if jekyll.environment == "staging" -%}
+              <img src="{{ coverImage }}" alt="Couverture du livre {{ page.bookTitle }}" itemprop="image"  {{imageSize}} />
+{%- else -%}
+              <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
+              <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="Couverture du livre {{ page.bookTitle }}" itemprop="image" {{imageSize}} />
+{%- endif -%}
             </picture>
             {%- if page.bookTitle -%}
             <figcaption>

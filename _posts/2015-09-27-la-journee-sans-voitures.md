@@ -41,4 +41,4 @@ Bref, je vous mets quelques photos quand même (peu et pas de super qualité mai
 </div>
 </div>
 
-Ils ont aussi du se rendre compte que cette journée n'était pas glorieuse à la Mairie... l'article sur la journée sans voitures, bien que toujours en Une et en suggestion de recherche, est ce soir en 404... [![Paris.fr - Erreur 404](/images/2015/09/Capture-décran-2015-09-27-21.14.13-1024x586.png)http://www.paris.fr/actualites/le-27-septembre-journee-sans-voitures-2817](http://www.6x8.org/wp-content/uploads/2015/09/Capture-décran-2015-09-27-21.14.13.png)
+Ils ont aussi du se rendre compte que cette journée n'était pas glorieuse à la Mairie... l'article sur la journée sans voitures, bien que toujours en Une et en suggestion de recherche, est ce soir en 404... [![Paris.fr - Erreur 404](/images/2015/09/Capture-décran-2015-09-27-21.14.13-1024x586.png)http://www.paris.fr/actualites/le-27-septembre-journee-sans-voitures-2817](/images/2015/09/Capture-décran-2015-09-27-21.14.13.png)

@@ -36,7 +36,7 @@ Quelques réserves parce que _les personnages manquent de nuances et de profonde
 
 Et, pour finir sur une touche positive car, finalement, le roman est plutôt bon : je dois dire que **j'ai pris beaucoup de plaisir à découvrir ou redécouvrir, dans ce roman, Giverny et surtout Monet : sa vie, son œuvre, son village donc, ses relations avec les villageois, sa maison, son jardin, son étang...** Je me suis remémoré avec plaisir mes précédentes visites et je me suis pris à m'y repromener via Google Maps et faire quelque recherche (notamment sur le moulin de Chennevières)... et ça, c'est un gros plus qui en fait **un roman à recommander.**
 
-\[caption id="attachment\_2435" align="aligncenter" width="1024"\][![«  Les Nymphéas : Matin » - Claude Monet](/images/2016/10/10-529252-1024x167.jpg)](http://www.6x8.org/wp-content/uploads/2016/10/10-529252.jpg) « Les Nymphéas : Matin » - Claude Monet\[/caption\]
+\[caption id="attachment\_2435" align="aligncenter" width="1024"\][![«  Les Nymphéas : Matin » - Claude Monet](/images/2016/10/10-529252-1024x167.jpg)](/images/2016/10/10-529252.jpg) « Les Nymphéas : Matin » - Claude Monet\[/caption\]
 
 * * *
 

@@ -45,10 +45,13 @@ layout: default
               <img src="{{ coverImage }}" alt="" {{imageSize}}{{ lazyLoad }} />
               {%- else -%}
                 {% capture coverImage %}/images/{{ post.date | date: "%Y/%m" }}/{{ post.coverImage }}{% endcapture %}
-                {% capture coverImageWebp %}{{ coverImage | replace:'.jpg','_360.webp' | replace:'.jpeg','_360.webp' | replace:'.png','_360.webp' }}{% endcapture %}
               <picture>
-                <source srcset="{{ coverImageWebp }}" type="image/webp">
-                <img src="{{ coverImage }}" alt="" {{imageSize}} {{ lazyLoad }} />
+                {%- if jekyll.environment == "staging" -%}
+                <img src="{{ coverImage }}" alt="" {{imageSize}} />
+                {%- else -%}
+                <source srcset="/.netlify/images?url={{ coverImage }}&&w=360&format=webp" type="image/webp">
+                <img src="/.netlify/images?url={{ coverImage }}&w=360&format=webp" alt="" {{imageSize}} {{ lazyLoad }} />
+                {%- endif -%}
               </picture>
               {%- endif -%}
             {%- endif -%}

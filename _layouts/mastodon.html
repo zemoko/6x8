@@ -59,14 +59,17 @@ layout: default
         {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
           <img src="{{ coverImage }}" alt="" {{imageSize}} {{ lazyLoad }} />
         {%- else -%}
-      {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
-      {% capture coverImageWebp %}{{ coverImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture %}
+          {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
           <picture>
-            <source srcset="{{ coverImageWebp }}" type="image/webp">
+          {%- if jekyll.environment == "staging" -%}
             <img src="{{ coverImage }}" alt="" {{imageSize}} />
+          {%- else -%}
+            <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
+            <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="" {{imageSize}} />
           </picture>
+          {%- endif -%}
+        {%- endif -%}
       {%- endif -%}
-    {%- endif -%}
         </figure>
   {%- endunless -%}
 {%- endif -%}

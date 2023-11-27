@@ -657,7 +657,7 @@ var prtContent = document.querySelector(".yamTable");
 var WinPrint = window.open('', '', 'left=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
   
 WinPrint.document.write('<html><head>');
-WinPrint.document.write('<link rel="stylesheet" href="https://www.6x8.org/wp-content/uploads/custom-css-js/6049.css?v=5205" type="text/css" />');
+//WinPrint.document.write('<link rel="stylesheet" href="https://www.6x8.org/wp-content/uploads/custom-css-js/6049.css?v=5205" type="text/css" />');
 WinPrint.document.write('</head><body onload="window.print();">');
 WinPrint.document.write(prtContent.outerHTML);
 WinPrint.document.write('</body></html>');

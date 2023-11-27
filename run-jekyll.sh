@@ -1,3 +1,3 @@
 #!/bin/bash
 gulp images
-bundle exec jekyll serve
+JEKYLL_ENV=staging bundle exec jekyll serve
