@@ -10,8 +10,8 @@ categories:
 tags: 
   - "strasbourg"
 coverImage: E56rFpQJ1UMiqZAgOepXPt3E6OkThLiHLNktSToU.png
-imgWidth: 694
-imgHeight: 924
+imgWidth: 360
+imgHeight: 270
 pixelfed: E56rFpQJ1UMiqZAgOepXPt3E6OkThLiHLNktSToU.png
 pixellink: https://pixelfed.social/i/web/post/618188082097187928
 ---

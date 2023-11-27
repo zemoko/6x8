@@ -8,8 +8,8 @@ categories:
 tags: 
   - "miam"
 coverImage: ZyiWxGiIjfL1rEedDfd0i1zbm6GESXijCGHW42Vh.png
-imgWidth: 1230
-imgHeight: 922
+imgWidth: 360
+imgHeight: 480
 pixelfed: ZyiWxGiIjfL1rEedDfd0i1zbm6GESXijCGHW42Vh.png
 pixellink: https://pixelfed.social/i/web/post/616617582997149336
 ---
