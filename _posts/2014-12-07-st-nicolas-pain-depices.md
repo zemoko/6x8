@@ -24,12 +24,12 @@ Voici donc...
 1. **1 verre de thé**
 2. y dissoudre **300g de miel**
 3. puis **200g de sucre** (on peut en remplacer une partie par de la cassonade)
-4. rajouter **1 càc d'épices** (moi j'en mets un peu plus !)
-5. **1 càcde bicarbonate**
-6. **2 càsde gelée de groseilles** (ou de fruits rouges, ce qui est ouvert !)
+4. rajouter **1 <abbr title="cuillère à café">càc</abbr> d'épices** (moi j'en mets un peu plus !)
+5. **1 <abbr title="cuillère à café">càc</abbr> de bicarbonate**
+6. **2 <abbr title="cuillère à soupe">càs</abbr> de gelée de groseilles** (ou de fruits rouges, ce qui est ouvert !)
 7. rajouter **3 œufs**
 8. puis **500g de farine**
-9. **Mélanger pendant 1/4 d'heure** (cette année, j'ai triché, me suis offert un Companion)
+9. **Mélanger pendant 1/4 d'heure**
 10. **Mettre à four très doux** (thermostat 5/6) **pendant 1h30** (Sans ouvrir la porte du four)
 
 <figure class="center">
