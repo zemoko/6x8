@@ -8,8 +8,8 @@ tags:
   - "critique"
   - "livre"
 coverImage: 84-charing-cross.jpg
-imgWidth: 1000
-imgHeight: 643
+imgWidth: 643
+imgHeight: 1000
 bookTitle: "84,Charing Cross"
 bookAuthor: "Helene Hanff"
 bookISBN: 9782253155751      
