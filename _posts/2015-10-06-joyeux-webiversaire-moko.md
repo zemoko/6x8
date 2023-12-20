@@ -16,7 +16,10 @@ Cela va faire 20 ans que j'ai créé mon premier site web, ça se fête, non ?
 
 Je l'avais appelé **Le Guide du Cyber-routard** (j'étais déjà fan de l’œuvre de Douglas Adams).
 
-{% include image.html name="LGDCR.png" caption="Le Guide du Cyber-Routard" %}
+<figure class="center">
+  <img src="/images/2015/10/LGDCR.png" alt="">
+  <figcaption>Le Guide du Cyber-Routard</figcaption>
+</figure>
 
  On commençait, évidemment, par un grand **Don't panic** puis on pouvait choisir sa planète :
 
