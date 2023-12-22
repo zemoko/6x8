@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong lang="en">84,Charing Cross</strong> de <em>Helene Hanff</em>'
+title: 'Ma critique de «&nbsp;<strong lang="en">84,Charing Cross</strong>&nbsp;» de <em>Helene Hanff</em>'
 date: "2023-12-12"
 categories: 
   - "trucs-critiques"
