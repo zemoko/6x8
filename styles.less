@@ -882,6 +882,9 @@ iframe.center {
 .caption {
   text-decoration: none;
 }
+mark {
+  padding: 0 .2rem;
+}
 
 /* Tablaux */
 
@@ -939,16 +942,11 @@ iframe.center {
 
         --size: calc(var(--scale, 100) * 100%);
         --position: calc(var(--value, 0) / var(--scale, 100) * 100%);
-        background: linear-gradient(to right, navy, navy) var(--position) 0%/var(--size) 100%,transparent var(--background) center/contain !important;
+        background: linear-gradient(to right, var(--color, gray), var(--color, gray)) var(--position) 0%/var(--size) 100%,transparent var(--background) center/contain !important;
         background-blend-mode: hard-light;
-      }
-      tr:last-child td {
-        background: lightgrey;
-        background: linear-gradient(to right, lightgrey, lightgrey) var(--position) 0%/var(--size) 100%,transparent var(--background) center/contain !important;
       }
       td span {
         background: inherit;
-        -webkit-text-fill-color: transparent;
         -webkit-background-clip: text;
         background-clip: text;
         font-weight: bold;
