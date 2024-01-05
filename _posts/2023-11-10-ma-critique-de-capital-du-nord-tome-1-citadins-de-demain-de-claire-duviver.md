@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Capital du Nord, tome&nbsp;1&nbsp;: Citadins de demain</strong> de <em>Claire Duvivier</em>'
+title: 'Ma critique de «&nbsp;<strong>Capitale du Nord, tome&nbsp;1&nbsp;: Citadins de demain</strong>&nbsp;» de <em>Claire Duvivier</em>'
 date: "2023-11-10"
 categories: 
   - "trucs-critiques"
