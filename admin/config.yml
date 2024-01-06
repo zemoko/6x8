@@ -1,0 +1,109 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# This line should *not* be indented
+media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Billets" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Catégories"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: ["trucs-de-webmaster", "trucs-de-geek", "trucs-de-parisien", "a-paris", "qui-voyage", "qui-sont-maintenant-alsaciens", "trucs-pris-en-photo", "trucs-de-lomographe", "trucs-instagrammes", "trucs-critiques", "trucs"]
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Image", name: "coverImage", widget: "image", required: false}
+      - {label: "Largeur", name: "imgWidth", widget: "number", required: false}
+      - {label: "Hauteur", name: "imgheight", widget: "number", required: false}
+      - {label: "Ne pas afficher l'image sur la page", name: "noImageOnPost", widget: "boolean", default: "false", required: false}
+      - {label: "Afficher l'image à droite", name: "cover2left", widget: "boolean", default: "true", required: false}
+      - label: "Carousel"
+        name: "carousel"
+        widget: "list"
+        summary: '{{fields.quote}} - {{fields.author.name}}'
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Légende", name: "legend", widget: "string"}
+      - {label: "Corps de page", name: "body", widget: "markdown"}
+  - name: "review" # Used in routes, e.g., /admin/collections/blog
+    label: "Critiques" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "layout", widget: "hidden", default: "review"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Catégories"
+        name: "categories"
+        widget: "select"
+        default: "trucs-critiques"
+        multiple: true
+        options: ["trucs-de-webmaster", "trucs-de-geek", "trucs-de-parisien", "a-paris", "qui-voyage", "qui-sont-maintenant-alsaciens", "trucs-pris-en-photo", "trucs-de-lomographe", "trucs-instagrammes", "trucs-critiques", "trucs"]
+      - {label: "Image", name: "coverImage", widget: "image", required: false}
+      - {label: "Largeur", name: "imgWidth", widget: "number", required: false}
+      - {label: "Hauteur", name: "imgheight", widget: "number", required: false}
+      - {label: "titre du livre", name: "bookTitle", widget: "string"}
+      - {label: "Auteur", name: "bookAuthor", widget: "string"}
+      - {label: "ISBN", name: "bookISBN", widget: "string"}
+      - {label: "Note (1-5)", name: "bookRating", widget: "number"}
+      - {label: "Corps de page", name: "body", widget: "markdown"}
+  - name: "pixelfed" # Used in routes, e.g., /admin/collections/blog
+    label: "Pixelfed" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "layout", widget: "hidden", default: "pixelfed"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Catégories"
+        name: "categories"
+        widget: "select"
+        default: "trucs-pris-en-photo", "trucs-de-lomographe"
+        multiple: true
+        options: ["trucs-de-webmaster", "trucs-de-geek", "trucs-de-parisien", "a-paris", "qui-voyage", "qui-sont-maintenant-alsaciens", "trucs-pris-en-photo", "trucs-de-lomographe", "trucs-instagrammes", "trucs-critiques", "trucs"]
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Image", name: "coverImage", widget: "image", required: false}
+      - {label: "Largeur", name: "imgWidth", widget: "number", required: false}
+      - {label: "Hauteur", name: "imgheight", widget: "number", required: false}
+      - {label: "Image Pixelfed", name: "pixelfed", widget: "string"}
+      - {label: "Lien Pixelfed", name: "pixellink", widget: "string"}
+      - {label: "Corps de page", name: "body", widget: "markdown"}
+  - name: "mastodon" # Used in routes, e.g., /admin/collections/blog
+    label: "Mastodon" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Type", name: "layout", widget: "hidden", default: "mastodon"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Catégories"
+        name: "categories"
+        widget: "select"
+        default: "trucs-pris-en-photo", "trucs-de-lomographe"
+        multiple: true
+        options: ["trucs-de-webmaster", "trucs-de-geek", "trucs-de-parisien", "a-paris", "qui-voyage", "qui-sont-maintenant-alsaciens", "trucs-pris-en-photo", "trucs-de-lomographe", "trucs-instagrammes", "trucs-critiques", "trucs"]
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Image", name: "coverImage", widget: "image", required: false}
+      - {label: "Largeur", name: "imgWidth", widget: "number", required: false}
+      - {label: "Hauteur", name: "imgheight", widget: "number", required: false}
+      - {label: "Lien Mastodon", name: "mastolink", widget: "string"}
+      - {label: "Corps de page", name: "body", widget: "markdown"}
