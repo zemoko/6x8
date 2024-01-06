@@ -33,7 +33,6 @@ collections:
       - label: "Carousel"
         name: "carousel"
         widget: "list"
-        summary: '{{fields.quote}} - {{fields.author.name}}'
         fields:
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Légende", name: "legend", widget: "string"}
