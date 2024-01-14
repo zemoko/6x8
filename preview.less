@@ -1,0 +1,361 @@
+// Variables
+@background:        #f2f2f2;
+@background2:       #292929;
+
+@primary-light:     #8abdff;
+@primary:           #6d5dfc;
+@primary-light:     #5b0eeb;
+
+@white:             #ffffff;
+@greyLight-0:       #a0a0a0;
+@greyLight-1:       #E4EBF5;
+@greyLight-2:       #c8d0e7;
+@greyLight-3:       #bec8e4;
+@greyDark:          #2d2d2c;
+@black:             #000000;
+
+@twitter:           #1d9bf0;
+
+@md-xlarge:          1200px;
+@md-large:            900px;
+@md-medium:           800px;
+@md-small:            700px;
+@md-xsmall:           500px;
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: system-ui;
+  font-size: 1em;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 87.5%; // 1rem = 14px
+  overflow-y: scroll;
+  
+  @media screen and (max-device-width: @md-large) {
+    font-size: 100%;
+  }
+}
+
+.sr-only {
+  position: absolute !important;
+  clip: rect(0,0,0,0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+
+.frame-content {
+  font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background: @background;
+  @media screen and (max-device-width: @md-medium) {
+    overflow: hidden;
+  }
+}
+strong {
+  font-family: Manrope B, sans-serif;
+}
+
+.nof {
+    clear: both;
+}
+
+    a {
+      position: relative;
+      overflow: hidden;
+      text-decoration: none;
+      color: @primary;
+      z-index: 1;
+      &::after {
+        content: "";
+        background: rgba(@primary, 0.25);
+        position: absolute;
+        left: 12px;
+        bottom: -6px;
+        width: calc(100% - 8px);
+        height: calc(100% - 8px);
+        z-index: -1;
+        transition: 0.35s cubic-bezier(0.25, 0.1, 0, 2.05);
+      }
+      &:hover:after, &:focus:after {
+        left: 0;
+        bottom: -2px;
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    p {
+      margin: 1rem 0;
+      font-size: 1.1rem;
+    }
+    ul, ol {
+      margin: 1rem;
+    }
+    li {
+      margin-bottom: .5rem;
+    }
+    table {
+      width: 100%;
+    }
+    strike {
+      color: #aaa;
+    } 
+    mark {
+      a {
+        color: darken( desaturate(@primary, 40%), 15%);
+        &::after {
+          background: rgba(@primary, 0.42);
+        }
+      }
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    img.book {
+      max-width: 300px;
+    }
+    figure, .card {
+      margin: 1rem auto;
+      border-radius: .5rem;
+      padding: 1rem;
+      -webkit-box-shadow: 2px 0px 21px -1px rgba(0, 0, 0, 0.76);
+      -moz-box-shadow: 2px 0px 21px -1px rgba(0, 0, 0, 0.76);
+      box-shadow: 2px 0px 21px -1px rgba(0, 0, 0, 0.76);
+      background: linear-gradient(-135deg, #7b56ff 40%, #52e2ff 120%);
+      max-width: 100%;
+      &.center {
+        text-align: center;
+      }
+      blockquote, p {
+        background: white;
+      }
+      > div {
+        background: white;
+      }
+    }
+    figure {
+      > p {
+        margin: 0;
+        padding: .5rem;
+      }
+      figcaption {
+        color: white;
+        margin-top: .5rem;
+        display: block;
+        a {
+          color: wheat;
+        }
+      }
+    }
+    .card {
+      margin: 2rem 0;
+      > div {
+        padding: 1rem;
+        > blockquote {
+          margin: 1rem;
+        }
+      }
+      blockquote, blockquote p {
+        background: #eee;
+      }
+    }
+    .tag {
+      background: @primary;
+      box-shadow: 0 4px 5px -1px hsla(0 0% 0% / 60%);
+      border-radius: .2rem;
+      color: @white;
+      font-size: .9em;
+      padding: .2rem .4rem;
+      word-spacing: -.4ch;
+      &:before {
+        content: '#'
+      }
+    }
+    .splide figure, .splide div.lightbox {
+      text-align: center;
+      width: 100%;
+      img {
+        max-width: none;
+        height: 50vh;
+      }
+      figcaption + img, figcaption + figure {
+        margin-top: .5rem;
+      }
+      > figure {
+        margin: 0 auto;
+      }
+      figcaption {
+        margin-bottom: 1rem;
+      }
+      @media screen and (max-device-width: @md-medium) {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        img {
+          height: auto;
+        }
+      }
+    }
+
+ol li::marker {
+  color: @primary;
+} 
+
+blockquote {
+  border-radius: 0.8rem;
+  border: 1px solid @primary;
+  overflow: hidden;
+  margin: 1rem -1rem;
+  padding: .5rem;
+  + blockquote {
+    margin-top: 1rem !important;
+  }
+  &.twitter-tweet {
+    position: relative;
+    padding-top: 2.2rem;
+    border-color: @twitter;
+    &:before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 2rem;
+      padding: .4rem 0 0 2.2rem;
+      content: 'Twitter';
+      color: @white;
+      background-color: @twitter;
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACO0lEQVRYhe2XTWsTURSG7+9IMwNVamtANxVUcCuIqAtduHTRhd1JV124FBTEHyAulDtJTIljlGqoBS0Bo0akuqnQhdRiS61oMDl3PpLMx+uiDlgzM52ZJs2mL5zd5bzPnHPumRnGGGOp+4YkK6TKnEjihH7GX49SKkujzDOXONX7bewT9aGckWayQuoAzL0osr0oe0g02QDNIXHCPkDPAGROGC8KZAqidwDjxWjJrr02sa45AAAXQG3TxulZDWN5gamqiVMlLT7AcJbw03Rx5ZURaj791oSfTBto28DTlQ4O5YMfJBDg5GMNwFaS6zUTss+ZgzlCo+36AgCAbrmobtiYfmfGB8gUBJx/ctc2bVwo69vOnC/rgeZeO258aCWfgZdrVlfS5d8Obn9sYWLBwGTFCAUQHTf5EGYKApfndawJJ9QkTKvkJAcYywu42JqBpHrz3d7dNZz/1t2COLrzKbz/OwIcVwW+NJK34Myz4PsfCUDihHNlHS8SVCJK+SMBTFX9F02YHBe4NKf3BkDmhHuf2wheN926u9SOZB4JwIuzz3Xw5c6O5gvrFg5ko+WMDHB0RuDmYit07QLAk5UOhmOYhwJcnNNRXrWwVLe3rWQ/beguJivhL61EFTj2SODWYgvvf9gw/1tIv0wXs18tXK0YGMnFN449AxInHJkROKFqOPww3kdHzwD6EfsAg/0xUajBJE6lQQHICqkslaVRaUA/p+kHzRHGGGNDOSMtcSpKnJp7YNyUFVI98z8fkaOblxzyCAAAAABJRU5ErkJggg==);
+      background-repeat: no-repeat;
+      background-position: top left;
+    }
+  }
+  &.citation {
+    display: flex;
+    position: relative;
+    margin: 2rem 0;
+    padding: 1.6em 2.4em;
+    font-style: italic;
+    font-size: 1.2rem;;
+    background: hsl(0 0% 97%);
+    border-radius: .5rem;
+    border: 2px solid white;
+    box-shadow: 2px 2px 4px hsl(0 0% 0% / 20%);
+    overflow: visible;
+    &:before, &:after {
+      position: absolute;
+      top: 50%;
+      z-index: 1;
+      transform: translate(-50%, -50%);
+      width: 1.3em;
+      height: 1.3em;
+      background: @primary;
+      background-image: linear-gradient(-135deg, #7b56ff 40%, #52e2ff 120%);
+      box-shadow: 0 4px 5px -1px hsla(0 0% 0% / 20%);
+      border-radius: 999px;
+      text-align: center;
+      color: @white;
+      font-size: 36px;
+      font-style: normal;
+      text-indent: 0;
+      line-height: 1.1;
+    }
+    &:before {
+      content: "«";
+      left: 2px;
+      padding-right: 4px;
+    }
+    &:after {
+      content: "»";
+      right: -42px;
+      padding-left: 4px;
+    }
+  }
+}
+
+img[src~="book2right"], img.right, figure.right {
+   float: right;
+   overflow: hidden;
+   margin: 0 0 1rem 1rem !important;
+  @media screen and (max-device-width: @md-xsmall) {
+    float: none;
+    margin: 0 !important;
+    width: 100%;
+  }
+}
+img[src~="book2left"], img.left {
+   float: left;
+   overflow: hidden;
+   margin: -1rem 1rem 1rem 0;
+  @media screen and (max-device-width: @md-xsmall) {
+    float: none;
+    margin: 0;
+    width: 100%;
+  }
+}
+hr {
+  clear: both;
+}  
+iframe {
+  max-width: 100%;
+}
+h2 + h3, figure + h2, .splide + h2, .splide + h3,  h2 + .splide, h3 + .splide {
+  margin-top: 1rem;
+}
+p.center, div.center {
+  text-align: center;
+}
+.center > blockquote, .center > iframe, .center > div {
+  margin: 0 auto !important;
+}
+iframe.center {
+  margin: 0 auto;
+}
+.caption {
+  text-decoration: none;
+}
+mark {
+  padding: 0 .2rem;
+}
+
+.splide  {
+  border-top: 1px solid #bec8e4;
+  border-bottom: 1px solid #bec8e4;
+  background: #ebf2fc;
+  margin: 0 -2rem;
+  padding: 1rem;
+  &#bottom-slider {
+    margin-bottom: -1rem;
+  }
+}
+.splide__slide {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  > a {
+    margin: 0 auto;
+  }
+  img {
+    width: auto;
+    max-height: 800px;
+    height: 50vh;
+    margin: 0 auto;
+    @media screen and (max-device-width: @md-small) {
+      width: 100%;
+      height: auto;
+    }
+  }
+}

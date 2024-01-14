@@ -6,17 +6,21 @@ backend:
 publish_mode: editorial_workflow
 
 # This line should *not* be indented
-media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+media_folder: "images" # Media files will be stored in the repo under images/uploads
+locale: 'fr'
 
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Billets" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
+    filter:
+      field: "layout"
+      value: "post"
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Type", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Type", name: "layout", widget: "hidden", default: "post"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - label: "Catégories"
@@ -27,7 +31,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Image", name: "coverImage", widget: "image", required: false}
       - {label: "Largeur", name: "imgWidth", widget: "number", required: false}
-      - {label: "Hauteur", name: "imgheight", widget: "number", required: false}
+      - {label: "Hauteur", name: "imgHeight", widget: "number", required: false}
       - {label: "Ne pas afficher l'image sur la page", name: "noImageOnPost", widget: "boolean", default: "false", required: false}
       - {label: "Afficher l'image à droite", name: "cover2left", widget: "boolean", default: "true", required: false}
       - label: "Carousel"
@@ -40,6 +44,9 @@ collections:
   - name: "review" # Used in routes, e.g., /admin/collections/blog
     label: "Critiques" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
+    filter:
+      field: "layout"
+      value: "review"
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -63,6 +70,9 @@ collections:
       - {label: "Corps de page", name: "body", widget: "markdown"}
   - name: "pixelfed" # Used in routes, e.g., /admin/collections/blog
     label: "Pixelfed" # Used in the UI
+    filter:
+      field: "layout"
+      value: "pixelfed"
     folder: "_posts" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
@@ -74,7 +84,7 @@ collections:
       - label: "Catégories"
         name: "categories"
         widget: "select"
-        default: "trucs-pris-en-photo", "trucs-de-lomographe"
+        default: "trucs-pris-en-photo"
         multiple: true
         options: ["trucs-de-webmaster", "trucs-de-geek", "trucs-de-parisien", "a-paris", "qui-voyage", "qui-sont-maintenant-alsaciens", "trucs-pris-en-photo", "trucs-de-lomographe", "trucs-instagrammes", "trucs-critiques", "trucs"]
       - {label: "Tags", name: "tags", widget: "list", required: false}
@@ -87,6 +97,9 @@ collections:
   - name: "mastodon" # Used in routes, e.g., /admin/collections/blog
     label: "Mastodon" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
+    filter:
+      field: "layout"
+      value: "mastodon"
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -97,7 +110,7 @@ collections:
       - label: "Catégories"
         name: "categories"
         widget: "select"
-        default: "trucs-pris-en-photo", "trucs-de-lomographe"
+        default: "trucs"
         multiple: true
         options: ["trucs-de-webmaster", "trucs-de-geek", "trucs-de-parisien", "a-paris", "qui-voyage", "qui-sont-maintenant-alsaciens", "trucs-pris-en-photo", "trucs-de-lomographe", "trucs-instagrammes", "trucs-critiques", "trucs"]
       - {label: "Tags", name: "tags", widget: "list", required: false}
@@ -106,3 +119,23 @@ collections:
       - {label: "Hauteur", name: "imgheight", widget: "number", required: false}
       - {label: "Lien Mastodon", name: "mastolink", widget: "string"}
       - {label: "Corps de page", name: "body", widget: "markdown"}
+  - name: 'pages'
+    label: 'Pages'
+    files:
+      - label: 'À propos'
+        name: 'about'
+        file: 'arnaud-malon.html'
+        fields:
+          - { label: 'Titre', name: 'title', widget: 'hidden', default: 'À propos de... Arnaud Malon' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+          - { label: "Permalink", name: "permalink", widget: 'hidden', default: '/arnaud-malon.html'}
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'En ce moment'
+        name: 'now'
+        file: 'en-ce-moment.html'
+        fields:
+          - { label: 'Titre', name: 'title', widget: 'hidden', default: 'En ce moment...' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+          - { label: "Permalink", name: "permalink", widget: 'hidden', default: '/en-ce-moment.html'}
+          - { label: "Date", name: "date", widget: "datetime"}
+          - { label: 'Body', name: 'body', widget: 'markdown' }
