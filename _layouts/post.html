@@ -10,12 +10,21 @@ layout: default
 {%- if page.date -%}
         <p class="post-meta">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- if page.datemaj -%}
+          <span class="sr-only" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% include locale-date.html %}
+          </span>
+          <time class="dt-published" datetime="{{ page.datemaj | date_to_xmlschema }}" itemprop="datePModified">
+            {% include locale-datemaj.html %}
+          </time>
+  {%- else -%}
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% include locale-date.html %}
+          </time>
+  {%- endif -%}
           <span class="sr-only" itemprop="author" itemscope itemtype="https://schema.org/Person">
             <a href="/arnaud-malon.html" itemprop="url"><span itemprop="name">Arnaud Malon</span></a>
           </span>
-  {% include locale-date.html %}
-          </time>
   {%- if page.categories -%}
     {% assign cat = page.categories | first %}
     {%- for item in site.data.nav.categories -%}
