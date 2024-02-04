@@ -867,14 +867,20 @@ hr {
   clear: both;
   margin: 2rem 0 1rem 0;
   border: none;
-  &:after {
+  &:before {
     display: block;
     content: " ";
     height: .2rem;
     background: linear-gradient(-135deg, #7b56ff 40%, #52e2ff 120%);
-    box-shadow: 2px 2px 8px 1px #7b56ff;
-    border-radius: 6px;
-    margin: 0 8px 8px 0;
+  }
+  &:after {
+    display: block;
+    content: " ";
+    height: .2rem;
+    box-shadow: 5px 5px 8px 1px #7b56ff;
+    filter: blur(5px);
+    margin-top: -0.2rem;
+    margin-bottom: .2rem;
   }
 }  
 iframe {

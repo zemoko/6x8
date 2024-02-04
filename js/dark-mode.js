@@ -15,6 +15,9 @@ if (getCookie("darkmode") !== undefined) {
 	if (getCookie("darkmode") === "true") {
 		document.getElementById("darkmode-toggle").checked = true;
 		document.body.classList.add("dark-mode");
+	} else {
+		document.getElementById("darkmode-toggle").checked = false;
+		document.body.classList.remove("dark-mode");
 	}
 } else {
 	if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
