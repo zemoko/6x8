@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Marivaudage à Auschwitz"
+title: "Ma critique de «&nbsp;<strong>La 2one d’intérêt</strong>&nbsp;» de <em>Martin Amis</em>"
 date: "2015-10-18"
 categories: 
   - "trucs-critiques"
@@ -18,7 +18,7 @@ bookISBN: 9782702157275
 bookRating: 4
 ---
 
-## Critique de **« La zone d'intérêt »** de _Martin Amis_
+## Marivaudage à Auschwitz 
 
 L'endroit n'est jamais mentionné mais on reconnait Auschwitz.
 
