@@ -7,6 +7,7 @@ categories:
 tags: 
   - "coup-de-coeur"
   - "critique"
+  - "OLNI"
   - "livre"
 coverImage: "717tSUBZ3hL.jpg"
 imgWidth: 360

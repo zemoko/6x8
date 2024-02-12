@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "OLNI"
 coverImage: warhol-invaders.jpg
 imgWidth: 360
 imgHeight: 526

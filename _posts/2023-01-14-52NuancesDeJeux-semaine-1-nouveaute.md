@@ -7,6 +7,7 @@ categories:
 tags: 
   - "mastodon"
   - "jeux-de-societe"
+  - "OLNI"
 coverImage: "86c48eed94b768a9.jpg"
 imgWidth: 360
 imgHeight: 270

@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "OLNI"
 coverImage: "9782374252414.jpg"
 imgWidth: 360
 imgHeight: 540

@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "OLNI"
 coverImage: Les-Lames-du-Cardinal.jpeg
 imgWidth: 360
 imgHeight: 560
