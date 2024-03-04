@@ -8,7 +8,7 @@ categories:
 tags: 
   - "miam"
 coverImage: HI32T4k6PgCFsE966tvKY3Xs7hOIYiSnK4MSPpen.png
-imgWidth: 1440
+imgWidth: 1080
 imgHeight: 1080
 pixelfed: HI32T4k6PgCFsE966tvKY3Xs7hOIYiSnK4MSPpen.png
 pixellink: https://pixelfed.social/i/web/post/668219328737200002

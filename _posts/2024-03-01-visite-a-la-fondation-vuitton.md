@@ -10,7 +10,7 @@ tags:
   - "streetart"
   - "expo"
 coverImage: KCEYR33RYslehRlXbGl6RwLycoQn63dnishkOpae.jpg
-imgWidth: 1080
+imgWidth: 1440
 imgHeight: 1080
 pixelfed: KCEYR33RYslehRlXbGl6RwLycoQn63dnishkOpae.jpg
 pixellink: https://pixelfed.social/i/web/post/669218317278875333
