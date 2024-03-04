@@ -41,3 +41,25 @@ En parallèle de ces évènements, Hirion va découvrir dans un vieux grimoire u
 <strong>Cette découverte fait écho à celle de Nox dans Capitale du Sud</strong>&nbsp;: ce dernier avait découvert une Gemina parallèle qui lui permettait de se déplacer discrètement. Cette ville était, certes, plus sombre que Gemina... mais cette dernière était tellement bouillonante que cette ville parallèle n'était qu'une excroissance supplémentaire. <strong>À Dehaven, ville bien plus sage et plus stricte, la découverte d'une ville parallèle est encore plus fascinante</strong>, d'autant qu'elle est faite par nos trois jeunes héros dont l'éducation les as tenu éloignés de la magie et des mystères.
 
 J'avais beaucoup aimé <strong>Le sang de la cité</strong>, je dois avouer que j'ai été autant séduit par <strong>Citadins de demain</strong>. fantaisie subtilité. Je dois être entre ces deux cités, ces deux cultures, car je ne sais pas si j'ai plus hâte de découvrir la suite du cycle du Nord ou du Sud... ce qui est sûr, c'est que j'ai hâte de découvrir la suite de ce cycle. Tout simplement.
+
+* * *
+
+Retrouvez les 6 tomes de la Tour de Garde&nbsp;:
+<ul>
+  <li>
+    <strong>Capitale du Sud&nbsp;:</strong>
+    <ul>
+      <li><a href="/2022/02/ma-critique-de-le-sang-de-la-cite-capitale-du-sud-de-guillaume-chamanadjian/">Le sang de la cité</a></li>
+      <li><a href="/2024/01/ma-critique-de-capitale-du-sud-tome-2-trois-lucioles-de-guillaume-chamanadjian/">Trois lucioles</a></li>
+      <li><a href="/2024/02/ma-critique-de-capitale-du-sud-tome-3-les-contes-suspendus-de-guillaume-chamanadjian/">Les contes suspendus</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Capitale du Nord&nbsp;:</strong>
+    <ul>
+      <li><strong>Citadins de demain</strong></li>
+      <li><a href="/2024/01/ma-critique-de-capitale-du-nord-tome-2-mort-au-geais-de-claire-duvivier/">Mort aux geais&nbsp;!</a></li>
+      <li>L’armée fantoche <em>(à venir)</em></li>
+    </ul>
+  </li>
+</ul>

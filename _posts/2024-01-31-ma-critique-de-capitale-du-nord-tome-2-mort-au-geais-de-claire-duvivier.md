@@ -27,3 +27,25 @@ Des trois artefacts magiques découverts par Hirion dans le 1<sup>er</sup>&nbsp;
 En toile de fonds, <strong>comme pour tous les tomes précédents, la ville est encore une fois un des personnages principaux du roman</strong>. <strong>Dehaven traverse une crise politique</strong>, les équilibres fragiles étant bouleversés par la mort de la grand-mère d’Amalia, au moment où la ville doit faire face aux volontés d’indépendance de ses colonies et où des troubles dans les faubourgs éclatent, sous l’implusion de factions qui remettent en cause la prépondérance de l’ancienne élite aristocratique (ce sont eux, les geais). Bref, la révolte gronde.
 
 <mark>C’est, de nouveau, une lecture qui m’a beaucoup plu</mark> et j’ai, de nouveau hâte de découvrir la suite, d’abord au Sud puis de nouveau au Nord. D’autant qu’on sent que <mark>les choses se sont mis patiemment en place dans les deux trilogies et qu’on a hâte de les voir converger dans un final qu’on espère à la hauteur de l’ambition de cette saga&nbsp;!</mark>
+
+* * *
+
+Retrouvez les 6 tomes de la Tour de Garde&nbsp;:
+<ul>
+  <li>
+    <strong>Capitale du Sud&nbsp;:</strong>
+    <ul>
+      <li><a href="/2022/02/ma-critique-de-le-sang-de-la-cite-capitale-du-sud-de-guillaume-chamanadjian/">Le sang de la cité</a></li>
+      <li><a href="/2024/01/ma-critique-de-capitale-du-sud-tome-2-trois-lucioles-de-guillaume-chamanadjian/">Trois lucioles</a></li>
+      <li><a href="/2024/02/ma-critique-de-capitale-du-sud-tome-3-les-contes-suspendus-de-guillaume-chamanadjian/">Les contes suspendus</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Capitale du Nord&nbsp;:</strong>
+    <ul>
+      <li><a href="/2023/11/ma-critique-de-capital-du-nord-tome-1-citadins-de-demain-de-claire-duviver/">Citadins de demain</a></li>
+      <li><strong>Mort aux geais&nbsp;!</strong></li>
+      <li>L’armée fantoche <em>(à venir)</em></li>
+    </ul>
+  </li>
+</ul>

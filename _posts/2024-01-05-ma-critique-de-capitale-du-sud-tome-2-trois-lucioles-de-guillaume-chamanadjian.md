@@ -27,3 +27,25 @@ Et, évidemment, il y a toujours <strong>le Nihilo</strong>, ce double de la Cit
 Je l'avais déjà ressenti comme cela, <mark>le personnage principal, c'est toujours la Cité de Gemina</mark>, Gemina et son double car décidément tout est dualité dans cette ville.
 
 Je savais en en commençant la lecture du premier tome qu'il s'agissait d'un projet ambitieux, ma lecture était animée par la curiosité. <mark>Après ce troisième tome, je suis vraiment enthousiaste, toujours curieux mais surtout conquis, j'ai hâte d'en continuer la lecture. Tant du Nord que du Sud</mark>.
+
+* * *
+
+Retrouvez les 6 tomes de la Tour de Garde&nbsp;:
+<ul>
+  <li>
+    <strong>Capitale du Sud&nbsp;:</strong>
+    <ul>
+      <li><a href="/2022/02/ma-critique-de-le-sang-de-la-cite-capitale-du-sud-de-guillaume-chamanadjian/">Le sang de la cité</a></li>
+      <li><strong>Trois lucioles</strong></li>
+      <li><a href="/2024/02/ma-critique-de-capitale-du-sud-tome-3-les-contes-suspendus-de-guillaume-chamanadjian/">Les contes suspendus</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Capitale du Nord&nbsp;:</strong>
+    <ul>
+      <li><a href="/2023/11/ma-critique-de-capital-du-nord-tome-1-citadins-de-demain-de-claire-duviver/">Citadins de demain</a></li>
+      <li><a href="/2024/01/ma-critique-de-capitale-du-nord-tome-2-mort-au-geais-de-claire-duvivier/">Mort aux geais&nbsp;!</a></li>
+      <li>L’armée fantoche <em>(à venir)</em></li>
+    </ul>
+  </li>
+</ul>

@@ -20,10 +20,28 @@ bookRating: 4
  
 Vient ensuite **Nox**, notre narrateur, avec lequel on va découvrir la cité. Nox est **commis d’épicerie** pour Saint-Vivant, une épicerie fine du quartier du port qui dépends de la maison de la Couarne… mais Nox est aussi le **protégé du Duc de la Couane** depuis que ce dernier, après sa victoire sur un clan rival qu’il a fini par annihiler, l'a trouvé, lui et sa sœur jumelle, dans une prison souterraine.
  
-*Je n’en dirais pas plus pour ne pas trop en dévoiler*… Mais je peux vous assurer que **j’ai rapidement été happé et par cette cité fascinante, et par cet univers** à la fois proche et subtilement différent, et par les personnages, qu’ils soient attachants, exaspérants ou intimidants, ils sont tous particulièrement bien campés. Bref, **une bien belle lecture** qui, par bien des aspects, m’a rappelé <a href="/2017/03/ma-critique-de-gagner-la-guerre-de-jean-philippe-jaworski/">Gagner la guerre</a>a> de Jean-Philippe Jawarski.
+*Je n’en dirais pas plus pour ne pas trop en dévoiler*… Mais je peux vous assurer que **j’ai rapidement été happé et par cette cité fascinante, et par cet univers** à la fois proche et subtilement différent, et par les personnages, qu’ils soient attachants, exaspérants ou intimidants, ils sont tous particulièrement bien campés. Bref, **une bien belle lecture** qui, par bien des aspects, m’a rappelé <a href="/2017/03/ma-critique-de-gagner-la-guerre-de-jean-philippe-jaworski/">Gagner la guerre</a> de Jean-Philippe Jawarski.
  
 Ah, et **qui dit «&nbsp;Capitale du Sud&nbsp;» dit** sans doute **«&nbsp;Capitale du Nord&nbsp;»** (ou au moins autre capitale)…  **Sachez que ce sera bien le cas&nbsp;: la « Capitale du Nord », ce sera Duhaven et il sera de Claire Duvivier puisque la tour de garde est un univers partagé, écrit à quatre mains&nbsp;!** À très vite, donc&nbsp;!
  
 * * *
 
-Retrouvez [cette critique](https://www.senscritique.com/livre/le_sang_de_la_cite/critique/264548104) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !
+Retrouvez les 6 tomes de la Tour de Garde&nbsp;:
+<ul>
+  <li>
+    <strong>Capitale du Sud&nbsp;:</strong>
+    <ul>
+      <li><strong>Le sang de la cité</strong></li>
+      <li><a href="/2024/01/ma-critique-de-capitale-du-sud-tome-2-trois-lucioles-de-guillaume-chamanadjian/">Trois lucioles</a></li>
+      <li><a href="/2024/02/ma-critique-de-capitale-du-sud-tome-3-les-contes-suspendus-de-guillaume-chamanadjian/">Les contes suspendus</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Capitale du Nord&nbsp;:</strong>
+    <ul>
+      <li><a href="/2023/11/ma-critique-de-capital-du-nord-tome-1-citadins-de-demain-de-claire-duviver/">Citadins de demain</a></li>
+      <li><a href="/2024/01/ma-critique-de-capitale-du-nord-tome-2-mort-au-geais-de-claire-duvivier/">Mort aux geais&nbsp;!</a></li>
+      <li>L’armée fantoche <em>(à venir)</em></li>
+    </ul>
+  </li>
+</ul>
