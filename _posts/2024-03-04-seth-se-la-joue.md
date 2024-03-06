@@ -15,3 +15,5 @@ imgHeight: 1350
 pixelfed: 1fyfnQQoDnqLDmzj4o9QiJmq7UPtyKgua9KYrM6I.jpg
 pixellink: https://pixelfed.social/i/web/post/670265485589985053
 ---
+
+On a <mark>beaucoup</mark> aimé l'expo <span role="img" aria-hidden=true>❤️</span>. Du coup, j'ai commis <a href="/2024/02/seth-se-la-joue/">un billet dédié</a>.
