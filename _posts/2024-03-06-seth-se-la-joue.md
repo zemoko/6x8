@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seth se la joue, au musée en herbe"
-date: "2024-02-29"
+date: "2024-03-06"
 categories: 
   - trucs-pris-en-photo
   - trucs-de-lomographe
