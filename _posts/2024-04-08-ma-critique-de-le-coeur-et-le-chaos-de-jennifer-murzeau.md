@@ -11,7 +11,7 @@ coverImage: Le-coeur-et-le-Chaos.jpg
 imgWidth: 400
 imgHeight: 540
 bookTitle: "Le cœur et le chaos"
-bookAuthor: "JenniferMurzeau"
+bookAuthor: "Jennifer Murzeau"
 bookISBN: 9782260054634         
 bookRating: 4
 ---
