@@ -12,7 +12,7 @@ tags:
 coverImage: 9782344058589-001-T.jpg
 imgWidth: 600
 imgHeight: 814
-bookTitle: "c&nbsp;: Rencontre avec neuf scientifiques du <abbr>GIEC</abbr>"
+bookTitle: "Horizons climatiques&nbsp;: Rencontre avec neuf scientifiques du <abbr>GIEC</abbr>"
 bookAuthor: "Iris-Amata Dion et Xavier Henrion"
 bookISBN: 9782344058589          
 bookRating: 5
@@ -31,8 +31,9 @@ Le 6<sup>e</sup> rapport du <abbr>GIEC</abbr> a été publié en 2023… mais il
 <figure>
   <picture>
     <source srcset="/.netlify/images?url=/images/2024/04/horizons_climatiques_-_courbe_deuil.png&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
-    <img src="/images/2024/04/horizons_climatiques_-_courbe_deuil.png" width="318" height="500" alt="La courbe du deuil (dont le détail est dans le paragraphe suivant)">
+    <img src="/images/2024/04/horizons_climatiques_-_courbe_deuil.png" width="100%" alt="Choc > Déni > Colère > Négociation > Dépression > Acceptation > Expérimentation > Décision > Intégration">
   </picture>
+  <figcaption class="center">La courbe du deuil</figpcaption>
 </figure>
 
 <ul>
