@@ -33,7 +33,7 @@ Le 6<sup>e</sup> rapport du <abbr>GIEC</abbr> a été publié en 2023… mais il
     <source srcset="/.netlify/images?url=/images/2024/04/horizons_climatiques_-_courbe_deuil.png&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
     <img src="/images/2024/04/horizons_climatiques_-_courbe_deuil.png" width="100%" alt="Choc > Déni > Colère > Négociation > Dépression > Acceptation > Expérimentation > Décision > Intégration">
   </picture>
-  <figcaption class="center">La courbe du deuil</figpcaption>
+  <figcaption class="center">La courbe du deuil</figcaption>
 </figure>
 
 <ul>
