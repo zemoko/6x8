@@ -5,6 +5,7 @@ date:   2024-05-09
 categories: 
   - trucs-pris-en-photo
   - trucs-instagrammes
+  - trucs-de-geek
 tags: 
   - "jeux-de-societe"
 coverImage: TRBsSjjRZAxBpFlTpFWHLC7WkqcEMnHmPnegbHLR.jpg
