@@ -1,5 +1,5 @@
 // Variables
-@background:        #f2f2f2;
+@background:        #ebf2fb;
 @background2:       #292929;
 
 @primary-light:     #8abdff;
@@ -71,7 +71,7 @@ strong {
  /* Header */
 
 header.site {
-  background: @background2;
+  background: #ebf2fb;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -84,32 +84,38 @@ header.site {
     text-decoration: none;
     &:hover .name {
       color: @primary;
+      background: linear-gradient(to left, rgb(128,140,152), rgb(61,71,88));
     }
     &:hover .description {
-      color: @white;
+      color: #3f495a;
     }
   }
 
   .name {
     font-size: 3rem;
     line-height: 1;
-    color: @white;
-    transition: color .5s ease;
+    transition: background-color .5s ease;
+
+    display: inline-block;
+    background: linear-gradient(to left, rgb(61,71,88), rgb(128,140,152));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   .description {
     font-size: 1.2rem;
-    color: @greyLight-0;
+    color: #7e8996;
     transition: color .5s ease;
   }
 
  /* Avatar */
  .avatar {
     flex: 1 1 auto;
-	 text-align: left;
+    text-align: left;
     padding-left: 12px;
   }
   #moko {
-  	width: 100px;
+  	width: 80px;
     #mouth, #eyes  {
 	   visibility: visible;
 	   opacity: 1;
@@ -1226,6 +1232,11 @@ details {
   position: absolute;
   top: 1rem;
   right: 1.5rem;
+
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
   @media screen and (max-device-width: @md-xsmall) {
     top: .5rem;
     right: .5rem;
@@ -1427,11 +1438,7 @@ body.dark-mode {
   @media screen and (max-device-width: @md-large) {
     flex-direction: column-reverse;
   }
-  .review {
-    flex: 2 2 0;
-  }
   .cover {
-    flex: 1 1 0;
     min-width: 280px;
     padding-left: 2rem;
     text-align: center;
