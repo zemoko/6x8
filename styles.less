@@ -51,7 +51,9 @@ html {
   border: 0;
   overflow: hidden;
 }
-
+.no-wrap {
+  text-wrap: nowrap;
+}
 .container {
   font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
   display: flex;
@@ -433,7 +435,6 @@ nav {
     padding: .2rem .6rem;
     font-size: 1.4rem;
     display: flex;
-    justify-content: center;
     align-items: center;
     cursor: pointer;
     transition: all .5s ease;
@@ -1174,10 +1175,8 @@ footer {
 
 // Commentaires
 
-#hyvor-talk-view, .webmentions {
+hyvor-talk-comments #app, .webmentions {
   background: #ccc;
-}
-.webmentions {
   padding: 1rem;
 }
 .giscus {
@@ -1489,3 +1488,15 @@ body.dark-mode {
   }
 }
 
+#fancy
+
+.f-carousel {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.f-carousel .f-carousel__slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

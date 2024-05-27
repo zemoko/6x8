@@ -102,6 +102,39 @@ for ( var i = 0; i < splides.length; i++ ) {
 {%- if content contains 'lightgallery' -%}
       <script src="js/lightgallery.min.js"></script>
 {%- endif -%}
+{%- if page.fancybox -%}
+      <script src="/js/fancybox/fancybox.umd.js"></script>
+      <script src="/js/carousel/carousel.umd.js"></script>
+      <script src='/js/carousel/carousel.thumbs.umd.js'></script>
+      <link rel="stylesheet" href="/js/fancybox/fancybox.css" />
+      <link rel="stylesheet" href="/js/carousel/carousel.css" />
+      <script>
+
+const options = {
+  Dots: false,
+  Thumbs: {
+    type: "classic",
+  },
+};
+var carousels = document.getElementsByClassName( 'f-carousel' );
+for ( var i = 0; i < carousels.length; i++ ) {
+  const container = document.getElementById(carousels[ i ].id);
+  new Carousel(container, options, { Thumbs });
+}
+Fancybox.bind("[data-fancybox]", {
+  // Transition effect when changing gallery items
+  Carousel: {
+    transition: "slide",
+  },
+  // Disable image zoom animation on opening and closing
+  Images: {
+    zoom: false,
+  },
+  // Custom CSS transition on opening
+  showClass: "f-fadeIn",
+});
+      </script>
+{%- endif -%}
     </div>
 
     {% include comments.html %}
@@ -113,10 +146,10 @@ for ( var i = 0; i < splides.length; i++ ) {
 <div class="navlinks">
   <ul class="pagination">
 {% if page.previous.url %}
-    <li><a href="{{page.previous.url}}" class="previous-page">{{page.previous.title | markdownify }}</a></li>
+    <li><a href="{{page.previous.url}}" class="previous-page">{{page.previous.title}}</a></li>
 {% endif %}
 {% if page.next.url %}
-    <li><a href="{{page.next.url}}" class="next-page">{{page.next.title | markdownify }}</a></li>
+    <li><a href="{{page.next.url}}" class="next-page">{{page.next.title}}</a></li>
 {% endif %}
   </ul>
 </div>

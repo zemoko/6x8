@@ -26,10 +26,11 @@ module Jekyll
       @config = context.registers[:site].config['piwigogallery']
       @json = get_json
       @images = get_images
-      page = ""
+      page = '<div><div class="f-carousel" id="Carousel'+@gallery_id+'">'
       for image in @images
            page += render_image(image)
       end
+      page += '</div></div>'
       page
       
     end
@@ -47,12 +48,11 @@ module Jekyll
     end
 
     def render_image(image)
-	   element = image['element_url']
-    square = image['derivatives']['square']['url']
-    large = image['derivatives']['large']['url']
-    caption = image['name']
-	return '<a data-fancybox="gallery" data-caption="'+caption+'" href="'+element+'"><img src="'+square+'" alt="" class="piwigo" /></a>' 
- 
+      element = image['element_url']
+      square = image['derivatives']['square']['url']
+      large = image['derivatives']['large']['url']
+      caption = image['name']
+      return '<div class="f-carousel__slide" data-thumb-src="'+square+'"><a href="'+element+'" data-fancybox="gallery'+@gallery_id+'" data-caption="'+caption+'"><img alt="" data-lazy-src="'+large+'" /></a></div>' 
     end
   end
 end
