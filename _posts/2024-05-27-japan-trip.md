@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Japan Trip (<span lang='jp'>日本旅行</span>)"
+title: "Japan Trip (<span lang='ja'>日本旅行</span>)"
 date: "2024-05-27"
 categories: 
   - trucs-pris-en-photo
