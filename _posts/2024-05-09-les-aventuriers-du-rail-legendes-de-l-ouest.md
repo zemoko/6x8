@@ -1,6 +1,6 @@
 ---
 layout: pixelfed
-title: "Aventuriers du Rail, Légendes de l’Ouest <span role=img aria-hidden=true class=no-wrap>🚂🚃🚃🚃</span>"
+title: "Aventuriers du Rail, Légendes de l’Ouest <span role='img' aria-hidden='true' class='no-wrap'>🚂🚃🚃🚃</span>"
 date:   2024-05-09
 categories: 
   - trucs-pris-en-photo
