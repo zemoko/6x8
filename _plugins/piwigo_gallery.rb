@@ -48,7 +48,12 @@ module Jekyll
     end
 
     def render_image(image)
-      element = image['element_url']
+      comment = (image['comment'] =~ /vimeo/)
+      if !comment.nil?
+        element = image['comment']
+      else
+	     element = image['element_url']
+      end
       square = image['derivatives']['square']['url']
       large = image['derivatives']['large']['url']
       caption = image['name']

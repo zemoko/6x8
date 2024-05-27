@@ -115,6 +115,17 @@ const options = {
   Thumbs: {
     type: "classic",
   },
+  on: {
+    "initSlides": (instance) => {
+      var slides = instance.slides;
+      for ( var i = 0; i < slides.length; i++ ) {
+        if ( slides[ i ].el.innerHTML.includes("vimeo") ) {
+          vimeo = slides[ i ].el.firstChild.attributes.href.nodeValue.substring(18);
+          slides[ i ].el.innerHTML = '<iframe width="640" height="480" allow="autoplay; fullscreen" scrolling="auto" src="https://player.vimeo.com/video/'+vimeo+'?byline=1&color=00adef&controls=1&dnt=1&muted=0" tabindex="-1" data-ready="true" data-orig-tabindex="-1"></iframe>';
+        }
+      }
+    },
+  },
 };
 var carousels = document.getElementsByClassName( 'f-carousel' );
 for ( var i = 0; i < carousels.length; i++ ) {
