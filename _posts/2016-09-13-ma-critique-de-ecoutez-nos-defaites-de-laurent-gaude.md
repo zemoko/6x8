@@ -9,17 +9,17 @@ tags:
   - "critique"
   - "livre"
 coverImage: "CVT_Ecoutez-nos-defaites_3325.jpg"
-imgWidth: 360
-imgHeight: 685
+imgWidth: 250
+imgHeight: 476
 bookTitle: "Écoutez nos défaites"
 bookAuthor: "Laurent Gaudé"
 bookISBN: 9782330066499  
 bookRating: 5
 ---
 
-Ma première lecture de la rentrée littéraire. Je n'ai pas pris de risques : on est rarement déçu avec Laurent Gaudé, et **"Écoutez nos défaites" est un bien beau roman, mêlant une construction complexe et un style tout en finesse**.
+Ma première lecture de la rentrée littéraire. Je n'ai pas pris de risques&nbsp;: on est rarement déçu avec Laurent Gaudé, et **"Écoutez nos défaites" est un bien beau roman, mêlant une construction complexe et un style tout en finesse**.
 
-**"Écoutez nos défaites", ce sont 6 histoires qui se mêlent et s'entremêlent. 3 personnages fictifs contemporains, 3 grandes figures historiques.**
+**"Écoutez nos défaites", ce sont 6 histoires qui se mêlent et s'entremêlent. 3&nbsp;personnages fictifs contemporains, 3&nbsp;grandes figures historiques.**
 
 ## Assem
 
@@ -31,7 +31,7 @@ Ma première lecture de la rentrée littéraire. Je n'ai pas pris de risques : o
 
 ## Mariam
 
-**Mariam** est une archéologue irakienne. Elle travaille pour l'UNESCO et se bat pour retrouver les objets pillés au musée de Badgad lors de l'invasion américaine. Elle lutte contre les forces qui déstabilisent son pays et tout le moyen-orient, contre la barbarie qui représente l'exacte contraire de ce qu'elle est et de ce en quoi elle croit. Accessoirement, elle lutte aussi contre son cancer.
+**Mariam** est une archéologue irakienne. Elle travaille pour l'<abbr>UNESCO</abbr> et se bat pour retrouver les objets pillés au musée de Badgad lors de l'invasion américaine. Elle lutte contre les forces qui déstabilisent son pays et tout le moyen-orient, contre la barbarie qui représente l'exacte contraire de ce qu'elle est et de ce en quoi elle croit. Accessoirement, elle lutte aussi contre son cancer.
 
 <blockquote class="citation">
 	Elle a passé la journée à recueillir des témoignages et tous disent la même chose : la peur, le visage profond de l'effroi face à ces hommes dont le surgissement signifie l'éclipse de notre monde. Tout sera brûlé. **Ils sont venus pour régner, s'emparer des villes, des corps, des esprits**.
@@ -62,17 +62,17 @@ Un autre général, Carthaginois celui-là : **Hannibal** marche sur Rome à la 
 Enfin, c'est l'histoire d'**Hailé Sélassié**, le roi des rois, Empereur d’Éthiopie, descendant de la reine de Saba. D'abord en lutte contre l'envahisseur Italien, fuyant son pays, précipitant la fin de la SDN dans une quasi auto-dissolution puis en lutte contre son temps, perdant le rapport avec son peuple et son pays.
 
 <blockquote class="citation">
-	Ils comprennent alors que ce n'est pas un vaincu qui vient demande l'aumône. L'Histoire hésite-t-elle encore ? Il continue son discours, se sent de plus en plus fort. Rien ne peut l'ébranler. Il est de la lignée du roi Salomon. Que peuvent bien Badoglio et Graziani face à lui ? Il est de la lignée de la reine de Saba et ce qu'il est venu apporter ici, ce n'est pas une supplique. Les délégués commencent à le sentir et ils l'écoutent avec plus d'attention. **L'empereur face à eux est un fossoyeur, pas de l’Éthiopie, mais de la Société dans laquelle ils siègent**. C'est cela qu'il dit.
+	Ils comprennent alors que ce n'est pas un vaincu qui vient demande l'aumône. L'Histoire hésite-t-elle encore&nbsp;? Il continue son discours, se sent de plus en plus fort. Rien ne peut l'ébranler. Il est de la lignée du roi Salomon. Que peuvent bien Badoglio et Graziani face à lui&nbsp;? Il est de la lignée de la reine de Saba et ce qu'il est venu apporter ici, ce n'est pas une supplique. Les délégués commencent à le sentir et ils l'écoutent avec plus d'attention. **L'empereur face à eux est un fossoyeur, pas de l’Éthiopie, mais de la Société dans laquelle ils siègent**. C'est cela qu'il dit.
 </blockquote>
 
 ## Chacun, tour à tour, seront victorieux ou défaits...
 
-...mais **chaque victoire porte en elle une défaite**. La violence de la guerre, tout le sang versé, toutes les vies brisées, tout cela est magnifiquement décrit et dit bien le prix de la guerre. **Quelle guerre mène vraiment à une victoire ?**
+...mais **chaque victoire porte en elle une défaite**. La violence de la guerre, tout le sang versé, toutes les vies brisées, tout cela est magnifiquement décrit et dit bien le prix de la guerre. **Quelle guerre mène vraiment à une victoire&nbsp;?**
 
 Le livre est écrit à la première personne du singulier. À chaque début de paragraphe, le narrateur change. Il faut un temps pour s'y habituer, pour retrouver qui parle, restituer l'époque... mais rapidement, une étrange cohérence transparait au travers de ces récits. **Laurent Gaudé arrive à abolir les frontières et la temporalité.**
 
 <blockquote class="citation">
-	**Quelle vie sera possible après tout cela ?** Comment pourra-t-il oublier l'odeur de la poudre, la vision des cadavres ? Il est resté trop longtemps dans la guerre. Des jeunes gens sont morts d'avoir suivi ses ordres.
+	**Quelle vie sera possible après tout cela ?** Comment pourra-t-il oublier l'odeur de la poudre, la vision des cadavres&nbsp;? Il est resté trop longtemps dans la guerre. Des jeunes gens sont morts d'avoir suivi ses ordres.
 </blockquote>
 
 * * *
