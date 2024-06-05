@@ -70,7 +70,7 @@ webmentions:
   cache_bad_uris_for: 5
   # I moved to www and then to https, so…
   legacy_domains:
-    - http://www.6x8.org
+    - https://www.6x8.org
 
 piwigogallery:
   baseurl: https://sitofotos.6x8.org/
