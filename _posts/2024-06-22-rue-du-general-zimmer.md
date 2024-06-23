@@ -1,21 +1,19 @@
 ---
 layout: pixelfed
-title: "Poste Broglie #Strasbourg #Streetart #Stork7567"
-date:   2023-09-16
+title: "Rue du général Zimmer"
+date: "2024-06-22"
 categories: 
-  - trucs-pris-en-photo
-  - trucs-instagrammes
-  - trucs-de-parisien
-  - qui-sont-maintenant-alsaciens
+  - "trucs-pris-en-photo"
 tags: 
   - "pixelfed"
-  - "stork7567"
+  - "strasbourg"
   - "streetart"
-coverImage: qdRxWODVjouaA3tEDWrwLgyZ6VMyH4Mgi6X2O8dZ.jpg
+  - "stork7567"
+coverImage: "WjsqfcEAnKmWRArd5plAMxyz4h7ute8Jv19nQLHv.png"
 imgWidth: 1440
 imgHeight: 1080
-pixelfed: qdRxWODVjouaA3tEDWrwLgyZ6VMyH4Mgi6X2O8dZ.jpg
-pixellink: https://pixelfed.social/p/zemoko/609020646050022285
+pixelfed: WjsqfcEAnKmWRArd5plAMxyz4h7ute8Jv19nQLHv.png
+pixellink: https://pixelfed.social/i/web/post/710288437136521944
 ---
 
 Quand j'étais parisien, je chassais les [Space invaders](http://sitofotos.6x8.org/index.php?/category/2). Maintenant que je suis strasbourgeois, je chasse les [cigognes](https://www.6x8.org/tag/stork7567/) et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d'Invader). Vous aussi, partez [à la chasse au Stork](https://www.6x8.org/2019/11/a-la-chasse-au-stork/) !

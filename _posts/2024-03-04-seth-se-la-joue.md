@@ -9,6 +9,7 @@ tags:
   - "paris"
   - "streetart"
   - "expo"
+  - "pixelfed"
 coverImage: 1fyfnQQoDnqLDmzj4o9QiJmq7UPtyKgua9KYrM6I.jpg
 imgWidth: 1013
 imgHeight: 1350
