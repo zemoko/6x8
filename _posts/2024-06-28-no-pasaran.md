@@ -66,7 +66,7 @@ cover2left: true
     <li>
         <h2><strong>Rester debout</strong> (<em>Debout sur le Zinc</em>)</h2>
         <p>
-            Ce n‘est pas un chanson engagé, mais elle m’aide à <q>rester debout encore un peu et demain</q> et à <q>jeter mes angoisses par la fenêtre<q>. <strong>La peur et la colère ne nous aide pas si on ne reste pas debout pour continuer le combat.</strong>
+            Ce n‘est pas un chanson engagé, mais elle m’aide à <q>rester debout encore un peu et demain</q> et à <q>jeter mes angoisses par la fenêtre</q>. <strong>La peur et la colère ne nous aide pas si on ne reste pas debout pour continuer le combat.</strong>
             <br />
             <a href="https://invidious.fdn.fr/watch?v=kBDjGx0Tv8I" aria-label="Regarder Rester debout sur Invidious">Invidious</a>,
             <a href="https://open.spotify.com/intl-fr/track/4kSV2jb4HHJyP4lIYnQkd3" aria-label="Écouter Rester debout sur Spotify">Spotify</a>,
