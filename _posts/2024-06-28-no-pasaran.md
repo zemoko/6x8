@@ -12,7 +12,7 @@ imgHeight: 610
 cover2left: true
 ---
 
-<p>Depuis bientôt deux semaines, hélas, j‘écoute beaucoup ma playlist <a href="https://music.apple.com/fr/playlist/no-pasaran/pl.u-d2AVLFjEoKX" lang="es">No Pasaran</a>… et j’ai bien peur d‘en avoir encore besoin dans les jours qui viennent… Mais comme je ne renonce pas à mes valeurs, dont mes valeurs de partage, et que certains dicussions <a href="https://mamot.fr/@zemoko">sur Mastodon</a> m’y incident,</a>je vous la partage&nbsp;:</p>
+<p>Depuis bientôt deux semaines, hélas, j‘écoute beaucoup ma playlist <a href="https://music.apple.com/fr/playlist/no-pasaran/pl.u-d2AVLFjEoKX" lang="es">No Pasaran</a>… et j’ai bien peur d‘en avoir encore besoin dans les jours qui viennent… Mais comme je ne renonce pas à mes valeurs, dont mes valeurs de partage, et que certains dicussions <a href="https://mamot.fr/@zemoko">sur Mastodon</a> m’y incitent, je vous la partage&nbsp;:</p>
  
 <ol>
     <li>
