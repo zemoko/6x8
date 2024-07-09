@@ -9,6 +9,7 @@ tags:
   - "livre"
   - "écologie"
   - "coup-de-coeur"
+  - "BD"
 coverImage: 9782344058589-001-T.jpg
 imgWidth: 600
 imgHeight: 814
