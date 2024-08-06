@@ -33,6 +33,7 @@ Cette introduction est déroutante, mais à ce moment de ma lecture j’étais e
     <p>Plusieurs fois (je ne vous dirais pas combien, ce serait cruel), des histoires similaires vont s’enchainer, comme des échos de cette première histoire, avec quelques fluctuations quant à l’époque, au navire, à sa localisation et aux évènements auxquels sont confrontés nos protagonistes.</p>
   </div>
 </details>
+<hr />
 
 <h2>Je vous donne mon avis</h2>
 
