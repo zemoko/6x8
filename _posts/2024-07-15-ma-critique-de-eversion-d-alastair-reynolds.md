@@ -17,6 +17,8 @@ bookISBN: 9782381630755
 bookRating: 4
 ---
 
+<h2>Je vous fais le pitch</h2>
+
 Alastair Reynolds est un écrivain de <strong>science-fiction</strong>, le plus souvent entre <span lang="en">hard-<abbr>SF</abbr></span> et <span lang="en">Space Opera</span>… et, pourtant, l’action d’Éversion commence au début du XIX<sup>e</sup> siècle, sur une goélette explorant les côtes de la Norvège. Bref, <strong>cela ressemble plus à du Jules Verne qu’à du Alastair Reynolds</strong>.
 
 Le héros du roman se nomme <strong>Silas Coade</strong>. Il est médecin à bord du Demeter, la fameuse goélette. On fait rapidement sa connaissance, puis celles des autres passagers, <strong>une galerie de personnages particulièrement hétéroclites</strong>&nbsp;: Van Vught, le capitaine néerlandais, Topolsky le riche affréteur russe de cette expédition, Ramos un colonel de l‘armée mexicaine, Dupin le mathématicien surmené et la pénible Ada Cossile… <strong>On en apprends également plus sur le but de cette expédition&nbsp;: découvrir une ouverture menant à un mystérieux édifice logé dans un fjord</strong>.
@@ -32,4 +34,6 @@ Cette introduction est déroutante, mais à ce moment de ma lecture j’étais e
   </div>
 </details>
 
-<strong><mark>Alastair Reynolds s’amuse à brouiller les cartes</mark>, mais une fois embarqué dans le récit on ne peut que le remercier car c’est tout sauf artificiel</strong>. Il ne s’amuse pas aux dépends du lecteur mais au bénéfice d’<strong><mark>un roman étonnant qui questionne la notion d’humanité et qui, d’un roman qui aurait dû être de la science-fiction et qui commence par un roman d’aventure, construit finalement un <abbr title="Objet Littéraire Non-Identifié">OLNI</abbr> touchant et prenant</mark></strong>.
+<h2>Je vous donne mon avis</h2>
+
+<strong>Alastair Reynolds s’amuse à brouiller les cartes, mais une fois embarqué dans le récit on ne peut que le remercier car c’est tout sauf artificiel</strong>. Il ne s’amuse pas aux dépends du lecteur mais au bénéfice d’<strong><mark>un roman étonnant qui questionne la notion d’humanité et qui, d’un roman qui aurait dû être de la science-fiction et qui commence par un roman d’aventure, construit finalement un <abbr title="Objet Littéraire Non-Identifié">OLNI</abbr> touchant et prenant</mark></strong>.
