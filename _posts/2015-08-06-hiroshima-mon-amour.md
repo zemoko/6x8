@@ -26,7 +26,7 @@ Depuis 1949, Hiroshima est la Cité de la Paix... et c'est effectivement la prem
 
 ## Conseil no 2 : loger au World Friendship Center
 
-Le [World Friendship Center](http://homepage2.nifty.com/wfchiroshima/) n'est ni un hôtel, ni une auberge de jeunesse : c'est une maison d'hôte, assez proche du centre, appartenant à une ONG américaine qui vous propose de vous loger mais aussi de vous faire découvrir la ville et de rencontrer des "Hibakushas" (des survivants du bombardement).
+Le [World Friendship Center](https://www.wfchiroshima.org/english/) n'est ni un hôtel, ni une auberge de jeunesse : c'est une maison d'hôte, assez proche du centre, appartenant à une ONG américaine qui vous propose de vous loger mais aussi de vous faire découvrir la ville et de rencontrer des "Hibakushas" (des survivants du bombardement).
 
 {% include image.html name="WFC-264x300.png" %}
 
