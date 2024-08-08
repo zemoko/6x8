@@ -30,7 +30,7 @@ cover2left: true
 
 <p><i>Notez que le «&nbsp;.&nbsp;» n’est accepté que s’il n’est placé ni en premier, ni en dernier et qu’il ne peut être répété de manière consécutive. Le «&nbsp;-&nbsp;»  non plus ne peut pas être placé en premier ou en dernier.</i></p>
 
-<p><strong>L’usage du caractère «&nbsp;=&nbsp;» au sein de la partie locale est donc parfaitement valide</strong>. Tout ce qui suit ce caractère devra alors être ignoré par le serveur de <span lang="en">mail</span> pour router les messages&nbsp;:</p>
+<p><strong>L’usage du caractère «&nbsp;+&nbsp;» au sein de la partie locale est donc parfaitement valide</strong>. Tout ce qui suit ce caractère devra alors être ignoré par le serveur de <span lang="en">mail</span> pour router les messages&nbsp;:</p>
 
 <figure class="center">
 	<p><strong>john.doe+bank@domaine.com</strong> sera routé vers <strong>john.doe@domaine.com</strong></p>
