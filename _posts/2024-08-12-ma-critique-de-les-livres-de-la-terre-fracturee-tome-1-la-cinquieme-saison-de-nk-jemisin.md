@@ -7,7 +7,6 @@ categories:
 tags: 
   - "critique"
   - "livre"
- - "coup-de-coeur"
 coverImage: la-cinquieme-saison.jpg
 imgWidth: 600
 imgHeight: 921
