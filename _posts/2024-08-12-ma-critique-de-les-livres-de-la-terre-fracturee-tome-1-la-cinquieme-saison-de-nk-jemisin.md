@@ -16,6 +16,7 @@ bookAuthor: "N.K. Jemisin"
 bookISBN: 9782290172841
 bookRating: 4.5
 ---
+
 J‘avais ce livre depuis bien longtemps dans ma <abbr title="Pile À Lire">PAL</abbr>, à la fois à cause de bonnes critiques que j‘avais lues et des multiples récompenses qu‘il a obtenu (dont le plus prestigieux en <abbr title="Science-Fiction">SF</abbr>, le prix Hugo, obtenu pendant 3&nbsp;années consécutives, pour les 3&nbsp;tomes de la trilogie&nbsp;!). Bref, je me suis (enfin) lancé… et je ne le regrette pas&nbsp;!
 
 <h2>Je vous fais le pitch</h2>
