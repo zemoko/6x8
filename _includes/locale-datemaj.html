@@ -1,3 +1,3 @@
-{%- assign m = page.date | date: "%-m" | minus: 1 -%}
-{%- capture i18n_date -%}{{ page.datemaj | date: "%-d" }} {{ site.data.fr.months[m] }} {{ page.date | date: "%Y" }}{%- endcapture -%}
+{%- assign m = page.datemaj | date: "%-m" | minus: 1 -%}
+{%- capture i18n_date -%}{{ page.datemaj | date: "%-d" }} {{ site.data.fr.months[m] }} {{ page.datemaj | date: "%Y" }}{%- endcapture -%}
 {{ i18n_date }}
