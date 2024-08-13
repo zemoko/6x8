@@ -1,3 +1,4 @@
+{% if jekyll.environment == "production" %}
 <script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
 <hyvor-talk-comments 
     website-id="5720" 
@@ -8,3 +9,4 @@
 ></hyvor-talk-comments>
 {% webmentions page.url %}
 {% webmentions_js %}
+{% endif %}

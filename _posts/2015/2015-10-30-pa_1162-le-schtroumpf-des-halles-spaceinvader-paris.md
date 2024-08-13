@@ -1,17 +1,16 @@
 ---
 layout: instagram
-title: "PA_1178 #spaceinvader #Paris"
-date: "2015-10-03"
+title: "PA_1162 le Schtroumpf des Halles #spaceinvader #paris"
+date: "2015-10-30"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "instagram"
   - "paris"
   - "spaceinvader"
-coverImage: 12080641_1646346808966296_630388639_n.jpg
+coverImage: "PA_1162-le-Schtroumpf-des-Halles-spaceinvader-paris.jpg"
 imgWidth: 360
 imgHeight: 360
-instagram: 8YA6PdSmW7
+instagram: 9doMzOSmev
 ---
 
 ## Invader
