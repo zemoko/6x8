@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mais c'est qui le client, b***** ?"
+title: "Mais c'est qui le client, p***** ?"
 date: "2014-09-23"
 categories: 
   - "trucs-de-geek"
