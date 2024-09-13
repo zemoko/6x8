@@ -12,7 +12,7 @@ imgHeight: 678
 noImageOnPost: true
 ---
 
-Je voulais commencer à publier des billets «&nbsp;Vu / Lu / Écouté / Joué&nbsp;» mais mon mois de septembre ne se passe pas comme je l’avais anticipé… donc je vais me contenter d’un billet «&nbsp;En vrac&nbsp;» (à la <a href="https://www.standblog.org/blog/">Nitot</a>) qui se contente de lister, avec quelques commentaires, quelques liens que je collecte depuis le début du mois.
+Je voulais commencer à publier des billets «&nbsp;Vu / Lu / Écouté / Joué&nbsp;» mais mon mois de septembre ne se passe pas comme je l’avais anticipé… donc je vais me contenter d’un billet «&nbsp;En vrac&nbsp;» (<a href="https://www.standblog.org/blog/">à la Nitot</a>) qui se contente de lister, avec quelques commentaires, quelques liens que je collecte depuis le début du mois.
 
 <h2 lang="en">Web <span aria-hidden="true">🕸️</span></h2>
 
