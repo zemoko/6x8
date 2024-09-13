@@ -6,6 +6,9 @@ categories:
   - "trucs"
   - "trucs-de-webmaster"
   - "trucs-de-geek"
+coverImage: "playmobil.jpg"
+imgWidth: 1024
+imgHeight: 678
 noImageOnPost: true
 ---
 
@@ -75,3 +78,7 @@ Je voulais commencer à publier des billets «&nbsp;Vu / Lu / Écouté / Joué&n
         <mark>Utile pour les parents</mark>&nbsp;: <a href="https://www.data.gouv.fr/fr/datasets/le-calendrier-scolaire/" lang="en" hreflang="en">Le calendrier scolaire</a> officiel, accessible en open-data au format <abbr>ICS</abbr> qui permet de s’y abonner depuis son agenda.
     </li>
 </ul>
+
+<hr />
+
+L’image d’entête est de <a hreff="https://www.flickr.com/photos/bpmm/7907310036">Bruno Parmentier</a>. Elle est en licence <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>.
