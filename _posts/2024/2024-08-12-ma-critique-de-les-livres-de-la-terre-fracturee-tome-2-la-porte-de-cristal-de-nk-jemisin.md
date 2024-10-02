@@ -45,3 +45,11 @@ Ce deuxième tome apporte à peu près autant de nouvelles questions qu’il don
 <strong>J’ai, de nouveau, beaucoup apprécié ce deuxième tome. <mark>J’ai beaucoup aimé, notamment, l’émergence à Castrima d’une utopie via la volonté de vivre ensemble pour transcender les différences</mark></strong>. C’est loin d‘être parfait ni simple, mais cela apporte beaucoup d’espérance dans un monde qui apparaissait particulièrement rigide, et qui, en saison, aurait pu risquer de ne privilégier que du pur survivalisme.
 
 <strong>La Terre fracturée gagne en complexité… mais il donne aux lecteurs de nouvelles clés de compréhension qui, je n’en doute pas, permettront de finir la trilogie en beauté.</strong>
+
+<hr />
+<h2>Retrouvez les 3 tomes des Livres de la Terre fracturée&nbsp;:</h2>
+<ol>
+  <li><a href="/2024/08/ma-critique-de-les-livres-de-la-terre-fracturee-tome-1-la-cinquieme-saison-de-nk-jemisin/">La cinquième saison</a></li>
+  <li><strong>La porte de cristal</strong></li>
+  <li><a href="/2024/09/ma-critique-de-les-livres-de-la-terre-fracturee-tome-3-les-cieux-petrifies-de-nk-jemisin/">Les cieux pétrifiés</a></li>
+</ol>
