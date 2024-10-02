@@ -46,3 +46,11 @@ Le roman relate le destin de trois femmes, toutes trois orogènes&nbsp;:
 <strong>J’ai beaucoup aimé ce premier tome</strong>. J’ai aimé la manière dont l’autrice distille au compte-gouttes repères sur la société et détails sur son organisation, de manière très progressive, comme si ces éléments étaient censés être connus de tous et que nous, lecteurs, nous devions de tirer seuls nos conclusions. Cela donne une tonalité très particulière au roman, qui m’a permis d’être rapidement happé, tant par l’histoire que par l’organisation très particulière de ce monde.
 
 L’autrice sait faire exister le monde de la Terre fracturée de manière concrète, mais elle n’oublie pas de soigner la psychologie des différents personnages, principaux comme secondaires. <strong><mark>Le destin de ces femmes torturées, meurtries par la vie mais tellement fortes, m’a laissé abasourdi. La profondeur comme la densité de cette œuvre m’ont émerveillé</mark></strong>. Je comprends parfaitement son prix Hugo… et je vais de ce pas lire la suite pour comprendre comment les tomes 2 puis 3 ont pu, à leur tour, mérité ce même prix&nbsp;!
+
+<hr />
+<h2>Retrouvez les 3 tomes des Livres de la Terre fracturée&nbsp;:</h2>
+<ol>
+  <li><strong>La cinquième saison</strong></li>
+  <li><a href="/2024/08/ma-critique-de-les-livres-de-la-terre-fracturee-tome-2-la-porte-de-cristal-de-nk-jemisin/">La porte de cristal</a></li>
+  <li><a href="/2024/09/ma-critique-de-les-livres-de-la-terre-fracturee-tome-3-les-cieux-petrifies-de-nk-jemisin/">Les cieux pétrifiés</a></li>
+</ol>
