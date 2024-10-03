@@ -45,3 +45,11 @@ L’intrigue initiée dans les deux premiers tomes se poursuit, on suit toujours
   <p>Voilà. Encore une fois. Bien.</p>
   <p>Vous êtes doués. Et même si vous ne l'êtes pas, vous êtes vivants. C'est une victoire.</p>
 </div></blockquote>
+
+<hr />
+<h2>Retrouvez les 3 tomes des Livres de la Terre fracturée&nbsp;:</h2>
+<ol>
+  <li><a href="/2024/08/ma-critique-de-les-livres-de-la-terre-fracturee-tome-1-la-cinquieme-saison-de-nk-jemisin/">La cinquième saison</a></li>
+  <li><a href="/2024/08/ma-critique-de-les-livres-de-la-terre-fracturee-tome-2-la-porte-de-cristal-de-nk-jemisin/">La porte de cristal</a></li>
+  <li><strong>Les cieux pétrifiés</strong></li>
+</ol>
