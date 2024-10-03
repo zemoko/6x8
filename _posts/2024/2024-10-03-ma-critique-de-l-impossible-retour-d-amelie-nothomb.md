@@ -47,6 +47,6 @@ Mai 2023, Amélie est invitée par une amie, Pep Beni, à l’accompagner au Jap
 <ul>
   <li><a href="/2024/05/japan-trip/" lang="en">Japan Trip</a>, à propos de mon séjour au Japon en mai dernier (avec beaucoup de photos)</li>
   <li><a href="/2015/11/mon-carnet-du-japon/">Mon carnet du Japon</a>, à propos de mon séjour au Japon à l’automne 2007 (ce sont les scans de mon carnet de voyage)</li>
-  <li><a href="https://sitofotos.6x8.org/index.php?/category/japon">, les photos (sur le Sitofotos) de ce voyage de 2007</a></li>
+  <li><a href="https://sitofotos.6x8.org/index.php?/category/japon">Japon 2007 (sur le Sitofotos)</a>. les photos (numériques et argentiques) de ce voyage de 2007</li>
   <li><a href="/2015/08/hiroshima-mon-amour/">Hiroshima mon amour</a>, un billet écrit en 2015, à l’occasion des commémorations des 70&nbsp;ans du bombardement d‘Hiroshima</li>
 </ul>
