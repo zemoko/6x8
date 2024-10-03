@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 'Ma critique de «&nbsp;<strong>L’impossible retour</strong>&nbsp;» d’<em>Amélie Nothomb</em>'
-date: "2024-09-22"
+date: "2024-10-03"
 categories: 
   - "trucs-critiques"
 tags: 
