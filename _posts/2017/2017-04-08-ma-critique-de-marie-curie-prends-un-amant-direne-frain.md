@@ -37,7 +37,7 @@ De ce point de départ, et grâce à **un travail de recherche incroyable**, Ir�
 
 ## Le (premier) prix Nobel
 
-**1903, leur premier prix Nobel, la première fois qu’il sera remis à une femme**... Et ne première campagne où une certaine presse l’accuse de n’être que l’inspiratrice de son mari, son assistance dévouée... forcément, une femme... polonaise de surcroit.
+**1903, leur premier prix Nobel, la première fois qu’il sera remis à une femme**... Et une première campagne où une certaine presse l’accuse de n’être que l’inspiratrice de son mari, son assistance dévouée... forcément, une femme... polonaise de surcroit.
 
 ## La mort de Pierre Curie
 
