@@ -6,6 +6,7 @@
 		<meta property="article:published_time" content="{{ page.date }}" />
 		<title>{{ page.title | strip_html | append: ' | ' | append: site.title | default: site.title }}</title>
 		<meta name="description" content="{{ page.excerpt | strip_html  }}" />
+		<meta property="fediverse:creator" content="@zemoko@mamot.fr" />
 		<meta property="og:title" content="{{ page.title | strip_html }}" />
 		<meta property="og:locale" content="fr_FR" />
 		<meta property="og:description" content="{{ page.excerpt | strip_html  }}" />
