@@ -15,7 +15,7 @@ cover2left: true
 
 La semaine prochaine, nous partons à Londres avec les loulous. L'occasion de faire le point sur les apps que j'embarque dans mon iPhone pour être paré à toute éventualité.
 
-## )1\. [Citymapper](https://citymapper.com/london) pour optimiser nos trajets
+## 1\. [Citymapper](https://citymapper.com/london) pour optimiser nos trajets
 {% include image.html name="citymapper-150x150.png" class="right" %}
 Avant, quand j'allais à Londres, je prenais surtout le métro parce que les bus londoniens, c'est bien beau et bien agréable, mais c'est assez incompréhensible... mais ça c'était avant. Maintenant, j'ai **Citymapper** et je vais là où je veux, comme je le veux et sans perdre de temps. Une révolution. _(et, en plus, y'a une app Apple Watch)_
 
