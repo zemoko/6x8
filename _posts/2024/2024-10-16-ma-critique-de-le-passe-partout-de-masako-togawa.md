@@ -17,7 +17,7 @@ bookISBN: 9782073071590
 bookRating: 4
 ---
 
-Je continue sur ma lancée <a href="/tag/japon/">#Japon</a> en lisant non plus un livre <strong>sur</strong> le Japon mais un livre écrit par une romancière japonaise, et pas n’importe quel livre puisque c’est un grand classique du roman noir japonais, arrivé dans ma <abbr title="Pile À Lire">PAL</abbr> grâce à Amelie Nothomb.
+Je continue sur ma lancée <a href="/tag/japon/">#Japon</a> en lisant non plus un livre <strong>sur le Japon</strong> mais un livre écrit <strong>par une romancière japonaise</strong>, et pas n’importe quel livre puisque c’est un grand classique du roman noir japonais, arrivé dans ma <abbr title="Pile À Lire">PAL</abbr> grâce à Amelie Nothomb.
 
 <figure>
   <blockquote class="citation">
