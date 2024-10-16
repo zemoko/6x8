@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 'Ma critique de «&nbsp;<strong>Le passe-partout</strong>&nbsp;» de <em>Masako Togawa</em>'
-date: "2024-09-22"
+date: "2024-10-16"
 categories: 
   - "trucs-critiques"
 tags: 
