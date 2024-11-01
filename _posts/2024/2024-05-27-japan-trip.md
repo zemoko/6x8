@@ -113,4 +113,3 @@ Harajuku, c'est un quartier commerçant agréable, avec notamment le complexe <e
 <h2 id="franponais"><span lang="en">Bonus track</span>: le Franponais</h2>
 Les japonais aime la France et le Français... comme je l'avais fait en 2007, je me suis de nouveau amusé à collectionner les enseignes et marques utilisant notre langue...
 {% piwigo_gallery 218 %}
-
