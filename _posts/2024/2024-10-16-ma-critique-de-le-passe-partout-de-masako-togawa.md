@@ -33,4 +33,4 @@ Le passe-partout qui donne son nom au roman, c’est celui qui permet d’ouvrir
 
 <h2>Je vous donne mon avis</h2>
 
-J’ai bien aimé cette lecture. Ce n’est pas un <span lang="en">thriller</span> au suspens insoutenable mais un roman qui prends son temps pour faire le portrait de cette société de femme très particulière, pour raconter l‘histoire de certaines, sous le forme de tranches de vies souvant touchantes avec beaucoup de douceur et d’humanité pour raconter leurs secrets comme souvent leurs solitudes. Ce n’en est pas moins <mark><strong>un polar qui joue avec son lecteur pour le dérouter dans un huis-clos énigmantique</strong></mark>.
+J’ai bien aimé cette lecture. Ce n’est pas un <span lang="en">thriller</span> au suspens insoutenable mais un roman qui prends son temps pour faire le portrait de cette société de femme très particulière, pour raconter l‘histoire de certaines, sous le forme de tranches de vies souvant touchantes avec beaucoup de douceur et d’humanité pour raconter leurs secrets comme souvent leurs solitudes. Ce n’en est pas moins <mark><strong>un polar qui joue avec son lecteur pour le dérouter dans un huis-clos énigmatique</strong></mark>.
