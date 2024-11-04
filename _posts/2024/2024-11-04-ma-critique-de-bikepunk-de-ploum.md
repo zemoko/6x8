@@ -59,7 +59,7 @@ J’ai dit que l’objet était beau&nbsp;: j’ai beaucoup aimé la mise en pag
   </div></blockquote>
 </figure>
 
-Le genre littéraire de la <abbr>SF</abbr> post-apocalyptique n’est pas un genre facile. <strong>J’ai aimé comment l’auteur décrit l’état de <strike>la</strike> certaines sociétés humaines</strong>, de manière nuancée, et globalement positive. On est 20&nbsp;ans après une catastrophe majeure, mais c’est néanmoins un roman plutôt <em lang="en">feel good</em> (mais sans angélisme non plus). En fait, <strong><mark>c’est une fable écolo</mark>. La réponse, et la manière de se préparer au grand effondrement, c’est évidemment le vélo mais c’est aussi la sobriété, la décroissance, la solidarité… <mark>Le flash, quelque part, c’est rien d’autre que de l’écologie punitive&nbsp;!</mark></strong>
+Le genre littéraire de la <abbr>SF</abbr> post-apocalyptique n’est pas un genre facile. <strong>J’ai aimé comment l’auteur décrit l’état de <strike>la</strike> certaines sociétés humaines</strong>, de manière nuancée, et globalement positive. On est 20&nbsp;ans après une catastrophe majeure, mais c’est néanmoins un roman plutôt <em lang="en">feel good</em> (mais sans angélisme non plus). En fait, <strong><mark>c’est une fable écolo</mark>. La réponse, et la manière de se préparer au grand effondrement, c’est évidemment le vélo mais c’est aussi la sobriété, la décroissance, la solidarité… <mark>Le flash, quelque part, ce n’est rien d’autre que de l’écologie punitive&nbsp;!</mark></strong>
 
 Je laisse le mot de la fin à Ploum, via une citation extraite de sa postface&nbsp;:
 
