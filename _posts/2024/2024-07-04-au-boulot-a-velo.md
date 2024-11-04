@@ -7,6 +7,7 @@ categories:
   - qui-sont-maintenant-alsaciens
 tags: 
   - "strasbourg"
+  - "velo"
 coverImage: ABAV.jpg
 cover2left: false
 imgWidth: 1024

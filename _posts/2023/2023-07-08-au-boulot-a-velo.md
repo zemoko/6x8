@@ -7,6 +7,7 @@ categories:
   - qui-sont-maintenant-alsaciens
 tags: 
   - "strasbourg"
+  - "velo"
 coverImage: plaque-ABAV-2023.jpg
 cover2left: true
 imgWidth: 1024
