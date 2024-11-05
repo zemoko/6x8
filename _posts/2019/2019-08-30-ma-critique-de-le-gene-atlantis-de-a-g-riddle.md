@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Ma critique de <strong>«&nbsp;Le gène Atlantis&nbsp;»</strong> de <em><abbr>A.G.</abbr> Riddle</em>"
+description:  'Le gène Atlantis, c’est le livre qui voulait être un film (de série Z). Entre la quatrième et la bande sur le livre, « No 1 des ventes aux USA, en Allemagne, en Italie, en Russie et au Japon ! », ça m’a autant donné envie de le lire, que ça m’a fait peur… mais, allez, c’était les vacances alors, au pire, lire un bon nanar ce n’était pas si grave.'
 date: "2019-08-30"
 categories: 
   - "trucs-critiques"
@@ -45,5 +46,4 @@ Le gène Atlantis est donc **aussi efficace qu’un Dan Brown, pas vraiment mieu
 
 * * *
 
-Retrouvez [cette critique](https://www.senscritique.com/livre/Le_gene_Atlantis/critique/201421143
-) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !
+Retrouvez [cette critique](https://www.senscritique.com/livre/Le_gene_Atlantis/critique/201421143) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !

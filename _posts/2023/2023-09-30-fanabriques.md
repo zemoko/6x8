@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fana'Briques 2023"
+description:  'Ce samedi, j’ai été à Colmar pour aller voir une chouette expo Lego. Attention, ce n’est pas n’importe quelle expo Lego : 7 000 m2 répartis sur 3 halles du parc des expo. Je ne veux en dit pas plus, je préfère vous proposer ces quelques photos :)'
 date: "2023-09-30"
 categories: 
   - "qui-voyage"

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pourquoi, et comment, je suis devenu statique"
+description:  'Pourquoi j’ai voulu que mon site (re)devienne statique ? Comment je m‘y suis pris ?'
 date: "2021-11-23"
 categories: 
   - "trucs-de-webmaster"

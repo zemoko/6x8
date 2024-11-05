@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Ma Critique de «&nbsp;<strong>Matin brun</strong>&nbsp;» de <em>Franck&nbsp;Pavloff</em>"
+description:  'Un livre à lire, à offrir et à abandonner sur des bancs publics. “Matin brun”, c’est l’histoire de 2 amis qui ont du se séparer de leurs animaux de compagnie, un chien et un chat, qui avait le défaut de ne pas être bruns… chose insupportable à “l’État national”.'
 date: "2015-12-09"
 categories: 
   - "trucs-critiques"

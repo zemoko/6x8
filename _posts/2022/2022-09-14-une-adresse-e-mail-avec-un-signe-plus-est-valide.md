@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'Message de service aux développeurs&nbsp;: <strong>une adresse <span lang="en">e-mail</span> avec un signe «&nbsp;+&nbsp;» est valide</strong>'
+description:  'Non seulement, c’est valide (et ça l’a toujours été), mais en plus c’est super utile'
 date:   2022-09-14
 categories: 
   - trucs-de-webmaster

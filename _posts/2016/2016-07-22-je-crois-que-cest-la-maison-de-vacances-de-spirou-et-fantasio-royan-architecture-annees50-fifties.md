@@ -1,6 +1,7 @@
 ---
 layout: instagram
 title: "Je crois que c'est la maison de vacances de Spirou et Fantasio #Royan #Architecture #1950"
+description: "La Perrinière est une villa qui se trouve sur le Boulevard Garnier, à l'angle avec la Rue Albert Barthe. Elle a été construite en 1955 par Daugrois et Barnier, 2 architectes royannais (mais on dirait du Niemeyer, non ?)"
 date: "2016-07-22"
 categories: 
   - "trucs-instagrammes"
