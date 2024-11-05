@@ -9,11 +9,15 @@
 		<meta name="description" content="{{ page.description | strip_html  }}" />
 		{%- else  -%}
 		<meta name="description" content="{{ page.excerpt | strip_html  }}" />
-		{%- endif  -%}
+		{%- endif  -%})
 		<meta property="fediverse:creator" content="@zemoko@mamot.fr" />
 		<meta property="og:title" content="{{ page.title | strip_html }}" />
 		<meta property="og:locale" content="fr_FR" />
+		{%- if page.description -%}
+		<meta property="og:description" content="{{ page.description | strip_html  }}" />
+		{%- else  -%}
 		<meta property="og:description" content="{{ page.excerpt | strip_html  }}" />
+		{%- endif  -%})
 		<meta property="og:url" content="{{ page.url }}" />
 		<meta property="og:site_name" content="6x8=42" />
 		<meta property="og:type" content="article" />
