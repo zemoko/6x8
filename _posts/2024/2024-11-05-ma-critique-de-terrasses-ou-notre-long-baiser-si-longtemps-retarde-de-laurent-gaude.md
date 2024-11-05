@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Bikepunk</strong>&nbsp;» de <em>Ploum</em>'
+title: 'Ma critique de «&nbsp;<strong>Terrasses ou Notre long baiser si longtemps retardé</strong>&nbsp;» de <em>Laurent Gaudé</em>'
 date: "2024-11-05"
 categories: 
   - "trucs-critiques"
@@ -19,15 +19,15 @@ bookRating: 5
 
 Depuis que j’ai découvert Laurent Gaudé grâce au magnifique <strong>La mort du roi Tsongor</strong>, puis qu’il a su me faire ressentir la chaleur du sud de l’Italie dans <strong>Le soleil des Scorta</strong>, j’admire cet auteur et j’apprécie son oeuvre toujours si variée et si intense.
 
-Oui, mais.
+<strong>Oui, mais.</strong>
 
-Oui, mais <strong>les terrasses dont il est question, ici, ce sont <mark>les terrasses du Carillon, du Petit Cambodge et de la Belle Équipe</mark>, et le jour dont il est question, ici, c’est le vendredi 13 novembre 2015</strong>.
+Oui, mais <strong>les terrasses dont il est question, ici, ce sont <mark>les terrasses du Carillon, du Petit Cambodge et de la Belle Équipe</mark>, et le jour dont il est question, ici, c’est <mark>le vendredi 13 novembre 2015</mark></strong>.
 
-J’avais acheté le livre dès sa sortie, comme une évidence… mais je n’étais pas sûr d’être prêt à le lire. Je ne suis pas une <i>victime des attentats du 13 novembre</i>, mais j’en suis sorti meurtri, profondement meurtri. J’apprehendais donc cette lecture comme j’appréhende, en ce moment même. l’écriture de ce billet (2015, dans les jours qui ont suivi les attentats, <a href="/2015/11/vous-naurez-pas-ma-haine/">je n’avais plus de mots</a>). Je me suis finalement senti prêt, suffisament prêt en tout cas, et je me suis plongé dans la lecture de <strong></strong>Terrasses, 138 pages qui se lisent comme un souffle, mais une lecture dont on ne sort pas indemne</strong>. Nous ne serons plus jamais les mêmes… mais nous n’oublierons pas.
+J’avais acheté le livre dès sa sortie, comme une évidence… mais je n’étais pas sûr d’être prêt à le lire. Je ne suis pas une <i>victime des attentats du 13 novembre</i>, mais j’en suis sorti meurtri, profondement meurtri. Parce que j’étais parisien, parce que j’étais jeune, parce que je me suis senti blessé dans mon mode de vie autant que dans mon humanité. J’apprehendais donc cette lecture comme j’appréhende, en ce moment même. l’écriture de ce billet (2015, dans les jours qui ont suivi les attentats, <a href="/2015/11/vous-naurez-pas-ma-haine/">je n’avais plus de mots</a>). Je me suis finalement senti prêt, suffisament prêt en tout cas, et je me suis plongé dans la lecture de <strong>Terrasses, 138 pages qui se lisent comme un souffle, mais une lecture dont on ne sort pas indemne</strong>. Nous ne serons plus jamais les mêmes… mais nous n’oublierons pas.
 
 <h2>Un roman polyphonique</h2>
 
-Je ne vous ferais pas le pitch aujourd’hui, cela ne s’y prète pas, mais <strong>je veux saluer la structure du livre qui arrive, avec une grande pudeur et une économie de mots, à raconter l’indicible</strong>, en rendant leurs voix à ceux qui était aux terrasses ou en concert au Bataclan, mais aussi aux passants assistant par hasard à une scène de guerre dans un pays en paix, aux policiers arrivés sur place en premier, aux membres du GIGN qui interviennent, puis aux secouristes et aux pompiers qui leurs ont succédé, aux familles anxieuses qui durant tout ce temps n’arrivaient plus à joindre leurs proches, aux standardistes et aux soignants aussi qui se sont pris la vague et ont du y faire face… <strong>Les mots et les paroles se mélangent et le lecteur suit la chronologie du drame comme s’il y était</strong>, et cette structure permet de ressentir toute la gravité des évènements qui s’enchaine. mais aussi de rentrer en empathie avec ces multiples destins.
+Je ne vous ferais pas le pitch aujourd’hui, cela ne s’y prète pas, mais <strong>je veux saluer la structure du livre qui arrive, avec une grande pudeur et une économie de mots, à raconter l’indicible</strong>, en rendant leurs voix à ceux qui était aux terrasses ou en concert au Bataclan, mais aussi aux passants, assistant par hasard à une scène de guerre dans un pays en paix, aux policiers arrivés sur place en premier, aux membres du <abbr>GIGN</abbr> qui sont intervennus ensuite, aux secouristes et aux pompiers qui leurs ont succédé, mais aussi aux familles anxieuses qui durant tout ce temps n’arrivaient plus à joindre leurs proches, sans oublier les standardistes et les soignants aussi qui se sont pris la vague des blessés et des morts et qui ont du y faire face… <strong>Les mots et les paroles se mélangent et le lecteur suit la chronologie du drame comme s’il y était</strong>, et cette manière de raconter les évènements qui s’enchainent, inexorablement, permet d’en ressentir toute la gravité, mais aussi de rentrer en empathie avec ces multiples destins invoqués par la magie des mots.
 
 <h2>Une lecture dont on ne sort pas indemne</h2>
 
