@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Ma critique de «&nbsp;<strong>On se reverra</strong>&nbsp;» de <em>Lisa Jewel</em>"
+description:  'On tourne les pages… mais ce n’est pas plus surprenant que cela finalement. On cherche des confirmations plus que des réponses. Ceci dit, c’est court, ça se lit bien. Les personnages sont bien campés, certains sont même vraiment attachants. Bref, ce n’est pas le roman du siècle… mais pas non plus une mauvaise lecture, loin de là.'
 date: "2019-08-14"
 categories: 
   - "trucs-critiques"
