@@ -1,7 +1,7 @@
 ---
 layout: review
 title: "Ma Critique de «&nbsp;<strong>Le secret du mari</strong>&nbsp;» de <em>Liane Moriarty</em>"
-description:  'Ça commence comme un roman de gare, par les récits croisés de la vie de 3 femmes : Cécilia, l'épouse parfaite, Rachel, la grand-mère meurtie et Tess, la grande timide.'
+description:  "Ça commence comme un roman de gare, par les récits croisés de la vie de 3 femmes : Cécilia, l'épouse parfaite, Rachel, la grand-mère meurtie et Tess, la grande timide."
 date: "2016-06-14"
 categories: 
   - "trucs-critiques"
