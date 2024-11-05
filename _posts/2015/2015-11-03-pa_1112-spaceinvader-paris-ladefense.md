@@ -1,6 +1,7 @@
 ---
 layout: instagram
 title: "PA_1112 #spaceinvader #paris #ladefense"
+description:  'Les mosaïques d’Invader envahissent les murs de nos villes depuis plus de 20 ans… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et sur ce blog depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.'
 date: "2015-11-03"
 categories: 
   - "trucs-instagrammes"
