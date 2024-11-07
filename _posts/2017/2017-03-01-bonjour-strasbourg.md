@@ -6,6 +6,8 @@ categories:
   - "qui-sont-maintenant-alsaciens"
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
+  - "alsace"
   - "strasbourg"
 coverImage: bonjour-strasbourg-nd.jpg
 imgWidth: 360
