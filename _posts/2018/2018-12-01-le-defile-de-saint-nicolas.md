@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "saint-nicolas"
+  - "lorraine"
 coverImage: le-defile-de-saint-nicolas.jpg
 imgWidth: 360
 imgHeight: 360
