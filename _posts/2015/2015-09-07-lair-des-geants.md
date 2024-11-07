@@ -7,8 +7,7 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "expo"
-  - "villette"
-  - "art"
+  - "paris"
 coverImage: "DSC00832.jpg"
 imgWidth: 360
 imgHeight: 240
