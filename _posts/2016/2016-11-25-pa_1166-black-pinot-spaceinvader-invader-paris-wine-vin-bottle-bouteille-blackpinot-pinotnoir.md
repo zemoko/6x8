@@ -6,9 +6,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "invader"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: pa_1166-black-pinot-spaceinvader-invader-paris-wine-vin-bottle-bouteille-blackpinot-pinotnoir.jpg
 imgWidth: 360
 imgHeight: 360
