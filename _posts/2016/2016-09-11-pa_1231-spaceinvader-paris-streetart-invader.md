@@ -6,7 +6,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "invader"
   - "paris"
   - "spaceinvader"
   - "streetart"
