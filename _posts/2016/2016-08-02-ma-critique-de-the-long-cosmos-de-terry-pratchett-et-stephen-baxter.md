@@ -5,6 +5,8 @@ date: "2016-08-02"
 categories: 
   - "trucs-critiques"
 tags: 
+  - "critique"
+  - "livre"
   - "stephen-baxter"
   - "terry-pratchett"
 coverImage: "25859268.jpg"
