@@ -5,8 +5,8 @@ date: "2016-12-06"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "miam"
-  - "paindepice"
   - "saintnicolas"
 coverImage: bonne-saint-nicolas-paindepice-miam-gingerbread-saintnick-saintnicolas.jpg
 imgWidth: 360
