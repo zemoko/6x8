@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: perspective-paris-parismaville-parisjetaime-canaldelourcq.jpg
 imgWidth: 360
 imgHeight: 360
