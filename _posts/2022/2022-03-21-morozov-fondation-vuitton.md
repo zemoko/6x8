@@ -7,6 +7,8 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "expo"
+  - "paris"
+  - "musee"
 coverImage: "morozov.webp"
 imgWidth: 360
 imgHeight: 180
