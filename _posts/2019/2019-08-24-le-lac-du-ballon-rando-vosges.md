@@ -6,7 +6,7 @@ categories:
   - "qui-sont-maintenant-alsaciens"
   - "trucs-instagrammes"
 tags:
-  - "rando"
+  - "instagram"
   - "alsace"
 coverImage: "67116666_2226839057601953_8726654892107169685_n.jpg"
 imgWidth: 360
