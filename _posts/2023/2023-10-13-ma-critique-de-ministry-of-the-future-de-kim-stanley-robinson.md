@@ -7,7 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
-  - "écologie"
+  - "ecologie"
   - "coup-de-coeur"
 coverImage: TMFTF.jpg
 imgWidth: 318
