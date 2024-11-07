@@ -5,7 +5,7 @@ date: "2018-02-10"
 categories: 
   - "trucs-de-webmaster"
 tags: 
-  - "smashingconf"
+  - "londres"
   - "web"
 coverImage: "img_1649.jpg"
 imgWidth: 360
