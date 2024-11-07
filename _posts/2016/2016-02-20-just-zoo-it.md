@@ -4,6 +4,9 @@ title: "Just zoo it"
 date: "2016-02-20"
 categories: 
   - "trucs-instagrammes"
+tags:
+  - "instagram"
+  - "paris"
 coverImage: Just-zoo-it.jpg
 imgWidth: 360
 imgHeight: 360
