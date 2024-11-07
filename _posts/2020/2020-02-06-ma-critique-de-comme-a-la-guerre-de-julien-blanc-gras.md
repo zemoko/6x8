@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "julien-blanc-gras"
 coverImage: "9782234084407-001-T.jpeg"
 imgWidth: 360
 imgHeight: 573
