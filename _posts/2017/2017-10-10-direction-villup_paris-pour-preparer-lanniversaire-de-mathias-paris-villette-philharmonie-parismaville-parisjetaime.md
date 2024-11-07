@@ -7,9 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
-  - "villette"
 coverImage: direction-@villup_paris-pour-preparer-l’anniversaire-de-mathias-paris-villette-philharmonie-parism.jpg
 imgWidth: 360
 imgHeight: 450
