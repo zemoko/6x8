@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "musique"
 coverImage: 1-air-2-familles-ce-netait-pas-assez-alors-ils-ont-invite-la-rue-ket-️️️.jpg
 imgWidth: 360
 imgHeight: 269
