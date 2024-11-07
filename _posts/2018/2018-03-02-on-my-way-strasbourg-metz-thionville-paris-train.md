@@ -10,6 +10,7 @@ tags:
   - "paris"
   - "strasbourg"
   - "video"
+  - "lorraine"
 coverImage: on-my-way-strasbourg-metz-thionville-paris-train.jpg
 post_video: 28385597_1342356425897388_6102208609053150329_n.mp4
 imgWidth: 360
