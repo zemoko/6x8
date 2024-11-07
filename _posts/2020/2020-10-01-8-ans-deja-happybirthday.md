@@ -5,6 +5,7 @@ date: "2020-10-01"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "miam"
 coverImage: "120540744_332296411211754_2541077236808241547_n.jpg"
 imgWidth: 360
