@@ -6,7 +6,6 @@ categories:
   - "trucs-pris-en-photo"
   - "trucs-de-lomographe"
 tags: 
-  - "horizon"
   - "lomo"
   - "londres"
   - "oxford"
