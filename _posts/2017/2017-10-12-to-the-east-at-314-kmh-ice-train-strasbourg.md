@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: to-the-east-at-314-kmh-ice-train-strasbourg.jpg
 imgWidth: 360
 imgHeight: 360
