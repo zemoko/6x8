@@ -8,7 +8,6 @@ categories:
 tags: 
   - "expo"
   - "paris"
-  - "samaritaine"
   - "starwars"
 coverImage: expo-contre-attaque-12275.jpg
 imgWidth: 360
