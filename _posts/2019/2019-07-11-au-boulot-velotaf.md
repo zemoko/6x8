@@ -7,7 +7,7 @@ categories:
   - "trucs"
 tags: 
   - "velo"
-  - "velotaf"
+  - "strasbourg"
 coverImage: "13661830404_cdd2252315_k.jpg"
 imgWidth: 360
 imgHeight: 240
