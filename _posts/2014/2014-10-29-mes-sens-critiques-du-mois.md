@@ -6,8 +6,8 @@ categories:
   - "trucs-critiques"
 tags: 
   - "films"
-  - "livres"
-  - "senscritique"
+  - "livre"
+  - "critique"
 ---
 
 Ce mois-ci, j'ai été voir **2 films** :
