@@ -5,6 +5,9 @@ date: "2020-01-02"
 categories: 
   - "trucs-de-geek"
   - "trucs-de-webmaster"
+tags:
+  - "web"
+  - "vie-privee"
 coverImage: "4538657204_d337a72477_k.jpg"
 imgWidth: 360
 imgHeight: 270
