@@ -6,8 +6,10 @@ categories:
   - "qui-sont-maintenant-alsaciens"
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "anamorphose"
   - "strasbourg"
+  - "alsace"
 coverImage: "56997690_334027307254647_8873459679463804047_n.jpg"
 imgWidth: 360
 imgHeight: 360
