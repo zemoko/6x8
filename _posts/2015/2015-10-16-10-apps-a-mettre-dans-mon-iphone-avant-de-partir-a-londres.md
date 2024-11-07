@@ -5,7 +5,6 @@ date: "2015-10-16"
 categories: 
   - "qui-voyage"
 tags: 
-  - "iphone"
   - "londres"
 coverImage: "Londres.jpg"
 imgWidth: 360
