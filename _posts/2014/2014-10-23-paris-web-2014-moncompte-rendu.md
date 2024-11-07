@@ -5,7 +5,7 @@ date: "2014-10-23"
 categories: 
   - "trucs-de-webmaster"
 tags: 
-  - "parisweb"
+  - "sweb"
   - "accessibilite"
 coverImage: "B0IqsSbIMAAMZ43.jpg"
 imgWidth: 360
