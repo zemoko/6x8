@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: un-dimanche-a-la-villette-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 360
