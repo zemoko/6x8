@@ -5,7 +5,8 @@ date: "2020-09-13"
 categories: 
   - "trucs-instagrammes"
 tags:
-  - "rando"
+  - "instagram"
+  - "alsace"
 coverImage: "119125704_330132058229343_3511291857216023251_n.jpg"
 imgWidth: 360
 imgHeight: 450
