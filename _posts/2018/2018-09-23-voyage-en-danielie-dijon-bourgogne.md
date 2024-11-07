@@ -6,7 +6,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "bourgogne"
-  - "dijon"
   - "instagram"
 coverImage: voyage-en-danielie-dijon-bourgogne.jpg
 imgWidth: 360
