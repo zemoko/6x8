@@ -6,7 +6,6 @@ categories:
   - "trucs-critiques"
 tags: 
   - "critique"
-  - "documentaire"
   - "film"
 coverImage: "demain.jpg"
 imgWidth: 360
