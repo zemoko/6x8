@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "paris"
+  - "musee"
 coverImage: 2018-09-bngdf-bdk7d.jpg
 imgWidth: 360
 imgHeight: 360
