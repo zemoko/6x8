@@ -5,7 +5,9 @@ date: "2019-05-05"
 categories: 
   - "trucs-instagrammes"
 tags:
+  - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: "58409479_442332446527164_5658827391427678167_n.jpg"
 imgWidth: 360
 imgHeight: 360
