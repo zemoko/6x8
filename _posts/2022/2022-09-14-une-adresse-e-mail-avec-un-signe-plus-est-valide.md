@@ -5,7 +5,8 @@ description:  'Non seulement, c’est valide (et ça l’a toujours été), mais
 date:   2022-09-14
 categories: 
   - trucs-de-webmaster
-tags: []
+tags:
+  - web
 coverImage: 23457159216_bef9ca53bd_c.jpg
 imgWidth: 360
 imgHeight: 270
