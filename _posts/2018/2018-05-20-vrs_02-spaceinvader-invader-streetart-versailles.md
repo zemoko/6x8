@@ -7,7 +7,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "invader"
   - "spaceinvader"
   - "streetart"
   - "versailles"
