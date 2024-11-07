@@ -4,6 +4,9 @@ title: "Mais <abbr lang=\"en\">WTF</abbr> <span lang=\"en\">Google</span> ? (bis
 date: "2019-03-17"
 categories: 
   - "trucs-de-geek"
+tags:
+  - "web"
+  - "vie-privee"
 ---
 
 Je découvre aujourd'hui que Google garde une liste de mes achats (enfin ceux qu'il a détecté, via Gmail à priori) : [https://myaccount.google.com/purchases?pli=1](https://myaccount.google.com/purchases?pli=1)
