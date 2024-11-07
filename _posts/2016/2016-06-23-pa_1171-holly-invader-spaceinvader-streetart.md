@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "invader"
+  - "paris"
   - "spaceinvader"
   - "streetart"
 coverImage: PA_1171-Holly-invader-spaceinvader-streetart.jpg
