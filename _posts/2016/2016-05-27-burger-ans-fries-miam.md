@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "miam"
+  - "paris"
 coverImage: Burger-ans-Fries-miam.jpg
 imgWidth: 360
 imgHeight: 321
