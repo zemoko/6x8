@@ -6,6 +6,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "art"
+  - "paris"
+  - "musee"
 coverImage: Inside-the-horizon-Olafur-Eliasson-Fondation-Louis-Vuitton.jpg
 imgWidth: 360
 imgHeight: 360
