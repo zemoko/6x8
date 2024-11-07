@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "martin-page"
 coverImage: "martin_page.jpg"
 imgWidth: 360
 imgHeight: 527
