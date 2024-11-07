@@ -5,6 +5,7 @@ date: "2016-08-15"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "miam"
   - "paris"
 coverImage: Nitrogenie-le-nouveau-glacier-parisien-qui-fait-de-bien-bonnes-glaces-a-l-azote-paris-miam.jpg
