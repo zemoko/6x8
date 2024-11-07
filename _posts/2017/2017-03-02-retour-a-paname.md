@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "alsace"
   - "strasbourg"
 coverImage: retour-a-paname.jpg
 imgWidth: 360
