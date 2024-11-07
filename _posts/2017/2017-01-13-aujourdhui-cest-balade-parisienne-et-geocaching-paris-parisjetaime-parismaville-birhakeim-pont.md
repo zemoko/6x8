@@ -8,8 +8,6 @@ tags:
   - "geocaching"
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: aujourdhui-cest-balade-parisienne-et-geocaching-paris-parisjetaime-parismaville-birhakeim-pont.jpg
 imgWidth: 360
 imgHeight: 449
