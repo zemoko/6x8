@@ -5,6 +5,9 @@ date: "2019-10-22"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
+  - "stork7567"
+  - "strasbourg"
   - "streetart"
 coverImage: "72410257_2368546753362788_4189585875336741156_n.jpg"
 imgWidth: 360
