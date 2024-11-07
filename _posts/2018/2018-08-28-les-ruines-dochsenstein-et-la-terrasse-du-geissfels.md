@@ -5,8 +5,7 @@ date: "2018-08-28"
 categories: 
   - "qui-sont-maintenant-alsaciens"
 tags: 
-  - "rando"
-  - "alsaxe"
+  - "alsace"
 coverImage: "img_3470.jpg"
 imgWidth: 360
 imgHeight: 180
