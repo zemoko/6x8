@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: escapade-ladefense-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 269
