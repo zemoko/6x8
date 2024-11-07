@@ -4,6 +4,8 @@ title: "Ceci n'est pas une date"
 date: "2014-04-29"
 categories: 
   - "trucs-de-webmaster"
+tags:
+  - "accessibilite"
 coverImage: "Ceci-nest-pas-une-date.png"
 imgWidth: 360
 imgHeight: 244
