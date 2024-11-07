@@ -5,8 +5,8 @@ date: "2020-10-18"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "diy"
-  - "halloween"
+  - "trucs-creatifs"
+  - "instagram"
 coverImage: "122011551_714509086079886_5563927324479379772_n.jpg"
 imgWidth: 360
 imgHeight: 360
