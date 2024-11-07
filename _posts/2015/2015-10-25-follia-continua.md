@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: Follia-Continua.jpg
 imgWidth: 360
 imgHeight: 360
