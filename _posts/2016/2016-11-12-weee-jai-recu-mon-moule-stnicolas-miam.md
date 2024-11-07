@@ -7,7 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "miam"
-  - "saint-icolas"
+  - "saint-nicolas"
 coverImage: weee-jai-recu-mon-moule-stnicolas-miam.jpg
 imgWidth: 360
 imgHeight: 449
