@@ -7,7 +7,7 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "paris"
-  - "philharmonie"
+  - "instagram"
 coverImage: "IMG_6316.jpg"
 imgWidth: 360
 imgHeight: 83
