@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "alsace"
+  - "strasbourg"
 coverImage: en-passant.jpg
 imgWidth: 360
 imgHeight: 269
