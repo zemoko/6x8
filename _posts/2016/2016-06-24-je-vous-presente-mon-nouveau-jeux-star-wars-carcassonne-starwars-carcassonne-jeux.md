@@ -7,7 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "jeux-de-societe"
-  - "boardgames"
+  - "starwars"
 coverImage: Je-vous-presente-mon-nouveau-jeux-Star-Wars-Carcassonne-starwars-carcassonne-jeux.jpg
 imgWidth: 360
 imgHeight: 360
