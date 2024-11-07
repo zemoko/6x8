@@ -6,8 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags:
   - royan
-  - eglise
-  - royan1950
+  - instagram
 coverImage: "115994467_1257395597931017_3512701093129028633_n-1.jpg"
 imgWidth: 360
 imgHeight: 450
