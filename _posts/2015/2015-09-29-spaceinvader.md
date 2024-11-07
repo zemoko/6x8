@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "spaceinvader"
+  - "paris"
 coverImage: 11887024_1614465292145887_333518329_n.jpg
 imgWidth: 360
 imgHeight: 360
