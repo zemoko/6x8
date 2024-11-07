@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "smashingconf"
+  - "oxford"
 coverImage: smashingconf-day-2.jpg
 imgWidth: 360
 imgHeight: 360
