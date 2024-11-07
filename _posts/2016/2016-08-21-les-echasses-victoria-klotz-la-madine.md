@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "art"
+  - "lorraine"
 coverImage: Les-echasses-Victoria-Klotz-@-La-Madine.jpg
 imgWidth: 360
 imgHeight: 269
