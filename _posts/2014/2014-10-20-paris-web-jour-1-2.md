@@ -5,7 +5,7 @@ date: "2014-10-20"
 categories: 
   - "trucs-de-webmaster"
 tags: 
-  - "parisweb"
+  - "web"
 coverImage: "logo-parisweb.png"
 imgWidth: 360
 imgHeight: 164
