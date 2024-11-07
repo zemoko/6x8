@@ -9,6 +9,7 @@ tags:
   - "architecture"
   - "expo"
   - "miam"
+  - "paris"
 coverImage: "IMG_0006.jpg"
 imgWidth: 360
 imgHeight: 241
