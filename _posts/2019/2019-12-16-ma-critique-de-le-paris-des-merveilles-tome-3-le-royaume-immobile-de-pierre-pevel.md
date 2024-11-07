@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "pierre-pevel"
 coverImage: "Le-Royaume-Immobile.png"
 imgWidth: 360
 imgHeight: 572
