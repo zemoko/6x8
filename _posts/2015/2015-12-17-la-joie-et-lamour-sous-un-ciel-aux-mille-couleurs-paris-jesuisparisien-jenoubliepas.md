@@ -6,8 +6,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "jenoubliepas"
-  - "jesuisparisien"
   - "paris"
 coverImage: La-joie-et-lamour-sous-un-ciel-aux-mille-couleurs-Paris-JeSuisParisien-jenoubliepas.jpg
 imgWidth: 360
