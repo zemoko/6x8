@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "londres"
+  - "web"
 coverImage: smashingconf-day-2.jpg
 imgWidth: 360
 imgHeight: 360
