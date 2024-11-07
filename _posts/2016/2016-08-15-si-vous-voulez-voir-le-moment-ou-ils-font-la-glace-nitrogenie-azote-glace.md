@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "miam"
 coverImage: Si-vous-voulez-voir-le-moment-ou-ils-font-la-glace-nitrogenie-azote-glace.jpg
 imgWidth: 360
 imgHeight: 360
