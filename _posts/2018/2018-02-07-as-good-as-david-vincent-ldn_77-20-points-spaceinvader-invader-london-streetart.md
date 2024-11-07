@@ -6,8 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "invader"
-  - "london"
+  - "londres"
   - "spaceinvader"
   - "streetart"
 coverImage: as-good-as-david-vincent-ldn_77-20-points-spaceinvader-invader-london-streetart.jpg
