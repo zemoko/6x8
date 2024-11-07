@@ -8,6 +8,7 @@ tags:
   - "anamorphose"
   - "expo"
   - "streetart"
+  - "paris"
 coverImage: "2015-02-24-street-art.png"
 imgWidth: 360
 imgHeight: 243
