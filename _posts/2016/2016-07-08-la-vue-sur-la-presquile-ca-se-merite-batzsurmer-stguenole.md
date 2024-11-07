@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "bretagne"
 coverImage: La-vue-sur-la-presquile-ca-se-merite-batzsurmer-stguenole.jpg
 imgWidth: 360
 imgHeight: 360
