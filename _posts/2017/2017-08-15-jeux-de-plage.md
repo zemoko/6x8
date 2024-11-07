@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "video"
+  - "bretagne"
 coverImage: jeux-de-plage.jpg
 post_video: 20906805_1818276315150835_6874982884038410240_n.mp4
 imgWidth: 360
