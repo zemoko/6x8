@@ -6,8 +6,7 @@ categories:
   - "qui-voyage"
   - "trucs-de-parisien"
 tags: 
-  - "aquarium"
-  - "la-rochelle"
+  - "royan"
 coverImage: "https://sitofotos.6x8.org/i.php?/upload/2020/08/18/20200818202758-15e2097f-xx.jpg"
 imgWidth: 360
 imgHeight: 270
