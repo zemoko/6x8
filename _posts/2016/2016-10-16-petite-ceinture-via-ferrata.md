@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: pereire-ceinture.-via-ferrata.jpg
 imgWidth: 360
 imgHeight: 360
