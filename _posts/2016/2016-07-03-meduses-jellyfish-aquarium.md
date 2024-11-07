@@ -5,8 +5,8 @@ date: "2016-07-03"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "aquarium"
   - "instagram"
+  - "bretagne"
 coverImage: meduses-jellyfish-aquarium.jpg
 imgWidth: 360
 imgHeight: 360
