@@ -6,7 +6,9 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - strasbourg
+  - alsace
 coverImage: 2022-07-10.jpg
 imgWidth: 360
 imgHeight: 285
