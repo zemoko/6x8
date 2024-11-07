@@ -8,6 +8,7 @@ tags:
   - "instagram"
   - "londres"
   - "spaceinvader"
+  - "streetart"
 coverImage: LDN_108-spaceinvader-london.jpg
 imgWidth: 360
 imgHeight: 360
