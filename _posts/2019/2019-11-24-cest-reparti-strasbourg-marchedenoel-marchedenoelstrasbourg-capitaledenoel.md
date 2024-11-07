@@ -5,7 +5,10 @@ date: "2019-11-24"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "strasbourg"
+  - "noel"
+  - "alsace"
 coverImage: 2019-11-b5qmvejo1ce.jpg
 imgWidth: 360
 imgHeight: 450
