@@ -5,6 +5,7 @@ date: "2019-07-18"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "royan"
 coverImage: "66342107_2328981573864456_4294215408753752073_n.jpg"
 imgWidth: 360
