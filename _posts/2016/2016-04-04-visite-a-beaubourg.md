@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "musee"
 coverImage: Visite-a-Beaubourg.jpg
 imgWidth: 360
 imgHeight: 360
