@@ -7,8 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "lego"
-  - "legostore"
-  - "london"
+  - "londres"
 coverImage: lego-store-lego-legostore-london.jpg
 imgWidth: 360
 imgHeight: 360
