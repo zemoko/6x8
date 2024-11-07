@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "metz"
+  - "lorraine"
 coverImage: going-home.jpg
 imgWidth: 360
 imgHeight: 269
