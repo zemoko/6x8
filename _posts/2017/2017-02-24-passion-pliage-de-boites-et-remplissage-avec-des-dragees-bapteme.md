@@ -5,7 +5,6 @@ date: "2017-02-24"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "bapteme"
   - "instagram"
 coverImage: passion-pliage-de-boites-et-remplissage-avec-des-dragees-bapteme.jpg
 imgWidth: 360
