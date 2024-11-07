@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "madrid"
 coverImage: Bien-arrive-a-Madrid.-Stop.jpg
 imgWidth: 360
 imgHeight: 360
