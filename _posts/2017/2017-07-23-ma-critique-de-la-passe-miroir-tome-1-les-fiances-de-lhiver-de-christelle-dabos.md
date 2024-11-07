@@ -8,6 +8,7 @@ tags:
   - "coup-de-coeur"
   - "critique"
   - "livre"
+  - "cristelle-dabos"
 coverImage: "PM1.jpg"
 imgWidth: 360
 imgHeight: 153
