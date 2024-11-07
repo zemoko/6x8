@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "streetart"
 coverImage: Aux-Buttes-Chaumont-certains-bancs-hebergent-des-histoires.jpg
 imgWidth: 360
 imgHeight: 360
