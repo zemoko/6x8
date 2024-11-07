@@ -6,7 +6,9 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - film
+  - strasbourg
 coverImage: 2022-01-18-fanny-ardant-et-moi-cinema.jpg
 imgWidth: 360
 imgHeight: 325
