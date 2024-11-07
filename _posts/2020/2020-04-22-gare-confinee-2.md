@@ -5,8 +5,7 @@ date: "2020-04-22"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "confinement"
-  - "gare"
+  - "instagram"
   - "paris"
 coverImage: "94402790_3089023454470717_3044287197602849003_n.jpg"
 imgWidth: 360
