@@ -8,6 +8,7 @@ tags:
   - "coup-de-coeur"
   - "critique"
   - "livre"
+  - "paris"
 coverImage: "image.html.jpg"
 imgWidth: 360
 imgHeight: 571
