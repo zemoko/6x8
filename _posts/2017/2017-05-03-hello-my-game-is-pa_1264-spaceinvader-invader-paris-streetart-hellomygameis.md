@@ -6,10 +6,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "invader"
   - "paris"
   - "spaceinvader"
-  - "streetart"
+  - "expo"
 coverImage: hello-my-game-is...-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.jpg
 imgWidth: 360
 imgHeight: 360
