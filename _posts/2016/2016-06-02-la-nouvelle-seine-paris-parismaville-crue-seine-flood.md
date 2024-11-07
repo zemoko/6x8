@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parismaville"
 coverImage: La-nouvelle-Seine-paris-parismaville-crue-seine-flood.jpg
 imgWidth: 360
 imgHeight: 269
