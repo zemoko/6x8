@@ -7,7 +7,7 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "expo"
-  - "villette"
+  - "paris"
 ---
 
 Du 17 au 31 juillet, Olivier Grossetête, artiste plasticien, nous invite à construire avec lui une ville éphémère en cartons. Un chantier utopique autant qu'une œuvre d'art participative, en tout cas un bien beau projet qui nous a enchanté.
