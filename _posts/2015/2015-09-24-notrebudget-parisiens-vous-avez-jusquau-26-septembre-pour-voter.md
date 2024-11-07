@@ -6,7 +6,7 @@ categories:
   - "a-paris"
   - "trucs-de-parisien"
 tags: 
-  - "notrebudget"
+  - "paris"
 coverImage: "19932675110_df4c71f8ba_k.jpg"
 imgWidth: 360
 imgHeight: 240
