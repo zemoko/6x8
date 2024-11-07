@@ -6,7 +6,7 @@ categories:
   - "trucs-critiques"
 tags: 
   - "critique"
-  - "livres"
+  - "livre"
   - "terry-pratchett"
 coverImage: "L_Hiverrier.jpg"
 imgWidth: 360
