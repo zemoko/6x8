@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "expo"
 coverImage: Prosopopee-quand-les-objets-prennent-vie.jpg
 imgWidth: 360
 imgHeight: 360
