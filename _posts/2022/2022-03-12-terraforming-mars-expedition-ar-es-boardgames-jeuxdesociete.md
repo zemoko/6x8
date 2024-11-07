@@ -6,6 +6,7 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - jeux-de-societe
 coverImage: 2022-03-12-terraforming-mars-expedition-ar-es-boardgames-jeuxdesociete.jpg
 imgWidth: 360
