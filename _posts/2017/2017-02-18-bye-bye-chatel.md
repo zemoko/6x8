@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "chatel"
 coverImage: bye-bye-chatel.jpg
 imgWidth: 360
 imgHeight: 269
