@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "miam"
 coverImage: sauver-la-planete.-une-biere-a-la-fois.-pbc.jpg
 imgWidth: 360
 imgHeight: 360
