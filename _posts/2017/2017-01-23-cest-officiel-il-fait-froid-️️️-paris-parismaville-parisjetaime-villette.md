@@ -7,9 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
-  - "villette"
 coverImage: cest-officiel-il-fait-froid-️️️-paris-parismaville-parisjetaime-villette.jpg
 imgWidth: 360
 imgHeight: 269
