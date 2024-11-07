@@ -6,7 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "saintnicolas"
+  - "miam"
+  - "saint-nicolas"
 coverImage: et-aussi-un-pain-d’epices-evidemment-saintnicolas-santaclaus-saintnick.jpg
 imgWidth: 360
 imgHeight: 360
