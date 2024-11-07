@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "jeux-de-societe"
-  - "boardgames"
+  - "instagram"
 coverImage: "66428344_2474210959304588_6068265788559400635_n.jpg"
 imgWidth: 360
 imgHeight: 269
