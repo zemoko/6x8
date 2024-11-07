@@ -9,6 +9,7 @@ tags:
   - "kiwiparty"
   - "rgpd"
   - "web"
+  - "accessibilite"
 coverImage: "all-we-need.jpg"
 imgWidth: 360
 imgHeight: 202

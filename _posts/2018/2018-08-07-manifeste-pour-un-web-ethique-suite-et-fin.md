@@ -8,6 +8,7 @@ tags:
   - "ethique"
   - "kiwiparty"
   - "rgpd"
+  - "accessibilite"
 ---
 
 La vidéo de la conférence « Manifeste pour un web éthique » que j'ai présenté à la Kiwiparty 2018 est en ligne ! ([au milieu d'une playlist](https://www.youtube.com/playlist?list=PL-U84vmvcJwUdcIOpIDXgNoVhNWLLpxRc) avec toutes les vidéos de la journée)

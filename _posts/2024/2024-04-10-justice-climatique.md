@@ -6,7 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "mastodon"
-  - "écologie"
+  - "ecologie"
 coverImage: "6aa88091c58457d4.jpg"
 imgWidth: 2299
 imgHeight: 3024

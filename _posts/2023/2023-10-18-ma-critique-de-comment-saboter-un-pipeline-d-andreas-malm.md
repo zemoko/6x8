@@ -7,7 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
-  - "écologie"
+  - "ecologie"
   - "coup-de-coeur"
 coverImage: FAB_11x16_8_MALM_2020_PREF.jpg
 imgWidth: 670

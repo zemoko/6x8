@@ -6,6 +6,7 @@ categories:
   - "trucs-de-webmaster"
 tags:
   - "web"
+  - "accessibilite"
 coverImage: "6101914287_553592bb7e_b.jpg"
 imgWidth: 360
 imgHeight: 239

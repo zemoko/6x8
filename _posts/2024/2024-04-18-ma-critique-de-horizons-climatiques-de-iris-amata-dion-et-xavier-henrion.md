@@ -7,7 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
-  - "écologie"
+  - "ecologie"
   - "coup-de-coeur"
   - "BD"
 coverImage: 9782344058589-001-T.jpg
