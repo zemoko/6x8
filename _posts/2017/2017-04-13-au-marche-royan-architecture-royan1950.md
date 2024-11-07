@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "royan"
-  - "royan1950"
 coverImage: au-marche-royan-architecture-royan1950.jpg
 imgWidth: 360
 imgHeight: 360
