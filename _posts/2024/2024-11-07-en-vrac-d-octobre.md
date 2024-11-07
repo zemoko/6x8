@@ -6,9 +6,9 @@ categories:
   - "trucs"
   - "trucs-de-webmaster"
   - "trucs-de-geek"
-coverImage: "playmobil.jpg"
-imgWidth: 1024
-imgHeight: 678
+coverImage: "lego.jpg"
+imgWidth: 700
+imgHeight: 464
 noImageOnPost: true
 ---
 
