@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "miam"
-  - "pokemon"
-  - "pokemongo"
 coverImage: et-une-fournee-de-pokeballs-une-miam-pokemon-pokemongo.jpg
 imgWidth: 360
 imgHeight: 360
