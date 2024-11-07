@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "video"
+  - "musique"
 coverImage: debout-sur-le-zinc.jpg
 post_video: 29708069_421560138295268_4218002946126901061_n.mp4
 imgWidth: 360
