@@ -7,6 +7,7 @@ categories:
 tags: 
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: "PA_1170-Alice-cherche-son-chat-spaceinvader-paris.jpg"
 imgWidth: 360
 imgHeight: 360
