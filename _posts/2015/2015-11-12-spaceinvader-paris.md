@@ -7,6 +7,8 @@ categories:
 tags: 
   - "instagram"
   - "paris"
+  - "spaceinvader"
+  - "streetart"
 coverImage: spaceinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360
