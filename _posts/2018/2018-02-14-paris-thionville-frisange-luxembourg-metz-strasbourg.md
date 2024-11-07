@@ -8,6 +8,7 @@ tags:
   - "instagram"
   - "paris"
   - "strasbourg"
+  - "lorraine"
 coverImage: paris-thionville-frisange-luxembourg-metz-strasbourg.jpg
 imgWidth: 360
 imgHeight: 450
