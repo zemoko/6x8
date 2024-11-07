@@ -5,8 +5,7 @@ date: "2017-09-07"
 categories: 
   - "trucs-de-geek"
 tags: 
-  - "formedujour"
-  - "twitter"
+  - "trucs-creatifs"
 ---
 
 Faut que je vous cause d'un truc que j'ai découvert dernièrement sur twitter et que je trouve génial : la [forme du jour](https://twitter.com/forme_du_jour?lang=fr). Le principe est tout simple : **tous le jour une forme est proposée, à chacun de se creuser la tête pour l'interpréter**.
