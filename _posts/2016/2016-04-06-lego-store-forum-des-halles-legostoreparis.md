@@ -6,7 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "legostoreparis"
+  - "paris"
+  - "lego"
 coverImage: Lego-Store-Forum-des-Halles-legostoreparis.jpg
 imgWidth: 360
 imgHeight: 360
