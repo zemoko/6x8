@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "bretagne"
 coverImage: Sculpture-en-potelets-Fedorenko-accordeon.jpg
 imgWidth: 360
 imgHeight: 360
