@@ -6,9 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "saintnicolas"
-  - "santaclaus"
-  - "stnick"
+  - "saint-nicolas"
+  - "lorraine"
 coverImage: o-bon-saint-nicolas-donne-nous-des-bonbons-saintnicolas-santaclaus-stnick.jpg
 imgWidth: 360
 imgHeight: 360
