@@ -7,7 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "miam"
-  - "saintnicolas"
+  - "saint-nicolas"
 coverImage: speculoos-de-saint-nicolas-miam-speculoos-saintnicolas-santaclaus.jpg
 imgWidth: 360
 imgHeight: 360
