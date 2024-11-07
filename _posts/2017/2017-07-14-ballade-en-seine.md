@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: ballade-en-seine.jpg
 imgWidth: 360
 imgHeight: 360
