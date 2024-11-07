@@ -7,6 +7,7 @@ categories:
 tags: 
   - "oxford"
   - "smashingconf"
+  - "web"
 ---
 
 **Un petit résumé de la Smashing Conf qui a eu lieu la semaine dernière à Oxford et à laquelle j'ai eu le bonheur d'assister.**
