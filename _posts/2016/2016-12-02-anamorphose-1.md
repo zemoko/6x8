@@ -5,6 +5,8 @@ date: "2016-12-02"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
+  - "paris"
   - "anamorphose"
 coverImage: anamorphose-1.jpg
 imgWidth: 360
