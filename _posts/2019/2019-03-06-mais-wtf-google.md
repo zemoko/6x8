@@ -5,7 +5,7 @@ date: "2019-03-06"
 categories: 
   - "trucs-de-geek"
 tags: 
-  - "google"
+  - "web"
   - "vie-privee"
 coverImage: "71614192_4118537f26_b.jpg"
 imgWidth: 360
