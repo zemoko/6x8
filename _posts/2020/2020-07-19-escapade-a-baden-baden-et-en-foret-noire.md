@@ -7,7 +7,6 @@ categories:
   - "trucs"
 tags:
   - musee
-  - rando
 coverImage: "AADCA387-7EE2-4FA0-A770-11E281E321F1_1_105_c.jpeg"
 imgWidth: 360
 imgHeight: 270
