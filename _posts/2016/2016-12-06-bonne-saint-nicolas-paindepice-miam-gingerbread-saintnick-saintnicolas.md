@@ -7,7 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "miam"
-  - "saintnicolas"
+  - "saint-nicolas"
 coverImage: bonne-saint-nicolas-paindepice-miam-gingerbread-saintnick-saintnicolas.jpg
 imgWidth: 360
 imgHeight: 318
