@@ -6,6 +6,7 @@ categories:
   - "a-paris"
   - "trucs-de-parisien"
 tags: 
+  - "paris"
   - "expo"
   - "lego"
 coverImage: MDP_LEGO_Affiche_WEB.jpg
