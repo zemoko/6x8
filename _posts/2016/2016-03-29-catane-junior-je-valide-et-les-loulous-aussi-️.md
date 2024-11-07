@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "jeux-de-societe"
-  - "boardgames"
 coverImage: Catane-Junior-je-valide-et-les-loulous-aussi-️.jpg
 imgWidth: 360
 imgHeight: 360
