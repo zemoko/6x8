@@ -5,7 +5,7 @@ date: "2015-11-03"
 categories: 
   - "trucs-de-geek"
 tags: 
-  - "firefox"
+  - "web"
   - "vie-privee"
 coverImage: "3620040021_b483d77f7b_b.jpg"
 imgWidth: 360
