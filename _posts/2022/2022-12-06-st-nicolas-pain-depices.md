@@ -7,6 +7,7 @@ categories:
 tags: 
   - "recette"
   - "miam"
+  - "saint-nicolas"
 coverImage: "st-nicolas.jpg"
 imgWidth: 360
 imgHeight: 270
