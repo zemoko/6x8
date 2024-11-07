@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "jeux-de-societe"
-  - "boardgames"
+  - "instagram"
 coverImage: arraial-tetris-boardgame-jeudesociete.jpg
 imgWidth: 360
 imgHeight: 360
