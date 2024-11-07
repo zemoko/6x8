@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "chatel"
 coverImage: yeah-ces-vacances-commencent-bien.jpg
 imgWidth: 360
 imgHeight: 360
