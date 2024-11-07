@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "miam"
   - "harry-potter"
 coverImage: bon-anniversaire-samuel-harrypotter-8ans.jpg
 imgWidth: 360
