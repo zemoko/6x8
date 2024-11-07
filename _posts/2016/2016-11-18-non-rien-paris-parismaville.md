@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parismaville"
 coverImage: non-rien-paris-parismaville.jpg
 imgWidth: 360
 imgHeight: 360
