@@ -6,7 +6,7 @@ categories:
   - "trucs-critiques"
 tags: 
   - "critique"
-  - "livres"
+  - "livre"
 coverImage: "IMG_5817-scaled.jpeg"
 imgWidth: 360
 imgHeight: 270
