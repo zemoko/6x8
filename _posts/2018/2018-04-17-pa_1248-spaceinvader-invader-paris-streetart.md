@@ -6,6 +6,7 @@ date: "2018-04-17"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "paris"
   - "spaceinvader"
   - "streetart"
