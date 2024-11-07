@@ -5,8 +5,7 @@ date: "2020-11-30"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "puzzle"
-  - boardgames
+  - "instagram"
   - jeux-de-societe
 coverImage: "128211586_2742052256057139_1546528530697657635_n.jpg"
 imgWidth: 360
