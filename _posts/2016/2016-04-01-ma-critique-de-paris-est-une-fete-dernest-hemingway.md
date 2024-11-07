@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "paris"
 coverImage: "1507-1.jpg"
 imgWidth: 360
 imgHeight: 593
