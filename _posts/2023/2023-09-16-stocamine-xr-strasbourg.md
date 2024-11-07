@@ -9,7 +9,7 @@ categories:
   - qui-sont-maintenant-alsaciens
 tags: 
   - "pixelfed"
-  - "écologie"
+  - "ecologie"
 coverImage: xS0m0ALQDI5ChiETlpswcpOYoRpp96P1QmMPZvRF.jpg
 imgWidth: 1440
 imgHeight: 1080
