@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "bretagne"
 coverImage: Le-rocher-de-lours-ours-bear-rock.jpg
 imgWidth: 360
 imgHeight: 360
