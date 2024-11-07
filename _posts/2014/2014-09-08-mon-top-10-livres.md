@@ -5,7 +5,8 @@ date: "2014-09-08"
 categories: 
   - "trucs-critiques"
 tags: 
-  - "livres"
+  - "livre"
+  - "critique"
 ---
 
 Laurent a publié sur Facebook son Top 10, je me suis dit que c'était une bonne idée, ça m'a donné envie... je viens donc de publier le mien sur SensCritique... mais j'avais aussi envie d'en parler ici. Donc :
