@@ -6,6 +6,11 @@ categories:
   - "trucs"
   - "trucs-de-webmaster"
   - "trucs-de-geek"
+tags: 
+  - "velo"
+  - "ecologie"
+  - "accessibilite"
+  - "web"
 coverImage: "lego.jpg"
 imgWidth: 700
 imgHeight: 464
