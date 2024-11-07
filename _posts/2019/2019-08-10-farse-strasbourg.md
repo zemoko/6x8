@@ -6,7 +6,9 @@ categories:
   - "qui-sont-maintenant-alsaciens"
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: "66363143_153385329098543_390724314002078107_n.jpg"
 imgWidth: 360
 imgHeight: 269
