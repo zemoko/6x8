@@ -6,7 +6,6 @@ categories:
   - "trucs"
 tags: 
   - "jeux-de-societe"
-  - "boardgames"
 ---
 
 **J'ai toujours aimé jouer au jeux de société**. J'ai commencé à jouer en famille : Monopoly, Destin, La bonne paye, Risk... bref, des jeux de société classiques, pensés pour enfants, au mieux pour ados (sauf quen chez moi, le Monopoly, c'est resté !).
