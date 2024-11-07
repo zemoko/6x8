@@ -8,7 +8,6 @@ tags:
   - "architecture"
   - "instagram"
   - "royan"
-  - "royan1950"
 coverImage: notre-dame-de-royan-architecture-royan-royan1950.jpg
 imgWidth: 360
 imgHeight: 269
