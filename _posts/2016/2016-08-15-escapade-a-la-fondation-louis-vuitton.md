@@ -10,6 +10,7 @@ tags:
   - "expo"
   - "miam"
   - "paris"
+  - "musee"
 coverImage: "IMG_0006.jpg"
 imgWidth: 360
 imgHeight: 241
