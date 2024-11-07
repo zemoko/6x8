@@ -6,8 +6,6 @@ categories:
   - "trucs"
 tags: 
   - "jeux-de-societe"
-  - "boardgames"
-coverImage: 
 ---
 
 Une fois n'est pas coutume, j'ai vraiment trouvé cette vidéo chouette et donc j'avais envie de vous la partager ici.
