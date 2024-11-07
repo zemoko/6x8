@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: chateau-vodoo-strasbourg.jpg
 imgWidth: 360
 imgHeight: 450
