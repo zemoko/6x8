@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "coup-de-coeur"
+  - "laurent-gaude"
 coverImage: couv-Chien-51.jpg
 imgWidth: 360
 imgHeight: 679
