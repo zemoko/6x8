@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parismaville"
 coverImage: Square-du-Vert-Galand-paris-crue-flood-parismaville.jpg
 imgWidth: 360
 imgHeight: 269
