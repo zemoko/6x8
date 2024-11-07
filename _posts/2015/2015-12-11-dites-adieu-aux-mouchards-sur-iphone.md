@@ -5,8 +5,7 @@ date: "2015-12-11"
 categories: 
   - "trucs-de-geek"
 tags: 
-  - "firefox"
-  - "iphone"
+  - "web"
   - "vie-privee"
 coverImage: "11791842566_3c2c71878a_k.jpg"
 imgWidth: 360
