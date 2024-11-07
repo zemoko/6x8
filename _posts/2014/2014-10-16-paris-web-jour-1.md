@@ -6,7 +6,6 @@ categories:
   - "trucs-de-webmaster"
 tags:
   - "web"
-  - "accessibilite"
 coverImage: "logo-parisweb.png"
 imgWidth: 360
 imgHeight: 164
