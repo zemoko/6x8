@@ -6,7 +6,8 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
-  - vacances
+  - instagram
+  - bretagne
   - anamorphose
 coverImage: 2022-09-04-cifmlg7olx5.jpg
 imgWidth: 360
