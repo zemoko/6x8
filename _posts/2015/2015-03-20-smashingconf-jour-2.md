@@ -5,7 +5,8 @@ date: "2015-03-20"
 categories: 
   - "trucs-de-webmaster"
 tags: 
-  - "conference-oxford-smashingconf"
+  - "oxford"
+  - "web"
 coverImage: "11024147_945286378848849_249341564_n.jpg"
 imgWidth: 360
 imgHeight: 360
