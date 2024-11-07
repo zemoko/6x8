@@ -7,6 +7,8 @@ categories:
   - trucs-instagrammes
 tags:
   - "video"
+  - instagram
+  - ski
 coverImage: 2022-04-14-3-loustics-sur-des-skis.jpg
 imgWidth: 720
 imgHeight: 406
