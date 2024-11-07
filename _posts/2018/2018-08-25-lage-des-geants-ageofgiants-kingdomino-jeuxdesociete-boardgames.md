@@ -5,8 +5,8 @@ date: "2018-08-25"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "jeux-de-societe"
-  - "boardgames"
 coverImage: l’age-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames.jpg
 imgWidth: 360
 imgHeight: 269
