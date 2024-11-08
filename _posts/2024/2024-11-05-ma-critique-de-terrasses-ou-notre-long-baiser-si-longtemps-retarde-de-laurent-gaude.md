@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "coup-de-coeur"
+  - "paris"
 coverImage: terrasses.jpg
 imgWidth: 426
 imgHeight: 808
