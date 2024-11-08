@@ -7,7 +7,7 @@ categories:
   - "trucs-de-parisien"
   - "trucs-pris-en-photo"
 tags: 
-  - "vacances"
+  - "normandie"
 coverImage: "LeHavre/IMG_2782.jpeg"
 imgWidth: 360
 imgHeight: 270
