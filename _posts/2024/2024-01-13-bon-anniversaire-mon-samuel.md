@@ -6,6 +6,7 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags: 
+  - "pixelfed"
   - "miam"
 coverImage: JqSBEWBoq9Q61EnupIEG1KYU6aw4BAcwM3QMjF7W.png
 imgWidth: 1080
