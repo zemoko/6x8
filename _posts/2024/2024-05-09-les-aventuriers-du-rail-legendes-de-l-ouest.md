@@ -7,6 +7,7 @@ categories:
   - trucs-instagrammes
   - trucs-de-geek
 tags: 
+  - "pixelfed"
   - "jeux-de-societe"
 coverImage: TRBsSjjRZAxBpFlTpFWHLC7WkqcEMnHmPnegbHLR.jpg
 imgWidth: 1440
