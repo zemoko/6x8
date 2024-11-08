@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags:
   - "ecologie"
+  - "livre"
 coverImage: "6e9e6044060993c9.jpg"
 imgWidth: 1024
 imgHeight: 768
