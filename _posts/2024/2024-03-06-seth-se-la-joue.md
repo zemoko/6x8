@@ -10,6 +10,8 @@ categories:
 tags: 
   - "expo"
   - "streetart"
+  - "musee"
+  - "paris"
 coverImage: seth/IMG_0969.jpeg
 imgWidth: 960
 imgHeight: 1280
