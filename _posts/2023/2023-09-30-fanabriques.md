@@ -10,6 +10,7 @@ categories:
   - "qui-sont-maintenant-alsaciens"
 tags: 
   - "lego"
+  - "expo"
 coverImage: "lego/fanabriques.jpg"
 imgWidth: 1024
 imgHeight: 732
