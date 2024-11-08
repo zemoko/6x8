@@ -9,7 +9,9 @@ categories:
   - qui-sont-maintenant-alsaciens
   - qui-voyage
 tags: 
-  - "saintnicolas"
+  - "saint-nicolas"
+  - "lorraine"
+  - "pixelfed"
 coverImage: kqBuSW09mvLxmCxwVU4Ql12GgAWPoVw3REGbhRqz.png
 imgWidth: 922
 imgHeight: 1230
