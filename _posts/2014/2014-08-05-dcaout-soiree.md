@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
 coverImage: Soiree.jpg
 imgWidth: 360
 imgHeight: 360
