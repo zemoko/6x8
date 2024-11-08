@@ -8,6 +8,7 @@ categories:
   - "qui-sont-maintenant-alsaciens"
 tags: 
   - "pixelfed"
+  - "strasbourg"
 coverImage: "nuit-des-etoiles.jpg"
 imgWidth: 1440
 imgHeight: 1080
