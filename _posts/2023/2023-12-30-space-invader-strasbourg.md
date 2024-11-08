@@ -10,7 +10,7 @@ categories:
 tags: 
   - "strasbourg"
   - "streetart"
-  - "invader"
+  - "pixelfed"
   - "spaceinvader"
 coverImage: YGwrV3EDGvAY6hrwXTmYQ6ZaNBZx3J7OzDZBbOTW.png
 imgWidth: 1440
