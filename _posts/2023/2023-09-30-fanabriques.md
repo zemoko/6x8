@@ -11,6 +11,7 @@ categories:
 tags: 
   - "lego"
   - "expo"
+  - "alsace"
 coverImage: "lego/fanabriques.jpg"
 imgWidth: 1024
 imgHeight: 732
