@@ -7,7 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
-  - "évologie"
+  - "ecologie"
   - "OLNI"
 coverImage: la-fonte-des-glaces.jpg
 imgWidth: 702
