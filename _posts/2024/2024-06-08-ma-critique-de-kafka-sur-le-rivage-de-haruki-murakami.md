@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "japon"
 coverImage: kafka.jpg
 imgWidth: 615
 imgHeight: 1000
