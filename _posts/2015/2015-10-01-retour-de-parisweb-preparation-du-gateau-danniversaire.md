@@ -6,8 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "paris"
-  - "web"
+  - "parisweb"
   - "miam"
 coverImage: 11420713_483818388446978_453752878_n.jpg
 imgWidth: 360
