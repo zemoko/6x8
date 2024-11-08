@@ -6,6 +6,7 @@ categories:
   - "trucs-de-geek"
 tags: 
   - "mastodon"
+  - "web"
 coverImage: "73fd87c7d1afb0d0.jpg"
 imgWidth: 1200
 imgHeight: 675
