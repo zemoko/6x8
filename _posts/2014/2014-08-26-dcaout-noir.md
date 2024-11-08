@@ -7,6 +7,7 @@ categories:
 tags: 
   - "dcaout"
   - "instagram"
+  - "trucs-creatifs"
 coverImage: 7174c0e18adc435e84e14931ff5336b1_7.jpg
 imgWidth: 360
 imgHeight: 360
