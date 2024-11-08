@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "coup-de-coeur"
+  - "martin-page"
 coverImage: 978-2-84263-040-9.jpg
 imgWidth: 360
 imgHeight: 548
