@@ -9,6 +9,7 @@ categories:
 tags: 
   - "pixelfed"
   - "strasbourg"
+  - "ecologie"
 coverImage: "le-temps-presse-extinction-rebellion.jpg"
 imgWidth: 480
 imgHeight: 640
