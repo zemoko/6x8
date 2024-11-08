@@ -4,6 +4,9 @@ title: "Life Hacking"
 date: "2015-02-09"
 categories: 
   - "trucs"
+tags:
+  - "vie-privee"
+  - "ethique"
 coverImage: "7419840080_f62121ffb8_o.png"
 imgWidth: 360
 imgHeight: 122
