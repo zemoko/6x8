@@ -8,7 +8,7 @@ categories:
   - "qui-voyage"
 tags: 
   - "pixelfed"
-  - "vacances"
+  - "bretagne"
 coverImage: "YhUxfrqoabd3W7Ie9jKjtjRTZ9NBbVjGsp5tvApv.jpg"
 imgWidth: 1440
 imgHeight: 1080
