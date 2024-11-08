@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "miam"
+  - "lorraine"
 coverImage: 11349421_1473378456298480_820934947_n.jpg
 imgWidth: 360
 imgHeight: 360
