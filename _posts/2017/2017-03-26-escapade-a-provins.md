@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "provins"
 coverImage: escapade-a-provins.jpg
 imgWidth: 360
 imgHeight: 360

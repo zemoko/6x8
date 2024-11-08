@@ -5,6 +5,7 @@ date: "2019-02-16"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "chatel"
 coverImage: "51283633_404442373660560_6417774007655379416_n.jpg"
 imgWidth: 360

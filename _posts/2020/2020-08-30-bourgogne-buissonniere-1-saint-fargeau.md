@@ -6,7 +6,6 @@ categories:
   - "qui-voyage"
 tags: 
   - "bourgogne"
-  - "chateau"
 coverImage: "https://sitofotos.6x8.org/i.php?/upload/2021/11/05/20211105221348-bb68790d-xx.jpg"
 imgWidth: 360
 imgHeight: 270

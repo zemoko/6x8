@@ -6,9 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "manege"
   - "paris"
-  - "villette"
 coverImage: Foot-Foraine-a-la-villette-paris-manege.jpg
 imgWidth: 360
 imgHeight: 249

@@ -5,6 +5,7 @@ date: "2019-11-13"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "strasbourg"
   - "streetart"
 coverImage: "75571749_147968673155386_5327241246748844474_n.jpg"

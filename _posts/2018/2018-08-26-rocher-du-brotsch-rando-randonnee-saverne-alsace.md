@@ -7,7 +7,6 @@ categories:
 tags: 
   - "alsace"
   - "instagram"
-  - "rando"
 coverImage: rocher-du-brotsch-rando-randonnee-saverne-alsace.jpg
 imgWidth: 360
 imgHeight: 450

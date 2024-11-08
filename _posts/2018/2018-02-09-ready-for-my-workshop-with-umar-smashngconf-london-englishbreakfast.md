@@ -7,8 +7,8 @@ categories:
 tags: 
   - "miam"
   - "instagram"
-  - "london"
-  - "smashngconf"
+  - "londres"
+  - "web"
 coverImage: ready-for-my-workshop-with-umar-smashngconf-london-englishbreakfast.jpg
 imgWidth: 360
 imgHeight: 360

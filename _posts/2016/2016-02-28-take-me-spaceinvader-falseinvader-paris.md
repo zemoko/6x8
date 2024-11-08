@@ -5,10 +5,10 @@ date: "2016-02-28"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "falseinvader"
   - "instagram"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: Take-me-spaceinvader-falseinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360

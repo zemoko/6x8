@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "miam"
+  - "royan"
 coverImage: Premiere-glace-de-la-saison-chez-Lopez-miam.jpg
 imgWidth: 360
 imgHeight: 360

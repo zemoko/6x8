@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "streetart"
 coverImage: quand-est-ce-qu’on-va-rire-pendant-les-infos.jpg
 imgWidth: 360
 imgHeight: 269

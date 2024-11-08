@@ -6,7 +6,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "lesaiglesdesremparts"
   - "provins"
 coverImage: Vautour-Provins-lesAiglesDesRemparts.jpg
 imgWidth: 360

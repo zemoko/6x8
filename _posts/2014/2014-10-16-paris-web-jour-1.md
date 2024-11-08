@@ -4,6 +4,9 @@ title: "Paris Web : Jour 1"
 date: "2014-10-16"
 categories: 
   - "trucs-de-webmaster"
+tags:
+  - "web"
+  - "parisweb"
 coverImage: "logo-parisweb.png"
 imgWidth: 360
 imgHeight: 164

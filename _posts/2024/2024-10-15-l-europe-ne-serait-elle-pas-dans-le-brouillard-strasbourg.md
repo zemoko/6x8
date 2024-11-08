@@ -9,6 +9,7 @@ categories:
 tags: 
   - "pixelfed"
   - "strasbourg"
+  - "alsace"
 coverImage: "parlement-dans-le-brouillard.jpg"
 imgWidth: 2856
 imgHeight: 2142

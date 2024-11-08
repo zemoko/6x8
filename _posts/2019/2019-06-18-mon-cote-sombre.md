@@ -4,6 +4,8 @@ title: "Mon côté sombre"
 date: "2019-06-18"
 categories: 
   - "trucs-de-webmaster"
+tags:
+  - "web"
 coverImage: "dark-toy-computer-black.jpg"
 imgWidth: 360
 imgHeight: 270

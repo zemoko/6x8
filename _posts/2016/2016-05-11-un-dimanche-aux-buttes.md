@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: Un-dimanche-aux-buttes.jpg
 imgWidth: 360
 imgHeight: 360

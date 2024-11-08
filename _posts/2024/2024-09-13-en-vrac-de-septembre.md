@@ -6,6 +6,10 @@ categories:
   - "trucs"
   - "trucs-de-webmaster"
   - "trucs-de-geek"
+tags:
+  - "web"
+  - "vie-privee"
+  - "ecologie"
 coverImage: "playmobil.jpg"
 imgWidth: 1024
 imgHeight: 678

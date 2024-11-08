@@ -5,8 +5,7 @@ date: "2016-11-18"
 categories: 
   - "trucs-de-geek"
 tags: 
-  - "firefox"
-  - "iphone"
+  - "web"
   - "vie-privee"
 carousel: 
   - image: /images/2016/11/IMG_6764.png

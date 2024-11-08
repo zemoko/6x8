@@ -7,6 +7,7 @@ categories:
 tags: 
   - "douarnenez"
   - "instagram"
+  - "bretagne"
 coverImage: gr34-douarnenez.jpg
 imgWidth: 360
 imgHeight: 240

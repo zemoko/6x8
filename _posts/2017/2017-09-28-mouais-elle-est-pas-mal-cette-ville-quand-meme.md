@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "alsace"
   - "strasbourg"
 coverImage: mouais...-elle-est-pas-mal-cette-ville-quand-meme.jpg
 imgWidth: 360

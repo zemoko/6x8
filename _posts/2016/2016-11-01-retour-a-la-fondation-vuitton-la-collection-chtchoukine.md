@@ -7,6 +7,8 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "expo"
+  - "paris"
+  - "musee"
 coverImage: "IMG_0845.jpg"
 imgWidth: 360
 imgHeight: 269

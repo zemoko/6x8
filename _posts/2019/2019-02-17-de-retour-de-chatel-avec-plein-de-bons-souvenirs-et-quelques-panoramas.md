@@ -6,7 +6,7 @@ categories:
   - "trucs-pris-en-photos"
 tags: 
   - "chatel"
-  - "panoramiques"
+  - "instagram"
   - "ski"
 coverImage: "adL9HlEbTBuqgDiGthDMA.jpg"
 imgWidth: 360

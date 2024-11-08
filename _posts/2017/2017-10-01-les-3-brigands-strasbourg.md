@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "alsace"
   - "strasbourg"
 coverImage: les-3-brigands-strasbourg.jpg
 imgWidth: 360

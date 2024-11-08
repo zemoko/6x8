@@ -6,6 +6,7 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - miam
 coverImage: 2023-01-15-cnchzvni4iq.jpg
 imgWidth: 360

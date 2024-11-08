@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "jeux-de-societe"
-  - "boardgames"
 coverImage: azul-jeuxdesociete-boardgames.jpg
 imgWidth: 360
 imgHeight: 360

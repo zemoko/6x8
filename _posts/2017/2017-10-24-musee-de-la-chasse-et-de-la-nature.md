@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "musee"
 coverImage: musee-de-la-chasse-et-de-la-nature.jpg
 imgWidth: 360
 imgHeight: 360

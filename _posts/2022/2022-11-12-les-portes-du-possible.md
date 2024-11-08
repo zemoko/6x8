@@ -8,6 +8,8 @@ categories:
 tags: 
   - "expo"
   - "metz"
+  - "lorraine"
+  - "musee"
 coverImage: "les-portes-du-possible.jpg"
 imgWidth: 360
 imgHeight: 223

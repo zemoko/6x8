@@ -6,6 +6,7 @@ categories:
   - "trucs-critiques"
 tags: 
   - "mastodon"
+  - "livre"
 coverImage: 0d0b95436951130a.png
 imgWidth: 360
 imgHeight: 360

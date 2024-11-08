@@ -5,7 +5,8 @@ date: "2020-08-12"
 categories: 
   - "trucs-instagrammes"
 tags:
-  - "chateau"
+  - "instagram"
+  - "bourgogne"
 coverImage: "117228792_126762212117862_1505238928589540526_n-2.jpg"
 imgWidth: 360
 imgHeight: 340

@@ -8,7 +8,9 @@ categories:
   - trucs-de-parisien
   - a-paris
 tags: 
+  - "paris"
   - "expo"
+  - "musee"
 coverImage: FLV/IMG_1008.jpeg
 imgWidth: 960
 imgHeight: 1280

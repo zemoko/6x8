@@ -8,8 +8,10 @@ categories:
   - trucs-de-parisien
   - qui-sont-maintenant-alsaciens
 tags: 
+  - "pixelfed"
   - "strasbourg"
   - "noel"
+  - "alsace"
 coverImage: xfSgenMk0RE6LsDaSqV3RzwbwTnKyDMWBECzer61.png
 imgWidth: 922
 imgHeight: 1230

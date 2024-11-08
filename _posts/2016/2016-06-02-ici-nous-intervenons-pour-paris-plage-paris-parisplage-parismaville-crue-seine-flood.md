@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parismaville"
-  - "parisplage"
 coverImage: Ici-nous-intervenons-pour-Paris-Plage-paris-parisplage-parismaville-crue-seine-flood.jpg
 imgWidth: 360
 imgHeight: 360

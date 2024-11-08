@@ -5,7 +5,7 @@ date: "2017-04-02"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "104"
+  - "paris"
   - "expo"
   - "instagram"
   - "video"

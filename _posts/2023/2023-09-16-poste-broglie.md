@@ -10,6 +10,7 @@ categories:
 tags: 
   - "pixelfed"
   - "stork7567"
+  - "strasbourg"
   - "streetart"
 coverImage: qdRxWODVjouaA3tEDWrwLgyZ6VMyH4Mgi6X2O8dZ.jpg
 imgWidth: 1440

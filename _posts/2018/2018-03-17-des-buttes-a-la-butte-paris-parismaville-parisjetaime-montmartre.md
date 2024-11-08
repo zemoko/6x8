@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: des-buttes-a-la-butte-paris-parismaville-parisjetaime-montmartre.jpg
 imgWidth: 360
 imgHeight: 450

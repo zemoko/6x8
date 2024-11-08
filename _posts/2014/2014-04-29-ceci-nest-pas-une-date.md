@@ -6,6 +6,7 @@ categories:
   - "trucs-de-webmaster"
 tags:
   - "accessibilite"
+  - "web"
 coverImage: "Ceci-nest-pas-une-date.png"
 imgWidth: 360
 imgHeight: 244

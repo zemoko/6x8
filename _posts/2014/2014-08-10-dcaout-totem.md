@@ -6,7 +6,8 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
-  - "j2s"
+  - "jeux-de-societe"
+  - "trucs-creatifs"
 coverImage: IMG_39701.jpg
 imgWidth: 360
 imgHeight: 270

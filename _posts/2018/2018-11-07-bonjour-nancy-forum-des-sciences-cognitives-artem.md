@@ -7,6 +7,8 @@ categories:
 tags: 
   - "instagram"
   - "nancy"
+  - "lorraine"
+  - "web"
 coverImage: bonjour-nancy-forum-des-sciences-cognitives-artem.jpg
 imgWidth: 360
 imgHeight: 360

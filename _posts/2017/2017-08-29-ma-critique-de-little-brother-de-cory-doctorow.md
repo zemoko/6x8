@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "vie-privee"
 coverImage: "littlebrother-US-cover-large.jpg"
 imgWidth: 360
 imgHeight: 540

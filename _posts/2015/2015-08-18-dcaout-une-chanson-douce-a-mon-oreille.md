@@ -6,6 +6,7 @@ categories:
   - "trucs-de-geek"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
 coverImage: "IMG_0215.jpg"
 imgWidth: 360
 imgHeight: 270

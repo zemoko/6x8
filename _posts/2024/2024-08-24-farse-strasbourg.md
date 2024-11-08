@@ -9,6 +9,7 @@ categories:
 tags: 
   - "pixelfed"
   - "strasbourg"
+  - "alsace"
 coverImage: "kDvl7RB4Ggkw1q1DD5vnO1l43epalKUkU69FkJpr.jpg"
 imgWidth: 1440
 imgHeight: 1080

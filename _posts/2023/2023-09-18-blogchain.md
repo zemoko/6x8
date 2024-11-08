@@ -5,11 +5,12 @@ date: "2023-09-18"
 categories: 
   - "trucs-de-geek"
   - "trucs-de-webmaster"
+tags:
+  - "web"
 coverImage: "lego.jpg"
 imgWidth: 1024
 imgHeight: 944
 cover2left: true
-
 ---
 
 Je rebondis sur <a href="https://n.survol.fr/n/la-blogchain">un billet d'Éric Daspet</a>. 

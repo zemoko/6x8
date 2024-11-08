@@ -5,8 +5,7 @@ date: "2015-11-20"
 categories: 
   - "a-paris"
 tags: 
-  - "allonsenfantsdubataclan"
-  - "bataclan"
+  - "paris"
 coverImage: allons-enfants-du-bataclan.jpg
 imgWidth: 360
 imgHeight: 203

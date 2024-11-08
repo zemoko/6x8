@@ -6,6 +6,8 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
+  - "provins"
 coverImage: "IMG_0009.jpg"
 imgWidth: 360
 imgHeight: 203

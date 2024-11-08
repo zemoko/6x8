@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "coup-de-coeur"
+  - "ploum"
 coverImage: stagiaire-au-spatioport-omega-3000.jpg
 imgWidth: 360
 imgHeight: 240

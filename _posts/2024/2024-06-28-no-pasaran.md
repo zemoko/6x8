@@ -6,6 +6,7 @@ categories:
   - trucs
 tags: 
   - "ethique"
+  - "musique"
 coverImage: no-pasaran.jpg
 imgWidth: 610
 imgHeight: 610

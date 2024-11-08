@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: Leau-est-de-retour-o-canalstmartin.jpg
 imgWidth: 360
 imgHeight: 360

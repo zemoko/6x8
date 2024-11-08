@@ -6,7 +6,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "neige"
   - "ski"
   - "tignes"
 coverImage: quelle-hauteur-de-neige-deja-tignes-neige-ski.jpg

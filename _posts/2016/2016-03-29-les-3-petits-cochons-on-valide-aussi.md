@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "jeux-de-societe"
-  - "boardgames"
 coverImage: Les-3-petits-cochons-on-valide-aussi.jpg
 imgWidth: 360
 imgHeight: 360

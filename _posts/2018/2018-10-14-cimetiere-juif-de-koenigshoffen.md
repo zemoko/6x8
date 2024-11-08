@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: cimetiere-juif-de-koenigshoffen.jpg
 imgWidth: 360
 imgHeight: 269

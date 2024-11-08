@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: de-l’autre-cote-de-la-frontiere-strasbourg-kehl-playmobil.jpg
 imgWidth: 360
 imgHeight: 360

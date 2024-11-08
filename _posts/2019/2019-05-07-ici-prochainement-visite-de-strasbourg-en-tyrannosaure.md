@@ -7,6 +7,7 @@ categories:
 tags: 
   - "jeux-de-societe"
   - "strasbourg"
+  - "alsace"
 coverImage: "IMG_1589.jpg"
 imgWidth: 360
 imgHeight: 585

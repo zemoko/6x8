@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "londres"
+  - "musee"
 coverImage: Musee-des-transports.jpg
 imgWidth: 360
 imgHeight: 360

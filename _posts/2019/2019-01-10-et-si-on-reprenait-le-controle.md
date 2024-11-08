@@ -4,6 +4,8 @@ title: "Et si on reprenait le contrôle&nbsp;?"
 date: "2019-01-10"
 categories: 
   - "trucs"
+tags:
+  - "web"
 coverImage: "Lego-Minifigure-Series-07-Wallpaper-Computer-Programmer.jpg"
 imgWidth: 360
 imgHeight: 238

@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "royan"
+  - "jeux-de-societe"
 coverImage: c’etait-bien-cool-le-village-des-jeux-on-repart-avec-des-qixels-merci-@asmodee_fr.jpg
 imgWidth: 360
 imgHeight: 360

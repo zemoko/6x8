@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: ce-cafe-est-cache-cafecache.jpg
 imgWidth: 360
 imgHeight: 360

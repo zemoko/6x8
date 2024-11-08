@@ -5,6 +5,7 @@ date: "2020-01-26"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "lego"
 coverImage: "83130580_158347338931774_1251895276050920140_n.jpg"
 imgWidth: 360

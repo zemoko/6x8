@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
   - "lego"
 coverImage: Ouverture-du-Lego-Store-au-Forum-des-Halles-Brique-974-sur-3000.jpg
 imgWidth: 360

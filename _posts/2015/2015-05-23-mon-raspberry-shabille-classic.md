@@ -6,6 +6,7 @@ categories:
   - "trucs-de-geek"
 tags: 
   - "lego"
+  - "trucs-creatifs"
 coverImage: "IMG_45713.jpg"
 imgWidth: 360
 imgHeight: 360

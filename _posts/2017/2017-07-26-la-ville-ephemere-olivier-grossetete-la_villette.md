@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "expo"
 coverImage: la-ville-ephemere-olivier-grossetete-@la_villette.jpg
 imgWidth: 360
 imgHeight: 239

@@ -8,6 +8,7 @@ categories:
 tags:
   - "miam"
   - "instagram"
+  - "alsace"
 coverImage: 2021-12-04-bredele-miam.jpg
 imgWidth: 360
 imgHeight: 360

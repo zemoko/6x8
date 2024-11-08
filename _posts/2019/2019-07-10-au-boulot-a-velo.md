@@ -7,7 +7,7 @@ categories:
   - "trucs"
 tags: 
   - "velo"
-  - "velotaf"
+  - "strasbourg"
 coverImage: "auboulotavelo.png"
 imgWidth: 360
 imgHeight: 180

@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parismaville"
-  - "philharmonie"
 coverImage: Tiens-on-voit-la-philharmonie-paris-parismaville.jpg
 imgWidth: 360
 imgHeight: 360

@@ -8,6 +8,7 @@ tags:
   - "coup-de-coeur"
   - "critique"
   - "livre"
+  - "ecologie"
 coverImage: "5bb772e752d3d.jpg"
 imgWidth: 360
 imgHeight: 360

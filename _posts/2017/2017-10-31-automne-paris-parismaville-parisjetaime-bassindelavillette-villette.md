@@ -7,9 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
-  - "villette"
 coverImage: automne-paris-parismaville-parisjetaime-bassindelavillette-villette.jpg
 imgWidth: 360
 imgHeight: 269

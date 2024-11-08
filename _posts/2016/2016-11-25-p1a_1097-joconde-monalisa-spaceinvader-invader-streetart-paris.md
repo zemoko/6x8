@@ -6,8 +6,7 @@ date: "2016-11-25"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "joconde"
-  - "monalisa"
+  - "instagram"
   - "paris"
   - "spaceinvader"
   - "streetart"

@@ -6,7 +6,6 @@ categories:
   - "trucs-de-webmaster"
 tags: 
   - "oxford"
-  - "smashingconf"
   - "web"
 ---
 

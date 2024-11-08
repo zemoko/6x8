@@ -8,6 +8,7 @@ tags:
   - "coup-de-coeur"
   - "critique"
   - "livre"
+  - "daniel-pennac"
 coverImage: "product_9782070142316_195x320.jpg"
 imgWidth: 360
 imgHeight: 532

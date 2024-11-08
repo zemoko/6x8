@@ -5,9 +5,10 @@ date: "2016-01-22"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "falseinvader"
+  - "instagram"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: spaceinvader-falseinvader-Paris-totoro.jpg
 imgWidth: 360
 imgHeight: 360

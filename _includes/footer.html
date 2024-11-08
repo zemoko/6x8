@@ -4,8 +4,9 @@
 		<div>
 			<p><strong>Qui suis-je&nbsp;?</strong> <a href="/arnaud-malon.html">À propos</a></p>
 			<p><strong>Que fais-je&nbsp;?</strong> <a href="/en-ce-moment.html">En ce moment</a></p>
+			<p><strong>Ce blog&nbsp;?</strong> <em>{{ site.posts | size }}</em>&nbsp;billets depuis <em>{% assign myVar='2014-03-28' | date: "%s" %}{{ "now" | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: 24 | round }}</em>&nbsp;jours</p> 
 			<p><strong>Vous êtes perdus&nbsp;?</strong> <a href="/plan-du-site/index.html" id="sitemap">Plan du site</a>, <a href="/tags/index.html">Tags</a> ou <a href="/random/">une&nbsp;page au&nbsp;hasard</a>&nbsp;!</p>
-			<p><strong>Licence&nbsp;?</strong> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC by-nc-nd</a> Arnaud&nbsp;Malon 2021-23</p>
+			<p><strong>Licence&nbsp;?</strong> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC by-nc-nd</a> Arnaud&nbsp;Malon 2014-24</p>
 			<p><strong>S'abonner&nbsp;?</strong> <a href="/feed.xml" id="rss"><abbr>RSS</abbr></a></p>
 		</div>
 	</div>

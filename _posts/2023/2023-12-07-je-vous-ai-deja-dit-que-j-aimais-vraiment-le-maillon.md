@@ -8,6 +8,7 @@ categories:
   - trucs-de-parisien
   - qui-sont-maintenant-alsaciens
 tags: 
+  - "pixelfed"
   - "strasbourg"
 coverImage: SLpHq8IZQdnELfE6yje6GPyIaXTpdt4qRcNyk8Uq.png
 imgWidth: 924

@@ -6,6 +6,10 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "starwars"
+  - "expo"
+  - "musee"
 coverImage: Mythes-fondateurs-dHercule-a-Dark-Vador-la-on-est-entre-les-2.jpg
 imgWidth: 360
 imgHeight: 360

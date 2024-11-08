@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "bretagne"
 coverImage: 14-juillet-au-Croisic-feudartifice-feu-artifice-fireworks-croisic-14juillet-14juillet-fetenationale.jpg
 imgWidth: 360
 imgHeight: 360

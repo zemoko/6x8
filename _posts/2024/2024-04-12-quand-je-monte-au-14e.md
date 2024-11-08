@@ -6,6 +6,7 @@ categories:
   - "trucs-pris-en-photo"
 tags: 
   - "mastodon"
+  - "strasbourg"
 coverImage: "d4a861852c171383.jpg"
 imgWidth: 3325
 imgHeight: 2494

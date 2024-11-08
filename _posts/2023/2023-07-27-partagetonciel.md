@@ -9,6 +9,8 @@ categories:
   - qui-sont-maintenant-alsaciens
 tags: 
   - "pixelfed"
+  - "strasbourg"
+  - "alsace"
 coverImage: Kg5BIdC1LffPOAB9pFynL15kk9ozLOJhCqbCbIcu.jpg
 imgWidth: 1440
 imgHeight: 1080

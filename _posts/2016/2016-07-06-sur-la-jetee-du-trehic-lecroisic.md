@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "bretagne"
 coverImage: Sur-la-jetee-du-Trehic-lecroisic.jpg
 imgWidth: 360
 imgHeight: 360

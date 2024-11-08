@@ -5,8 +5,8 @@ date: "2019-01-23"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "pandemy"
-  - "pandemylegacy"
+  - "instagram"
+  - "jeux-de-societe"
 coverImage: "49907466_315527349072744_4812898134188563819_n.jpg"
 imgWidth: 360
 imgHeight: 360

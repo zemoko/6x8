@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "lorraine"
 coverImage: 9782330139179.jpg
 imgWidth: 360
 imgHeight: 576

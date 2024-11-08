@@ -7,7 +7,6 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "bourgogne"
-  - "chateau"
 coverImage: "https://sitofotos.6x8.org/_data/i/upload/2021/11/04/20211104213634-f45143f9-xx.jpg"
 imgWidth: 360
 imgHeight: 270

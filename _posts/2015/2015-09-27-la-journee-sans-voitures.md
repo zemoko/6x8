@@ -5,6 +5,8 @@ date: "2015-09-27"
 categories: 
   - "a-paris"
   - "trucs-de-parisien"
+tags:
+  - "paris"
 coverImage: "IMG_0322.jpg"
 imgWidth: 360
 imgHeight: 241

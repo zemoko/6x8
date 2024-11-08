@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "spaceinvader"
+  - "streetart"
 coverImage: spaceinvader-qui-ne-marche-pas-dans-lappli-mais-qui-a-lair-vrai-non.jpg
 imgWidth: 360
 imgHeight: 360

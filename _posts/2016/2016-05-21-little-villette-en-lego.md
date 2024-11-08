@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "lego"
 coverImage: Little-Villette-en-Lego.jpg
 imgWidth: 360
 imgHeight: 360

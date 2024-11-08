@@ -8,7 +8,7 @@ categories:
 tags: 
   - "lomo"
   - "LCA"
-  - "Horizon"
+  - "horizon"
   - "mastodon"
 coverImage: photoktober/bonus.jpg
 imgWidth: 360

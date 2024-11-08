@@ -5,7 +5,7 @@ date: "2020-07-22"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "cigogne"
+  - "instagram"
   - "strasbourg"
   - "streetart"
   - "stork7567"

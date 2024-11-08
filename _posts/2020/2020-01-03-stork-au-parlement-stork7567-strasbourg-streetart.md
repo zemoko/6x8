@@ -5,6 +5,7 @@ date: "2020-01-03"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "stork7567"
   - "strasbourg"
   - "streetart"

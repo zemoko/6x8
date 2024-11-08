@@ -8,6 +8,7 @@ categories:
 tags: 
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: "PA_1162-le-Schtroumpf-des-Halles-spaceinvader-paris.jpg"
 imgWidth: 360
 imgHeight: 360

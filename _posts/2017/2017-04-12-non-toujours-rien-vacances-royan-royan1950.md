@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "royan"
-  - "royan1950"
 coverImage: non-toujours-rien...-vacances-royan-royan1950.jpg
 imgWidth: 360
 imgHeight: 360

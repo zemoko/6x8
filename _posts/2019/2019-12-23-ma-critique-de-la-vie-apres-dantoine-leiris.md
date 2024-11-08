@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "paris"
 coverImage: "La-vie-apres-e1577118650673.jpg"
 imgWidth: 360
 imgHeight: 575

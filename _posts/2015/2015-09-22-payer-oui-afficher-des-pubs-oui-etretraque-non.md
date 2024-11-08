@@ -4,6 +4,9 @@ title: "Payer, oui. Afficher des pubs, oui. Être&nbsp;traqué, non."
 date: "2015-09-22"
 categories: 
   - "trucs-de-geek"
+tags:
+  - "vie-privee"
+  - "web"
 coverImage: "adblock-1000x4301-750x430.jpg"
 imgWidth: 360
 imgHeight: 206

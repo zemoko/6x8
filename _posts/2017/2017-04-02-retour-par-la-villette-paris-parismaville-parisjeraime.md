@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjeraime"
-  - "parismaville"
 coverImage: retour-par-la-villette-paris-parismaville-parisjeraime.jpg
 imgWidth: 360
 imgHeight: 269

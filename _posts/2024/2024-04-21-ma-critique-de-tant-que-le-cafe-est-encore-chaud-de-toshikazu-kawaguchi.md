@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "japon"
 coverImage: 9782226458506-j.jpg
 imgWidth: 1653
 imgHeight: 2421

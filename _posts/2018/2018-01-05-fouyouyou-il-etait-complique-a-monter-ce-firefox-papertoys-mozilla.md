@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "mozilla"
+  - "trucs-creatifs"
 coverImage: fouyouyou-il-etait-complique-a-monter-ce-@firefox-papertoys-mozilla.jpg
 imgWidth: 360
 imgHeight: 360

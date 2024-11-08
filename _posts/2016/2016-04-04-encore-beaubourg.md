@@ -7,7 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parismaville"
+  - "musee"
 coverImage: Encore-Beaubourg.jpg
 imgWidth: 360
 imgHeight: 360

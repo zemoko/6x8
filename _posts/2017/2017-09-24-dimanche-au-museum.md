@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "musee"
 coverImage: dimanche-au-museum.jpg
 imgWidth: 360
 imgHeight: 269

@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: de-retour-a-paris-plage-paris-parismaville-parisjetaime-parisplage.jpg
 imgWidth: 360
 imgHeight: 269

@@ -5,9 +5,9 @@ date: "2018-02-07"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "html"
+  - "web"
   - "instagram"
-  - "smashingconf"
+  - "lego"
 coverImage: lego-contest-html-smashingconf.jpg
 imgWidth: 360
 imgHeight: 270

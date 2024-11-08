@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "alsace"
 coverImage: bonjour-le-bisch’-seminaire.jpg
 imgWidth: 360
 imgHeight: 269

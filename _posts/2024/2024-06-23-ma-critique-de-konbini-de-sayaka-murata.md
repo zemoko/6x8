@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "japon"
 coverImage: konbini.jpg
 imgWidth: 600
 imgHeight: 872

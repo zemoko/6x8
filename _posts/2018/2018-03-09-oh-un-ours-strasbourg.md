@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: oh-un-ours-strasbourg.jpg
 imgWidth: 360
 imgHeight: 360

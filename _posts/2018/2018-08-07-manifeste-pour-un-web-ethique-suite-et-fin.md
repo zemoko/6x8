@@ -5,9 +5,10 @@ date: "2018-08-07"
 categories: 
   - "trucs-de-webmaster"
 tags: 
+  - "web"
   - "ethique"
   - "kiwiparty"
-  - "rgpd"
+  - "vie-privee"
   - "accessibilite"
 ---
 

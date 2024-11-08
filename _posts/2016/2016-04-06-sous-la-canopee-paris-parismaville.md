@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parismaville"
 coverImage: Sous-la-Canopee-paris-ParisMaVille.jpg
 imgWidth: 360
 imgHeight: 450

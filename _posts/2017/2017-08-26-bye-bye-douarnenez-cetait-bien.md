@@ -7,6 +7,7 @@ categories:
 tags: 
   - "douarnenez"
   - "instagram"
+  - "bretagne"
 coverImage: bye-bye-douarnenez.-c’etait-bien.jpg
 imgWidth: 360
 imgHeight: 269

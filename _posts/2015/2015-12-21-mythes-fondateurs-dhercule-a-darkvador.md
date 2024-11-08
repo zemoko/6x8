@@ -7,6 +7,9 @@ categories:
 tags: 
   - "instagram"
   - "starwars"
+  - "paris"
+  - "expo"
+  - "musee"
 coverImage: Mythes-fondateurs-dHercule-a-DarkVador.jpg
 imgWidth: 360
 imgHeight: 360

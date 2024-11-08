@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "coup-de-coeur"
+  - "daniel-pennac"
 coverImage: Terminus-Malausene.jpg
 imgWidth: 360
 imgHeight: 527

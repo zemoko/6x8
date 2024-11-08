@@ -8,7 +8,7 @@ categories:
   - trucs-de-parisien-a-paris
 tags: 
   - "paris"
-  - "exposition"
+  - "expo"
   - "harry-potter"
 coverImage: HP/IMG_2244.jpeg
 imgWidth: 360

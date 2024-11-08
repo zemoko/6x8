@@ -6,9 +6,11 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags: 
+  - "pixelfed"
   - "paris"
   - "streetart"
   - "expo"
+  - "musee"
 coverImage: KCEYR33RYslehRlXbGl6RwLycoQn63dnishkOpae.jpg
 imgWidth: 1440
 imgHeight: 1080

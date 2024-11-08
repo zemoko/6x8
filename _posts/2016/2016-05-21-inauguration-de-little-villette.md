@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: Inauguration-de-Little-Villette.jpg
 imgWidth: 360
 imgHeight: 360

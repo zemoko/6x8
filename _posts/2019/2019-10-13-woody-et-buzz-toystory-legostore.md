@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "lego"
-  - "legostore"
+  - "instagram"
 coverImage: "70821842_186122515883100_5672236529918251469_n.jpg"
 imgWidth: 360
 imgHeight: 360

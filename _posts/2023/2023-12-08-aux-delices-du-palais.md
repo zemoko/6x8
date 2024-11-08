@@ -9,7 +9,10 @@ categories:
   - qui-sont-maintenant-alsaciens
   - qui-voyage
 tags: 
+  - "pixelfed"
   - "nancy"
+  - "miam"
+  - "lorraine"
 coverImage: AbZeB7ftmC3AAr0ebQqhezAo3UU72u1CfJNQNTX8.jpg
 imgWidth: 1440
 imgHeight: 1080

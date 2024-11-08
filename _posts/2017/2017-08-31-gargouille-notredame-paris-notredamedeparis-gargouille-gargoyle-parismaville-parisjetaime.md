@@ -6,10 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "notredame"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: gargouille-notredame-paris-notredamedeparis-gargouille-gargoyle-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 450

@@ -7,8 +7,9 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "expo"
-  - "invader"
+  - "spaceinvader"
   - "paris"
+  - "musee"
 coverImage: "IMG_8623.jpg"
 imgWidth: 360
 imgHeight: 270

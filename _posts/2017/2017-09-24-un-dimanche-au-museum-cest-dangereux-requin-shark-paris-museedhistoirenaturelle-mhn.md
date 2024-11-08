@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "paris"
+  - "musee"
 coverImage: un-dimanche-au-museum-c’est-dangereux-requin-shark-paris-museedhistoirenaturelle-mhn.jpg
 imgWidth: 360
 imgHeight: 450

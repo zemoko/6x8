@@ -6,6 +6,7 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - miam
 coverImage: 2022-10-09-cjfizh5ir7o.jpg
 imgWidth: 360

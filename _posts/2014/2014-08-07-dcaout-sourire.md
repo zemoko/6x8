@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
 coverImage: DSCF00281.jpg
 imgWidth: 360
 imgHeight: 270

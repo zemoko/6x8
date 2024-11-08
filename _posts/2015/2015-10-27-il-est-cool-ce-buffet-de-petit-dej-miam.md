@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "miam"
+  - "madrid"
 coverImage: Il-est-cool-ce-buffet-de-petit-dej-miam.jpg
 imgWidth: 360
 imgHeight: 360

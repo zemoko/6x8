@@ -6,6 +6,7 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - stork7567
   - streetart
   - strasbourg

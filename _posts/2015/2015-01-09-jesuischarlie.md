@@ -5,7 +5,7 @@ date: "2015-01-09"
 categories: 
   - "trucs"
 tags: 
-  - "jesuischarlie"
+  - "paris"
 coverImage: "16232547095_8b07ebe508_o.png"
 imgWidth: 360
 imgHeight: 178

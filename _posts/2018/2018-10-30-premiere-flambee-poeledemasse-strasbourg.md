@@ -6,9 +6,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "poeledemasse"
   - "strasbourg"
   - "video"
+  - "alsace"
 coverImage: premiere-flambee-poeledemasse-strasbourg.jpg
 post_video: 44700786_342653562949274_1241421593311793770_n.mp4
 imgWidth: 360

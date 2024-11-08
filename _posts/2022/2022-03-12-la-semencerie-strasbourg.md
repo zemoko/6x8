@@ -6,7 +6,9 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - strasbourg
+  - alsace
 coverImage: 2022-03-12-la-semencerie-strasbourg.jpg
 imgWidth: 360
 imgHeight: 386

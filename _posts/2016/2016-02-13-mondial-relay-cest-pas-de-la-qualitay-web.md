@@ -4,6 +4,8 @@ title: "Mondial Relay, c'est (pas) de la qualitäy (web)"
 date: "2016-02-13"
 categories: 
   - "trucs-de-webmaster"
+tags:
+  - "web"
 ---
 
 Ce soir, j'ai du me rendre sur le site **Mondial Relay** pour choisir un point relais. Ça n'a l'air de rien, comme ça... mais ce site est tellement mal foutu que ça m'a donné envie d'en faire un billet !

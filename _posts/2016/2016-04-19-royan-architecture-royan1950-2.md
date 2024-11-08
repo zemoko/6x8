@@ -7,7 +7,7 @@ categories:
 tags: 
   - "architecture"
   - "instagram"
-  - "royan1950"
+  - "royan"
 coverImage: Royan-architecture-royan1950-1.jpg
 imgWidth: 360
 imgHeight: 360

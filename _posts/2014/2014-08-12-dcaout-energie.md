@@ -6,6 +6,9 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
+  - "lomo"
+  - "lca"
 coverImage: "2214515168_732773af4d_o.jpg"
 imgWidth: 360
 imgHeight: 247

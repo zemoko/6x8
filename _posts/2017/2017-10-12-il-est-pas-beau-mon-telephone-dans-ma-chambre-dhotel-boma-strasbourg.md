@@ -5,9 +5,9 @@ date: "2017-10-12"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "boma"
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: il-est-pas-beau-mon-telephone-dans-ma-chambre-d’hotel-boma-strasbourg.jpg
 imgWidth: 360
 imgHeight: 360

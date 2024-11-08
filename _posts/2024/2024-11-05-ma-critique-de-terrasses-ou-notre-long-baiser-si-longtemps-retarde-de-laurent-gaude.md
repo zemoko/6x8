@@ -8,6 +8,8 @@ tags:
   - "critique"
   - "livre"
   - "coup-de-coeur"
+  - "paris"
+  - "laurent-gaude"
 coverImage: terrasses.jpg
 imgWidth: 426
 imgHeight: 808

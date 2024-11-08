@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "anamorphose"
-  - "louvre"
+  - "musee"
   - "paris"
 coverImage: Un-peu-plus-a-gauche-anamorphose-louvre-paris.jpg
 imgWidth: 360

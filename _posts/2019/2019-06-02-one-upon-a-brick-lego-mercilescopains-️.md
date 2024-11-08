@@ -4,6 +4,9 @@ title: "One upon a brick #LEGO #mercilescopains #❤️"
 date: "2019-06-02"
 categories: 
   - "trucs-instagrammes"
+tags:
+  - "instagram"
+  - "lego"
 coverImage: "61634026_148667866268293_9057041090515109694_n.jpg"
 imgWidth: 360
 imgHeight: 269

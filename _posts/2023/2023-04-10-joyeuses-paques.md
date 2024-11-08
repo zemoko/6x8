@@ -5,6 +5,7 @@ date:   2023-04-10
 categories: 
   - trucs-instagrammes
 tags:
+  - instagram
   - miam
 coverImage: 2023-04-10-cq2tnwmojot.jpg
 imgWidth: 360

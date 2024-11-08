@@ -7,7 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "jeux-de-societe"
-  - "boardgames"
 coverImage: 2017-11-bbhlpura1ki.jpg
 imgWidth: 360
 imgHeight: 240

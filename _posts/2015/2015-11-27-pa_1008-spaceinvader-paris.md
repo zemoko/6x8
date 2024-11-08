@@ -5,8 +5,10 @@ date: "2015-11-27"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: PA_1008-spaceinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360

@@ -7,6 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "lego"
+  - "paris"
 coverImage: apres-midi-lego-a-little-villette.jpg
 imgWidth: 360
 imgHeight: 449

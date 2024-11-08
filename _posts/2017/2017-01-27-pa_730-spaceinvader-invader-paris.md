@@ -6,9 +6,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "invader"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: pa_730-spaceinvader-invader-paris.jpg
 imgWidth: 360
 imgHeight: 360

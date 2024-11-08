@@ -5,9 +5,9 @@ date: "2018-09-29"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "cathedrale"
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: en-balade...-cathedrale-strasbourg.jpg
 imgWidth: 360
 imgHeight: 450

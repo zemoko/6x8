@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
 coverImage: vacances-o.jpg
 imgWidth: 360
 imgHeight: 269

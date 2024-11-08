@@ -6,8 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "parisjetaime"
-  - "parismaville"
+  - "paris"
 coverImage: paris-parismaville-parisjetaime-porncloud.jpg
 imgWidth: 360
 imgHeight: 269

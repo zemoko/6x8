@@ -7,8 +7,7 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
+  - "expo"
   - "streetart"
 coverImage: ourq-living-color-streetart-paris-parismaville-parisjetaime.jpg
 imgWidth: 360

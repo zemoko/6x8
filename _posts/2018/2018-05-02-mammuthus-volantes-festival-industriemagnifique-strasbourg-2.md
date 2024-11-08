@@ -6,8 +6,11 @@ categories:
   - "qui-sont-maintenant-alsaciens"
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "strasbourg"
   - "video"
+  - "alsace"
+  - "expo"
 coverImage: mammuthus-volantes-festival-industriemagnifique-strasbourg.jpg
 post_video: 31366063_241366679945791_4738024671240030724_n.mp4
 imgWidth: 640

@@ -9,6 +9,7 @@ tags:
   - "metz"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: PA_946-Sublime-spaceinvader-paris-rue-de-Metz.jpg
 imgWidth: 360
 imgHeight: 360

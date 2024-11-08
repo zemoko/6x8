@@ -8,7 +8,6 @@ tags:
   - "architecture"
   - "instagram"
   - "royan"
-  - "royan1950"
 coverImage: eglise-reformee-royan-royan1950-architecture.jpg
 imgWidth: 360
 imgHeight: 360

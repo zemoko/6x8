@@ -6,7 +6,6 @@ categories:
   - "qui-sont-maintenant-alsaciens"
 tags:
   - "alsace"
-  - "rando"
 coverImage: "img_4589-scaled.jpg"
 imgWidth: 360
 imgHeight: 270

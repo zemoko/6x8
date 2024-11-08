@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
   - "parisweb"
 coverImage: 12081248_423292121205216_2024622900_n.jpg
 imgWidth: 360

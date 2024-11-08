@@ -5,7 +5,9 @@ date: "2020-07-18"
 categories: 
   - "trucs-instagrammes"
 tags:
+  - instagram
   - musee
+  - expo
 coverImage: "109258914_1609005642591416_5014296665043535052_n.jpg"
 imgWidth: 360
 imgHeight: 360

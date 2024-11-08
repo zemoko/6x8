@@ -6,7 +6,6 @@ categories:
   - "trucs-de-webmaster"
 tags: 
   - "ethique"
-  - "kiwiparty"
   - "rgpd"
   - "web"
   - "accessibilite"

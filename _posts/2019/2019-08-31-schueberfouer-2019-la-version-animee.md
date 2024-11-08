@@ -5,8 +5,10 @@ date: "2019-08-31"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "schueberfouer"
   - "video"
+  - "lorraine"
 coverImage: "67730129_127351565235044_6037573262819163315_n.jpg"
 post_video: "70391040_2890640310950691_1027193062244055373_n.mp4"
 imgWidth: 360

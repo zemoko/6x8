@@ -5,7 +5,6 @@ date: "2017-11-12"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "cirque"
   - "instagram"
   - "video"
 coverImage: acrobates-cirque-pinder-pinder-cirque-circus-acrobate.jpg

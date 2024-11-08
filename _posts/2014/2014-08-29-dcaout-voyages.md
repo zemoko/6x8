@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
 ---
 
 <div class="center">

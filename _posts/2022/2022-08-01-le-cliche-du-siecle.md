@@ -6,6 +6,7 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
+  - instagram
   - jeux-de-societe
 coverImage: 2022-08-01.jpg
 imgWidth: 360

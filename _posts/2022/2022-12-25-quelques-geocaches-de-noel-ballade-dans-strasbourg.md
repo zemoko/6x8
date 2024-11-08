@@ -7,6 +7,8 @@ categories:
 tags: 
   - "pixelfed"
   - "strasbourg"
+  - "alsace"
+  - "geocaching"
 coverImage: 512602509150211119.png
 imgWidth: 360
 imgHeight: 360

@@ -7,7 +7,7 @@ categories:
 tags: 
   - "art"
   - "instagram"
-  - "louvre"
+  - "musee"
   - "paris"
 coverImage: Panorama-Eva-Jospin-linterieur-art-installation-louvre.-paris.jpg
 imgWidth: 360

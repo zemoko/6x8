@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "velo"
+  - "ploum"
 coverImage: bikepunk.webp
 imgWidth: 1398
 imgHeight: 1984

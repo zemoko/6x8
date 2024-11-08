@@ -5,9 +5,9 @@ date: "2014-10-29"
 categories: 
   - "trucs-critiques"
 tags: 
-  - "films"
-  - "livres"
-  - "senscritique"
+  - "film"
+  - "livre"
+  - "critique"
 ---
 
 Ce mois-ci, j'ai été voir **2 films** :

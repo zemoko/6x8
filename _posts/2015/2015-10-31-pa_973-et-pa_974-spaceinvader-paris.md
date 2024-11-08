@@ -8,6 +8,7 @@ tags:
   - "instagram"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: PA_973-et-PA_974-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360

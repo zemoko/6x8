@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "lorraine"
 coverImage: bye-bye-la-lorraine.jpg
 imgWidth: 360
 imgHeight: 269

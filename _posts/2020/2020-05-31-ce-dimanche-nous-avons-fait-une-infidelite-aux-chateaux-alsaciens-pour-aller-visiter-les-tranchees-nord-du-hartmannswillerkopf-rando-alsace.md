@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "alsace"
-  - "rando"
+  - "instagram"
 coverImage: "101374870_1205088679822512_4446430144014389887_n.jpg"
 imgWidth: 360
 imgHeight: 360

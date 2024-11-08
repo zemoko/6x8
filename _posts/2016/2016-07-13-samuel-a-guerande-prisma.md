@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "bretagne"
 coverImage: Samuel-a-Guerande-Prisma.jpg
 imgWidth: 360
 imgHeight: 360

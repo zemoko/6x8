@@ -6,7 +6,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "aquarium"
   - "paris"
 coverImage: Le-canal-Saint-Martin-refait-son-lit.jpg
 imgWidth: 360

@@ -5,6 +5,7 @@ date: "2016-06-23"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "anamorphose"
   - "paris"
 coverImage: anamorphose-jardindorient-institutdumondearabe.jpg

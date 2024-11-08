@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "noel"
 coverImage: joyeux-noel.jpg
 imgWidth: 360
 imgHeight: 450

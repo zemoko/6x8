@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "royan"
-  - "tourisme"
+  - "instagram"
 coverImage: royan-eglisenotredamederoyan-lune.jpg
 imgWidth: 360
 imgHeight: 360

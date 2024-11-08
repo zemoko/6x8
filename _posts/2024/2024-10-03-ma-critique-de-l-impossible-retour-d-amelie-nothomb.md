@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "japon"
+  - "amelie-nothomb"
 coverImage: impossible-retour.jpg
 imgWidth: 400
 imgHeight: 615

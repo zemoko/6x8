@@ -6,7 +6,8 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
-  - vacanceds
+  - instagram
+  - bretagne
 coverImage: 2022-08-24.jpg
 imgWidth: 360
 imgHeight: 327

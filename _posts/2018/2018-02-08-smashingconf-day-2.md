@@ -6,7 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "smashingconf"
+  - "londres"
+  - "web"
 coverImage: smashingconf-day-2.jpg
 imgWidth: 360
 imgHeight: 360

@@ -6,7 +6,6 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "paname"
   - "paris"
 coverImage: ils-ont-renove-le-batiment-qui-n’existe-pas-paris-paname-145ruelafayette.jpg
 imgWidth: 360

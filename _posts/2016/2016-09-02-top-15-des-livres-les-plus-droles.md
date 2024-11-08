@@ -5,7 +5,8 @@ date: "2016-09-02"
 categories: 
   - "trucs"
 tags: 
-  - "livres"
+  - "livre"
+  - "critique"
 ---
 
 J'ai toujours eu du mal à noter mes lectures, encore plus à les noter... mais à force de s'imposer l'écriture d'un petit billet à chaque fois que je finit un livre, je finis par y voir plus clair... tant et si bien que je me trouve en mesure de vous livrer mon "Top 15 des livres les plus drôles"

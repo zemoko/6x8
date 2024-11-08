@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
 coverImage: DCAout-tube-map.png
 imgWidth: 360
 imgHeight: 360

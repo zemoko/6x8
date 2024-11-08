@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "japon"
+  - "trucs-creatifs"
 coverImage: "2010989949_716700ef44_b.jpg"
 imgWidth: 360
 imgHeight: 147

@@ -8,6 +8,7 @@ tags:
   - "instagram"
   - "paris"
   - "spaceinvader"
+  - "streetart"
 coverImage: 12080641_1646346808966296_630388639_n.jpg
 imgWidth: 360
 imgHeight: 360

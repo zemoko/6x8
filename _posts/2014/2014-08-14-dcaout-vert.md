@@ -6,6 +6,8 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
+  - "royan"
 coverImage: horizon.png
 imgWidth: 360
 imgHeight: 244

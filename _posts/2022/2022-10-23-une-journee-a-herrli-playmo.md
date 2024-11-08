@@ -6,7 +6,8 @@ categories:
   - "qui-sont-maintenant-alsaciens"
   - "trucs-de-parisien"
 tags: 
-  - "playmobil"
+  - "expo"
+  - "alsace"
 coverImage: "playmobil_1_la-ville-medievale.jpg"
 imgWidth: 360
 imgHeight: 270

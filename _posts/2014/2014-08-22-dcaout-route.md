@@ -7,6 +7,9 @@ categories:
 tags: 
   - "dcaout"
   - "japon"
+  - "trucs-creatifs"
+  - "lomo"
+  - "horizon"
 coverImage: 2009249645_619fe345c1_b.jpg
 imgWidth: 360
 imgHeight: 147

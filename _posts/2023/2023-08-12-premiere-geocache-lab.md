@@ -8,6 +8,8 @@ categories:
   - "qui-voyage"
 tags: 
   - "mastodon"
+  - "normandie"
+  - "geocaching"
 coverImage: "99662ff175c862b3.jpeg"
 imgWidth: 1024
 imgHeight: 768

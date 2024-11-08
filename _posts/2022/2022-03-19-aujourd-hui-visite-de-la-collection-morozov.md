@@ -5,7 +5,11 @@ date:   2022-03-19
 categories: 
   - trucs-pris-en-photo
   - trucs-instagrammes
-tags: []
+tags:
+  - instagram
+  - expo
+  - paris
+  - musee
 coverImage: 2022-03-19-aujourd-hui-visite-de-la-collection-morozov.jpg
 imgWidth: 360
 imgHeight: 296

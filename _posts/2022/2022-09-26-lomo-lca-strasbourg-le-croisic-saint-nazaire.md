@@ -8,8 +8,11 @@ categories:
   - "trucs-pris-en-photo"
   - "trucs-de-lomographe"
 tags: 
-  - "vacances"
+  - "lca"
   - "lomo"
+  - "strasbourg"
+  - "alsace"
+  - "bretagne"
 coverImage: "IMG_1235.jpg"
 imgWidth: 360
 imgHeight: 270

@@ -7,7 +7,7 @@ categories:
   - trucs-instagrammes
 tags:
   - miam
-  - anniversaire
+  - instagram
 coverImage: 2022-02-27-bon-anniversaire-roro-miam-anniversaire-licorne.jpg
 imgWidth: 360
 imgHeight: 405

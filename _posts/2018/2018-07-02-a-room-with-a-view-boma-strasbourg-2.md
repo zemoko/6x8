@@ -5,9 +5,9 @@ date: "2018-07-02"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "boma"
   - "instagram"
   - "strasbourg"
+  - "alsace"
 coverImage: 2018-07-bkvjx7njtww.jpg
 imgWidth: 360
 imgHeight: 360

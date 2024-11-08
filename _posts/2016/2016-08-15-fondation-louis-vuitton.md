@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "musee"
 coverImage: Fondation-Louis-Vuitton.jpg
 imgWidth: 360
 imgHeight: 449

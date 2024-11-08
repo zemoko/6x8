@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "luxembourg"
+  - "lorraine"
   - "video"
 coverImage: a-la-schueberfouer-luxembourg.jpg
 post_video: 40455265_2097381670579862_2653057790567436927_n.mp4

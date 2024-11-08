@@ -6,7 +6,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "kiwiparty"
+  - "web"
+  - "strasbourg"
+  - "alsace"
 coverImage: bye-strasbourg-et-vraiment-un-grand-merci-a-@alsacreation-et-au-genial-staff-de-la-kiwiparty.jpg
 imgWidth: 360
 imgHeight: 360

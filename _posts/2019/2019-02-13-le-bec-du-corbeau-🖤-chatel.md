@@ -6,6 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "chatel"
+  - "instagram"
 coverImage: "50601803_563551544113522_2615612744622391571_n.jpg"
 imgWidth: 360
 imgHeight: 360

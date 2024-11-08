@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "velo"
-  - "velotaf"
+  - "instagram"
 coverImage: "65917197_2348798375408988_8454175747963841934_n.jpg"
 imgWidth: 360
 imgHeight: 360

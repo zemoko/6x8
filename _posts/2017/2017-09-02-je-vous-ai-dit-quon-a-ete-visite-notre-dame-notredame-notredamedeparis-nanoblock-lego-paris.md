@@ -8,7 +8,6 @@ categories:
 tags: 
   - "instagram"
   - "lego"
-  - "notredame"
   - "paris"
 coverImage: je-vous-ai-dit-qu’on-a-ete-visite-notre-dame-notredame-notredamedeparis-nanoblock-lego-paris.jpg
 imgWidth: 360

@@ -7,8 +7,6 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-  - "parisjetaime"
-  - "parismaville"
 coverImage: un-bassin-dans-le-bassin-a-la-villette-paris-parisjetaime-parismaville.jpg
 imgWidth: 360
 imgHeight: 269

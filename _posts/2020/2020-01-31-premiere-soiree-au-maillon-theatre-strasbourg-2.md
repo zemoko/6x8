@@ -5,6 +5,7 @@ date: "2020-01-31"
 categories: 
   - "trucs-instagrammes"
 tags: 
+  - "instagram"
   - "strasbourg"
 coverImage: "81913246_823704041437204_6603877452199854343_n-1.jpg"
 imgWidth: 360

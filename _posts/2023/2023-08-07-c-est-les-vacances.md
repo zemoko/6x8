@@ -9,6 +9,7 @@ categories:
   - qui-voyage
 tags: 
   - "pixelfed"
+  - "normandie"
 coverImage: RYBDUod12NcfVbdLSQBsLOtl52QiZbAtlXqYMkyi.jpg
 imgWidth: 904
 imgHeight: 678

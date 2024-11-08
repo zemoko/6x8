@@ -6,9 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "jaimeparis"
   - "paris"
-  - "parismaville"
 coverImage: buttes-chaumont-paris-parismaville-jaimeparis.jpg
 imgWidth: 360
 imgHeight: 269

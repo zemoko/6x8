@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "mastodon"
+  - "anamorphose"
 coverImage: "9e70b3e8d93918fa.jpg"
 imgWidth: 640
 imgHeight: 640

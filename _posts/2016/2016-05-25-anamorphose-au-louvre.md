@@ -6,9 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "anamorphose"
-  - "louvre"
+  - "musee"
   - "paris"
-  - "parismaville"
 coverImage: Anamorphose-au-Louvre.jpg
 imgWidth: 360
 imgHeight: 360

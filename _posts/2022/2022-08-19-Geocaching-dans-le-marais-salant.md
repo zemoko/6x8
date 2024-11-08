@@ -6,7 +6,9 @@ categories:
   - trucs-pris-en-photo
   - trucs-instagrammes
 tags:
-  - vacances
+  - instagram
+  - geocaching
+  - bretagne
 coverImage: 2022-08-19.jpg
 imgWidth: 360
 imgHeight: 311

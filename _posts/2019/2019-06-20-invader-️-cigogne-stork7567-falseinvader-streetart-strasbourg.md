@@ -5,7 +5,6 @@ date: "2019-06-20"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "falseinvader"
   - "stork7567"
   - "strasbourg"
   - "streetart"

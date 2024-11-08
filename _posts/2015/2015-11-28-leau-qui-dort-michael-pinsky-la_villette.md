@@ -6,6 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
+  - "paris"
+  - "expo"
 coverImage: Leau-qui-dort-Michael-Pinsky-@la_villette.jpg
 imgWidth: 360
 imgHeight: 360
