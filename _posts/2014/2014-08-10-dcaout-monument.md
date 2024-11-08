@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
   - "londres"
 coverImage: "MONUMENT.jpg"
 imgWidth: 360
