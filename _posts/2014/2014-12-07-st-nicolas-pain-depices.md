@@ -8,6 +8,7 @@ tags:
   - "recette"
   - "miam"
   - "saint-nicolas"
+  - "lorraine"
 coverImage: "IMG_42613.jpg"
 imgWidth: 1024
 imgHeight: 633
