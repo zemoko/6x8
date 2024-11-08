@@ -6,6 +6,8 @@ categories:
   - "trucs-de-geek"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
+  - "musique"
 post_video: danse.mp4
 imgWidth: 1280
 imgHeight: 720
