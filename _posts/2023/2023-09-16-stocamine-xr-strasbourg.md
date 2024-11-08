@@ -10,6 +10,8 @@ categories:
 tags: 
   - "pixelfed"
   - "ecologie"
+  - "strasbourg"
+  - "alsace"
 coverImage: xS0m0ALQDI5ChiETlpswcpOYoRpp96P1QmMPZvRF.jpg
 imgWidth: 1440
 imgHeight: 1080
