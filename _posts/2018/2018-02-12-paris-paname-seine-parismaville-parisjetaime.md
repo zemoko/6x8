@@ -6,8 +6,8 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "parise"
-"coverImage: paris-paname-seine-parismaville-parisjetaime.jpg 
+  - "paris"
+coverImage: paris-paname-seine-parismaville-parisjetaime.jpg 
 imgWidth: 360
 imgHeight: 269
 instagram: BfGrjV-gY6r
