@@ -9,6 +9,7 @@ tags:
   - "trucs-creatifs"
   - "nancy"
   - "lorraine"
+  - "lomo"
 coverImage: 14317559_1e418b5417_b.jpg
 imgWidth: 360
 imgHeight: 239
