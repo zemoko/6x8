@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-"  - "paris"
+  - "paris"
   - "spaceinvader"
   - "streetart"
 coverImage: pa_1317-lonesome-cowboy-bill-streetart-paris-spaceinvader-invader.jpg
