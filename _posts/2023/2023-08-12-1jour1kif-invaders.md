@@ -8,7 +8,8 @@ categories:
   - "a-paris"
 tags: 
   - "mastodon"
-  - "invader"
+  - "spaceinvader"
+  - "streetart"
 coverImage: "paris-tokyo-pa_1269-paris-spaceinvader-invader-streetart.jpg"
 imgWidth: 640
 imgHeight: 640
