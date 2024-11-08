@@ -7,6 +7,7 @@ categories:
 tags: 
   - "dcaout"
   - "japon"
+  - "trucs-creatifs"
 coverImage: 2008765458_a8f703713b_b.jpg
 imgWidth: 360
 imgHeight: 239
