@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "pierre-pevel"
 coverImage: Le-Paris-des-merveilles-Enqueteurs-du-Paris-des-Merveilles.jpg
 imgWidth: 400
 imgHeight: 600
