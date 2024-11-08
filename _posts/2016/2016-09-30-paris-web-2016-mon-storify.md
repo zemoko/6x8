@@ -5,8 +5,7 @@ date: "2016-09-30"
 categories: 
   - "trucs-de-webmaster"
 tags: 
-  - "paris"
-  - "web"
+  - "parisweb"
 ---
 
 Demain, après les ateliers, je vous ferais un **vrai** compte-rendu (enfin j'essaierais) mais voici déjà un Storify.
