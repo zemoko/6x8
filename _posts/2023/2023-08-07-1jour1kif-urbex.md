@@ -7,6 +7,9 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "mastodon"
+  - "lomo"
+  - "LCA"
+  - "horizon"
 coverImage: "20191018073049-1aa98062-me.jpg"
 imgWidth: 792
 imgHeight: 524
