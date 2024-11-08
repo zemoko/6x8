@@ -6,6 +6,7 @@ categories:
   - "trucs"
 tags: 
   - "dcaout"
+  - "trucs-creatifs"
 coverImage: 10632213_1467204146892768_709402054_n.jpg
 imgWidth: 360
 imgHeight: 360
