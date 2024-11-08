@@ -9,6 +9,7 @@ tags:
   - "expo"
   - "spaceinvader"
   - "paris"
+  - "musee"
 coverImage: "IMG_8623.jpg"
 imgWidth: 360
 imgHeight: 270
