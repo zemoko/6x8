@@ -6,7 +6,7 @@ categories:
   - "trucs-instagrammes"
 tags: 
   - "instagram"
-  - "saintnicolas"
+  - "saint-nicolas"
 coverImage: Saint-Nicolas-peut-passer-Samuel-a-bien-pense-a-lui-et-a-son-ane-avant-daller-se-coucher-carotte-lai.jpg
 imgWidth: 360
 imgHeight: 360
