@@ -59,7 +59,7 @@ Retrouvez les 6 tomes de la Tour de Garde&nbsp;:
     <ul>
       <li><strong>Citadins de demain</strong></li>
       <li><a href="/2024/01/ma-critique-de-capitale-du-nord-tome-2-mort-au-geais-de-claire-duvivier/">Mort aux geais&nbsp;!</a></li>
-      <li>L’armée fantoche <em>(à venir)</em></li>
+      <li><a href="/2024/03/ma-critique-de-capitale-du-nord-tome-3-l-armee-fantoche-de-claire-duvivier/">L’armée fantoche</a></li>
     </ul>
   </li>
 </ul>
