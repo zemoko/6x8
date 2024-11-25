@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Ma critique de «&nbsp;La passe-miroir, tome&nbsp;1&nbsp;: Les fiancés de l’hiver&nbsp;» de Christelle Dabos"
+title: "Ma critique de «&nbsp;<strong>La passe-miroir, tome&nbsp;1&nbsp;: Les fiancés de l’hiver</strong>&nbsp;» de <em>Christelle Dabos</em>"
 date: "2017-07-23"
 categories: 
   - "trucs-critiques"
