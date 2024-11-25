@@ -8,8 +8,8 @@ tags:
   - "pixelfed"
   - "strasbourg"
 coverImage: "zaho.jpg"
-imgWidth: 2016
-imgHeight: 1512
+imgWidth: 1440
+imgHeight: 1062
 pixelfed: zaho.jpg
 pixellink: https://pixelfed.social/i/web/post/766314399436680603
 ---
