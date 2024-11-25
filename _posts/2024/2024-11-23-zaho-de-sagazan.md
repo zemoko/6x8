@@ -1,0 +1,15 @@
+---
+layout: pixelfed
+title: "Je vous ai dit combien j’ai apprécié mon cadeau d’anniversaire (un petit peu en avance)&nbsp;? <span aria-hidden=true>😇❤️🎶</span> #ZahoDeSagazan #Strasbourg"
+date: "2024-11-23"
+categories: 
+  - "trucs-pris-en-photo"
+tags: 
+  - "pixelfed"
+  - "strasbourg"
+coverImage: "zaho.jpg"
+imgWidth: 2016
+imgHeight: 1512
+pixelfed: zaho.jpg
+pixellink: https://pixelfed.social/i/web/post/766314399436680603
+---
