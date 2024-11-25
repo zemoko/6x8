@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Nous</strong>&nbsp;» de <em>Christelle Dabos Duviver</em>'
+title: 'Ma critique de «&nbsp;<strong>Nous</strong>&nbsp;» de <em>Christelle Dabos</em>'
 date: "2024-11-24"
 categories: 
   - "trucs-critiques"
