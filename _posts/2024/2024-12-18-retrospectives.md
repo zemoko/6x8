@@ -60,7 +60,7 @@ D’année en année, quand l’année arrive à sa fin, on reçoit de plus en p
 Je trouve cela dommage de ne pas avoir de <span lang="en">Replay de mes écoutes de Podcasts…
 
 <h2>Une année de lecture</h2>
-J’en suis officiellement à <strong><mark>24 livres lus et critiqués</mark>, sans compter donc les <abbr>BD</abbr> ni les revues… Sinon j’ai commencé à lire <strong lang="en">Catan</strong> (mais je n’ai pas trop accroché alors je l’ai mis en pause) et je suis en train de lire <strong>Sortilèges & Syndicats</strong> que j’aime beaucoup et que j’espère bien finir avant la fin du mois.
+J’en suis officiellement à <strong><mark>24 livres lus et critiqués</mark>, sans compter donc les <abbr>BD</abbr> ni les revues</strong>strong>… Sinon j’ai commencé à lire <strong lang="en">Catan</strong> (mais je n’ai pas trop accroché alors je l’ai mis en pause) et je suis en train de lire <strong>Sortilèges & Syndicats</strong> que j’aime beaucoup et que j’espère bien finir avant la fin du mois.
 
 <h2>Une année ludique…</h2>
 Mais pour ça, comme d’habitude, je ferais mon bilan ludique le 1<sup>er</sup> janvier.
