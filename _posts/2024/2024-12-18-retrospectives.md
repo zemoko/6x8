@@ -23,7 +23,7 @@ D’année en année, quand l’année arrive à sa fin, on reçoit de plus en p
 
 <h2>Mon année sur Duolingo</h2>
 <ul>
-    <li>J’ai terminé <strong><mark>2&nbsp;950 leçons de japonais</mark></japonais>&nbsp;! (mais je suis passé à l’allemand depuis que les leçons de japonais ne m’affichaient que des Kanjis (et même pas des Kana))</li>
+    <li>J’ai terminé <strong><mark>2&nbsp;950 leçons de japonais</mark></strong>&nbsp;! (mais je suis passé à l’allemand depuis que les leçons de japonais ne m’affichaient que des Kanjis (et même pas des Kana))</li>
     <li>J’ai passé <strong><mark>11&nbsp;950 minutes à apprendre avec Duolingo</mark></strong>&nbsp;!</li>
     <li>Aujourd’hui, j’en suis à <strong><mark>une série de 486 jours</mark></strong></li>
     <li><strong><mark>Je suis dans le top 1% des Duolinguistes</mark></strong></li>
@@ -62,6 +62,6 @@ Je trouve cela dommage de ne pas avoir de <span lang="en">Replay de mes écoutes
 <h2>Une année de lecture</h2>
 J’en suis officiellement à <strong><mark>24 livres lus et critiqués</mark>, sans compter donc les <abbr>BD</abbr> ni les revues… Sinon j’ai commencé à lire <strong lang="en">Catan</strong> (mais je n’ai pas trop accroché alors je l’ai mis en pause) et je suis en train de lire <strong>Sortilèges & Syndicats</strong> que j’aime beaucoup et que j’espère bien finir avant la fin du mois.
 
-<h2>Une année ludique…<h2>
+<h2>Une année ludique…</h2>
 Mais pour ça, comme d’habitude, je ferais mon bilan ludique le 1<sup>er</sup> janvier.
 (Pour le moment, j’en suis à <strong><mark>612 parties</mark></strong>&nbsp;!)
