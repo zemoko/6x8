@@ -1,6 +1,6 @@
 ---
 layout: pixelfed
-title: 'Au fait (fête&nbsp;!), je vous ai pas partagé le <span aria-label="sapin">🎄</span> des Galeries&nbsp;Lafayette&nbsp;? (oui, on était à Paris ce week-end&nbsp;!)'
+title: 'Au fait (fête&nbsp;!), je ne vous ai pas partagé le <span aria-label="sapin">🎄</span> des Galeries&nbsp;Lafayette&nbsp;? (oui, on était à Paris ce week-end&nbsp;!)'
 date: "2024-12-16"
 categories: 
   - "trucs-pris-en-photo"
