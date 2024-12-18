@@ -9,6 +9,7 @@ tags: []
 coverImage: "2024.jpg"
 imgWidth: 700
 imgHeight: 700
+cover2left: true
 noImageOnPost: false
 ---
 
