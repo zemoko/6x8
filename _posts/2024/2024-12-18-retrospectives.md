@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retrospective(s)"
+title: "Rétrospective(s)"
 date: "2024-12-18"
 categories: 
   - "trucs"
@@ -63,5 +63,15 @@ Je trouve cela dommage de ne pas avoir de <span lang="en">Replay de mes écoutes
 J’en suis officiellement à <strong><mark>24 livres lus et critiqués</mark>, sans compter donc les <abbr>BD</abbr> ni les revues</strong>strong>… Sinon j’ai commencé à lire <strong lang="en">Catan</strong> (mais je n’ai pas trop accroché alors je l’ai mis en pause) et je suis en train de lire <strong>Sortilèges & Syndicats</strong> que j’aime beaucoup et que j’espère bien finir avant la fin du mois.
 
 <h2>Une année ludique…</h2>
-Mais pour ça, comme d’habitude, je ferais mon bilan ludique le 1<sup>er</sup> janvier.
-(Pour le moment, j’en suis à <strong><mark>612 parties</mark></strong>&nbsp;!)
+<ul>
+  <li>
+    J’ai joué à <strong><mark>113<abbr>h</abbr></mark> sur la <span lang="en">Switch</span></strong> (à <strong><mark>24 jeux</mark></strong> différents)
+    <ul>
+      <li><strong>Mon jeu préféré de l’année&nbsp;: <mark lang="en">Zelda: Echoes of Wisdom</mark></strong>. J‘y ai joué <strong>42<abbr>h</abbr></strong></li>
+      <li>Sinon, j’ai joué <strong>37<abbr>h</abbr></strong> à <em>Paper Mario&nbsp;, La Porte Millénaire</em> (que j’ai acheté à Tokyo le jour de sa sortie&nbsp;!) et <strong>6<abbr>h</abbr></strong> à l’excellent <em>Pizza Possum</em></li>
+    </ul>
+  </li>
+  <li>
+    Pour le moment, j’ai aussi  joué <strong><mark>614 parties</mark> de jeux de société</strong>… mais l’année n’est pas terminée… comme d’habitude, je ferais mon bilan ludique le 1<sup>er</sup> janvier.
+  </li>
+</ul>
