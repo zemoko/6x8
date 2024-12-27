@@ -37,4 +37,4 @@ Piranèse n’est pas seul dans ce Palais. Il y a trouvé treize dépouilles, qu
 
 <h2>Je vous donne mon avis</h2>
 
-C’est très particulier (je le classerais volontier dans <a href="/tag/olni/">les <abbr title="Objets Littéraires Non-Identifiés">OLNI</abbr></a>). Il n’y a que très peu d’action… et pourtant le suspens est là et c’est un <span lang="en">page-turner</span>. <strong><mark>Piranèse est plus qu’un roman, c’est une découverte, un voyage onirique et poétique… mais c’est aussi une intrigue captivante et une histoire envoutante</mark></strong>.
+C’est très particulier (je le classerais volontiers dans <a href="/tag/olni/">les <abbr title="Objets Littéraires Non-Identifiés">OLNI</abbr></a>). Il n’y a que très peu d’action… et pourtant le suspens est là et c’est un <span lang="en">page-turner</span>. <strong><mark>Piranèse est plus qu’un roman, c’est une découverte, un voyage onirique et poétique… mais c’est aussi une intrigue captivante et une histoire envoutante</mark></strong>.
