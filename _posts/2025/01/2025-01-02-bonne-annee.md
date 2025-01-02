@@ -31,5 +31,6 @@ C'est toujours avec un plaisir certain que je profite du passage à **la nouvell
 - <span role="img" aria-hidden=true>🎶</span> <mark>16&nbsp;791&nbsp;minutes écoutées</mark> sur <span lang="en">Apple Music</span> (<em>+3000</em>, mais ça inclue les écoutes sur le <span lang="en">Homepod</span> familial).
 - <span role="img" aria-hidden=true>📚</span> <mark>25&nbsp;livres</mark> critiqués (<em>+12</em>&nbsp;!!!)... mais aussi <mark>pas mal d'essais et de <abbr>BDs</abbr> que je chronique pas</mark>…
 - <span role="img" aria-hidden=true>🎦</span> …mais aussi <mark>pas mal de films</mark> vus au ciné, <mark>et de séries</mark> à la maison… faudrait que je trouve le temps de compter…
-- <span role="img" aria-hidden=true>🧒</span> Toujours <mark>3&nbsp;enfants</mark> qui grandissent, bien
+- <span role="img" aria-hidden=true>🧒</span> Toujours <mark>3&nbsp;enfants</mark> qui grandissent, bien :)
+- <span role="img" aria-hidden=true>🕸️</span> <mark>76 publications</mark> sur ce blog&nbsp;!
 - <span role="img" aria-hidden=true>🌍</span> <mark>7 tonnes de <abbr>CO<sup>2</sup></abbr></mark> (selon le test <a href="https://nosgestesclimat.fr/simulateur/bilan">Nos gestes climats</a> de l'Ademe). C'est <em>2,6&nbsp;tonnes</em> de plus que l'année passée… ce qui s'explique par <a href="/2024/05/japan-trip/">mon aller et retour vers le Japon</a>.
