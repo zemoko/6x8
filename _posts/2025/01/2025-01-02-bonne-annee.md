@@ -17,7 +17,7 @@ C'est toujours avec un plaisir certain que je profite du passage à **la nouvell
   <figcaption>
     <a href="https://bonneannee.6x8.org">Retrouvez ma traditionnelle carte de Vœux sur bonneannee.6x8.org</a>
   </figcaption>
-  <a href="https://bonneannee.6x8.org"><img src="/images/2025/01/ba2024.png" alt="visuel de ma carte de Vœux" width="512" height="312"></a>
+  <a href="https://bonneannee.6x8.org"><img src="/images/2025/01/ba2025.png" alt="visuel de ma carte de Vœux" width="512" height="312"></a>
 </figure>
 
 ## Bilan de l'année
