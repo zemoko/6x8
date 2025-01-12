@@ -16,7 +16,7 @@ imgHeight: 200
 cover2left: true
 ---
 
-"Ce quil reste de nos rêves" est un livre qui raconte Aaron Schwartz. Son auteure, Flore Vasseur, a eue la bonne idée de proposer une bande-annonce et [le blog de Flore Vasseur](https://florevasseur.com/books/ce-quil-reste-de-nos-reves/) ayant le bon goût d'être en licence CC BY-NC-ND 4.0, je peux vous la proposer ici en guise d'introduction.
+"Ce qu'il reste de nos rêves" est un livre qui raconte Aaron Schwartz. Son auteure, Flore Vasseur, a eue la bonne idée de proposer une bande-annonce et [le blog de Flore Vasseur](https://florevasseur.com/books/ce-quil-reste-de-nos-reves/) ayant le bon goût d'être en licence CC BY-NC-ND 4.0, je peux vous la proposer ici en guise d'introduction.
 
 <video controls width="100%">
 	<source src="https://fichiers.6x8.org/CE_QUIL_RESTE_TEASER_VIM_YT_FB_ST.mp4"
