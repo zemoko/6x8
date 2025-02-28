@@ -7,7 +7,7 @@ categories:
 tags: 
   - "mastodon"
 coverImage: "violence.png"
-cover2left: true
+noImageOnPost: true
 imgWidth: 300
 imgHeight: 391
 mastolink: "https://mamot.fr/@zemoko/114010150746241409"
