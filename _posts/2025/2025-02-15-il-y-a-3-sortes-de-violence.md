@@ -22,5 +22,3 @@ mastolink: "https://mamot.fr/@zemoko/114010150746241409"
   </div></blockquote>
   <figcaption><strong>Dom Hélder Câmara</strong>, évêque catholique brésilien (1931-1999)</figcaption>
 </figure>
-
-<iframe id='ivplayer' width='640' height='360' src='https://invidious.nerdvpn.de/embed/Bh5m4XjD0tA?t=2' style='border:none;'></iframe>
