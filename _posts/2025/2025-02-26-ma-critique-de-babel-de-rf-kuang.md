@@ -21,6 +21,12 @@ bookRating: 4
 <h2>Je vous fais le pitch</h2>
 
 <p>L‘histoire commence en 1828, à Canton. Un jeune oprhelin chinois est recueilli par un professeur anglais et conduit à Londres. Déraciné mais aussi renommé en Robin Swift. Son nouveau tuteur s’applique à parfaire son éducation, linguistique, car Robin est destiné à intégrer le prestigieux <strong>Institut Royal de Traduction de l’Université d’Oxford</strong>, plus connu sous le nom de <strong>Babel</strong>.</p>
+
+<figure>
+  <img src="/images/2025/02/OxfordMap_Babel.png" alt="Sur ce plan d'Oxford, la tour de Babel se situe a proximité de la Bodléienne et de la Radcliffe Camera">
+  <figcaption>Plan d'Oxford... dans le monde de <abbr>RF</abbr>abbr> Kuang</figcaption>
+</figure>
+
 <p>Babel est une institution unique car on y maîtrise et développe l’<strong>argentogravure</strong>, une technique qui assure la fortune de Babel mais aussi la puissance de l’Empire Anglais. Le principe&nbsp;? En gravant, sur deux faces d’une barre en argent, deux mots provenant de deux langues différents, on peut matérialiser les nuances de traduction entre les deux mots. Ces appariements ont toutes sortes d’utilités&nbsp;: ils peuvent soigner les malades, rendre les navires plus rapides, les pêches plus abondantes, les chariots plus légers et plus sûrs… Bref, apporter confort et sécurité. Et rendre Babel toujours plus riche… car Babel vends les barres d’argent mais aussi, et surtout, la maintenance associée. En effet, Babel a inventé avant l’heure le modèle d’affaires de l’imprimante&nbsp;: ils ne vendent les barres qu’une seule fois… mais les revenus de la maintenance sont, eux, récurrents. Ils n’ont donc aucun intérêt à travailler pour que les effets de leurs barres durent plus que longtemps que nécessaire…</p>
 
 <blockquote class="citation">
@@ -29,11 +35,6 @@ bookRating: 4
 
 <p>À Babel, Robin va nouer des relations fortes avec sa cohorte (les quatres élèves acceptés en première année), mais ses idées, et ses idéaux, vont aussi évoluer au fur et à mesure qu’il va être confronté au racisme ordinaire de la société anglaise et à son dédain des laissés pour compte tant de la colonisation anglaise que de la révolution de l’agentogravure.</p>
 <p>Peut-il espérer <strong>changer Babel de l'intérieur</strong>&nbsp;? Ou devra-t-il sacrifier ses rêves pour <strong>faire tomber cette institution</strong>&nbsp;?</p>
-
-<figure>
-  <img src="/images/2025/02/OxfordMap_Babel.png" alt="Sur ce plan d'Oxford, la tour de Babel se situe a proximité de la Bodléienne et de la Radcliffe Camera">
-  <figcaption>Plan d'Oxford... dans le monde deRF Kuang</figcaption>
-</figure>
 
 <h2>Je vous donne mon avis</h2>
 
@@ -62,7 +63,7 @@ bookRating: 4
   </div></blockquote>
 </figure>
 
-<p><mark><strong>Bref, j’allais dire que j’ai aimé Babel, mais non… j’ai aimé Oxford et j’ai aimé cette dystopie… parce qu’elle a su me passioner, mais aussi qu’elle résonne avec mes propres questionnements quant aux luttes actuelles. Je finirais mon billet sur une dernière citation tirée du livre… qui raisonne étrangement avec <a href="/2025/02/il-y-a-3-sortes-de-violence/">une citation de Dom Hélder Câmara</a> que j’aime beaucoup.</strong></mark></p>
+<p><mark><strong>Bref, j’allais dire que j’ai aimé Babel, mais non… enfin si, j'ai aimé le livre mais, surtout, j’ai aimé Oxford et j’ai aimé cette dystopie… parce qu’elle a su me passioner, mais aussi qu’elle résonne avec mes propres questionnements quant aux luttes actuelles. Je finirais mon billet sur une dernière citation tirée du livre… qui raisonne étrangement avec <a href="/2025/02/il-y-a-3-sortes-de-violence/">une citation de Dom Hélder Câmara</a> que j’aime beaucoup.</strong></mark></p>
 
 <blockquote class="citation">
   <p>C'est comme ça que fonctionne le colonialisme. II nous convainc que nous sommes responsables des conséquences de la résistance, que le choix immoral est la résistance elle-même plutôt que les circonstances qui l'ont provoquée.</p>
