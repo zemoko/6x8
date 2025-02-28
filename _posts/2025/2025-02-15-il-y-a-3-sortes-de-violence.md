@@ -6,6 +6,9 @@ categories:
   - "trucs"
 tags: 
   - "mastodon"
+coverImage: "violence.png"
+imgWidth: 300
+imgHeight: 391
 mastolink: "https://mamot.fr/@zemoko/114010150746241409"
 ---
 
@@ -17,7 +20,7 @@ mastolink: "https://mamot.fr/@zemoko/114010150746241409"
     <p>La troisième est la violence répressive, qui a pour objet d’étouffer la seconde en se faisant l’auxiliaire et la complice de la première violence, celle qui engendre toutes les autres.</p>
     <p>Il n’y a pas de pire hypocrisie de n’appeler violence que la seconde, en feignant d’oublier la première, qui la fait naître, et la troisième qui la tue.</p>
   </div></blockquote>
-  <figcaption>Hélder Câmara, évêque catholique brésilien (1931-1999)</figcaption>
+  <figcaption><strong>Dom Hélder Câmara</strong>, évêque catholique brésilien (1931-1999)</figcaption>
 </figure>
 
 <iframe id='ivplayer' width='640' height='360' src='https://invidious.nerdvpn.de/embed/Bh5m4XjD0tA?t=2' style='border:none;'></iframe>
