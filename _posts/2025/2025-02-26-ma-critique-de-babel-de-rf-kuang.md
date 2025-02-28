@@ -62,7 +62,7 @@ bookRating: 4
   </div></blockquote>
 </figure>
 
-<p><mark><strong>Bref, j’allais dire que j’ai aimé Babel, mais non… j’ai aimé Oxford et j’ai aimé cette dystopie… parce qu’elle a su me passioner, mais aussi qu’elle résonne avec mes propres questionnements quant aux luttes actuelles. Je finirais mon billet sur une dernière citation tirée du livre… qui raisonne étrangement avec <a href="/2025/02/il-y-a-3-sortes-de-violence/">une citation d’Hélder Câmara</a> que j’aime beaucoup.</strong></mark></p>
+<p><mark><strong>Bref, j’allais dire que j’ai aimé Babel, mais non… j’ai aimé Oxford et j’ai aimé cette dystopie… parce qu’elle a su me passioner, mais aussi qu’elle résonne avec mes propres questionnements quant aux luttes actuelles. Je finirais mon billet sur une dernière citation tirée du livre… qui raisonne étrangement avec <a href="/2025/02/il-y-a-3-sortes-de-violence/">une citation de Dom Hélder Câmara</a> que j’aime beaucoup.</strong></mark></p>
 
 <blockquote class="citation">
   <p>C'est comme ça que fonctionne le colonialisme. II nous convainc que nous sommes responsables des conséquences de la résistance, que le choix immoral est la résistance elle-même plutôt que les circonstances qui l'ont provoquée.</p>
