@@ -16,7 +16,7 @@ bookISBN: 9782378763572
 bookRating: 4
 ---
 
-<p>J’ai d’abord aperçu sa couverture, magnifique… puis la bandeau annonçant qu’il avait eu les <strong>prix Locus, Nebula et British Book Award</strong>… puis je l’ai feuilleté et ja’ vu un trés beau, mais intriguant, plan d’<strong>Oxford</strong>… puis j’ai lu la quatrième qui a fini de me convaincre car entre l’objet, Oxford et la dystopie… comment resister&nbsp;?</p>
+<p>J’ai d’abord aperçu sa couverture, magnifique… puis la bandeau annonçant qu’il avait eu les <strong>prix Locus, Nebula et British Book Award</strong>… puis je l’ai feuilleté et j’ai vu un trés beau, mais intriguant, plan d’<strong>Oxford</strong> (je vous ai déjà dit que j’aimais beaucoup <a href="https://sitofotos.6x8.org/index.php?/category/oxford-2">Oxford</a>&nbsp;?)… puis j’ai lu la quatrième qui a fini de me convaincre car entre l’objet, Oxford et la dystopie… comment resister&nbsp;?</p>
 
 <h2>Je vous fais le pitch</h2>
 
@@ -29,6 +29,11 @@ bookRating: 4
 
 <p>À Babel, Robin va nouer des relations fortes avec sa cohorte (les quatres élèves acceptés en première année), mais ses idées, et ses idéaux, vont aussi évoluer au fur et à mesure qu’il va être confronté au racisme ordinaire de la société anglaise et à son dédain des laissés pour compte tant de la colonisation anglaise que de la révolution de l’agentogravure.</p>
 <p>Peut-il espérer <strong>changer Babel de l'intérieur</strong>&nbsp;? Ou devra-t-il sacrifier ses rêves pour <strong>faire tomber cette institution</strong>&nbsp;?</p>
+
+<figure>
+  <img src="/images/2025/02/OxfordMap_Babel.png" alt="Sur ce plan d'Oxford, la tour de Babel se situe a proximité de la Bodléienne et de la Radcliffe Camera">
+  <figcaption>Plan d'Oxford... dans le monde deRF Kuang</figcaption>
+</figure>
 
 <h2>Je vous donne mon avis</h2>
 
@@ -57,7 +62,7 @@ bookRating: 4
   </div></blockquote>
 </figure>
 
-<p><mark><strong>Bref, j’allais dire que j’ai aimé Babel, mais non… j’ai aimé Oxford et j’ai aimé cette dystopie… parce qu’elle a su me passioner, mais aussi qu’elle résonne avec mes propres questionnements quant aux luttes actuelles. Je finirais mon billet sur une dernière citation tirée du livre… qui raisonne étrangement avec <a href="https://fr.wikiquote.org/wiki/Violence#H%C3%A9lder_C%C3%A2mara,_1970">une citation d’Hélder Câmara</a> que j’aime beaucoup.</strong></p>
+<p><mark><strong>Bref, j’allais dire que j’ai aimé Babel, mais non… j’ai aimé Oxford et j’ai aimé cette dystopie… parce qu’elle a su me passioner, mais aussi qu’elle résonne avec mes propres questionnements quant aux luttes actuelles. Je finirais mon billet sur une dernière citation tirée du livre… qui raisonne étrangement avec <a href="/2025/02/il-y-a-3-sortes-de-violence/">une citation d’Hélder Câmara</a> que j’aime beaucoup.</strong></mark></p>
 
 <blockquote class="citation">
   <p>C'est comme ça que fonctionne le colonialisme. II nous convainc que nous sommes responsables des conséquences de la résistance, que le choix immoral est la résistance elle-même plutôt que les circonstances qui l'ont provoquée.</p>
