@@ -47,13 +47,16 @@ layout: default
   {%- if page.imgHeight -%}
     {% capture imageSize %}{{imageSize}} height="{{ page.imgHeight }}"{% endcapture %}
   {%- endif -%}
+  {%- if page.imgAlt -%}
+    {% capture imgAlt %}{{ page.imgAlt }}{% endcapture %}
+  {%- endif -%}
   {% capture coverImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ page.pixelfed }}{% endcapture %}
           <picture>
   {%- if jekyll.environment == "staging" -%}
-            <img src="{{ coverImage }}" alt="" {{imageSize}} />
+            <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} />
   {%- else -%}
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
-            <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="" {{imageSize}} />
+            <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} />
   {%- endif -%}
           </picture>
         </a>
