@@ -39,7 +39,6 @@ layout: default
         </p>
       </div>
       <figure class="pixelfed">
-        <a href="https://pixelfed.social/p/zemoko//{{ page.pixelfed }}/" target="_blank" title="Ouvrir sur Pixelfed (dans une nouvelle fenêtre)">
   {%- assign imageSize = '' -%}
   {%- if page.imgWidth -%}
     {% capture imageSize %}width="{{ page.imgWidth }}"{% endcapture %}
@@ -59,7 +58,6 @@ layout: default
             <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} />
   {%- endif -%}
           </picture>
-        </a>
       </figure>
     </header>
 {% assign txt = content | size %}
