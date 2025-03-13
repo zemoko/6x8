@@ -12,13 +12,13 @@
             <link>{{ site.url }}</link>
         </image>
         {% assign nowpost = site.html_pages | where_exp: "item", "item.path contains 'en-ce-moment'" %}
-        {% assign lastpost = site.posts | first %}
-        {% if nowpost.datemaj > lastpost.date %}
-            {% capture lastBuildDate %}{{ lastpost.date | date_to_rfc822 }}{% endcapture %}
+        {% capture nowdate %}{% for post in nowpost limit:1 %}{{ post.datemaj }}{% endfor %}{% endcapture %}
+        {% capture lastdate %}{% for post in site.posts limit:1 %}{{ post.date }}{% endfor %}{% endcapture %}
+        {% if nowdate > lastdate %}
+            <lastBuildDate>{{ nowdate | date_to_rfc822 }}</lastBuildDate>
         {% else %}
-            {% capture lastBuildDate %}{{ nowpost.datemaj | date_to_rfc822 }}{% endcapture %}
+            <lastBuildDate>{{ lastdate | date_to_rfc822 }}</lastBuildDate>
         {% endif %}
-        <lastBuildDate>{{ lastBuildDate }}</lastBuildDate>
         <lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
         {% for post in nowpost limit:1 %}
             <item>
