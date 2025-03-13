@@ -11,7 +11,24 @@
             <title>{{ site.name | xml_escape }}</title>
             <link>{{ site.url }}</link>
         </image>
-        <lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
+        {% assign nowpost = site.html_pages | where_exp: "item", "item.path contains 'en-ce-moment'" %}
+        {% capture nowdate %}{% for post in nowpost limit:1 %}{{ post.datemaj }}{% endfor %}{% endcapture %}
+        {% capture lastdate %}{% for post in site.posts limit:1 %}{{ post.date }}{% endfor %}{% endcapture %}
+        {% if nowdate > lastdate %}
+            <lastBuildDate>{{ nowdate | date_to_rfc822 }}</lastBuildDate>
+        {% else %}
+            <lastBuildDate>{{ lastdate | date_to_rfc822 }}</lastBuildDate>
+        {% endif %}
+        {% capture ecmdes %}<p><strong>En ce moment</strong> (ou <strong>now</strong>), c'est une page où je raconte, en vrac, ce que je vis ou fais actuellement.</p>{% endcapture %}
+        {% for post in nowpost limit:1 %}
+            <item>
+                <title>{{ post.title | replace:'&amp;nbsp;',' ' | replace:'&nbsp;',' ' | strip_html | xml_escape }}</title>
+                <description>{{ ecmdes | rstrip | xml_escape }}</description>
+                <pubDate>{{ post.datemaj | date_to_rfc822 }}</pubDate>
+                <link>{{ site.url }}{{ post.url }}</link>
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+            </item>
+        {% endfor %}
         {% for post in site.posts limit:10 %}
             <item>
                 <title>{{ post.title | replace:'&amp;nbsp;',' ' | replace:'&nbsp;',' ' | strip_html | xml_escape }}</title>
