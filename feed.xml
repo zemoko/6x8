@@ -19,11 +19,10 @@
         {% else %}
             <lastBuildDate>{{ lastdate | date_to_rfc822 }}</lastBuildDate>
         {% endif %}
-        {% capture ecmdes %}<p><strong>En ce moment</strong> (ou <strong>now</strong>), c'est une page où je raconte, en vrac, ce que je vis ou fais actuellement.</p>{% endcapture %}
         {% for post in nowpost limit:1 %}
             <item>
                 <title>{{ post.title | replace:'&amp;nbsp;',' ' | replace:'&nbsp;',' ' | strip_html | xml_escape }}</title>
-                <description>{{ ecmdes | rstrip | xml_escape }}</description>
+                <description>{{ post.content | rstrip | xml_escape }}</description>
                 <pubDate>{{ post.datemaj | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
