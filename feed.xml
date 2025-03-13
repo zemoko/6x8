@@ -11,8 +11,8 @@
             <title>{{ site.name | xml_escape }}</title>
             <link>{{ site.url }}</link>
         </image>
-        {% assign nowpost = site.html_pages | where_exp: "item", "item.path contains 'en-ce-moment'" %}%}
-        <lastBuildDate>{{ nowpost.title }}</lastBuildDate>
+        {% assign nowpost = site.html_pages | where_exp: "item", "item.path contains 'en-ce-moment'" %}
+        <lastBuildDate>{{ nowpost.datemaj }}</lastBuildDate>
         {% assign lastpost = site.posts | first %}
         {% if nowpost.datemaj > lastpost.date %}
             {% capture lastBuildDate %}{{ nowpost.datemaj | date_to_rfc822 }}{% endcapture %}
@@ -24,7 +24,7 @@
         {% for post in nowpost limit:1 %}
             <item>
                 <title>{{ post.title | replace:'&amp;nbsp;',' ' | replace:'&nbsp;',' ' | strip_html | xml_escape }}</title>
-                <description>{{ post.content | rstrip | xml_escape }}</description>
+                <description><strong>En ce moment</strong> (ou <strong>now</strong>), c'est une page où je raconte, en vrac, ce que je vis ou fais actuellement.</description>
                 <pubDate>{{ post.datemaj | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
