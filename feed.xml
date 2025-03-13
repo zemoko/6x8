@@ -11,7 +11,7 @@
             <title>{{ site.name | xml_escape }}</title>
             <link>{{ site.url }}</link>
         </image>
-        {% assign nowpost = site.pages | first %}
+        {% assign nowpost = site.html_pages | first %}
         <lastBuildDate>{{ nowpost.title }}</lastBuildDate>
         {% assign lastpost = site.posts | first %}
         {% if nowpost.datemaj > lastpost.date %}
@@ -21,7 +21,7 @@
         {% endif %}
         <lastBuildDate>{{ lastBuildDate }}</lastBuildDate>
         <lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
-        {% for post in nowpost %}
+        {% for post in nowpost limit:1 %}
             <item>
                 <title>{{ post.title | replace:'&amp;nbsp;',' ' | replace:'&nbsp;',' ' | strip_html | xml_escape }}</title>
                 <description>{{ post.content | rstrip | xml_escape }}</description>
