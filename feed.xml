@@ -11,9 +11,16 @@
             <title>{{ site.name | xml_escape }}</title>
             <link>{{ site.url }}</link>
         </image>
+        {% assign nowpost = site.posts | find: "title", "En ce moment.…" %}
+        {% assign lastpost = site.posts | first %}
+        {% if nowpost.datemaj > lastpost.date %}
+            {% capture lastBuildDate %}{{ nowpost.datemaj | date_to_rfc822 }}{% endcapture %}
+        {% else %}
+            {% capture lastBuildDate %}{{ lastpost.date | date_to_rfc822 }}{% endcapture %}
+        {% endif %}
+        <lastBuildDate>{{ lastBuildDate }}</lastBuildDate>
         <lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
-        {% assign thepost = site.posts | find: "title", "En ce moment.…" %}
-        {% for post in thepost %}
+        {% for post in nowpost %}
             <item>
                 <title>{{ post.title | replace:'&amp;nbsp;',' ' | replace:'&nbsp;',' ' | strip_html | xml_escape }}</title>
                 <description>{{ post.content | rstrip | xml_escape }}</description>
