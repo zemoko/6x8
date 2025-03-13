@@ -11,7 +11,7 @@
             <title>{{ site.name | xml_escape }}</title>
             <link>{{ site.url }}</link>
         </image>
-        {% assign nowpost = site.posts | find: "title", "En ce moment.…" %}
+        {% assign nowpost = site.documents  | find: "title", "En ce moment…" %}
         <lastBuildDate>{{ nowpost.title }}</lastBuildDate>
         {% assign lastpost = site.posts | first %}
         {% if nowpost.datemaj > lastpost.date %}
