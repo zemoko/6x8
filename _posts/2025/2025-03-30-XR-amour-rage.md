@@ -8,5 +8,9 @@ categories:
 tags: 
   - "mastodon"
   - "ecologie"
+coverImage: "XR-amour-rage.jpg"
+imgAlt: "La France en vrai - Extinction Rebellion: Amour & Rage - Un film de Charlotte Espel"
+imgWidth: 880
+imgHeight: 495
 mastolink: "https://mamot.fr/@zemoko/114253099156124013"
 ---
