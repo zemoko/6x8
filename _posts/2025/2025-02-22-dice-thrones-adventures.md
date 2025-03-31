@@ -1,6 +1,6 @@
 ---
 layout: mastodon
-title: 'Il est pas mal du tout ce «&nbsp;<span lang=en>Dice Throne Adventures</span>&nbsp;». <span hidden="true">🎲🥷🗡️</span>'
+title: 'Il est pas mal du tout ce «&nbsp;<span lang=en>Dice Throne Adventures</span>&nbsp;». <span aria-hidden="true">🎲🥷🗡️</span>'
 date: "2025-02-22"
 categories: 
   - "trucs"
