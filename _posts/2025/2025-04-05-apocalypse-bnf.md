@@ -4,6 +4,8 @@ title: 'Apocalypse #BNF #expo #Paris #miam'
 date: "2025-04-05"
 categories: 
   - "trucs-pris-en-photo"
+  - "trucs-de-parisien"
+  - "a-paris"
 tags: 
   - "pixelfed"
   - "paris"
