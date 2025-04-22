@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Le Reich de la Lune</strong>&nbsp;» de <em>Johanna Sinisalo/em>'
+title: 'Ma critique de «&nbsp;<strong>Le Reich de la Lune</strong>&nbsp;» de <em>Johanna Sinisalo</em>'
 date: "2025-04-22"
 categories: 
   - "trucs-critiques"
