@@ -35,7 +35,7 @@ bookRating: 4
 <p>Sur la lune, forcément, on apprends aux jeunes nazis que la Terre est en plein chaos, en proie au déclin économique et à la dégénerescence de sa société… mais ce que Renate va découvrir va autant l’étonner qu’amuser le lecteur qui, lui, découvre sa réaction face à nos modes de vie consuméristes, et à ses conséquences écologiques. <strong>On se prends à s’identifier à une nazie convaincue… et croyez-moi, c’est malaisant.</strong></p>
 
 <blockquote class="citation">
-  <pLes Terriens offraient à tour de bras des fleurs qui ne vivaient que quelques jours après avoir été coupées et ne pourraient jamais donner de graines et, curieusement, le destinataire semblait apprécier ce massacre de plantes vouées à se faner très vite, perdre toute beauté et devoir être jetées. Peut-être ces bouquets étaient-ils destinés à prouver à celui à qui on les offrait qu’on était prêt à tuer pour lui&nbsp;?</p>
+  <p>Les Terriens offraient à tour de bras des fleurs qui ne vivaient que quelques jours après avoir été coupées et ne pourraient jamais donner de graines et, curieusement, le destinataire semblait apprécier ce massacre de plantes vouées à se faner très vite, perdre toute beauté et devoir être jetées. Peut-être ces bouquets étaient-ils destinés à prouver à celui à qui on les offrait qu’on était prêt à tuer pour lui&nbsp;?</p>
 </blockquote>
 
 <p>Ce qui est marquant, c’est de se rendre compte qu’<strong>en matière d’embrigadement, le régime nazi n’a rien à apprendre de notre idéologie capitaliste</strong> et de constater à quel point <strong>notre société est vulnérable aux idéologies d’extrême-droite</strong> (ce qu’hélas on sait bien, nous qui lisons ce roman en 2025).</p>
