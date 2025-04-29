@@ -8,7 +8,7 @@ tags:
   - "mastodon"
   - "critique"
   - "bd"
-coverImage: "l-economie-pour-les-99%.jpg"
+coverImage: "l-economie-pour-les-99_.jpg"
 imgWidth: 2494
 imgHeight: 3325
 mastolink: "https://mamot.fr/@zemoko/114422799736826440"
