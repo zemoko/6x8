@@ -8,14 +8,14 @@ tags:
   - "mastodon"
   - "critique"
   - "bd"
-coverImage: "dl-economie-pour-les-99%.jpg"
+coverImage: "l-economie-pour-les-99%.jpg"
 imgWidth: 2494
 imgHeight: 3325
 mastolink: "https://mamot.fr/@zemoko/114422799736826440"
 carousel: 
-  - image: /images/2015/04/principes-1-5.jpg
+  - image: /images/2025/04/principes-1-5.jpg
     legend: "Principes 1 à 5 (chacun est résumé par une illustration issu de la BD)"
-  - image: /images/2015/04/principes-6-10.jpg
+  - image: /images/2025/04/principes-6-10.jpg
     legend: "Principes 6 à 10"
 ---
 <p>Idéal si vous ne faites pas partie des 1% des habitants de cette planète qui s’accaparent 43% de ses richesses.</p>
