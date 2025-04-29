@@ -1,6 +1,6 @@
 ---
 layout: mastodon
-title: 'J’ai fini de lire «&nbsp;L’économie pour les 99%&nbsp;» de Thomas Porcher (illustré par Ludivine Stock), une bande dessiné pour décrypter l’économie de manière ludique ET pédagogique <span aria-hidden="true">❤️</span>'
+title: 'J’ai fini de lire «&nbsp;<strong>L’économie pour les 99%</strong>&nbsp;» de <em>Thomas Porcher</em> (illustré par Ludivine Stock), une bande dessinée pour décrypter l’économie de manière ludique ET pédagogique <span aria-hidden="true">❤️</span>'
 date: "2025-04-29"
 categories: 
   - "trucs-critiques"
