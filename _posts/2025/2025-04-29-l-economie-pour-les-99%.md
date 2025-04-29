@@ -9,13 +9,14 @@ tags:
   - "critique"
   - "bd"
 coverImage: "l-economie-pour-les-99_.jpg"
+cover2left: true
 imgWidth: 2494
 imgHeight: 3325
 mastolink: "https://mamot.fr/@zemoko/114422799736826440"
 carousel: 
-  - image: /images/2025/04/principes-1-5.jpg
+  - image: principes-1-5.jpg
     legend: "Principes 1 à 5 (chacun est résumé par une illustration issu de la BD)"
-  - image: /images/2025/04/principes-6-10.jpg
+  - image: principes-6-10.jpg
     legend: "Principes 6 à 10"
 ---
 <p>Idéal si vous ne faites pas partie des 1% des habitants de cette planète qui s’accaparent 43% de ses richesses.</p>
