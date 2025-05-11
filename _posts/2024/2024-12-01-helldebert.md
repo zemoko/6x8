@@ -7,7 +7,7 @@ categories:
 tags: 
   - "pixelfed"
   - "strasbourg"
-  - "musique"
+  - "concert"
 coverImage: "helldebert.jpg"
 imgWidth: 1440
 imgHeight: 1062
