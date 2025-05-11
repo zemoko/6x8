@@ -8,6 +8,7 @@ categories:
 tags:
   - paris
   - philharmonie
+  - concert
 coverImage: 2021-06-10-le-concert-du-grand-orchestre-d-emos-de-strasbourg-a-la-philharmonie-de-paris.jpg
 imgWidth: 360
 imgHeight: 360

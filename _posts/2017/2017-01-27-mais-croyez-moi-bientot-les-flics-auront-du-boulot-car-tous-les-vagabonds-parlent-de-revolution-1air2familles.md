@@ -5,7 +5,7 @@ date: "2017-01-27"
 categories: 
   - "trucs-instagrammes"
 tags: 
-  - "musique"
+  - "concert"
   - "paris"
 coverImage: mais-croyez-moi-bientot-les-flics-auront-du-boulot-car-tous-les-vagabonds-parlent-de-revolution.-1ai.jpg
 post_video: 16386022_623964441139444_6554176422192087040_n.mp4
