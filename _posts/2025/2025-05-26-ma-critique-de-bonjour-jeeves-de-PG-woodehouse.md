@@ -39,4 +39,4 @@ bookRating: 4
 
 <h2>Je vous donne mon avis</h2>
 
-<p><strong><mark>C’est un régal d’humour anglais</mark></strong>, avec des péripéties improbables et des situations délirantes qui donnent autant le vertige qu’elles font rire aux éclats. (pas pour rien que j’ai un Woodehouse dans mon <a href="/2016/09/top-15-des-livres-les-plus-droles/">top des livres les plus drôles</a>&nbsp;!)</p>
+<p><strong><mark>C’est un régal d’humour anglais, avec des péripéties improbables et des situations délirantes qui donnent autant le vertige qu’elles font rire aux éclats</mark></strong> (pas pour rien que j’ai un Woodehouse dans mon <a href="/2016/09/top-15-des-livres-les-plus-droles/">top des livres les plus drôles</a>&nbsp;!)</p>
