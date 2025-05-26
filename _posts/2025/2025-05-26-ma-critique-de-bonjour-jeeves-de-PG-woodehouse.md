@@ -22,7 +22,7 @@ bookRating: 4
 
 <h2>Je vous fais le pitch</h2>
 
-<p>«&nbsp;Bonjour Jeeves&nbsp;» date de 1938. C’est un roman typique, et parfait, pour découvrir ou redécouvrir Jeeves et l’humour de <abbr>PG</abbr> Woodehouse. Son personnage principale, Bertam Wooster, alias Bertie, a le chic pour se mettre dans les situations les plus improbables et inextricables (aidé en cela, il est vrai, par des amis peu fiables et une famille extravaguante). Heureusement, Jeeves, son valet de chambre, est toujours là pour le conseiller et l’aider à se sortir du pétrin. <strong><mark>C’est polisé comme peut l’être la bonne société anglaise, mais c’est bien plus extravagant et bien plus drôle que <span lang="en">Downton Abbey</span></mark></strong>.
+<p>«&nbsp;Bonjour Jeeves&nbsp;» date de 1938. C’est un roman typique, et parfait, pour découvrir ou redécouvrir Jeeves et l’humour de <abbr>PG</abbr> Woodehouse. Son personnage principale, Bertam Wooster, alias Bertie, a le chic pour se mettre dans les situations les plus improbables et inextricables (aidé en cela, il est vrai, par des amis peu fiables et une famille extravaguante). Heureusement, Jeeves, son valet de chambre, est toujours là pour le conseiller et l’aider à se sortir du pétrin. <strong><mark>C’est polissé comme peut l’être la bonne société anglaise, mais c’est bien plus extravagant et bien plus drôle que <span lang="en">Downton Abbey</span></mark></strong>.
 
 <p>Dans ce roman, notre pauvre Bertie se trouve mêlé bien malgré lui à une situation des plus délicates et des plus complexes&nbsp;:</p>
 <ul>
