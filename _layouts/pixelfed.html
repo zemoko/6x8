@@ -72,6 +72,19 @@ layout: default
 {%- if page.carousel -%}
       {% include carousel.html height="50" unit="%" %}
 {%- endif -%}
+{%- if content contains 'splide' or page.carousel -%}
+      <script>
+var splides = document.getElementsByClassName( 'splide' );
+for ( var i = 0; i < splides.length; i++ ) {
+  var splide = new Splide( '#'+splides[ i ].id , {
+    pagination: true,
+    lazyLoad: 'nearby',
+    rewind: true
+  } );
+  splide.mount();
+}
+      </script>
+{%- endif -%}
     </div>
 
 {% include comments.html %}
