@@ -16,7 +16,7 @@ bookISBN: 9791092636611
 bookRating: 4.5
 ---
 
-<h2>Je vous fais le pitch<h2>
+<h2>Je vous fais le pitch</h2>
 
 <p>«&nbsp;La vie rêvée de Nikola Tesla&nbsp;» est <strong>une biographie romancée</strong> de Nikola Tesla. On découvre sa vie de son premier emploi pour Thomas Edison, à Paris puis à New-York (sans perdre de vue ses études en Autriche et son enfance en Serbie), jusqu’à ses dernières années qu’il a passé reclu dans une chambre à New-York. Il faut dire que Tesla était brillant, mais aussi idéaliste et qu’il n’a jamais vraiment profiter des retombées économiques de ses inventions. Ses brevets ont rendu riches des capitalistes comme Edison, Westinghouse ou JP Morgan… mais <strong>son ambiton à lui, c’était de pacifier le monde par la science</strong>.</p>
 
