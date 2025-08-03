@@ -10,7 +10,7 @@ tags:
   - "pixelfed"
   - "bretagne"
 coverImage: "belle-ile-en-mer.jpg"
-imgWidthAlt: "Paysage de côte rocheuse sauvage, du coté de la plage d’Herlin"
+imgAlt: "Paysage de côte rocheuse sauvage, du coté de la plage d’Herlin"
 imgWidth: 1440
 imgHeight: 1080
 pixelfed: "belle-ile-en-mer.jpg"
