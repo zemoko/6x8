@@ -58,18 +58,26 @@ layout: default
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
           <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} />
     {%- else -%}
-      {%- if page.coverImage contains "png" -%}
-        {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
-          <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} {{ lazyLoad }} />
-        {%- else -%}
-          {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
-          <picture>
-          {%- if jekyll.environment == "staging" -%}
-            <img src="{{ coverImage }}" alt="" {{imageSize}} />
+      {%- if page.coverImage contains "mp4" -%}
+          {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
+          <video controls {{imageSize}} {{ lazyLoad }}>
+            <source src="{{ coverImage }}" type="video/mp4" />
+            {{ imgAlt }}
+          </video>
+      {%- else -%}
+        {%- if page.coverImage contains "png" -%}
+          {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
+            <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} {{ lazyLoad }} />
           {%- else -%}
+            {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
+          <picture>
+            {%- if jekyll.environment == "staging" -%}
+            <img src="{{ coverImage }}" alt="" {{imageSize}} />
+            {%- else -%}
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
             <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} />
           </picture>
+            {%- endif -%}
           {%- endif -%}
         {%- endif -%}
       {%- endif -%}
