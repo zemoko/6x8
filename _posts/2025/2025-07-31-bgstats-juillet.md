@@ -10,33 +10,7 @@ tags:
   - "jeux-de-societe"
 coverImage: "bgstats.png"
 cover2left: true
-imgAlt: "BG Stats Jul 2025
-
-Plays: 145 
-H-index: 6 
-Games: 42 
-New: 20 
-Players: 14 
-Locations: 6 
-Hours: 86 
-Days: 29 
-
-Bomb Busters: 30
-Terraforming Mars: Ares Expedition: 16
-Traitres à Bord: 13
-Donnant Donnant: 9
-Daydream: 9
-Yam’s: 8
-Le Baron: 4
-Qwixx: 4
-Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic: 3
-
-49 designers:
-Reiner Knizia: 7%
-Jacob Fryxelius: 4%
-Michael Schacht: 4%
-Steffen Benndorf: 4%
-Wolfgang Kramer: 4%."
+imgAlt: "BG Stats Jul 2025 / Plays: 145  / Games: 42  / Players: 14  / Locations: 6  / Bomb Busters: 30, Terraforming Mars: Ares Expedition: 16, Traitres à Bord: 13, Donnant Donnant: 9, Daydream: 9, Yam’s: 8, Le Baron: 4, Qwixx: 4, Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic: 3"
 imgWidth: 1179
 imgHeight: 1541
 mastolink: "https://mamot.fr/@zemoko/114949017042722592"
