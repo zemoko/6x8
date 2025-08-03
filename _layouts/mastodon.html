@@ -58,10 +58,10 @@ layout: default
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
           <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} />
     {%- else -%}
-      {%- if page.coverImage contains "mp4" -%}
+      {%- if page.post_video contains "mp4" -%}
           {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
-          <video controls {{imageSize}} {{ lazyLoad }}>
-            <source src="{{ coverImage }}" type="video/mp4" />
+          <video controls autoplay muted loop {{imageSize}}>
+            <source src="/images/{{ page.date | date: "%Y/%m" }}/{{ page.post_video }}" type="video/mp4">
             {{ imgAlt }}
           </video>
       {%- else -%}
