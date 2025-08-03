@@ -10,7 +10,7 @@ tags:
   - "pixelfed"
   - "bretagne"
 coverImage: "phare-des-poulains.jpg"
-imgWidthAlt: "Le phare des poulains"
+imgAlt: "Le phare des poulains"
 imgWidth: 1440
 imgHeight: 1080
 pixelfed: "phare-des-poulains.jpg"
