@@ -3,7 +3,7 @@ layout: pixelfed
 title: 'Et c’est déjà le dernier jour :( Au revoir Belle-Île, la bien-nommée <span aria-hidden="true">❤🥰</span>'
 date: "2025-07-25"
 categories: 
-  - "trucs"
+  - "trucs-pris-en-photo"
   - "trucs-de-parisien"
   - "qui-voyage"
 tags: 
