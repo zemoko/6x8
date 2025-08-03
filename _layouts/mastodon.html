@@ -59,7 +59,6 @@ layout: default
           <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} />
     {%- else -%}
       {%- if page.post_video contains "mp4" -%}
-          {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
           <video controls autoplay muted loop {{imageSize}}>
             <source src="/images/{{ page.date | date: "%Y/%m" }}/{{ page.post_video }}" type="video/mp4">
             {{ imgAlt }}
