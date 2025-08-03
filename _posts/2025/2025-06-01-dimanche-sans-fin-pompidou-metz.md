@@ -11,7 +11,7 @@ tags:
   - "metz"
   - "expo"
 coverImage: "dimanche-sans-fin1.jpg"
-imgWidthAlt: "Comedian : une banane accrochée avec du ruban adhésif"
+imgAlt: "Comedian : une banane accrochée avec du ruban adhésif"
 imgWidth: 1013
 imgHeight: 1350
 pixelfed: dimanche-sans-fin1.jpg
