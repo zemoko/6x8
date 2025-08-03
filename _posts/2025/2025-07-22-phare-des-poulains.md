@@ -3,7 +3,7 @@ layout: pixelfed
 title: 'Belle-Île-en-Mer <span aria-hidden="true">❤️</span>'
 date: "2025-07-22"
 categories: 
-  - "trucs"
+  - "trucs-pris-en-photo"
   - "trucs-de-parisien"
   - "qui-voyage"
 tags: 
