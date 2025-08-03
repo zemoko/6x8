@@ -65,14 +65,14 @@ layout: default
           </video>
       {%- else -%}
         {%- if page.coverImage contains "png" -%}
-          {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
+          {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
             <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} {{ lazyLoad }} />
-          {%- else -%}
+        {%- else -%}
             {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
           <picture>
-            {%- if jekyll.environment == "staging" -%}
+        {%- if jekyll.environment == "staging" -%}
             <img src="{{ coverImage }}" alt="" {{imageSize}} />
-            {%- else -%}
+        {%- else -%}
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
             <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} />
           </picture>
