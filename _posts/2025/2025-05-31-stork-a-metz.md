@@ -12,7 +12,7 @@ tags:
   - "streetart"
   - "stork7567"
 coverImage: "stork-a-metz.jpg"
-imgWidthAlt: "Le passage entre la place d’armes et la rue Blondel. On y voit, de part et d’autres, 2 cigognes en mosaïques"
+imgAlt: "Le passage entre la place d’armes et la rue Blondel. On y voit, de part et d’autres, 2 cigognes en mosaïques"
 imgWidth: 1440
 imgHeight: 1080
 pixelfed: stork-a-metz.jpg

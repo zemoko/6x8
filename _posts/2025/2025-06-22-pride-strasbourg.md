@@ -9,7 +9,7 @@ categories:
 tags: 
   - "strasbourg"
 coverImage: "pride-strasbourg.jpg"
-imgWidthAlt: "Alors que le cortège s’élance sur le pont d’Auvergne, des fumigènes multicolores génèrent une belle fumée au dessus de la foule"
+imgAlt: "Alors que le cortège s’élance sur le pont d’Auvergne, des fumigènes multicolores génèrent une belle fumée au dessus de la foule"
 imgWidth: 1440
 imgHeight: 1080
 pixelfed: "pride-strasbourg.jpg"
