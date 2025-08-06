@@ -24,7 +24,7 @@ bookRating: 4
 
 <h2>À propos du livre</h2>
 
-<p>Le titre est explicite&nbsp;: c’est <strong>un manifeste en faveur du mutualisme</strong>. Ce qui est moins explicite, c’est que c’est très centré (même si pas exclusivement) sur le Crédit&nbsp;Mutuel (ce n’est pas un soucis en soi, c’est même plutôt la conséquence du fait que la thèse du livre soit amjoraitairement exposée à travers l’expérience - positive - du Crédit&nbsp;Mutuel, mais autant le dire). <strong>J’ai trouvé intéressante, pédagogique et pertinente, la manière dont les deux auteurs dècrivent les avantages du mutualisme</strong> (une vision permettant des engagements à plus long-terme, pour allier robustesse et performance), <strong>mais aussi comment un choix a du être fait entre un mutualisme centré sur ses sociétaires, et une mutualisme au service de la société</strong>.</p>
+<p>Le titre est explicite&nbsp;: c’est <strong>un manifeste en faveur du mutualisme</strong>. Ce qui est moins explicite, c’est que c’est très centré (même si pas exclusivement) sur le Crédit&nbsp;Mutuel (ce n’est pas un soucis en soi, c’est même plutôt la conséquence du fait que la thèse du livre soit majoritairement exposée à travers l’expérience - positive - du Crédit&nbsp;Mutuel, mais autant le dire). <strong>J’ai trouvé intéressante, pédagogique et pertinente, la manière dont les deux auteurs dècrivent les avantages du mutualisme</strong> (une vision permettant des engagements à plus long-terme, pour allier robustesse et performance), <strong>mais aussi comment un choix a du être fait entre un mutualisme centré sur ses sociétaires, et une mutualisme au service de la société</strong>.</p>
   
 <h2>Je vous donne mon avis</h2>
 
