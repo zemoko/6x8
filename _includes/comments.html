@@ -3,8 +3,8 @@
 <hyvor-talk-comments 
     website-id="5720" 
     page-id=""
-    page-url="{{ page.url | relative_url }}"
-    page-title="Réactions et commentaires"
+    page-url="https://www.6x8.org{{ page.url | relative_url }}"
+    page-title="{{ page.title | strip_html | append: ' | ' | append: site.title | default: site.title }}"
     page-language="fr"
     loading="lazy"
 ></hyvor-talk-comments>
