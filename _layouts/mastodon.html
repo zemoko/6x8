@@ -56,7 +56,7 @@ layout: default
         <figure>
     {%- if page.coverImage contains "https" -%}
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
-          <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} />
+          <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" />
     {%- else -%}
       {%- if page.post_video contains "mp4" -%}
           <video controls autoplay muted loop {{imageSize}}>
@@ -66,7 +66,7 @@ layout: default
       {%- else -%}
         {%- if page.coverImage contains "png" -%}
           {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
-            <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} {{ lazyLoad }} />
+            <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}}  fetchpriority="high" />
         {%- else -%}
             {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
           <picture>
@@ -74,7 +74,7 @@ layout: default
             <img src="{{ coverImage }}" alt="" {{imageSize}} />
         {%- else -%}
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
-            <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} />
+            <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" />
           </picture>
             {%- endif -%}
           {%- endif -%}

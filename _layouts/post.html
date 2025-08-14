@@ -65,7 +65,7 @@ layout: default
         <figure>
     {%- if page.coverImage contains "https" -%}
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
-          <img src="{{ coverImage }}" alt="" {{imageSize}} />
+          <img src="{{ coverImage }}" alt="" {{imageSize}} fetchpriority="high" />
     {%- else -%}
       {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
       {%- if jekyll.environment == "staging" -%}
@@ -73,7 +73,7 @@ layout: default
       {%- else -%}
           <picture>
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
-            <img src="{{ coverImage }}" alt="" {{imageSize}} />
+            <img src="{{ coverImage }}" alt="" {{imageSize}} fetchpriority="high" />
           </picture>
       {%- endif -%}
     {%- endif -%}

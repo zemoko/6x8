@@ -5,7 +5,7 @@
   {%- for item in page.carousel -%}
       <li class="splide__slide"><div class="lightbox">
         <figure>
-    {%- if post.coverImage contains "https" -%}
+    {%- if page.coverImage contains "https" -%}
       {%- capture slideImage -%}{{ item.image }}{%- endcapture -%}
     {%- else -%}
       {% capture slideImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ item.image }}{% endcapture %}
@@ -30,7 +30,7 @@
 <div id="bottom-slider">
   <figure>
   {%- assign item = page.carousel | first -%}
-  {%- if post.coverImage contains "https" -%}
+  {%- if page.coverImage contains "https" -%}
     {%- capture slideImage -%}{{ item.image }}{%- endcapture -%}
   {%- else -%}
     {% capture slideImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ item.image }}{% endcapture %}

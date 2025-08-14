@@ -63,10 +63,10 @@ layout: default
 {%- endif -%}
             <picture>
 {%- if jekyll.environment == "staging" -%}
-              <img src="{{ coverImage }}" alt="Couverture du livre {{ page.bookTitle }}" itemprop="image"  {{imageSize}} />
+              <img src="{{ coverImage }}" alt="Couverture du livre {{ page.bookTitle }}" itemprop="image"  {{imageSize}} fetchpriority="high" />
 {%- else -%}
               <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
-              <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="Couverture du livre {{ page.bookTitle }}" itemprop="image" {{imageSize}} />
+              <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="Couverture du livre {{ page.bookTitle }}" itemprop="image" {{imageSize}} fetchpriority="high" />
 {%- endif -%}
             </picture>
             {%- if page.bookTitle -%}
