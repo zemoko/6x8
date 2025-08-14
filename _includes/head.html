@@ -24,8 +24,13 @@
 		<meta name="twitter:card" content="summary" />
 		<meta property="twitter:title" content="{{ page.title | strip_html }}" />
 		{%- if page.coverImage -%}
+			{%- if page.coverImage contains "https" -%}
+		<meta property="og:image" content="{{ page.coverImage }}" />
+		<meta property="twitter:image" content="{{ page.coverImage }}" />
+			{%- else -%}
 		<meta property="og:image" content="http://www.6x8.org/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}" />
 		<meta property="twitter:image" content="http://www.6x8.org/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}" />
+			{%- endif  -%}
  		{%- endif  -%}
  		<link href="https://github.com/zemoko" rel="me">
 		<link rel='stylesheet' id='dashicons-css'  href='/styles.css' type='text/css' media='all' />
