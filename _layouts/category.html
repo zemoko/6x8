@@ -37,7 +37,7 @@ layout: default
           {%- endif -%}
           <figure>
             {%- if post.post_video -%}
-            <video controls autoplay muted loop {{imageSize}}>
+            <video controls autoplay muted loop playsinline {{imageSize}}>
               <source src="/images/{{ post.date | date: "%Y/%m" }}/{{ post.post_video }}" type="video/mp4">
             </video>
             {%- else -%}
