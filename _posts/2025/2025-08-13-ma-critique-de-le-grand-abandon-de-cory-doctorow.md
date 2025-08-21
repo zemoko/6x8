@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "ecologie"
 coverImage: le-grand-abandon.jpg
 imgWidth: 669
 imgHeight: 1000
