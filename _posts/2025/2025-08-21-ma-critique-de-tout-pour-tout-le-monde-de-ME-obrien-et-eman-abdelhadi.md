@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Tout pour tout le monde</strong>» de <em><abbr>M.E.</abbr> O’Brien et Eman Abdelhadi</abbr></em>'
+title: 'Ma critique de «&nbsp;<strong>Tout pour tout le monde</strong>» de <em><abbr>M.E.</abbr> O’Brien et Eman Abdelhadi</em>'
 date: "2025-08-21"
 categories: 
   - "trucs-critiques"
