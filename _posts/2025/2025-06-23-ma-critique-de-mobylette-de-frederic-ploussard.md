@@ -7,6 +7,7 @@ categories:
 tags: 
   - "critique"
   - "livre"
+  - "lorraine"
 coverImage: mobylette.jpg
 imgWidth: 342
 imgHeight: 500
