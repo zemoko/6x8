@@ -12,13 +12,13 @@ tags:
 coverImage: belle-ile-en-mer.jpg
 imgWidth: 1280
 imgHeight: 849
-cover2left: false
+noImageOnPost: true
 ---
 
 <p>Cet été, nous étions en vacances à Belle-Île. Comme je vient de faire développer mes péloches, c’est l’occasion de vous partager quelques lomos, mais aussi quelques photos numériques <span aria-hidden="true">😎</span>.</p>
 
 <h2>Quelques Lomos, prises avec mon fidèle <abbr>LCA</abbr></h2>
-<p>Je suis plutôt content du rendu. J’avais 2&nbsp;pellicules un peu «&nbsp;spéciales&nbsp;» cette année&nbsp;: une <a href="https://www.lomography.fr/films/871973254-washi-x-100/photos">Washi X 100</a> et <a href="https://www.lomography.fr/films/871976509-one-hundred/photos">One hundred</a>. L’appareil, c’est bien évidemment mon fidèle <a href="https://shop.lomography.com/fr/lomo-lc-a-35-mm-film-camera">Lomo <abbr>LCA+</abbr>.</p>
+<p>Je suis plutôt content du rendu. J’avais 2&nbsp;pellicules un peu «&nbsp;spéciales&nbsp;» cette année&nbsp;: une <a href="https://www.lomography.fr/films/871973254-washi-x-100/photos">Washi X 100</a> et <a href="https://www.lomography.fr/films/871976509-one-hundred/photos">One hundred</a>. L’appareil, c’est bien évidemment mon fidèle <a href="https://shop.lomography.com/fr/lomo-lc-a-35-mm-film-camera">Lomo <abbr>LCA+</abbr></a>.</p>
 
 <div id="lomo-slider" class="splide">
   <div class="splide__track">
