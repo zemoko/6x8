@@ -12,7 +12,7 @@ tags:
 coverImage: belle-ile-en-mer.jpg
 imgWidth: 1280
 imgHeight: 849
-cover2left: true
+cover2left: false
 ---
 
 <p>Cet été, nous étions en vacances à Belle-Île. Comme je vient de faire développer mes péloches, c’est l’occasion de vous partager quelques lomos, mais aussi quelques photos numériques <span aria-hidden="true">😎</span>.</p>
