@@ -75,4 +75,4 @@ noImageOnPost: true
 <hr />
 
 <h2>SiToFoToS</h2>
-<p>Si jamais, toutes ces photos et plus encore sont sur le <a hreh="https://sitofotos.6x8.org/index.php?/category/236">Sitofotos</a>&nbsp;¡</p>
+<p>Si jamais, toutes ces photos et plus encore sont sur le <a hreh="https://sitofotos.6x8.org/index.php?/category/236">Sitofotos</a>, alors n’hésitez pas à aller jeter un œil&nbsp;!</p>
