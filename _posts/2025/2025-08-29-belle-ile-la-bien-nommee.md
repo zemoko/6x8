@@ -46,7 +46,8 @@ noImageOnPost: true
   </div>
 </div>
 
-<h2>Mais aussi des photos numériques, car je ne suis pas sectaire</h2>
+<h2>Mais aussi des photos numériques, car je ne suis pas sectaire…</h2>
+<p>Quelques photos prises avec mon (tout aussi fidèle) <span lang="en">iPhone</span>.</p>
 
 <div id="iphone-slider" class="splide">
 <div class="splide__track">
@@ -61,7 +62,7 @@ noImageOnPost: true
 <li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115807-feabca26-xx.jpg" alt="Port-Coton"></li>
 <li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115720-e2890ee8-xx.jpg" alt="Plage"></li>
 <li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115620-55fa4a8c-xx.jpg" alt="Surf"></li>
-<li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115536-81305d2f-xx.jpg" alt="Côte rocheuse></li>
+<li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115536-81305d2f-xx.jpg" alt="Côte rocheuse"></li>
 <li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115533-7fb0c589-xx.jpg" alt="Côte rocheuse"></li>
 <li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115525-22964ad9-xx.jpg" alt="Phare de Goulphar"></li>
 <li class="splide__slide"><img src="https://sitofotos.6x8.org/i.php?upload/2025/08/14/20250814115515-8fde20b9-xx.jpg" alt="Phare de Goulphar"></li>
