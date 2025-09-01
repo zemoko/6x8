@@ -35,8 +35,13 @@ Tout au long du roman, la trame, ce sont les histoires de Marie, de Diane, mais 
 
 **L’écriture est toujours aussi fluide, chacun de ses personnages est complexe, digne d’intérêt, et rappelle la cruelle réalité des sentiments. Une fable moderne, forte et émouvante.**
 
-* * *
-
-Retrouvez d'autres critiques de roman d'Amélie Nothomb : - [Les prénoms épicènes](https://www.6x8.org/2018/12/ma-critique-de-les-prenoms-epicenes-damelie-nothomb/) - [Riquet à la houppe](https://www.6x8.org/2016/09/ma-critique-de-riquet-a-la-houppe-damelie-nothomb/)
+<hr />
+<h2>Retrouvez les autres livres d’Amélie dont j’ai fait la critique sur ce blog&nbsp;:</h2>
+<ul>
+  <li><a href="/2025/08/ma-critique-de-tant-mieux-d-amelie-nothomb/">Tant mieux</a></li>
+  <li><a href="/2018/12/ma-critique-de-les-prenoms-epicenes-damelie-nothomb/">Les prénoms épicènes</a></li>
+  <li><a href="/2017/10/ma-critique-de-frappe-toi-le-cur-damelie-nothomb/">Frappe-toi le cœur</a></li>
+  <li><a href="/2016/09/ma-critique-de-riquet-a-la-houppe-damelie-nothomb/">Riquet à la houppe</a></li>
+</ul>
 
 Retrouvez [cette critique](https://www.senscritique.com/livre/Frappe_toi_le_coeur/critique/137736366) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !
