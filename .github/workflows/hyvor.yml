@@ -21,8 +21,3 @@ jobs:
         path: '_data'
         file: 'reactions.json'
         content: ${{steps.myRequest.outputs.response}}
-    - name: final commit
-      uses: zwaldowski/git-commit-action@v1
-      id: git_commit
-    - name: show
-      run: echo "${{ steps.git_commit.outputs.sha }}"
