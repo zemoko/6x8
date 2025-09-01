@@ -31,6 +31,12 @@ Je ne vous en dévoile pas plus, ce ne serait pas possible sans en dévoiler tro
 
 \* Les prénoms épicènes peuvent être à la fois masculins et féminins
 
-Retrouvez d'autres critiques de roman d'Amélie Nothomb : - [Frappe-toi le cœur](https://www.6x8.org/2017/10/ma-critique-de-frappe-toi-le-cur-damelie-nothomb/) - [Riquet à la houppe](https://www.6x8.org/2016/09/ma-critique-de-riquet-a-la-houppe-damelie-nothomb/)
+<h2>Retrouvez les autres livres d’Amélie dont j’ai fait la critique sur ce blog&nbsp;:</h2>
+<ul>
+  <li><a href="/2025/08/ma-critique-de-tant-mieux-d-amelie-nothomb/">Tant mieux</a></li>
+  <li><a href="/2018/12/ma-critique-de-les-prenoms-epicenes-damelie-nothomb/">Les prénoms épicènes</a></li>
+  <li><a href="/2017/10/ma-critique-de-frappe-toi-le-cur-damelie-nothomb/">Frappe-toi le cœur</a></li>
+  <li><a href="/2016/09/ma-critique-de-riquet-a-la-houppe-damelie-nothomb/">Riquet à la houppe</a></li>
+</ul>
 
 Retrouvez [cette critique]( https://www.senscritique.com/livre/Les_Prenoms_epicenes/critique/185065106) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !
