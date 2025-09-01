@@ -39,6 +39,7 @@ Mai 2023, Amélie est invitée par une amie, Pep Beni, à l’accompagner au Jap
 <hr />
 <h2>Retrouvez les autres livres d’Amélie dont j’ai fait la critique sur ce blog&nbsp;:</h2>
 <ul>
+  <li><a href="/2025/08/ma-critique-de-tant-mieux-d-amelie-nothomb/">Tant mieux</a></li>
   <li><a href="/2018/12/ma-critique-de-les-prenoms-epicenes-damelie-nothomb/">Les prénoms épicènes</a></li>
   <li><a href="/2017/10/ma-critique-de-frappe-toi-le-cur-damelie-nothomb/">Frappe-toi le cœur</a></li>
   <li><a href="/2016/09/ma-critique-de-riquet-a-la-houppe-damelie-nothomb/">Riquet à la houppe</a></li>
