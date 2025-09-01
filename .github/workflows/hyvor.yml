@@ -15,8 +15,6 @@ jobs:
       with:
         url: 'https://talk.hyvor.com/api/data/v1/pages?website_id=${{ secrets.HYVOR_WEBSITEID }}&api_key=${{ secrets.HYVOR_APIKEY }}&limit=10&sort=reactions_count'
         method: 'GET'
-    - name: Show File
-      run: echo ${{ steps.myRequest.outputs.response }}
     - name: Create A File
       uses: 1arp/create-a-file-action@0.2
       with:
