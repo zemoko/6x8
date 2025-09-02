@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Tant mieux</strong>» d’<em>Amélie Nothomb</em>'
+title: 'Ma critique de «&nbsp;<strong>Tant mieux</strong>&nbsp;» d’<em>Amélie Nothomb</em>'
 date: "2025-08-30"
 categories: 
   - "trucs-critiques"
