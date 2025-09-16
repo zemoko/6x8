@@ -19,7 +19,7 @@ bookRating: 4
 
 <h2>Contexte</h2>
 
-<p>Il y a un an, à Avignon, commençait <strong>l’affaire Pélicot</strong>, aussi appelé <strong>le procès des viols de Mazan</strong>, une affaire hors-normes à tout points de vue (<a href="https://fr.wikipedia.org/wiki/Affaire_des_viols_de_Mazan">Wikipedia</a>). On connait des procès avec un accusé et 50&nbsp;victimes… mais, là, c’est l’inverse&nbsp;: Dominique Pélicot est accusé d’avoir drogué sa femme Gisèle, à de multiples reprises pendant presque 10&nbsp;ans, pour permettre à 50&nbsp;hommes, ses 50&nbsp;co-accusés, de la violer. Le procès est fortement médiatisé, en France comme à l’international, grâce au courage de Gisèle Pelicot qui a permis que le procès se déroule en public «&nbsp;afin que la honte change de camp&nbsp;».</p>
+<p>Il y a un an, à Avignon, commençait le procès de <strong>l’affaire Pélicot</strong>, aussi appelé <strong>le procès des viols de Mazan</strong>, une affaire hors-normes à tout points de vue (<a href="https://fr.wikipedia.org/wiki/Affaire_des_viols_de_Mazan">Wikipedia</a>). On connait des procès avec un accusé et 50&nbsp;victimes… mais, là, c’est l’inverse&nbsp;: Dominique Pélicot est accusé d’avoir drogué sa femme Gisèle, à de multiples reprises pendant presque 10&nbsp;ans, pour permettre à 50&nbsp;hommes, ses 50&nbsp;co-accusés, de la violer. Le procès est fortement médiatisé, en France comme à l’international, grâce au courage de Gisèle Pelicot qui a permis que le procès se déroule en public «&nbsp;afin que la honte change de camp&nbsp;».</p>
 
 <h2>Une œuvre puissante…</h2>
 
