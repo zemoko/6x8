@@ -19,7 +19,7 @@ bookRating: 4
 <h2>Je vous fais le pitch</h2>
 
 <p>«&nbsp;Le grand abandon&nbsp;» est un roman d’anticipation qui se déroule dans un futur proche où, sans surprise, les crises actuelles se sont aggravées&nbsp;: le monde est ravagé par le changement climatique, les inégalités sociales ont continué d’exploser, tout comme le chômage  et la précarité, alors même qu’une fraction de la population s’arrogeait l’essentiel des richesses… Dans ce monde peu réjouissant (mais pas si différent du nôtre), un phénomène se développe&nbsp;: les «&nbsp;abandonneurs&nbsp;». <strong>Être abandonneur, c’est refuser les règles établies, les considérer comme obsolètes… et donc tout abandonner pour tourner le dos au «&nbsp;monde par défaut&nbsp;» (celui qu’on nous impose en nous faisant croire qu’il n’y a pas d’alternatives) pour imaginer d’autres manières de vivre, de s’organiser, de travailler… de faire société</strong>.</p>
-<p>Le roman suit une poignée de personnages abandonneurs, assez attachants au démeirant, même s’ils sservent surtout de prétextes pour faire découvrir aux lecteurs la vie de plusieurs communautés d’abandonneurs, et les inévitables frictions que cela engendre avec le monde par défaut.</p>
+<p>Le roman suit une poignée de personnages abandonneurs, assez attachants au demeurant, même s’ils servent surtout de prétextes pour faire découvrir aux lecteurs la vie de plusieurs communautés d’abandonneurs, et les inévitables frictions que cela engendre avec le monde par défaut.</p>
 
 <h2>Je vous donne mon avis</h2>
 
