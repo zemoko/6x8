@@ -40,7 +40,7 @@ bookRating: 4
   <li>
     sur la forme, malgré un travail impressionant, j’ai quand même l’impression que le travail d’édition a été baclé, ou du moins précipité, sans doute pour pouvoir organiser la sortie pour les un an du procès… mais c’est au détriment de la lisibilité, au moins de certaines séquences, et sans doute aussi de l’équilibre de la narration.
     <figure>
-      <img src="/images/2025/09/notre-affaire-pages.jpg" width="960" height="640" alt="Deux pages de la BD qui comportent des textes blancs (et fins) affichés sur fonds noir">
+      <a href="/images/2025/09/notre-affaire-pages.jpg" class="lightbox"><img src="/images/2025/09/notre-affaire-pages.jpg" width="960" height="640" alt="Deux pages de la BD qui comportent des textes blancs (et fins) affichés sur fonds noir"></a>
       <figcaption>Des textes blancs sur fonds noirs que j’ai eu grand peine à déchiffrer</figcaption>
     </figure>
   </li>
