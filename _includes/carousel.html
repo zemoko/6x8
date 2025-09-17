@@ -11,12 +11,12 @@
       {% capture slideImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ item.image }}{% endcapture %}
     {%- endif -%}
     {%- if slideImage | slice: 0, 4 = 'http' -%}
-            <img src="{{ slideImage }}" alt="{{ item.alt }}" />
+            <a href="{{ slideImage }}" class="lightbox"><img src="{{ slideImage }}" alt="{{ item.alt }}" /></a>
     {%- else -%}
       {%- capture slideImageWebp %}{{ slideImage | replace:'jpg','webp' | replace:'jpeg','webp' }}{% endcapture -%}
             <picture>
               <source srcset="{{ slideImageWebp }}" type="image/webp">
-              <img src="{{ slideImage }}" alt="{{ item.alt }}" />
+              <a href="{{ slideImage }}" class="lightbox"><img src="{{ slideImage }}" alt="{{ item.alt }}" /></a>
             </picture>
     {%- endif -%}
           <figcaption>{{ item.legend }}</figcaption>

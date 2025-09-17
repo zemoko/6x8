@@ -56,7 +56,7 @@ layout: default
         <figure>
     {%- if page.coverImage contains "https" -%}
       {% capture coverImage %}{{ page.coverImage }}{% endcapture %}
-          <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" />
+          <a href="{{ coverImage }}" class="lightbox"><img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" /></a>
     {%- else -%}
       {%- if page.post_video contains "mp4" -%}
           <video controls autoplay muted loop {{imageSize}}>
@@ -71,10 +71,10 @@ layout: default
             {% capture coverImage %}{{ imagePath }}/{{ page.coverImage }}{% endcapture %}
           <picture>
         {%- if jekyll.environment == "staging" -%}
-            <img src="{{ coverImage }}" alt="" {{imageSize}} />
+            <a href="{{ coverImage }}" class="lightbox"><img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} /></a>
         {%- else -%}
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
-            <img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" />
+            <a href="/.netlify/images?url={{ coverImage }}&fit=contain&w=2048&h=2048&format=webp" class="lightbox"><img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" /></a>
           </picture>
             {%- endif -%}
           {%- endif -%}

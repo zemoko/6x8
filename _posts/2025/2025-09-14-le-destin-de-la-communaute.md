@@ -9,6 +9,7 @@ tags:
   - "mastodon"
   - "jeux-de-societe"
 coverImage: "le-destin-de-la-communaute.jpg"
+cover2left: true
 imgWidth: 3325
 imgHeight: 2494
 mastolink: "https://mamot.fr/@zemoko/115197494812075397"

@@ -23,7 +23,7 @@ bookRating: 4
 <p>L‘histoire commence en 1828, à Canton. Un jeune orphelin chinois est recueilli par un professeur anglais et conduit à Londres. Déraciné mais aussi renommé en Robin Swift. Son nouveau tuteur s’applique à parfaire son éducation, linguistique, car Robin est destiné à intégrer le prestigieux <strong>Institut Royal de Traduction de l’Université d’Oxford</strong>, plus connu sous le nom de <strong>Babel</strong>.</p>
 
 <figure>
-  <img src="/images/2025/02/OxfordMap_Babel.png" alt="Sur ce plan d'Oxford, la tour de Babel se situe a proximité de la Bodléienne et de la Radcliffe Camera">
+  <a href="/images/2025/02/OxfordMap_Babel.png" class="lightbox"><img src="/images/2025/02/OxfordMap_Babel.png" alt="Sur ce plan d'Oxford, la tour de Babel se situe a proximité de la Bodléienne et de la Radcliffe Camera" /></a>
   <figcaption>Plan d'Oxford... dans le monde de <abbr>RF</abbr>abbr> Kuang</figcaption>
 </figure>
 

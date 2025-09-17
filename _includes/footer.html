@@ -45,3 +45,10 @@
 
 <script src="/js/search-script.js" type="text/javascript" defer></script>
 <script src="/js/dark-mode.js" type="text/javascript" defer></script>
+{%- if content contains 'lightbox' -%}
+<link href="/tobii/tobii.min.css" rel="stylesheet">
+<script src="/tobii/tobii.min.js"></script>
+<script>
+const tobii = new Tobii()
+</script>
+{%- endif  -%}
