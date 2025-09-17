@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Notre affaire</strong>» de <em>Louise Colombet et Mathieu Palain</em>'
+title: 'Ma critique de «&nbsp;<strong>Notre affaire</strong>&nbsp;» de <em>Louise Colombet et Mathieu Palain</em>'
 date: "2025-09-12"
 categories: 
   - "trucs-critiques"
