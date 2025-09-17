@@ -1,7 +1,7 @@
 ---
 layout: mastodon
 title: 'Yes, on a sauvé la Terre du Milieu <span hidden="true">\o/</span>'
-date: "2025-02-22"
+date: "2025-09-14"
 categories: 
   - "trucs"
   - "trucs-de-geek"
