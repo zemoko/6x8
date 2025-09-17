@@ -74,7 +74,7 @@ layout: default
             <a href="{{ coverImage }}" class="lightbox"><img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} /></a>
         {%- else -%}
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
-            <a href="{{ /.netlify/images?url={{ coverImage }}&fit=contain&w=2048&h=2048&format=webp }}" class="lightbox"><img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" /></a>
+            <a href="/.netlify/images?url={{ coverImage }}&fit=contain&w=2048&h=2048&format=webp" class="lightbox"><img src="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" alt="{{ imgAlt }}" {{imageSize}} fetchpriority="high" /></a>
           </picture>
             {%- endif -%}
           {%- endif -%}
