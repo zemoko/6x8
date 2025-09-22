@@ -13,7 +13,7 @@ tags:
 coverImage: https://sitofotos.6x8.org/_data/i/upload/2025/09/22/20250922103307-218c6b38-me.jpg
 imgWidth: 5712
 imgHeight: 4284
-cover2left: true
+noImageOnPost: true
 carousel: 
   - image: https://sitofotos.6x8.org/_data/i/upload/2025/09/22/20250922103307-218c6b38-me.jpg
     legend: "Bassin du Commerce, Port de Strasbourg"
@@ -49,3 +49,5 @@ carousel:
 
 <p>La Stras’n Bike, c’est une balade à vélo à la découverte du Port du Rhin à Strasbourg</p>
 <p>Je l’avais déjà fait <a href="/2023/09/strasnbike/">il y a 2&nbsp;ans</a> (il n‘y a pas eu d’édition 2024), et je suis très heureux d’avoir pu la refaire aujourd’hui&nbsp;!</p>
+<hr />
+<p>Les photos sont, bien évidemment, publiées <a href="https://sitofotos.6x8.org/index.php?/category/240">le Sitofotos</a>…</p>
