@@ -10,7 +10,7 @@ tags:
   - "strasbourg"
   - "velo"
   - "streetart"
-coverImage: strasnbike.jpg
+coverImage: https://sitofotos.6x8.org/_data/i/upload/2025/09/22/20250922103304-c02eadf0-me.jpg
 imgWidth: 5712
 imgHeight: 4284
 cover2left: true
