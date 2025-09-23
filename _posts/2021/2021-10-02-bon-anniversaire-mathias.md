@@ -7,8 +7,6 @@ categories:
   - trucs-instagrammes
 tags:
   - miam
-  - anniversaire
-  - birthday
 coverImage: 2021-10-02-bon-anniversaire-mathias.jpg
 imgWidth: 360
 imgHeight: 358
