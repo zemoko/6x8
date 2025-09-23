@@ -10,6 +10,7 @@ categories:
 tags: 
   - "mastodon"
   - "strasbourg"
+  - "video"
 post_video: "typhon.mp4"
 cover2left: true
 imgAlt: "Une pluie TRÈS forte tombe sur la fenêtre de mon bureau"
