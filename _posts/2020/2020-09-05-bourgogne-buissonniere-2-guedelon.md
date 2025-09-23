@@ -7,12 +7,12 @@ categories:
   - "trucs-de-parisien"
 tags: 
   - "bourgogne"
-coverImage: "https://sitofotos.6x8.org/_data/i/upload/2021/11/04/20211104213634-f45143f9-xx.jpg"
+coverImage: "https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213634-f45143f9-xx.jpg"
 imgWidth: 360
 imgHeight: 270
 cover2left: true
 carousel: 
-  - image: https://sitofotos.6x8.org/_data/i/upload/2021/11/04/20211104213634-f45143f9-xx.jpg
+  - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213634-f45143f9-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213722-0460622c-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213653-04a1191e-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213648-6a0527c3-xx.jpg
@@ -24,7 +24,7 @@ carousel:
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213709-5c0113e8-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213700-b746f578-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213714-91ed1376-xx.jpg
-  - image: https://sitofotos.6x8.org/_data/i/upload/2021/11/04/20211104213641-86d881c9-xx.jpg
+  - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213641-86d881c9-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213707-a48baf1d-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213719-71cf8511-xx.jpg
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213725-06541ec9-xx.jpg
