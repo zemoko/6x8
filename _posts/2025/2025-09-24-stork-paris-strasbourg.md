@@ -1,7 +1,7 @@
 ---
 layout: pixelfed
 title: 'Last but not least: une cigogne de #Stork, à #Paris mais Boulevard de #Strasbourg ! #StreetArt'
-date: "2025-09-25 15:41"
+date: "2025-09-24 15:41"
 categories: 
   - "trucs-pris-en-photo"
   - "trucs-de-parisien"
