@@ -3,6 +3,7 @@ layout: post
 title: "Utopies et dystopies écologiques"
 date: "2025-10-01"
 categories: 
+  - "trucs"
   - "trucs-critiques"
 tags: 
   - "livre"
