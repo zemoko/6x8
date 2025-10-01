@@ -28,14 +28,108 @@ cover2left: true
 
 <p>Pourquoi est-ce que je vous dis tout cela&nbsp;? Parce que pour se battre pour un avenir meilleur, il convient de pouvoir l’imaginer. Pour moi, comme bien souvent, ce sont mes lectures qui m’ont nourri et accompagné dans mon cheminement. Je voulais donc aujourd’hui recenser quelques dystopies, ou utopies, qui permettent, grâce à littérature d’anticipation, d’alerter sur l’état de notre monde mais aussi, parfois, de <strong>proposer des futurs désirables</strong> qui sont comme <strong>un carburant pour alimenter nos luttes</strong> (et si en plus, ça implique des vélos, c’est encore mieux&nbsp;!).
 
-<h2>10 utopies (ou dystopies) écologiques</h2>
+<h2>10 utopies écologiques</h2>
 
 <ol>
-  <li>
-    <h3><strong>Vélorutopia</strong> de <em>Tristan Nitot</em></h3>
-    <a class="lightbox" href=""><img src="̈/.netlify/images?url=/images/2025/10/velorutopia.jpg&fit=contain&w=1024&h=1024&format=webp#book2right" alt="La couverture, sans doute temporaire de Vélorutopia" ẅidth="915" height="1328" /></a>
-    
-    <p>En dernier… parce que je suis encore en train de le lire… parce que Tristan est en train de le publier, chapitre aprés chapitre, sur son blog. Néanmoins, il a toute sa place ici puisqu’il se propose d’imaginer à quoi ressemblerait le monde s’il prenait pris le virage climatique.</p>
-    <p><a href="https://standblog.org/blog/post/2025/09/20/V%C3%A9lorutopia%2C-une-nouvelle-utopique-solarpunk-et-bikepunk-qui-donne-la-p%C3%AAche">Lire Vélorutopia sur le Standblog</a></p>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2025/08/tout-pour-tout-le-monde.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/08/tout-pour-tout-le-monde.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Tout pour tout le monde" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Tout pour tout le monde</strong> de <em>M.E. O’Brien et Eman Abdelhadi</em></h3>
+      <p>Une utopie à laquelle on a envie de croire, racontée comme un ouvrage documentaire ramené du futur.</p>
+      <p><a href="/2025/08/ma-critique-de-tout-pour-tout-le-monde-de-me-obrien-et-eman-abdelhadi/">Lire ma critique de «&nbsp;Tout pour tout le monde&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2025/08/le-grand-abandon.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/08/le-grand-abandon.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Le grand abandon" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Le grand abandon</strong> de <em>Cory Doctorow</em></h3>
+      <p>Une lecture qui suscite des réflexions passionnantes sur les différentes façons que l’on peut avoir de prendre part au mouvement. Nous vivons dans la société que nous avons choisi de batir et, collectivement, nous pouvons choisir un autre modèle de société.</p>
+      <p><a href="/2025/08/ma-critique-de-le-grand-abandon-de-cory-doctorow/">Lire ma critique de «&nbsp;Le grand abandon&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2025/03/pour-ne-rien-regretter.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/03/pour-ne-rien-regretter.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Pour ne rien regretter" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Pour ne rien regretter</strong> de <em>Henri Loevenbruck</em></h3>
+      <p>Un rappel, bienvenu, qu’il est permis d’espérer et que le militantisme peut gagner.</p>
+      <p><a href="/2025/03/ma-critique-de-pour-ne-rien-regretter-de-henri-loevenbruck/">Lire ma critique de «&nbsp;Pour ne rien regretter&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2024/11/bikepunk.webp&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2024/11/bikepunk.webp&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Bikepunk" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>BikepunkBikepunk</strong> de <em>Ploum</em></h3>
+      <p>Une fable écolo, avec des vélos… mais aussi une manière de se préparer au grand effondrement.</p>
+      <p><a href="/2024/11/ma-critique-de-bikepunk-de-ploum/">Lire ma critique de «&nbsp;Bikepunk&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2018/11/5bb772e752d3d.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2018/11/5bb772e752d3d.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Ecotopia" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Ecotopia</strong> de <em>Ernest Callenbach</em></h3>
+      <p>XXX</p>
+      <p><a href="/2018/11/ma-critique-de-ecotopia-dernest-callenbach/">Lire ma critique de «&nbsp;Ecotopia&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2023/10/TMFTF.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2023/10/TMFTF.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de The ministry for the future" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Le Ministère du futur</strong> de <em>Kim Stanley Robinson</em></h3>
+      <p>XXX.</p>
+      <p><a href="/2023/10/ma-critique-de-ministry-of-the-future-de-kim-stanley-robinson/">Lire ma critique de «&nbsp;Le Ministère du futur&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2025/08/tout-pour-tout-le-monde.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/08/tout-pour-tout-le-monde.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de XXX" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Un psaume pour les recyclés sauvages</strong> de <em>Becky Chambers</em></h3>
+      <p>Une utopie à laquelle on a envie de croire, racontée comme un ouvrage documentaire ramené du futur.</p>
+      <p><a href="https://www.6x8.org/2025/08/ma-critique-de-tout-pour-tout-le-monde-de-me-obrien-et-eman-abdelhadi/">Lire ma critique de «&nbsp;Tout pour tout le monde&nbsp;»</a></p>
+    </div>
+  </li>
+  Un psaume pour les recyclés sauvages
+  Une prière pour les cimes timides 
+  Becky Chambers
+  https://www.6x8.org/2025/09/ma-critique-de-un-psaume-pour-les-recycles-sauvages-de-becky-chambers/
+  https://www.6x8.org/2025/09/ma-critique-de-une-priere-pour-les-cimes-timides-de-becky-chambers/
+
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2025/10/velorutopia.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/10/velorutopia.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture, sans doute temporaire de Vélorutopia" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Vélorutopia</strong> de <em>Tristan Nitot</em></h3>
+      <p>En dernier… parce que je suis encore en train de le lire… parce que Tristan est en train de le publier, chapitre aprés chapitre, sur son blog. Néanmoins, il a toute sa place ici puisqu’il se propose d’imaginer à quoi ressemblerait le monde s’il prenait pris le virage climatique.</p>
+      <p><a href="https://standblog.org/blog/post/2025/09/20/V%C3%A9lorutopia%2C-une-nouvelle-utopique-solarpunk-et-bikepunk-qui-donne-la-p%C3%AAche">Lire Vélorutopia sur le Standblog</a></p>
+    </div>
   </li>
 </ol>
+<style>
+li.book {
+  list-style-type: none;
+}
+li.book .cover {
+  flex: 0;
+  min-width: 150px;
+  padding-left: 0;
+  padding-right: 1rem;
+}
+li.book h3::before {
+  content: counter(section) ". ";
+  counter-increment: section; 
+}
+</style>
