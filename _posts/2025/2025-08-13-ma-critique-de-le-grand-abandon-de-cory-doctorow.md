@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Le grand abandon</strong>» de <em>Cory Doctorow</em>'
+title: 'Ma critique de «&nbsp;<strong>Le grand abandon</strong>&nbsp;» de <em>Cory Doctorow</em>'
 date: "2025-08-13"
 categories: 
   - "trucs-critiques"
