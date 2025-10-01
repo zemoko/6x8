@@ -66,7 +66,7 @@ cover2left: true
       <a class="lightbox" href="/.netlify/images?url=/images/2024/11/bikepunk.webp&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2024/11/bikepunk.webp&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Bikepunk" width="150" /></a>
     </div>
     <div class="review">
-      <h3><strong>BikepunkBikepunk</strong> de <em>Ploum</em></h3>
+      <h3><strong>Bikepunk</strong> de <em>Ploum</em></h3>
       <p>Une fable écolo, avec des vélos… mais aussi une manière de se préparer au grand effondrement.</p>
       <p><a href="/2024/11/ma-critique-de-bikepunk-de-ploum/">Lire ma critique de «&nbsp;Bikepunk&nbsp;»</a></p>
     </div>
@@ -77,7 +77,7 @@ cover2left: true
     </div>
     <div class="review">
       <h3><strong>Ecotopia</strong> de <em>Ernest Callenbach</em></h3>
-      <p>XXX</p>
+      <p>La plus anciennes de ces 10 utopies&nbsp;: le roman est paru en 1975... et pourtant il reste d'une actualité frappante et donne envie de croire à cette alternative joyeuse et durable. L'une des premières oeuvres qui donne envie de croire que l'effondrement n'est pas inéluctable.</p>
       <p><a href="/2018/11/ma-critique-de-ecotopia-dernest-callenbach/">Lire ma critique de «&nbsp;Ecotopia&nbsp;»</a></p>
     </div>
   </li>
@@ -87,26 +87,20 @@ cover2left: true
     </div>
     <div class="review">
       <h3><strong>Le Ministère du futur</strong> de <em>Kim Stanley Robinson</em></h3>
-      <p>XXX.</p>
+      <p>Un roman de <span lang="en">hard science</span> qui imagine la création par l'<abbr>ONU</abbr> d'un «&nbsp;Ministère du futur&nbsp;» qui défendrait les générations à venir, et notamment leur droit à vivre dans un environnement sain. C'est très documenté et plutôt crédible. Il y a juste un peu trop de technosolutionisme à mon goût... mais je retiens aussi la nécessité d'une radicalisation pour faire bouger les choses.</p>
       <p><a href="/2023/10/ma-critique-de-ministry-of-the-future-de-kim-stanley-robinson/">Lire ma critique de «&nbsp;Le Ministère du futur&nbsp;»</a></p>
     </div>
   </li>
   <li class="book">
     <div class="cover">
-      <a class="lightbox" href="/.netlify/images?url=/images/2025/08/tout-pour-tout-le-monde.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/08/tout-pour-tout-le-monde.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de XXX" width="150" /></a>
+      <a class="lightbox" href="/.netlify/images?url=/images/2025/09/un-psaume-pour-les-recycles-sauvages.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/09/un-psaume-pour-les-recycles-sauvages.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Un psaume pour les recyclés sauvages" width="150" /></a>
     </div>
     <div class="review">
-      <h3><strong>Un psaume pour les recyclés sauvages</strong> de <em>Becky Chambers</em></h3>
-      <p>Une utopie à laquelle on a envie de croire, racontée comme un ouvrage documentaire ramené du futur.</p>
-      <p><a href="https://www.6x8.org/2025/08/ma-critique-de-tout-pour-tout-le-monde-de-me-obrien-et-eman-abdelhadi/">Lire ma critique de «&nbsp;Tout pour tout le monde&nbsp;»</a></p>
+      <h3><strong>Un psaume pour les recyclés sauvages</strong> et <strong>Une prière pour les cimes timides</strong> de <em>Becky Chambers</em></h3>
+      <p>Deux novellas qui se suivent. La première <cite>« Pour vous qui avez besoin de souffler »</cite>, la seconde <cite>Pour vous qui ne savez pas où vous allez </cite>. Un lecture réconfortante qui explore un monde post-transition, ayant développé une relation apaisée avec la nature mais aussi une société particuliérement ouverte, tolérante et respectueuse de tous.</p>
+      <p><a href="/2025/09/ma-critique-de-un-psaume-pour-les-recycles-sauvages-de-becky-chambers/">Lire ma critique de «&nbsp;Tout pour tout le monde&nbsp;»</a><br /><a href="/2025/09/ma-critique-de-une-priere-pour-les-cimes-timides-de-becky-chambers/">Lire ma critique de «&nbsp;Tout pour tout le monde&nbsp;»</a></p>
     </div>
   </li>
-  Un psaume pour les recyclés sauvages
-  Une prière pour les cimes timides 
-  Becky Chambers
-  https://www.6x8.org/2025/09/ma-critique-de-un-psaume-pour-les-recycles-sauvages-de-becky-chambers/
-  https://www.6x8.org/2025/09/ma-critique-de-une-priere-pour-les-cimes-timides-de-becky-chambers/
-
   <li class="book">
     <div class="cover">
       <a class="lightbox" href="/.netlify/images?url=/images/2025/10/velorutopia.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/10/velorutopia.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture, sans doute temporaire de Vélorutopia" width="150" /></a>
@@ -119,8 +113,12 @@ cover2left: true
   </li>
 </ol>
 <style>
+ol {
+	counter-reset: listCounter;;
+}
 li.book {
   list-style-type: none;
+  counter-increment: section; 
 }
 li.book .cover {
   flex: 0;
@@ -130,6 +128,5 @@ li.book .cover {
 }
 li.book h3::before {
   content: counter(section) ". ";
-  counter-increment: section; 
 }
 </style>
