@@ -9,10 +9,11 @@ tags:
   - "livre"
   - "ecologie"
   - "velo"
-coverImage: 20191018071809-60764555-me.jpg
-imgWidth: 791
-imgHeight: 541
+coverImage: kyoto.jpg
+imgWidth: 792
+imgHeight: 525
 noImageOnPost: false
+cover2left: true
 ---
 
 <h2>Du déni à l’acceptation</h2>
@@ -32,7 +33,7 @@ noImageOnPost: false
 <ol>
   <li>
     <h3><strong>Vélorutopia</strong> de <em>Tristan Nitot</em></h3>
-    <a class="lightbox" href=""><img src="̈/.netlify/images?url=/images/2025/10/velorutopia.jpg&fit=contain&w=1024&h=1024&format=web#book2right" alt="La couverture, sans doute temporaire de Vélorutopia" ẅidth="915" height="1328" /></a>
+    <a class="lightbox" href=""><img src="̈/.netlify/images?url=/images/2025/10/velorutopia.jpg&fit=contain&w=1024&h=1024&format=webp#book2right" alt="La couverture, sans doute temporaire de Vélorutopia" ẅidth="915" height="1328" /></a>
     
     <p>En dernier… parce que je suis encore en train de le lire… parce que Tristan est en train de le publier, chapitre aprés chapitre, sur son blog. Néanmoins, il a toute sa place ici puisqu’il se propose d’imaginer à quoi ressemblerait le monde s’il prenait pris le virage climatique.</p>
     <p><a href="https://standblog.org/blog/post/2025/09/20/V%C3%A9lorutopia%2C-une-nouvelle-utopique-solarpunk-et-bikepunk-qui-donne-la-p%C3%AAche">Lire Vélorutopia sur le Standblog</a></p>
