@@ -24,11 +24,11 @@ cover2left: true
 <p>Ce qui amène inévitablement à l’étape de la <strong>Dépression</strong>, tant on a vite cette impression de ne pas avoir de prises, de ne pas pouvoir avoir d’impact. Une éco-anxiété qui paralyse, une lucidité aussi, sans doute, sur le fait qu’on aimerait être du bon côté de l’Histoire… mais que cela demande plus que quelques éco-gestes et, qu’en conscience, il va bien falloir faire plus, tant à l’échelle globale qu’individuelle.</p>
 <p>Enfin, la phase d’<strong>Acceptation</strong>, ce que pour ma part j’appelerais plutôt l’<strong>Action</strong>. Un réel engagement, une réelle prise de conscience de la nécessaire convergence des luttes écologiques, politiques, économiques et sociétales. En étant dans l’action, je ne peux pas être sûr que le monde dans lequel vivront mes enfants sera meilleur… mais, au moins, pourrais-je leurs dire que j’ai lutté à mon niveau, que je me suis engagé, pour éviter qu’il ne soit pire.</p>
 
-<h2>Des phases nourries par la littérature d’anticipation.</h2>
+<h2>Des phases nourries par la littérature d’anticipation</h2>
 
-<p>Pourquoi est-ce que je vous dis tout cela&nbsp;? Parce que pour se battre pour un avenir meilleur, il convient de pouvoir l’imaginer. Pour moi, comme bien souvent, ce sont mes lectures qui m’ont nourri et accompagné dans mon cheminement. Je voulais donc aujourd’hui recenser quelques dystopies, ou utopies, qui permettent, grâce à littérature d’anticipation, d’alerter sur l’état de notre monde mais aussi, parfois, de <strong>proposer des futurs désirables</strong> qui sont comme <strong>un carburant pour alimenter nos luttes</strong> (et si en plus, ça implique des vélos, c’est encore mieux&nbsp;!).
+<p>Pourquoi est-ce que je vous dis tout cela&nbsp;? Parce que pour se battre pour un avenir meilleur, il convient de pouvoir l’imaginer. Pour moi, ce sont souvent mes lectures qui me nourrissent et m'accompagnent dans mon cheminement. Je voulais donc aujourd’hui recenser quelques dystopies qui permettent, grâce à la littérature d’anticipation, d’alerter sur l’état de notre monde mais aussi d'<strong>imaginer des futurs désirables</strong> qui sont comme <strong>un carburant pour alimenter nos luttes</strong> (et si en plus, ça implique des vélos, c’est encore mieux&nbsp;!).
 
-<h2>10 utopies écologiques</h2>
+<h2>8 utopies écologiques</h2>
 
 <ol>
   <li class="book">
@@ -98,7 +98,7 @@ cover2left: true
     <div class="review">
       <h3><strong>Un psaume pour les recyclés sauvages</strong> et <strong>Une prière pour les cimes timides</strong> de <em>Becky Chambers</em></h3>
       <p>Deux novellas qui se suivent. La première <cite>« Pour vous qui avez besoin de souffler »</cite>, la seconde <cite>Pour vous qui ne savez pas où vous allez </cite>. Un lecture réconfortante qui explore un monde post-transition, ayant développé une relation apaisée avec la nature mais aussi une société particuliérement ouverte, tolérante et respectueuse de tous.</p>
-      <p><a href="/2025/09/ma-critique-de-un-psaume-pour-les-recycles-sauvages-de-becky-chambers/">Lire ma critique de «&nbsp;Tout pour tout le monde&nbsp;»</a><br /><a href="/2025/09/ma-critique-de-une-priere-pour-les-cimes-timides-de-becky-chambers/">Lire ma critique de «&nbsp;Tout pour tout le monde&nbsp;»</a></p>
+      <p><a href="/2025/09/ma-critique-de-un-psaume-pour-les-recycles-sauvages-de-becky-chambers/">Lire ma critique de «&nbsp;Un psaume pour les recyclés sauvages&nbsp;»</a><br /><a href="/2025/09/ma-critique-de-une-priere-pour-les-cimes-timides-de-becky-chambers/">Lire ma critique de «&nbsp;Une prière pour les cimes timides&nbsp;»</a></p>
     </div>
   </li>
   <li class="book">
