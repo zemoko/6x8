@@ -5,7 +5,6 @@ date: "2025-10-01"
 categories: 
   - "trucs-critiques"
 tags: 
-  - "critique"
   - "livre"
   - "ecologie"
   - "velo"
