@@ -9,7 +9,7 @@ categories:
 tags: 
   - "pixelfed"
   - "strasbourg"
-  - "musée"
+  - "musee"
 coverImage: "musee-zoologique-strasbourg.jpg"
 imgAlt: "Au dessus de l’entrée, une partie de la collection est repartie sur 2 étages et on peut les voir à partir de 2 balcons intérieurs"
 imgWidth: 2016
