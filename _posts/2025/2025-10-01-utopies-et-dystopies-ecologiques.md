@@ -77,7 +77,7 @@ cover2left: true
     </div>
     <div class="review">
       <h3><strong>Ecotopia</strong> de <em>Ernest Callenbach</em></h3>
-      <p>La plus anciennes de ces 10 utopies&nbsp;: le roman est paru en 1975... et pourtant il reste d'une actualité frappante et donne envie de croire à cette alternative joyeuse et durable. L'une des premières oeuvres qui donne envie de croire que l'effondrement n'est pas inéluctable.</p>
+      <p>La plus anciennes de ces utopies&nbsp;: le roman est paru en 1975... et pourtant il reste d'une actualité frappante et donne envie de croire à cette alternative joyeuse et durable. L'une des premières oeuvres qui donne envie de croire que l'effondrement n'est pas inéluctable.</p>
       <p><a href="/2018/11/ma-critique-de-ecotopia-dernest-callenbach/">Lire ma critique de «&nbsp;Ecotopia&nbsp;»</a></p>
     </div>
   </li>
@@ -87,9 +87,8 @@ cover2left: true
     </div>
     <div class="review">
       <h3><strong>Eutopia</strong> de <em>Camille Leboulanger</em></h3>
-      <p>
-      <p>La plus anciennes de ces 10 utopies&nbsp;: le roman est paru en 1975... et pourtant il reste d'une actualité frappante et donne envie de croire à cette alternative joyeuse et durable. L'une des premières oeuvres qui donne envie de croire que l'effondrement n'est pas inéluctable.</p>
-      <p><a href="/2018/11/ma-critique-de-ecotopia-dernest-callenbach/">Lire ma critique de «&nbsp;Ecotopia&nbsp;»</a></p>
+      <p>Une lecture réjouissante qui décrit une utopie écologique post-capitalisme en faisant la synthèse de bon nombre de propositions actuelles, participant ainsi à les rendre crédibles et concrètes. Un exemple parfait pour illustrer en quoi la littérature peut alimenter les luttes actuelles.</p>
+      <p><a href="/2025/11/ma-critique-de-eutopia-de-camille-leboulanger/">Lire ma critique de «&nbsp;Eutopia&nbsp;»</a></p>
     </div>
   </li>
   <li class="book">
