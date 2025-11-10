@@ -28,7 +28,7 @@ cover2left: true
 
 <p>Pourquoi est-ce que je vous dis tout cela&nbsp;? Parce que pour se battre pour un avenir meilleur, il convient de pouvoir l’imaginer. Pour moi, ce sont souvent mes lectures qui me nourrissent et m'accompagnent dans mon cheminement. Je voulais donc aujourd’hui recenser quelques dystopies qui permettent, grâce à la littérature d’anticipation, d’alerter sur l’état de notre monde mais aussi d'<strong>imaginer des futurs désirables</strong> qui sont comme <strong>un carburant pour alimenter nos luttes</strong> (et si en plus, ça implique des vélos, c’est encore mieux&nbsp;!).
 
-<h2>8 utopies écologiques</h2>
+<h2>9 utopies écologiques</h2>
 
 <ol>
   <li class="book">
@@ -77,6 +77,17 @@ cover2left: true
     </div>
     <div class="review">
       <h3><strong>Ecotopia</strong> de <em>Ernest Callenbach</em></h3>
+      <p>La plus anciennes de ces 10 utopies&nbsp;: le roman est paru en 1975... et pourtant il reste d'une actualité frappante et donne envie de croire à cette alternative joyeuse et durable. L'une des premières oeuvres qui donne envie de croire que l'effondrement n'est pas inéluctable.</p>
+      <p><a href="/2018/11/ma-critique-de-ecotopia-dernest-callenbach/">Lire ma critique de «&nbsp;Ecotopia&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2025/11/eutopia.png&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/11/eutopia.png&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Eutopia" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Eutopia</strong> de <em>Camille Leboulanger</em></h3>
+      <p>
       <p>La plus anciennes de ces 10 utopies&nbsp;: le roman est paru en 1975... et pourtant il reste d'une actualité frappante et donne envie de croire à cette alternative joyeuse et durable. L'une des premières oeuvres qui donne envie de croire que l'effondrement n'est pas inéluctable.</p>
       <p><a href="/2018/11/ma-critique-de-ecotopia-dernest-callenbach/">Lire ma critique de «&nbsp;Ecotopia&nbsp;»</a></p>
     </div>
