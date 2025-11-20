@@ -2,8 +2,12 @@
 
 	<div class="lost">
 		<div>
-			<p>Ce blog est celui de <strong>Moko</strong>&nbsp;: <a href="/arnaud-malon.html">Qui suis-je&nbsp;?</a> <a href="/en-ce-moment.html">Que fais-je en ce moment&nbsp;?</a></p>
-			<p>Il contient <strong>{{ site.posts | size }}</strong>&nbsp;billets, tous en licence <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC by-nc-nd</a>. <br />Le plus ancien billet a été publié il y a strong>{% assign myVar='2014-03-28' | date: "%s" %}{{ "now" | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: 24 | round }}</strong>&nbsp;jours.</p>
+			<p>Ce blog est celui de <strong>Moko</strong>&nbsp;:</p>
+			<ul>
+				<li><a href="/arnaud-malon.html">Qui suis-je&nbsp;?</a></li>
+				<li><a href="/en-ce-moment.html">Que fais-je en ce moment&nbsp;?</a></li>
+			</ul>
+			<p>Il contient <strong>{{ site.posts | size }}</strong>&nbsp;billets, tous en licence <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC by-nc-nd</a>. <br />Le plus ancien billet a été publié il y a <strong>{% assign myVar='2014-03-28' | date: "%s" %}{{ "now" | date: "%s" | minus: myVar | divided_by: 3600 | divided_by: 24 | round }}</strong>&nbsp;jours.</p>
 		</div>
 	</div>
 	<div class="social">
