@@ -1,6 +1,6 @@
 ---
 layout: pixelfed
-title: 'Une journée en famille à Europa Park 🥰🎢'
+title: 'Une journée en famille à Europa Park <span aria-hidden=true>🥰🎢</span>'
 date: "2025-12-14"
 categories: 
   - "trucs-pris-en-photo"
