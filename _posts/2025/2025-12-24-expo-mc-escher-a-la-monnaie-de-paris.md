@@ -7,7 +7,6 @@ categories:
 tags: 
   - "expo"
   - "paris"
-/.netlify/images?url=/images/2025/12/escher/IMG_8591.mov&&w=360&format=webp
 coverImage: "escher/IMG_8591.mp4"
 imgAlt: "Une version animée de « Relativité »"
 imgWidth: 928
