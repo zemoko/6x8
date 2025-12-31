@@ -71,10 +71,16 @@ layout: default
       {%- if jekyll.environment == "staging" -%}
         <a href="{{ coverImage }}" class="lightbox"><img src="{{ coverImage }}" alt="" {{imageSize}} /></a>
       {%- else -%}
+        {%- if post.post_video -%}
+      <video controls autoplay muted loop playsinline {{imageSize}}>
+        <source src="/images/{{ post.date | date: "%Y/%m" }}/{{ post.post_video }}" type="video/mp4">
+      </video>
+        {%- else -%}
           <picture>
             <source srcset="/.netlify/images?url={{ coverImage }}&fit=contain&w=1024&h=1024&format=webp" type="image/webp">
             <a href="/.netlify/images?url={{ coverImage }}&fit=contain&w=2048&h=2048&format=webp" class="lightbox"><img src="{{ coverImage }}" alt="" {{imageSize}} fetchpriority="high" /></a>
           </picture>
+        {%- endif -%}
       {%- endif -%}
     {%- endif -%}
         </figure>
