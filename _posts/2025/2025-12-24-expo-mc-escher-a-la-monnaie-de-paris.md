@@ -7,7 +7,7 @@ categories:
 tags: 
   - "expo"
   - "paris"
-coverImage: "escher/IMG_8591.mp4"
+post_video: "escher/IMG_8591.mp4"
 imgAlt: "Une version animée de « Relativité »"
 imgWidth: 928
 imgHeight: 902
