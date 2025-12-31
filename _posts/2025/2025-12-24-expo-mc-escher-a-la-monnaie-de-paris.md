@@ -11,7 +11,7 @@ post_video: "escher/IMG_8591.mp4"
 imgAlt: "Une version animée de « Relativité »"
 imgWidth: 928
 imgHeight: 902
-noImageOnPost: true
+cover2left: true
 carousel: 
   - image: escher/IMG_8560.jpeg
     legend: "Tour de Babel"
