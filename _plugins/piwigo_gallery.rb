@@ -65,4 +65,3 @@ end
 Liquid::Template.register_tag('piwigo_gallery', Jekyll::PiwigoGallery)
 
 
-
