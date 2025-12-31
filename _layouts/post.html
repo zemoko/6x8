@@ -73,7 +73,7 @@ layout: default
       {%- else -%}
         {%- if page.post_video -%}
       <video controls autoplay muted loop playsinline {{imageSize}}>
-        <source src="/images/{{ page.date | date: "%Y/%m" }}/{{ page.post_video }}" type="video/mp4">
+        <source src="{{ imagePath }}/{{ page.post_video }}" type="video/mp4">
       </video>
         {%- else -%}
           <picture>
