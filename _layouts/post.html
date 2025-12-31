@@ -52,7 +52,7 @@ layout: default
         </p>
 {%- endif -%}
       </div>
-{%- if page.coverImage -%}
+{%- if page.coverImage or page.post_video -%}
   {%- unless page.noImageOnPost -%}
     {%- assign imageSize = '' -%}
     {%- if page.imgWidth -%}
