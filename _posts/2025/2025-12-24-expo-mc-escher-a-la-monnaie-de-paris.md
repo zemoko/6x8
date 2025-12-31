@@ -40,7 +40,7 @@ carousel:
   - image: escher/IMG_8588.jpeg
     legend: "Donald Duck, inspiré par MC Escher"
     alt: "Dans cette oeuvre inspirée de Escher, on retrouve les escaliers de « Relativité » mais Donal remplace tous les personnages"
-  - image: escher/IMG_8594.jpeh
+  - image: escher/IMG_8594.jpeg
     legend: "Version néon"
     alt: "Des poissons de différentes tailles forment un motif infini (en version néon, c’est à dire avec des couleurs vibrantes faites pour être vue avec de la lumière noire)"
   - image: escher/IMG_8595.jpeg
