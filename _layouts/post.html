@@ -52,7 +52,7 @@ layout: default
         </p>
 {%- endif -%}
       </div>
-{%- if page.coverImage -%}
+{%- if page.coverImage or page.post_video -%}
   {%- unless page.noImageOnPost -%}
     {%- assign imageSize = '' -%}
     {%- if page.imgWidth -%}
@@ -71,9 +71,9 @@ layout: default
       {%- if jekyll.environment == "staging" -%}
         <a href="{{ coverImage }}" class="lightbox"><img src="{{ coverImage }}" alt="" {{imageSize}} /></a>
       {%- else -%}
-        {%- if post.post_video -%}
+        {%- if page.post_video -%}
       <video controls autoplay muted loop playsinline {{imageSize}}>
-        <source src="/images/{{ post.date | date: "%Y/%m" }}/{{ post.post_video }}" type="video/mp4">
+        <source src="{{ imagePath }}/{{ page.post_video }}" type="video/mp4">
       </video>
         {%- else -%}
           <picture>
