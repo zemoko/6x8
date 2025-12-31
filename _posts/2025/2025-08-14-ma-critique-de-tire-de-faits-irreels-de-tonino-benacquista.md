@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Tiré de faits irréels</strong>» de <em>Tonino Benacquista</em>'
+title: 'Ma critique de «&nbsp;<strong>Tiré de faits irréels</strong>&nbsp;» de <em>Tonino Benacquista</em>'
 date: "2025-08-14"
 categories: 
   - "trucs-critiques"
