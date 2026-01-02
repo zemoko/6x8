@@ -1,6 +1,6 @@
 ---
 layout: review
-title: 'Ma critique de «&nbsp;<strong>Pour une société plus mutuelle</strong>» de <em>Daniel Baal et Nicolas Théry</em>'
+title: 'Ma critique de «&nbsp;<strong>Pour une société plus mutuelle</strong>&nbsp;» de <em>Daniel Baal et Nicolas Théry</em>'
 date: "2025-08-06"
 categories: 
   - "trucs-critiques"
