@@ -39,6 +39,6 @@ gem "webrick", "~> 1.7"
 
 gem "jekyll-mastodon_webfinger", "~> 1.0"
 
-gem 'nokogiri'
+# gem 'nokogiri'
 # gem 'rack', '~> 2.2.4'
 # gem 'rspec'
