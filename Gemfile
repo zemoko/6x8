@@ -22,8 +22,6 @@ group :jekyll_plugins do
   # gem 'jekyll-webp'
 end
 
-source 'https://rubygems.org'
-
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 # platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -42,3 +40,12 @@ gem "jekyll-mastodon_webfinger", "~> 1.0"
 gem 'nokogiri'
 # gem 'rack', '~> 2.2.4'
 # gem 'rspec'
+
+
+
+
+# Fix to https://github.com/gustavos86/gustavos86.github.io/actions/runs/12619484758
+# See https://medium.marktinderholt.com/ruby-3-4-0-vs-my-jekyll-workflow-how-ignored-warnings-came-back-to-bite-me-1489883a9599
+gem "csv"
+gem "base64"
+gem "bigdecimal"
