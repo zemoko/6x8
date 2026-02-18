@@ -11,16 +11,16 @@ imgWidth: 360
 imgHeight: 270
 cover2left: true
 carousel:
-  - image: /images/2020/05/Bernstein/img_4546.jpeg
-  - image: /images/2020/05//Bernstein/img_4552.jpeg
-  - image: /images/2020/05//Bernstein/img_4553.jpeg
-  - image: /images/2020/05//Bernstein/img_4557.jpeg
-  - image: /images/2020/05//Bernstein/img_4562.jpeg
-  - image: /images/2020/05//Bernstein/img_4564.jpeg
-  - image: /images/2020/05//Bernstein/img_4582.jpeg
-  - image: /images/2020/05//Bernstein/img_4586.jpeg
-  - image: /images/2020/05//Bernstein/img_4587.jpeg
-  - image: /images/2020/05//Bernstein/img_4589.jpeg
+  - image: Bernstein/img_4546.jpeg
+  - image: Bernstein/img_4552.jpeg
+  - image: Bernstein/img_4553.jpeg
+  - image: Bernstein/img_4557.jpeg
+  - image: Bernstein/img_4562.jpeg
+  - image: Bernstein/img_4564.jpeg
+  - image: Bernstein/img_4582.jpeg
+  - image: Bernstein/img_4586.jpeg
+  - image: Bernstein/img_4587.jpeg
+  - image: Bernstein/img_4589.jpeg
 ---
 
 Premier week-end post-déconfinement, temps splendide... On ne pouvait pas laisser passer cette chance.
