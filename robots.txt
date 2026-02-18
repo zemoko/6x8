@@ -1,0 +1,5 @@
+---
+layout: null
+sitemap: false
+---
+Sitemap: https://www.6x8.org/sitemap.xml
