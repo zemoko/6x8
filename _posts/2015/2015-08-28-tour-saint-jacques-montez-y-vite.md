@@ -26,8 +26,8 @@ Plus que des mots, voici des photos qui vous donne une idée de la visite... et 
 <li class="splide__slide"><img src="/images/2015/08/DSC00778.jpg" alt="Blaise Pascal"></li>
 <li class="splide__slide"><img src="/images/2015/08/DSC00781.jpg" alt="Tour Saint Jacques"></li>
 <li class="splide__slide"><img src="/images/2015/08/DSC00783.jpg" alt="Ce qu'il reste de la station météorologique parisienne"></li>
-<li class="splide__slide"><img src="/images/DSC00785.jpg" alt="Vue de la Tour Saint Jacques"></li>
-<li class="splide__slide"><img src="/images/2015/08/2015/08/DSC00786.jpg" alt="Vue de la Tour Saint Jacques - Notre-Dame"></li>
+<li class="splide__slide"><img src="/images/2015/08/DSC00785.jpg" alt="Vue de la Tour Saint Jacques"></li>
+<li class="splide__slide"><img src="/images/2015/08/DSC00786.jpg" alt="Vue de la Tour Saint Jacques - Notre-Dame"></li>
 <li class="splide__slide"><img src="/images/2015/08/DSC00787.jpg" alt="Vue de la Tour Saint Jacques - La Conciergerie"></li>
 <li class="splide__slide"><img src="/images/2015/08/DSC00788.jpg" alt="Vue de la Tour Saint Jacques - Le Louvre, la rue de Rivoli"></li>
 <li class="splide__slide"><img src="/images/2015/08/DSC00789.jpg" alt="Vue de la Tour Saint Jacques - Ouest"></li>
