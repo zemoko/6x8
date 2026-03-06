@@ -11,6 +11,7 @@ tags:
   - "expo"
   - "strasbourg"
 coverImage: "ososphere.jpg"
+cover2left: true
 imgAlt: "Une œuvre montrant des enregistrements de l’activité solaire "
 imgWidth: 640
 imgHeight: 480
