@@ -8,6 +8,7 @@ tags:
   - "mastodon"
   - "miam"
 coverImage: "roro-10-ans-wednesday.jpg"
+cover2left: true
 imgAlt: "Gâteau sur le thème « Mercredi Addams », représentant la fenêtre de la chambre de Mercredi et d’Enid"
 imgWidth: 1512
 imgHeight: 2016
