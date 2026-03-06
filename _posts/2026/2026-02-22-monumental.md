@@ -9,6 +9,7 @@ tags:
   - "mastodon"
   - "j2s"
 coverImage: "monumental.jpg"
+cover2left: true
 imgAlt: "Un gâteau d’anniversaire, couvert de pâte à sucre noire avec un texte rouge « Stranger Things » ainsi qu’une guirlande autour."
 imgWidth: 640
 imgHeight: 480
