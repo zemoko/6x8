@@ -7,7 +7,7 @@ categories:
 tags: 
   - "pixelfed"
   - "miam"
-coverImage: "stranger-things.jpg"
+coverImage: "roro-10-ans-wednesday.jpg"
 imgAlt: "Un gâteau recouvert de pâte à sucre gris, avec la chose (également en pâte à sucre) au-dessus."
 imgWidth: 1512
 imgHeight: 2016
