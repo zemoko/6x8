@@ -7,10 +7,10 @@ categories:
 tags: 
   - "pixelfed"
   - "miam"
-coverImage: "roro-10-ans-wednesday.jpg"
+coverImage: "roro-10-ans-la-chose.jpg"
 imgAlt: "Un gâteau recouvert de pâte à sucre gris, avec la chose (également en pâte à sucre) au-dessus."
-imgWidth: 1512
-imgHeight: 2016
-pixelfed: "roro-10-ans-wednesday.jpg"
+imgWidth: 2142
+imgHeight: 2856
+pixelfed: "roro-10-ans-la-chose.jpg"
 pixellink: "https://pixelfed.social/p/zemoko/935993721751836235"
 ---
