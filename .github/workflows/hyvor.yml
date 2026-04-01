@@ -8,7 +8,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v5
     - name: Getting
       uses: fjogeleit/http-request-action@master
       id: myRequest
@@ -16,8 +16,8 @@ jobs:
         url: 'https://talk.hyvor.com/api/data/v1/pages?website_id=${{ secrets.HYVOR_WEBSITEID }}&api_key=${{ secrets.HYVOR_APIKEY }}&limit=10&sort=reactions_count'
         method: 'GET'
     - name: Create A File
-      uses: 1arp/create-a-file-action@0.2
+      uses: 1arp/create-a-file-action@0.4.5
       with:
         path: '_data'
         file: 'reactions.json'
-        content: '${{steps.myRequest.outputs.response}}'
+        content: ${{steps.myRequest.outputs.response}}
