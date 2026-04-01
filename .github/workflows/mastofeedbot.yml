@@ -24,7 +24,7 @@ jobs:
         uses: 'joschi/mastofeedbot@v1'
         with:
           # This is the RSS feed you want to publish
-          rss-feed: https://www.6x8.org/feed.xml
+          rss-feed: https://www.6x8.org/shortfeed.xml
           # Template of status posted to Mastodon (Handlebars)
           template: |
             {{item.title}}
