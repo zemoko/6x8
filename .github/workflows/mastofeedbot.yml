@@ -35,7 +35,7 @@ jobs:
           # Mark Mastodon status as sensitive content
           sensitive: false
           # This is your instance address
-          api-endpoint: https://mamot.fr
+          api-endpoint: https://piaille.fr
           # This is the secret you created earlier
           api-token: ${{ secrets.MASTODON_TOKEN }}
           # This is a path to the cache file, using the above cache path
