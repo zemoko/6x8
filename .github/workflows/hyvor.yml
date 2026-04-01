@@ -20,4 +20,4 @@ jobs:
       with:
         path: '_data'
         file: 'reactions.json'
-        content: ${{steps.myRequest.outputs.response}}
+        content: '${{steps.myRequest.outputs.response}}'
