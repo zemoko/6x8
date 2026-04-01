@@ -1,8 +1,9 @@
 name: FeedBot
 on:
-  schedule:
+  workflow_dispatch:
+  #schedule:
     # This will run every five minutes. Alter it using https://crontab.guru/.
-    - cron: '*/5 * * * *'  
+    #- cron: '*/5 * * * *'  
 jobs:
   rss-to-mastodon:
     runs-on: ubuntu-latest
