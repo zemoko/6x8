@@ -15,7 +15,7 @@
         <info>{{ nowdate }}</info>
         {% for post in site.posts limit:10 %}
             {% capture postdate %}{{ post.date | date_to_rfc822 }}{% endcapture %}        
-            {% if nowdate = postdate  %}
+            {% if nowdate == postdate  %}
             <item>
                 <title>{{ post.title | replace:'&amp;nbsp;',' ' | replace:'&nbsp;',' ' | strip_html | xml_escape }}</title>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
