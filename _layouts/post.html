@@ -14,7 +14,7 @@ layout: default
           <span class="sr-only" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
             {% include locale-date.html %}
           </span>
-          <time class="dt-published" datetime="{{ page.datemaj | date_to_xmlschema }}" itemprop="datePModified">
+          <time class="dt-published" datetime="{{ page.datemaj | date_to_xmlschema }}" itemprop="dateModified">
             {% include locale-datemaj.html %}
           </time>
   {%- else -%}
