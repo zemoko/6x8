@@ -1,5 +1,5 @@
 ---
-
+title: "Une page au hasard"
 ---
 
 <script type="text/javascript">
