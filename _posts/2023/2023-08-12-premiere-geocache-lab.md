@@ -10,7 +10,7 @@ tags:
   - "mastodon"
   - "normandie"
   - "geocaching"
-coverImage: "99662ff175c862b3.jpeg"
+coverImage: "99662ff175c862b3.jpg"
 imgWidth: 1024
 imgHeight: 768
 cover2left: true
