@@ -10,5 +10,6 @@ tags:
 coverImage: escapade-a-provins.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur la ville de Provins"
 instagram: BSHBO52jKlh
 ---
