@@ -10,5 +10,6 @@ tags:
 coverImage: Jaime-trop-mon-cadeau-de-Noel-lego-DrWho.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des photos de mon set Lego Dr Who"
 instagram: _6-UdZymbC
 ---
