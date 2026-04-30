@@ -10,5 +10,6 @@ tags:
 coverImage: Saint-Nicolas-peut-passer-Samuel-a-bien-pense-a-lui-et-a-son-ane-avant-daller-se-coucher-carotte-lai.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Photo d’un verre de lait et d’une carotte"
 instagram: -7DS2SymW7
 ---
