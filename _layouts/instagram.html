@@ -39,7 +39,7 @@ layout: default
         </p>
       </div>
       <figure class="instagram">
-        <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)">
+        <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)" aria-label="Ouvrir sur Instagram (dans une nouvelle fenêtre)">
 {%- assign imageSize = '' -%}
 {%- if page.imgWidth -%}
   {% capture imageSize %}width="{{ page.imgWidth }}"{% endcapture %}
