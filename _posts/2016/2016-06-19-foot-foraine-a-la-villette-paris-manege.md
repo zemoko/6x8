@@ -10,5 +10,6 @@ tags:
 coverImage: Foot-Foraine-a-la-villette-paris-manege.jpg
 imgWidth: 360
 imgHeight: 249
+imgAlt: "La manège est en pleine action, on voit les chaises voler très haut"
 instagram: BG2YKwhymbq
 ---
