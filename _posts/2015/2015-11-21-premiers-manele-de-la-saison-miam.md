@@ -10,5 +10,6 @@ tags:
 coverImage: Premiers-Manele-de-la-saison-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une série de manele décorés de différentes manières"
 instagram: -WtIOOymUm/
 ---
