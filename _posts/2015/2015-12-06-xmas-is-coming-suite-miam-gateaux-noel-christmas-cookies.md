@@ -11,5 +11,6 @@ tags:
 coverImage: Xmas-is-coming-suite-miam-gateaux-noel-christmas-cookies.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Plein d’assiettes de petits gateaux"
 instagram: -9bFigSmVK
 ---
