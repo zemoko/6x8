@@ -1,7 +1,6 @@
 ---
 layout: instagram
 title: "PA_1266 AND MY GAME IS... #spaceinvader #invader #paris #streetart"
-description:  'Les mosaïques d’Invader envahissent les murs de nos villes depuis plus de 20 ans… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et sur ce blog depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.'
 date: "2017-07-29"
 categories: 
   - "trucs-instagrammes"
@@ -13,6 +12,7 @@ tags:
 coverImage: pa_1266-and-my-game-is...-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Invader s’est lui-même représenté, masqué et transportant une échelle, à côté d’un space invader évidemment"
 instagram: BXItd8Dg-uw
 ---
 
