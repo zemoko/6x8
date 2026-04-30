@@ -12,6 +12,7 @@ tags:
 coverImage: spaceinvader-falseinvader-Paris-totoro.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit totoro en mosaique au-dessus de la plaque de la rue des Innocents"
 instagram: BA1wZYbymVw
 ---
 
