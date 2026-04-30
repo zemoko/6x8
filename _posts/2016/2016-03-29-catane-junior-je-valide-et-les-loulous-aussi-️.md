@@ -10,5 +10,6 @@ tags:
 coverImage: Catane-Junior-je-valide-et-les-loulous-aussi-️.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue du plaeau de Catane Junior"
 instagram: BDi3zQiSmYc
 ---
