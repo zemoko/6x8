@@ -13,5 +13,6 @@ tags:
 coverImage: Mythes-fondateurs-dHercule-a-DarkVador.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le Casque de Dark Vador"
 instagram: _kRFeCymfL
 ---
