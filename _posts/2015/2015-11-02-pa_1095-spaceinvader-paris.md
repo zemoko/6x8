@@ -12,6 +12,7 @@ tags:
 coverImage: PA_1095-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux petits space invaders au-dessus d’une enseigne « Cave »"
 instagram: 9lLX9VymTw
 ---
 
