@@ -10,5 +10,6 @@ tags:
 coverImage: pereire-ceinture.-via-ferrata.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Sur la petite ceinture, un conteneur porte une grande enseigne disant « Petite ceinture Via ferrata »"
 instagram: BLobDfTD7oD
 ---
