@@ -12,5 +12,6 @@ tags:
 coverImage: PA_1183-spaceinvader-sur-le-chemin-de-la-maternite.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader rouge dans une bulle blanche"
 instagram: BCSaJcnSmbs
 ---
