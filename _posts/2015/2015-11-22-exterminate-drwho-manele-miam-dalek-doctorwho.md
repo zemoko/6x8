@@ -10,5 +10,6 @@ tags:
 coverImage: EXTERMINATE-DrWho-Manele-miam-dalek-doctorwho.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un dalek veux exterminer un manele"
 instagram: YgoxdSmdN/
 ---
