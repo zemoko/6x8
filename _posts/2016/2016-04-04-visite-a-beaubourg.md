@@ -11,5 +11,6 @@ tags:
 coverImage: Visite-a-Beaubourg.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une des oeuvres présentés sur les terrasses du Centre Pompidou"
 instagram: BDyBhBkymfQ
 ---
