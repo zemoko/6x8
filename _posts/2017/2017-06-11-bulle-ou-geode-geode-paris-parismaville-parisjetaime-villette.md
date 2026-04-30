@@ -10,5 +10,6 @@ tags:
 coverImage: bulle...-ou-geode-geode-paris-parismaville-parisjetaime-villette.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue de la Géode qui reflète le ciel et les nuages"
 instagram: BVNGHSpDaRE
 ---
