@@ -10,5 +10,6 @@ tags:
 coverImage: seminaire-a-la-piscine.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur le musée de la Piscine à Roubaix"
 instagram: BLghzfOjKs8
 ---
