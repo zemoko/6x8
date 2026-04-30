@@ -11,5 +11,6 @@ tags:
 coverImage: mouais...-elle-est-pas-mal-cette-ville-quand-meme.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue de nuit de la Cathédrale de Strasbourg"
 instagram: BZmG9rhDO32
 ---
