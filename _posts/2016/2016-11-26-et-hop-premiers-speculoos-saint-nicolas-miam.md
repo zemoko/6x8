@@ -11,5 +11,6 @@ tags:
 coverImage: et-hop-premiers-speculoos-saint-nicolas-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des speculoos maison en forme de St Nicolas"
 instagram: BNSKFUXDlET
 ---
