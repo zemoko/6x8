@@ -10,5 +10,6 @@ tags:
 coverImage: non-toujours-rien...-vacances-royan-royan1950.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le front de mer de Royan"
 instagram: BSybBRsj80Pnon-toujours-rien...-vacances-royan-royan1950.jpg
 ---
