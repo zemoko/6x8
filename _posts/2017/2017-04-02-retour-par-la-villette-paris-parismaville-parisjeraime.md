@@ -10,5 +10,6 @@ tags:
 coverImage: retour-par-la-villette-paris-parismaville-parisjeraime.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur un arbre en fleurs"
 instagram: BSY6iyADxTD
 ---
