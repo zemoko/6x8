@@ -10,5 +10,6 @@ tags:
 coverImage: vacances-o.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Le Bassin de la Villet avec les activités de Paris Plage"
 instagram: BXXxwO6gbwN
 ---
