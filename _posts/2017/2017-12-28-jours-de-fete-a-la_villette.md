@@ -10,5 +10,6 @@ tags:
 coverImage: jours-de-fete-a-@la_villette.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Le manège de la villette en pleine action (et de nuit)"
 instagram: BdQSI4fge_b
 ---
