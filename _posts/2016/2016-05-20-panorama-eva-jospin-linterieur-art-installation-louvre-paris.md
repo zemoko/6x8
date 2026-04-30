@@ -12,5 +12,6 @@ tags:
 coverImage: Panorama-Eva-Jospin-linterieur-art-installation-louvre.-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "À l’intérieur de l‘installation, on trouve des racines aux murs"
 instagram: BFoEhtESmeK
 ---
