@@ -10,5 +10,6 @@ tags:
 coverImage: Les-3-petits-cochons-on-valide-aussi.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue du jeu des 3 petits cochons"
 instagram: BDi4GI8ymZB
 ---
