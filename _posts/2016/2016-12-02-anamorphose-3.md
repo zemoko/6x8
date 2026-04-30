@@ -11,6 +11,7 @@ tags:
 coverImage: anamorphose-3.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Enfin, de ce point de vue, on voit une forme orange sur les murs"
 instagram: BNg8VbiDqsX
 ---
 
