@@ -11,6 +11,7 @@ tags:
 coverImage: Anamorphose-au-Louvre.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Sur cette photo du Louvre, on peut voir la Pyramide mais avec une image collée dessus représentant les batiments derrière elle, mais en noir et blanc"
 instagram: BF1g_mESmf2
 ---
 
