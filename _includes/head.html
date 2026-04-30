@@ -12,7 +12,11 @@
 		{%- if page.description -%}
 		<meta name="description" content="{{ page.description | strip_html  }}" />
 		{%- else  -%}
+			{%- if page.layout == "instagram" or page.layout == "pixelfed" -%}
+		<meta name="description" content="{{ page.imgAlt }}" />
+			{%- else  -%}
 		<meta name="description" content="{{ page.excerpt | strip_html  }}" />
+			{%- endif  -%}
 		{%- endif  -%}
 		<meta property="fediverse:creator" content="@zemoko@mamot.fr" />
 		<meta property="og:title" content="{{ page.title | strip_html }}" />
