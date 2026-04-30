@@ -10,5 +10,6 @@ tags:
 coverImage: un-anniversaire-de-chevalier-ca-se-prepare-miam.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Des blasons en forme de boucliers de chevalerie (et décorés comme tels)"
 instagram: BPiITU1DPCp
 ---
