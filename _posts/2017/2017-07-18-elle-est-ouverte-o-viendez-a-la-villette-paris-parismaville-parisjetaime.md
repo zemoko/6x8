@@ -10,5 +10,6 @@ tags:
 coverImage: elle-est-ouverte-o-viendez-a-la-villette-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "La piscine est dans le Bassin de la Villette"
 instagram: BWrXWIEAPuw
 ---
