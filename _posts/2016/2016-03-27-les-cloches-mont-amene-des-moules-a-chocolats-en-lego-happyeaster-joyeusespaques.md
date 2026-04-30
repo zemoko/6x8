@@ -10,5 +10,6 @@ tags:
 coverImage: Les-cloches-mont-amene-des-moules-a-chocolats-en-Lego-happyeaster-joyeusespaques.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des petits chocolats maison en forme de briques Lego"
 instagram: BDdmRJeymYr
 ---
