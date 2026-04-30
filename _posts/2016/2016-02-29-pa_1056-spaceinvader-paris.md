@@ -12,5 +12,6 @@ tags:
 coverImage: PA_1056-spaceinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre en mosaique en forme d’étoile"
 instagram: BCX4CrmymZI
 ---
