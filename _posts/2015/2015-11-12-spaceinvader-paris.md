@@ -12,5 +12,6 @@ tags:
 coverImage: spaceinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader"
 instagram: 9_xQQEymZb
 ---
