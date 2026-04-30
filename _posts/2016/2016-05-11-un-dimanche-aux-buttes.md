@@ -10,5 +10,6 @@ tags:
 coverImage: Un-dimanche-aux-buttes.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur une prairie des Buttes Chaumont avec, au loin, des groupes de gens étendus sur l’herbe"
 instagram: BFRwfzJSmYR
 ---
