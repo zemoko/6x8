@@ -11,5 +11,6 @@ tags:
 coverImage: c’etait-bien-cool-le-village-des-jeux-on-repart-avec-des-qixels-merci-@asmodee_fr.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des enfants en pleine activité créative au village des jeux"
 instagram: BXn4orUAd5X
 ---
