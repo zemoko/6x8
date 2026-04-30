@@ -10,5 +10,6 @@ tags:
 coverImage: Escapade-a-Londres.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un rideau de petits papiers à la gare"
 instagram: 9B6OmuymVz
 ---
