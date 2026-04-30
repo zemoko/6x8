@@ -11,5 +11,6 @@ tags:
 coverImage: Cetait-pas-prevu...-Mais-lexpo-«-ma-samaritaine-2015-»-est-vraiment-chouette-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue en contreplongée sur une des cages d’escalier de la Samaritaine"
 instagram: 9gOPZkymQ8
 ---
