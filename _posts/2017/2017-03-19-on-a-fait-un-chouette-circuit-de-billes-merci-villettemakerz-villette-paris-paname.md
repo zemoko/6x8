@@ -12,5 +12,6 @@ coverImage: on-a-fait-un-chouette-circuit-de-billes-merci-@villettemakerz-villet
 post_video: 17387473_616898875186501_973135990367453184_n.mp4
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Notre circuit de billes vu du dessus"
 cover2left: true
 ---
