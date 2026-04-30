@@ -10,5 +10,6 @@ tags:
 coverImage: tout-eiffel-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue en contreplongée de la Tour Eiffel"
 instagram: BaooxDzgqxf
 ---
