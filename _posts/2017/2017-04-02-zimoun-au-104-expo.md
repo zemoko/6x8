@@ -13,5 +13,6 @@ coverImage: zimoun-au-104-expo.jpg
 post_video: 17745430_1960694654163409_4890878653811916800_n.mp4
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Installation d’un ensemble de bétoneuses dans la cour du 104"
 cover2left: true
 ---
