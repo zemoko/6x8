@@ -1,0 +1,16 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{%- assign pages = site.posts -%}
+{%- for page in pages -%}
+  <url>
+    <loc>https://www.6x8.org{{ page.url | downcase }}</loc>
+    <image:image>
+      <image:loc>https://www.6x8.org/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}</image:loc>
+    </image:image>
+  </url>
+{%- endfor -%}
+</urlset>
