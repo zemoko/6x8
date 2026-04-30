@@ -10,5 +10,6 @@ tags:
 coverImage: un-matin-au-bassin-paris-bassindelavillette-natation-taichi-ecluse-fluctuat.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Collage de photos du Bassin de la Villette"
 instagram: BYk0sq7DMTG
 ---
