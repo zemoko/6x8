@@ -10,5 +10,6 @@ tags:
 coverImage: 12142193_1491734354486765_256116984_n.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gateau d’anniversaire avec un macareux, une chauve-souris et de petits oursons"
 instagram: 8qXv87SmTd
 ---
