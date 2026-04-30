@@ -10,5 +10,6 @@ tags:
 coverImage: La-nouvelle-Seine-paris-parismaville-crue-seine-flood.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur la Seine et sur Notre-Dame lors de la grande crue"
 instagram: BGJmUFVSmUh
 ---
