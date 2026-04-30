@@ -10,5 +10,6 @@ tags:
 coverImage: cest-officiel-il-fait-froid-️️️-paris-parismaville-parisjetaime-villette.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Le Bassin de la Villette entièrement gelé"
 instagram: BPmXvbFjf5Q
 ---
