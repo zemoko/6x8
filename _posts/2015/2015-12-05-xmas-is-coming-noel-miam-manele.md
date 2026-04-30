@@ -11,5 +11,6 @@ tags:
 coverImage: Xmas-is-coming-noel-miam-manele.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux assiettes avec des manele dessus"
 instagram: -7QLAzSmSD
 ---
