@@ -10,5 +10,6 @@ tags:
 coverImage: Quand-il-ne-fait-pas-beau-on-fait-des-petits-gateaux-totoro-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des petits gâteaux en forme de petits Totoro"
 instagram: BBuwUkwymVX
 ---
