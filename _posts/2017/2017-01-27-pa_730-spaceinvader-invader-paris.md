@@ -12,5 +12,6 @@ tags:
 coverImage: pa_730-spaceinvader-invader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un Space invader bleu à côté d’une fenêtre"
 instagram: BPxmUEADCh-
 ---
