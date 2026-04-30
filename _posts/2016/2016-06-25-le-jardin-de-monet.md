@@ -9,5 +9,6 @@ tags:
 coverImage: Le-jardin-de-Monet.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Dans le jardin de Monet, un étang et des nénuphars"
 instagram: BHFYQOMhYgB
 ---
