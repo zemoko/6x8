@@ -11,5 +11,6 @@ tags:
 coverImage: Royan-architecture-royan1950-1.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Détails d’architecture 1950 sur le front de mer"
 instagram: BEYO0dXymao
 ---
