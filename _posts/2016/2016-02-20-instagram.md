@@ -10,6 +10,6 @@ tags:
 coverImage: aquarium.jpg
 imgWidth: 360
 imgHeight: 360
-imgAlt: "Un des aquarium"
+imgAlt: "Des poissons tropicaux dans un aquarium"
 instagram: BCBIllsSmbY
 ---
