@@ -12,5 +12,6 @@ tags:
 coverImage: PA_1154-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader tricolore place de la République"
 instagram: _WuNwlymaO
 ---
