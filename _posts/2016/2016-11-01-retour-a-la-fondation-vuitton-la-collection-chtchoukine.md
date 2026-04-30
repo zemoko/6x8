@@ -12,6 +12,7 @@ tags:
 coverImage: "IMG_0845.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue de la terrasse de la Fondation Vuitton. Au-delà du bois, on aperçoit les tours de la Défense."
 cover2left: true
 ---
 
