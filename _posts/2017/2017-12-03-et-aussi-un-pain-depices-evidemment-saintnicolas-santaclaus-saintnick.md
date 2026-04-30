@@ -11,5 +11,6 @@ tags:
 coverImage: et-aussi-un-pain-d’epices-evidemment-saintnicolas-santaclaus-saintnick.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gros pain d’épices de St Nicolas sur un plateau"
 instagram: BcPju51gDAT
 ---
