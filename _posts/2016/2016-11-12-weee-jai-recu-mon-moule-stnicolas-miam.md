@@ -11,5 +11,6 @@ tags:
 coverImage: weee-jai-recu-mon-moule-stnicolas-miam.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "Un moule en bois pour faire des Saint Nicolas en pain d’épices"
 instagram: BMtm5vnD1TT
 ---
