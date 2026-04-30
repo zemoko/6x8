@@ -11,6 +11,7 @@ tags:
 coverImage: Je-crois-que-cest-la-maison-de-vacances-de-Spirou-et-Fantasio-Royan-Architecture-Annees50-fifties.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Photo de la ville de la Perrinière, résolument moderne et colorée"
 instagram: BIK-yk6Ahii
 ---
 
