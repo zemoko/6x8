@@ -1,7 +1,6 @@
 ---
 layout: instagram
 title: "Un false invader à Strasbourg ! #streetart #spaceinvader #falseinvader"
-description:  'Les mosaïques d’Invader envahissent les murs de nos villes depuis plus de 20 ans… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et sur ce blog depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.'
 date: "2017-12-06"
 categories: 
   - "trucs-instagrammes"
@@ -13,6 +12,7 @@ tags:
 coverImage: un-false-invader-a-strasbourg-streetart-spaceinvader-falseinvader.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre en mosaique représentant un champignon Mario"
 instagram: BcX6ph3AHJZ
 ---
 
