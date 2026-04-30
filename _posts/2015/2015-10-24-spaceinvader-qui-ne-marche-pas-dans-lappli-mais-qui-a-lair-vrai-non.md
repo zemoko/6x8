@@ -11,5 +11,6 @@ tags:
 coverImage: spaceinvader-qui-ne-marche-pas-dans-lappli-mais-qui-a-lair-vrai-non.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre en mosaique sur un mur parisien"
 instagram: 9OFFhxymQh
 ---

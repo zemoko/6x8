@@ -10,5 +10,6 @@ tags:
 coverImage: Superrat-paris-superman-superhero.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un rat ouvrant sa fourure, montrant un costume de Superman en-dessous"
 instagram: BC-oSKnSmV7
 ---

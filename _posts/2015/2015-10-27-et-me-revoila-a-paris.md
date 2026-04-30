@@ -10,5 +10,6 @@ tags:
 coverImage: Et-me-revoila-a-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Photo prise de lors de l’arrivée nocturne de l’avion pour Paris"
 instagram: 9WleiSSmRf
 ---

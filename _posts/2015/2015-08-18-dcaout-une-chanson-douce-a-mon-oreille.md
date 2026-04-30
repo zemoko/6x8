@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "#DCaout : une #chanson douce à mon oreille..."
+description: "Le son d’une échographie"
 date: "2015-08-18"
 categories: 
   - "trucs-de-geek"
@@ -10,6 +11,7 @@ tags:
 coverImage: "IMG_0215.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Photo d’un bébé avec une chouette sur son body orange"
 cover2left: true
 ---
 

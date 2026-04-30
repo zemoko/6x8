@@ -11,6 +11,7 @@ tags:
 coverImage: Un-peu-plus-a-gauche-anamorphose-louvre-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Quand on est pas aligné (sur la perspective historique), on voit bien l’image collée sur la Pyramide"
 instagram: BF13yc1SmZ-
 ---
 

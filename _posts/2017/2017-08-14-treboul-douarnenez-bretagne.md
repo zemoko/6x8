@@ -11,5 +11,6 @@ tags:
 coverImage: treboul-douarnenez-bretagne.jpg
 imgWidth: 360
 imgHeight: 203
+imgAlt: "Image retouchée de la plage de Tréboul"
 instagram: BXxxooCA14V
 ---

@@ -10,5 +10,6 @@ tags:
 coverImage: A-Royan-le-violon-est-sur-le-sable-violonsurlesable.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "La scène du Violon sur le sable"
 instagram: BINj6JVg7O5
 ---

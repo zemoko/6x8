@@ -10,5 +10,6 @@ tags:
 coverImage: Sous-la-Canopee-paris-ParisMaVille.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Une vue de la Canopée avec un beau ciel bleu derrière"
 instagram: BD38F44SmU7
 ---

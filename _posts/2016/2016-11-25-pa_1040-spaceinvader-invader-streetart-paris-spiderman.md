@@ -12,6 +12,7 @@ tags:
 coverImage: pa_1040-spaceinvader-invader-streetart-paris-spiderman.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Au-dessus des toits de Paris, on peut voir cette oeuvre d’invader représentant Spiderman"
 instagram: BNPCFPIDoSs
 ---
 

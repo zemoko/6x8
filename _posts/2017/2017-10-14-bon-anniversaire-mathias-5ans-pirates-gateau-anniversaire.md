@@ -10,5 +10,6 @@ tags:
 coverImage: bon-anniversaire-mathias-5ans-pirates-gateau-anniversaire.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Gâteau d’annviersaire représentant un poisson et une peuvre dans la mer, et un oiseau sur une île"
 instagram: BaOtKN_A_vJ
 ---

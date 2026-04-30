@@ -10,5 +10,6 @@ tags:
 coverImage: Vautour-Provins-lesAiglesDesRemparts.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un vautour en plein vol"
 instagram: BFcEVOhymcG
 ---

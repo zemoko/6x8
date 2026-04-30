@@ -10,5 +10,6 @@ tags:
 coverImage: la-colonne-de-la-bastille-comme-vous-ne-lavez-jamais-vu-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue de nuit sut la colonne de la Bastille"
 instagram: BOU9uNoj8Aj
 ---

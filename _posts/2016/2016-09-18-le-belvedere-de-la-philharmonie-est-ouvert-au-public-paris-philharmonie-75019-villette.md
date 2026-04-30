@@ -10,5 +10,6 @@ tags:
 coverImage: le-belvedere-de-la-philharmonie-est-ouvert-au-public-paris-philharmonie-75019-villette.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le parc de la Villette, pris du belvédère de la Philarmonie"
 instagram: BKgDoCWhJwB
 ---

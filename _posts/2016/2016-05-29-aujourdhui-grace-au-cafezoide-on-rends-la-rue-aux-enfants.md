@@ -10,5 +10,6 @@ tags:
 coverImage: Aujourdhui-grace-au-Cafezoide-on-rends-la-rue-aux-enfants.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un panneau jaune « Route qui se rétrécit » avec du socth collé dessus pour que ça représente un bonhomme"
 instagram: BF_LQFsSmZK
 ---

@@ -10,5 +10,6 @@ tags:
 coverImage: et-du-coup-une-tarte-soleil-au-pesto-miam-remiam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une tarte soleil aux deux pestos"
 instagram: BMPQ5qgDhlq
 ---

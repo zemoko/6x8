@@ -11,5 +11,6 @@ tags:
 coverImage: Encore-Beaubourg.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue de la terrasse du centre Poumpidou"
 instagram: BDyzE_XymWt
 ---

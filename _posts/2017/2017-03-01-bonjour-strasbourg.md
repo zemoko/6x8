@@ -12,6 +12,7 @@ tags:
 coverImage: bonjour-strasbourg-nd.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "Vue en contreplongée sur la Cathédrale de Strasbourg"
 instagram: BRGtefjDi4G
 ---
 

@@ -12,5 +12,6 @@ tags:
 coverImage: pa_775-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Un space invader sur une disquette, sur un mur de Paris"
 instagram: BLQtenxjutp
 ---

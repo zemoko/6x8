@@ -10,5 +10,6 @@ tags:
 coverImage: je-crois-que-je-ne-m’en-lasserais-jamais-colons-de-catane-catan-boardgames.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue du plateau de Catane (avec l’extension Marins)"
 instagram: Bb67CbeAMUJ
 ---

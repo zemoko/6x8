@@ -12,5 +12,6 @@ coverImage: fini-le-ski-mais-on-rentre-plein-contents-de-notre-super-semaine.jpg
 post_video: 16785894_1848470548737969_105388984091279360_n.mp4
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un télésiège de Chatel"
 cover2left: true
 ---

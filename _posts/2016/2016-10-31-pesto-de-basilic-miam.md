@@ -10,5 +10,6 @@ tags:
 coverImage: pesto-de-basilic-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Du pesto de basilic maison dans un bol iranien vert avec des dessins de poissons"
 instagram: BMOtwtCDV49
 ---

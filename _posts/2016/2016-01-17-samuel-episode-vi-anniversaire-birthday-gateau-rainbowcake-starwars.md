@@ -10,5 +10,6 @@ tags:
 coverImage: Samuel.-Episode-VI.-anniversaire-birthday-gateau-rainbowcake-starwars.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gros gâteau Starwars pour Samuel"
 instagram: BApgAzBSmYo
 ---

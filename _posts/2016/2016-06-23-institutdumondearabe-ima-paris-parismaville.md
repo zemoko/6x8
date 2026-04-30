@@ -10,5 +10,6 @@ tags:
 coverImage: institutdumondearabe-IMA-paris-parismaville.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue en détail d’un des moucharabiehs de l’Institut du Monde Arabe"
 instagram: BHAsb5hSmQM
 ---

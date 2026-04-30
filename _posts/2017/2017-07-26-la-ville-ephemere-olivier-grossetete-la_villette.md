@@ -11,5 +11,6 @@ tags:
 coverImage: la-ville-ephemere-olivier-grossetete-@la_villette.jpg
 imgWidth: 360
 imgHeight: 239
+imgAlt: "La ville éphèmère, ce sont de grands batiments tout en cartons à l’entrée du parc de la Villette"
 instagram: BXBlHVEAitK
 ---

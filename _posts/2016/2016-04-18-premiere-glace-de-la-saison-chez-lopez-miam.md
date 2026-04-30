@@ -11,5 +11,6 @@ tags:
 coverImage: Premiere-glace-de-la-saison-chez-Lopez-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "3 photos montrant les confiseries, les niniches et les glaces de chez Lopez"
 instagram: BEWInAbSmQC
 ---

@@ -12,6 +12,7 @@ tags:
 coverImage: il-est-sympa-le-pa_1237-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader rouge sur une boutique « Sympa »"
 instagram: BKfbwemBCtj
 ---
 

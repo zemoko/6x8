@@ -12,5 +12,6 @@ tags:
 coverImage: pa_1260-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Deux petits space inavders en couleur sur un coin de rue parisien"
 instagram: BTolf3uDM6U
 ---

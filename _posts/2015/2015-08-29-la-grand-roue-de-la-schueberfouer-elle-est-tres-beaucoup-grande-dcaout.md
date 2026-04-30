@@ -12,5 +12,6 @@ tags:
 coverImage: 10611077_111874362499390_75272657_n.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue en contre-plongée de la Grand Roue de la Schueberfouer"
 instagram: 6-MZ5OSmcG
 ---

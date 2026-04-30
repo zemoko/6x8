@@ -11,6 +11,7 @@ tags:
 coverImage: Nitrogenie-le-nouveau-glacier-parisien-qui-fait-de-bien-bonnes-glaces-a-l-azote-paris-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une glace Nitrogénie avec de la Chantilly dessus et une seringue plantée dedans"
 instagram: BJIeqQ_gQQb
 ---
 

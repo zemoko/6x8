@@ -11,5 +11,6 @@ tags:
 coverImage: pokemon-lego-paris-villette-pokemon-lego-pokemongo-littlevilette.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux Pikachu réalisés en lego"
 instagram: BKOOQQCgMvJ
 ---

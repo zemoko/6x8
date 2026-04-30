@@ -11,5 +11,6 @@ tags:
 coverImage: Little-Villette-en-Lego.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue des réalisation en lego à Little Villette"
 instagram: BFrQJZeymfS
 ---

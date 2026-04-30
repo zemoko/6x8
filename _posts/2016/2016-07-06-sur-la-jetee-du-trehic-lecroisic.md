@@ -10,5 +10,6 @@ tags:
 coverImage: Sur-la-jetee-du-Trehic-lecroisic.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur la jetée du Tréhic au Croisic"
 instagram: BHiF9YTBcVm
 ---

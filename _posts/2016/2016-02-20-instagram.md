@@ -7,8 +7,9 @@ categories:
 tags: 
   - "instagram"
   - "paris"
-coverImage: Le-canal-Saint-Martin-refait-son-lit.jpg
+coverImage: aquarium.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des poissons tropicaux dans un aquarium"
 instagram: BCBIllsSmbY
 ---

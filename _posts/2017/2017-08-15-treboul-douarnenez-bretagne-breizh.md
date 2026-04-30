@@ -11,5 +11,6 @@ tags:
 coverImage: treboul-douarnenez-bretagne-breizh.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur une crique"
 instagram: BX0LabYg70i
 ---

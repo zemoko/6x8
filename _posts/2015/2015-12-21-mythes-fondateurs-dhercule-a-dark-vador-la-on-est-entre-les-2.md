@@ -13,5 +13,6 @@ tags:
 coverImage: Mythes-fondateurs-dHercule-a-Dark-Vador-la-on-est-entre-les-2.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une statuette japonaise"
 instagram: _kQoPQymeO
 ---

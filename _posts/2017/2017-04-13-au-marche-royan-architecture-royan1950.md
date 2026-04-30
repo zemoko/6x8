@@ -10,5 +10,6 @@ tags:
 coverImage: au-marche-royan-architecture-royan1950.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une des entrée du marché de Royan"
 instagram: BS0dj-RjcFE
 ---

@@ -10,5 +10,6 @@ tags:
 coverImage: matinee-a-la-cite-prisma-gothic-paris-citedessciencesetdelindustrie-citedesenfants.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Photo retouchée d’une petite fille marchant dans un labyrinthe de miroirs"
 instagram: BVfgQJPgppa
 ---

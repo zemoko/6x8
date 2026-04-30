@@ -11,5 +11,6 @@ tags:
 coverImage: tsf-kroll-ima-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Une oeuvre de street art représentant un immense dragon dans une ville"
 instagram: BXN-gybggbW
 ---

@@ -10,5 +10,6 @@ tags:
 coverImage: Jai-fini-mes-calissons-Je-peux-aller-voir-Star-Wars.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux plaques de cuissons avec mes calissons dessus"
 instagram: _zHRYfSmRM
 ---

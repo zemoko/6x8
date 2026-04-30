@@ -10,5 +10,6 @@ tags:
 coverImage: Sculpture-en-potelets-Fedorenko-accordeon.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "De petits scrutures sont sur les potelets à côté de l’église de Guérande"
 instagram: BHvAz3xB0D1
 ---

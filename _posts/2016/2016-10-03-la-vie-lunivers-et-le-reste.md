@@ -9,6 +9,7 @@ tags:
 coverImage: "Dont-Panic.jpg"
 imgWidth: 360
 imgHeight: 146
+imgAlt: "Un extraterrestre tire la langue et se cache les yeux en disant « Don’t panic »"
 cover2left: true
 ---
 

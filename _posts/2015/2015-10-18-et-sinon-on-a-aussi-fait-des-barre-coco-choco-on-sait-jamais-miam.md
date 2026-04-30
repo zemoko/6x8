@@ -10,5 +10,6 @@ tags:
 coverImage: Et-sinon-on-a-aussi-fait-des-barre-coco-choco-on-sait-jamais...-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des bouchées coco-choco sur une assiette, dont une qui a déjà été croquée"
 instagram: 8_GM2LSmSu
 ---

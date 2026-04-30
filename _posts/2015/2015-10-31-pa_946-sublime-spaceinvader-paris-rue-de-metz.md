@@ -13,6 +13,7 @@ tags:
 coverImage: PA_946-Sublime-spaceinvader-paris-rue-de-Metz.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre un peu dégradée representant un petit space invader"
 instagram: 9gCn8PSmaX
 ---
 

@@ -11,5 +11,6 @@ tags:
 coverImage: aujourdhui-cest-balade-parisienne-et-geocaching-paris-parisjetaime-parismaville-birhakeim-pont.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "Vue de la colonnade du pont Bir-Hakeim"
 instagram: BPM1vTIDNzL
 ---

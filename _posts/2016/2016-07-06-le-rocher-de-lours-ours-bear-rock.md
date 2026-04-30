@@ -10,5 +10,6 @@ tags:
 coverImage: Le-rocher-de-lours-ours-bear-rock.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Ce rocher a la forme d’un ours"
 instagram: BHhfmKlBnxC
 ---

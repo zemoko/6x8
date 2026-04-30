@@ -10,5 +10,6 @@ tags:
 coverImage: Evrange-Iewrengen.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur l’église d’Évrange"
 instagram: BEqpHo0SmZ3
 ---

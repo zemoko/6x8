@@ -10,5 +10,6 @@ tags:
 coverImage: Ici-nous-intervenons-pour-Paris-Plage-paris-parisplage-parismaville-crue-seine-flood.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un panneau de Paris Plage largement noyé"
 instagram: BGJjFGvSmd1
 ---

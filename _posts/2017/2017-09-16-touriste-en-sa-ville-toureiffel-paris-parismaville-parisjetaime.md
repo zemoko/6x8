@@ -10,5 +10,6 @@ tags:
 coverImage: touriste-en-sa-ville-toureiffel-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur la Tour Eiffel"
 instagram: BZG4vuSAPkZ
 ---

@@ -12,6 +12,7 @@ tags:
 coverImage: LDN_108-spaceinvader-london.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un batiment de Londres avec une grande fresque… et un petit space invader dans le coin en bas à gauche"
 instagram: 9EO8A1ymen
 ---
 

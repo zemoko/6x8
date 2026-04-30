@@ -12,6 +12,7 @@ tags:
 coverImage: pa_1166-black-pinot-spaceinvader-invader-paris-wine-vin-bottle-bouteille-blackpinot-pinotnoir.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader sur une bouteille, sur un coin de rue parisien"
 instagram: BNPKHbiDEmd
 ---
 

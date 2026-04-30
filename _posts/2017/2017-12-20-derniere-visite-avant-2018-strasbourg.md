@@ -11,5 +11,6 @@ tags:
 coverImage: derniere-visite-avant-2018-strasbourg.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "La Cathédrâle de Strasbourg, vue de la Place du chateau en début de soirée"
 instagram: Bc74lLggmrw
 ---

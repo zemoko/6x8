@@ -10,5 +10,6 @@ tags:
 coverImage: Le-passage-a-Nantes-miroirdeau.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux enfants courent dans le miroir d’eau de Nantes"
 instagram: BH76UR9BpSl
 ---

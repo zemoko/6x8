@@ -10,5 +10,6 @@ tags:
 coverImage: apres-la-glace-le-brouillard-villette-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue du Bassin de la Villette sous un ciel gris"
 instagram: BP68zORDcnB
 ---

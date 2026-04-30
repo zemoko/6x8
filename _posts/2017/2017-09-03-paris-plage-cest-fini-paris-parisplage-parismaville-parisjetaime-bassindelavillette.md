@@ -10,5 +10,6 @@ tags:
 coverImage: paris-plage-c’est-fini-paris-parisplage-parismaville-parisjetaime-bassindelavillette.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur la scène de Paris Plage (il est trop tard, on ne danse plus !)"
 instagram: BYlzZbrD-KH
 ---

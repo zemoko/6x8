@@ -12,5 +12,6 @@ tags:
 coverImage: PA_631-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader à l’Opéra"
 instagram: _Jsmn7SmZT
 ---

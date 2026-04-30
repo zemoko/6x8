@@ -12,5 +12,6 @@ tags:
 coverImage: hello-my-game-is...-pa_1264-spaceinvader-invader-paris-streetart-hellomygameis.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur un space invader au début de l’expo"
 instagram: BTol4VFj0as
 ---

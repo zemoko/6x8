@@ -39,13 +39,16 @@ layout: default
         </p>
       </div>
       <figure class="instagram">
-        <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)">
+        <a href="https://www.instagram.com/p/{{ page.instagram }}/" target="_blank" title="Ouvrir sur Instagram (dans une nouvelle fenêtre)" aria-label="Ouvrir sur Instagram (dans une nouvelle fenêtre)">
 {%- assign imageSize = '' -%}
 {%- if page.imgWidth -%}
   {% capture imageSize %}width="{{ page.imgWidth }}"{% endcapture %}
 {%- endif -%}
 {%- if page.imgHeight -%}
   {% capture imageSize %}{{imageSize}} height="{{ page.imgHeight }}"{% endcapture %}
+{%- endif -%}
+{%- if page.imgAlt -%}
+  {% capture imgAlt %}{{ page.imgAlt }}{% endcapture %}
 {%- endif -%}
 {%- if page.post_video -%}
           <video controls autoplay loop {{imageSize}}>
@@ -59,7 +62,7 @@ layout: default
     {%- capture coverImage -%}{{ imagePath }}/{{ page.coverImage }}{%- endcapture -%}
   {%- endif -%}
           <picture>
-            <img src="{{ coverImage }}" alt="" {{imageSize}} />
+            <img src="{{ coverImage }}" alt="{{ imgAlt }}" {{imageSize}} />
           </picture>
 {%- endif -%}
         </a>

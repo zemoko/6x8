@@ -11,5 +11,6 @@ tags:
 coverImage: 1-air-2-familles-ce-netait-pas-assez-alors-ils-ont-invite-la-rue-ket-️️️.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "La Rue Kétanou à rejoint les Ogres de Barback sur la scène"
 instagram: BPyNSS9DLZ6
 ---

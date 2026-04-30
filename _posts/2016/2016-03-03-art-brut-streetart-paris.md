@@ -11,5 +11,6 @@ tags:
 coverImage: Art-brut-streetart-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre en trompe l’oeil représentant un homme comme acoudé à un comptoir"
 instagram: BCfs6U7Smd5
 ---

@@ -11,17 +11,18 @@ tags:
 coverImage: "IMG_6316.jpg"
 imgWidth: 360
 imgHeight: 83
+imgAlt: "Vue à 360 du parc de la Villette, prise sur le toit de la Philharmonie"
 carousel: 
-  - image: /images/2016/09/IMG_0757.jpg
-  - image: /images/2016/09/IMG_0731.jpg
-  - image: /images/2016/09/IMG_0739.jpg
-  - image: /images/2016/09/IMG_6316.jpg
-  - image: /images/2016/09/IMG_0746.jpg
-  - image: /images/2016/09/IMG_0753.jpg
-  - image: /images/2016/09/IMG_0754.jpg
-  - image: /images/2016/09/IMG_0755.jpg
-  - image: /images/2016/09/IMG_0751.jpg
-  - image: /images/2016/09/IMG_6333.jpg
+  - image: IMG_0757.jpg
+  - image: IMG_0731.jpg
+  - image: IMG_0739.jpg
+  - image: IMG_6316.jpg
+  - image: IMG_0746.jpg
+  - image: IMG_0753.jpg
+  - image: IMG_0754.jpg
+  - image: IMG_0755.jpg
+  - image: IMG_0751.jpg
+  - image: IMG_6333.jpg
 ---
 
 Hier midi, on a profité des Journées du Patrimoine... mais pas loin de chez nous. On a été écouter de la flûte à la Cité de la Musique (c'était bien !) et ensuite on est monté sur le Belvédère de la Philharmonie (c'était beau !).

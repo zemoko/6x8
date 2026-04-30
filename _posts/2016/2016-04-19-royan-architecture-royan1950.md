@@ -11,5 +11,6 @@ tags:
 coverImage: Royan-architecture-royan1950.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Détail d’architecture 1950 d’une maison"
 instagram: BEYnojoymXb
 ---

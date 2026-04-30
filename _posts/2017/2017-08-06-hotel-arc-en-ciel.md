@@ -10,5 +10,6 @@ tags:
 coverImage: hotel-arc-en-ciel.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Les balcons colorés de l’hôtel"
 instagram: BXdHjPyAHrw
 ---

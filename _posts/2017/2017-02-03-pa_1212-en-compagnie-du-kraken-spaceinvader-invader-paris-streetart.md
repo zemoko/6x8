@@ -12,6 +12,7 @@ tags:
 coverImage: 2017-02-bqdijt0dat9.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader jaune en dessus d’un Kraken sur un mur de Paris"
 instagram: BQDijT0DaT9
 post_image: 2017-02-bqdijt0dat9.jpg
 post_image_large: 2017-02-bqdijt0dat9_large.jpg

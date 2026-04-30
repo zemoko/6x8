@@ -12,5 +12,6 @@ tags:
 coverImage: Love-is-in-the-air-PA_1218-spaceinvader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre d’Invader représentant Cupidon"
 instagram: BIsUSvLA8WC
 ---

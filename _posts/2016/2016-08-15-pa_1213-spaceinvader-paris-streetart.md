@@ -12,5 +12,6 @@ tags:
 coverImage: PA_1213-spaceinvader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader jaune dans une rue parisienne"
 instagram: BJIaGohA7rf
 ---

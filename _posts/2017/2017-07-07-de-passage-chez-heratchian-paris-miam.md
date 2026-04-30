@@ -11,5 +11,6 @@ tags:
 coverImage: de-passage-chez-heratchian-paris-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Les produits secs en vrac de l’épicerie Heratchian"
 instagram: BWPyUaZgFMy
 ---

@@ -12,5 +12,6 @@ tags:
 coverImage: Inside-the-horizon-Olafur-Eliasson-Fondation-Louis-Vuitton.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une successions de piliers dans une lumière jaune"
 instagram: BJI_686gQks
 ---

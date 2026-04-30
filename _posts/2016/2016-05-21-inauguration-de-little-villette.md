@@ -10,5 +10,6 @@ tags:
 coverImage: Inauguration-de-Little-Villette.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une photo du Pavillon Little Villette avec un immense ballon en forme de lapin dessus"
 instagram: BFq5cAPymaU
 ---

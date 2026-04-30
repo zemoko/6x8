@@ -11,6 +11,7 @@ tags:
 coverImage: "/MA/img_1658-2.jpg"
 imgWidth: 360
 imgHeight: 241
+imgAlt: "Un des portails que l’on peut admirer à la Cité de l’Architecture et du Patrimoine"
 cover2left: true
 ---
 

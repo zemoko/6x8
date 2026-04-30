@@ -12,5 +12,6 @@ tags:
 coverImage: PA_354-spaceinvader-paris-streetart-invader.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux petits space invaders bleus à un coin de rue"
 instagram: BIuUuO9AU_S
 ---

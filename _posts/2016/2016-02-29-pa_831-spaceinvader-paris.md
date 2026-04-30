@@ -12,5 +12,6 @@ tags:
 coverImage: PA_831-spaceinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader sur une entrée de métro"
 instagram: BCXzZt8Smfa
 ---

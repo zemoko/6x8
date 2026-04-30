@@ -10,5 +10,6 @@ tags:
 coverImage: revoici-venu-le-temps-de-@parisweb-o.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue de l’escalier dans le beffroi de Montrouge"
 instagram: BK7jv6ajWGp
 ---

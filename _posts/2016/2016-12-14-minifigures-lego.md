@@ -10,5 +10,6 @@ tags:
 coverImage: minifigures-lego.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Un mut de minifig lego dans de petits casiers en plastique transparent"
 instagram: BOAumP-lUrm
 ---

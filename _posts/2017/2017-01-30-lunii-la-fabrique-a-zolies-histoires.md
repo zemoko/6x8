@@ -9,6 +9,7 @@ tags:
 coverImage: fullsizeoutput_9d87.jpeg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "La Lunii allumée"
 cover2left: true
 ---
 

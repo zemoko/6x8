@@ -10,5 +10,6 @@ tags:
 coverImage: Le-canal-Saint-Martin-refait-son-lit.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le Canal St Martin vidé de son eau"
 instagram: BCLV2i8ymRr
 ---

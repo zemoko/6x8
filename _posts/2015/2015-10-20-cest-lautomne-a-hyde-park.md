@@ -10,5 +10,6 @@ tags:
 coverImage: Cest-lautomne-a-Hyde-Park.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur les arbres de Hyde Park qui ont pris leurs couleurs d’automne"
 instagram: 9EgrtVymQO
 ---

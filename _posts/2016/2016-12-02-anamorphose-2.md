@@ -11,6 +11,7 @@ tags:
 coverImage: anamorphose-2.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "De cet autre point de vue, on voit des cercles bleus sur les murs"
 instagram: BNg8Qf_jKGw
 ---
 

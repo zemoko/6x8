@@ -12,6 +12,7 @@ tags:
 coverImage: PA_1163-Space-Flower-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader représenant une fleur sur le fronton d’une boulangerie"
 instagram: BAe2-9HymQn
 ---
 

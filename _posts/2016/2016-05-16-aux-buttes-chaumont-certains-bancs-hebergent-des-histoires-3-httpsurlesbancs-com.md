@@ -11,6 +11,7 @@ tags:
 coverImage: Aux-Buttes-Chaumont-certains-bancs-hebergent-des-histoires.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un banc des buttes avec une petite pancarte comportant un QR code"
 instagram: BFeK0LMymY
 ---
 

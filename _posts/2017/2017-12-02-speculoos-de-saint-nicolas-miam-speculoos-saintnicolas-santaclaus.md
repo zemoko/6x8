@@ -11,5 +11,6 @@ tags:
 coverImage: speculoos-de-saint-nicolas-miam-speculoos-saintnicolas-santaclaus.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des spéculoos de St Nicolas"
 instagram: BcNIa0Ogio9
 ---

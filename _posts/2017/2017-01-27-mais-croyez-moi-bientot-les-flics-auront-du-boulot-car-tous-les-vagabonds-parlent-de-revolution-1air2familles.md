@@ -11,6 +11,7 @@ coverImage: mais-croyez-moi-bientot-les-flics-auront-du-boulot-car-tous-les-vaga
 post_video: 16386022_623964441139444_6554176422192087040_n.mp4
 imgWidth: 360
 imgHeight: 203
+imgAlt: "Vue du public assistant au spectacle"
 cover2left: true
 ---
 

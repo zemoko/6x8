@@ -11,5 +11,6 @@ tags:
 coverImage: apres-midi-lego-a-little-villette.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "De grandes tours en Lego"
 instagram: BKONkJWAn1D
 ---

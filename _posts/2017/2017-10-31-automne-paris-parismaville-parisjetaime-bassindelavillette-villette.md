@@ -10,5 +10,6 @@ tags:
 coverImage: automne-paris-parismaville-parisjetaime-bassindelavillette-villette.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur le Bassin de la Villette, qui a pris ses couleurs d’automne"
 instagram: Ba56JX0AuFF
 ---

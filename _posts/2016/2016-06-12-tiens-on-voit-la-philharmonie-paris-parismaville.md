@@ -10,5 +10,6 @@ tags:
 coverImage: Tiens-on-voit-la-philharmonie-paris-parismaville.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Du haut du square des Buttes rouges, on aperçoit la Philarmonie"
 instagram: BGj0SgWymTW
 ---

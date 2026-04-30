@@ -11,6 +11,7 @@ tags:
 coverImage: "PA_1170-Alice-cherche-son-chat-spaceinvader-paris.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre en mosaique représentant Alice (d’Alice au Pays des Merveilles)"
 instagram: 9dt5iQymar
 ---
 

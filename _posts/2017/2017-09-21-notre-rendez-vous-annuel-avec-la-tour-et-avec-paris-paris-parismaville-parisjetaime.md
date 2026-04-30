@@ -10,5 +10,6 @@ tags:
 coverImage: notre-rendez-vous-annuel-avec-la-tour-et-avec-paris-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur le Bassin de la Villette"
 instagram: BZTrVmqj3UZ
 ---

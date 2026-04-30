@@ -13,6 +13,7 @@ tags:
 coverImage: "IMG_8623.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La fresque au début de l’exposition"
 cover2left: true
 ---
 

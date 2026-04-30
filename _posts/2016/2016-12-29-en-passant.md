@@ -11,5 +11,6 @@ tags:
 coverImage: en-passant.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue de nuit sur le Bassin de la Villette, légérement embrumé"
 instagram: BOnBWpRjF1U
 ---

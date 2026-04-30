@@ -10,5 +10,6 @@ tags:
 coverImage: visite-annuelle-chez-lallergologue-paris-panorama.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur le bassin de la Villette"
 instagram: BLJTZxNjwy2
 ---

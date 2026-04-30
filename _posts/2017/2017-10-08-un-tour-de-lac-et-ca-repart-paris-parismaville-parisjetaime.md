@@ -10,5 +10,6 @@ tags:
 coverImage: un-tour-de-lac-et-ca-repart-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue du lac au Parc des Buttes Chaumont"
 instagram: BZ_kdTFAHOt
 ---

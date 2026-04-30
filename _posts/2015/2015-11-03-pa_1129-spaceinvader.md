@@ -12,6 +12,7 @@ tags:
 coverImage: PA_1129-spaceinvader.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader entre deux boutiques"
 instagram: 9oIA9KSmal
 ---
 

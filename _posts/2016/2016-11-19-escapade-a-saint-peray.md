@@ -9,5 +9,6 @@ tags:
 coverImage: escapade-a-saint-peray.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue du château sur les hauteurs de St Peray"
 instagram: BNAb-flj408
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "#DCaout : chanson"
+description: "Une vidéo live action avec le set Lego de Big Bang Theory"
 date: "2015-08-26"
 categories: 
   - "trucs-de-geek"

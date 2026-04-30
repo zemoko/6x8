@@ -11,5 +11,6 @@ tags:
 coverImage: un-dimanche-au-museum-c’est-dangereux-requin-shark-paris-museedhistoirenaturelle-mhn.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Un enfant est en passe de se faire manger par un requin"
 instagram: BZcAaVOAKFE
 ---

@@ -11,5 +11,6 @@ tags:
 coverImage: bientot-noel-on-a-fait-notre-traditionnelle-visite-aux-grands-magasins-galerieslafayette-noel-paris.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "Vue du sapin sous la verrière des Galeries Lafayette"
 instagram: BMwd4PpjcKN
 ---

@@ -11,5 +11,6 @@ tags:
 coverImage: bonne-saint-nicolas-paindepice-miam-gingerbread-saintnick-saintnicolas.jpg
 imgWidth: 360
 imgHeight: 318
+imgAlt: "Un gros pain d’épices maison pour fêter la Saint Nicolas"
 instagram: BNsSe6FDAoL
 ---

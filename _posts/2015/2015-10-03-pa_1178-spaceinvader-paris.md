@@ -12,6 +12,7 @@ tags:
 coverImage: 12080641_1646346808966296_630388639_n.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux petits space invaders et un dragon en mosaique"
 instagram: 8YA6PdSmW7
 ---
 

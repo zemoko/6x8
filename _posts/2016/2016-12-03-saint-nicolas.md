@@ -10,5 +10,6 @@ tags:
 coverImage: saint-nicolas.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Saint Nicolas du haut de son char à Bar-le-Duc"
 instagram: BNkFTf4jzyQ
 ---

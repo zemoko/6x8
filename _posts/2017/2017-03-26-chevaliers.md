@@ -9,5 +9,6 @@ tags:
 coverImage: chevaliers.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "2 enfants sont déguisés en chevaliers"
 instagram: BSHCxWcj6Kf
 ---

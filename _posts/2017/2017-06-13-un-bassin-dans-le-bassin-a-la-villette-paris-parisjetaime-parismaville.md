@@ -10,5 +10,6 @@ tags:
 coverImage: un-bassin-dans-le-bassin-a-la-villette-paris-parisjetaime-parismaville.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Des bassins pour la future piscine, dans le Bassin de la Villette"
 instagram: BVRFhibDyNc
 ---

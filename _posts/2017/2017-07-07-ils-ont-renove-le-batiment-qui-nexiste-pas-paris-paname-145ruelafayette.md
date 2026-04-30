@@ -10,6 +10,7 @@ tags:
 coverImage: ils-ont-renove-le-batiment-qui-n’existe-pas-paris-paname-145ruelafayette.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Ce batiment n’existe pas, ce n’est qu’une façade cachant une bouche d’aération du RER"
 instagram: BWP0RHsg-zL
 ---
 

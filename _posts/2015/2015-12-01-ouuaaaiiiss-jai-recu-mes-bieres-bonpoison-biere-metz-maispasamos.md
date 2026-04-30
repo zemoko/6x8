@@ -11,5 +11,6 @@ tags:
 coverImage: Ouuaaaiiiss-jai-recu-mes-bieres-@bonpoison-biere-metz-maisPasAmos.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Deux bouteilles de bière BonPoison mais aussi un verre, des sous-bocks et un totebag"
 instagram: -wZl7KSmbu
 ---

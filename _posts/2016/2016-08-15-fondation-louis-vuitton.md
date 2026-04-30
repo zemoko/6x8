@@ -11,5 +11,6 @@ tags:
 coverImage: Fondation-Louis-Vuitton.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "Vue sur la Fondation Vuiton, avec les filtres colorés de Daniel Burren"
 instagram: BJI_nrjArlm
 ---

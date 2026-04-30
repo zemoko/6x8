@@ -10,5 +10,6 @@ tags:
 coverImage: perspective-paris-parismaville-parisjetaime-canaldelourcq.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue de nuit sur le bassin de la Villette"
 instagram: BNrxL4RjBaf
 ---

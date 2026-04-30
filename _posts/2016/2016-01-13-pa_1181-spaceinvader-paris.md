@@ -12,5 +12,6 @@ tags:
 coverImage: PA_1181-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader à côté d’une FNAC"
 instagram: BAewOKXymTv
 ---

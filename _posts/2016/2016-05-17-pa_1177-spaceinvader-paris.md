@@ -12,5 +12,6 @@ tags:
 coverImage: PA_1177-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader representant une satelitte envoyant des données vers la Terre"
 instagram: BFg3AsySmck
 ---

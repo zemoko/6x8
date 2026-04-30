@@ -10,5 +10,6 @@ tags:
 coverImage: direction-@villup_paris-pour-preparer-l’anniversaire-de-mathias-paris-villette-philharmonie-parism.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue sur la Philharmonie de Paris"
 instagram: BaEb30GgmHi
 ---

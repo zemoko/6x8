@@ -11,5 +11,6 @@ tags:
 coverImage: going-home.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Les quais de la Gare de Metz"
 instagram: BbFCHiCgjBq
 ---

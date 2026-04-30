@@ -10,5 +10,6 @@ tags:
 coverImage: mes-deux-perspectives-du-matin-paris-parismaville-jaimeparis.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Mes deux perspectives du matin, c’est le bassin de la Villette et l’avenue de l’Opéra"
 instagram: BNWMaSFjn-r
 ---

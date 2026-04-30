@@ -10,5 +10,6 @@ tags:
 coverImage: Le-printemps-est-la-paris-butteschaumont.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue d’un sous-bois des Buttes Chaumont"
 instagram: BDdYubmymdS
 ---
