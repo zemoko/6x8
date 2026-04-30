@@ -10,5 +10,6 @@ tags:
 coverImage: non-rien-paris-parismaville.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur l’avenue de l’Opéra avec le soleil se lavant, au bout, sur l’Opéra Garnier"
 instagram: BM8bgwXj46i
 ---
