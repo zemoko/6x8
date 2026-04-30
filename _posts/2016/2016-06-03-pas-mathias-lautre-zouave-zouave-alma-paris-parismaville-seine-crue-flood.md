@@ -10,5 +10,6 @@ tags:
 coverImage: Pas-Mathias-lautre-zouave-zouave-Alma-Paris-parismaville-seine-crue-flood.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Le zouave de l’Alma a de l’eau jusqu’en haut des cuisses"
 instagram: BGMYD68SmUT
 ---
