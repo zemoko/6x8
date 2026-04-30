@@ -11,6 +11,7 @@ tags:
 coverImage: "11184644_356906051172358_208299288_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Felice VARINI a collé des morceaux de papier oranges sur différentes surfaces de la Grande Halle de manière à ce qu’on voit une série de demi-cercles concétriques quand on se trouve à un des bout de la promenade"
 instagram: 18UTd_ymVA
 ---
 
