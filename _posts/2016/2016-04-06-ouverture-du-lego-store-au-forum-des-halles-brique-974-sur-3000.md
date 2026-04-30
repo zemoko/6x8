@@ -11,5 +11,6 @@ tags:
 coverImage: Ouverture-du-Lego-Store-au-Forum-des-Halles-Brique-974-sur-3000.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une brique Lego commémorative indiquant « Lego Store Forum des Halles » et « 976 / 2000 »"
 instagram: BD3G1Ijymb2
 ---
