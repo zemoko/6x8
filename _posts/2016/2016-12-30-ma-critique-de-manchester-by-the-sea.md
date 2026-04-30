@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "film"
 coverImage: "ob_20ec70_14238088-1302646839759942-717099334512.png"
+imgAlt: "L’affiche du film"
 imgWidth: 360
 imgHeight: 133
 cover2left: true
