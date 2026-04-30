@@ -12,5 +12,6 @@ tags:
 coverImage: PA_922-spaceinvader.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une petite oeuvre d’invader, à côté d’une oeuvre de Ride in Peace"
 instagram: -rGt2BSmZX
 ---
