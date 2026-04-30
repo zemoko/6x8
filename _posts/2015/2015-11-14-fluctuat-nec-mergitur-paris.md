@@ -10,5 +10,6 @@ tags:
 coverImage: Fluctuat-nec-mergitur-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Juste du noir profond"
 instagram: -DroVISmSD
 ---
