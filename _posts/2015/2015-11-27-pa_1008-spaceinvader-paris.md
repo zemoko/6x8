@@ -12,6 +12,7 @@ tags:
 coverImage: PA_1008-spaceinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader bleu/vert dans une rue parisienne"
 instagram: -lr8xwSmVo
 ---
 
