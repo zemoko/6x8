@@ -10,5 +10,6 @@ tags:
 coverImage: aujourdhui-on-a-fait-des-boutons-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des petits gâteaux en forme de boutons"
 instagram: BP3Bcr9j7Je
 ---
