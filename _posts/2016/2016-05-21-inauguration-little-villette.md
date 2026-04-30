@@ -10,6 +10,7 @@ tags:
 coverImage: Inauguration-Little-Villette.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue en contre-plongée de 3 poteaux avec plein de petits ballons colorés accrochés"
 cover2left: true
 ---
 
