@@ -10,6 +10,7 @@ tags:
 coverImage: Just-zoo-it.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une grande affiche « Just Zoo it » mais aussi de petits animaux sportifs collés en dessous" 
 instagram: BCBIWAcSma3
 ---
 
