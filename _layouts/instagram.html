@@ -47,6 +47,9 @@ layout: default
 {%- if page.imgHeight -%}
   {% capture imageSize %}{{imageSize}} height="{{ page.imgHeight }}"{% endcapture %}
 {%- endif -%}
+{%- if page.imgAlt -%}
+  {% capture imgAlt %}{{ page.imgAlt }}{% endcapture %}
+{%- endif -%}
 {%- if page.post_video -%}
           <video controls autoplay loop {{imageSize}}>
             <source src="/images/{{ page.date | date: "%Y/%m" }}/{{ page.post_video }}" type="video/mp4">
