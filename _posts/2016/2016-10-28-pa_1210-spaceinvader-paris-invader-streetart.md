@@ -12,5 +12,6 @@ tags:
 coverImage: pa_1210-spaceinvader-paris-invader-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit bonhomme en mosaique, derrière des bambous sur un mur parisien"
 instagram: BMGmR-4DqAu
 ---
