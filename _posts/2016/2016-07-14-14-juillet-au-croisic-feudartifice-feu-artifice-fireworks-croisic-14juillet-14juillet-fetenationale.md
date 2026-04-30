@@ -10,5 +10,6 @@ tags:
 coverImage: 14-juillet-au-Croisic-feudartifice-feu-artifice-fireworks-croisic-14juillet-14juillet-fetenationale.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un feu d’artifice qui éclate"
 instagram: BH247R1BE0Y
 ---
