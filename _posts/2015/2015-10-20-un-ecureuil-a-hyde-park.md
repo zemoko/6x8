@@ -10,5 +10,6 @@ tags:
 coverImage: Un-ecureuil-a-Hyde-Park.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une écureuil dans un sous-bois de Hyde Park"
 instagram: 9En3EzymeD
 ---
