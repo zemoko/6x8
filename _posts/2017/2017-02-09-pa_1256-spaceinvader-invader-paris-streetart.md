@@ -12,5 +12,6 @@ tags:
 coverImage: pa_1256-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "Un petit space invader rouge sur un mur de Paris"
 instagram: BQSH0M_DpVm
 ---
