@@ -10,5 +10,6 @@ tags:
 coverImage: et-une-fournee-de-pokeballs-une-miam-pokemon-pokemongo.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des petits gâteaux, en forme et aux couleurs des pokeballs"
 instagram: BQs0RrKDsvd
 ---
