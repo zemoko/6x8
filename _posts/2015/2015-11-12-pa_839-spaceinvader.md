@@ -12,6 +12,7 @@ tags:
 coverImage: PA_839-spaceinvader.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit Space Invader au-dessus de la plaque de la rue de la grande truanderie"
 instagram: 9_Eh9RSmZ5
 ---
 
