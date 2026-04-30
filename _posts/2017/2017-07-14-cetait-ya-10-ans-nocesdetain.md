@@ -9,5 +9,6 @@ tags:
 coverImage: c’etait-y’a-10-ans-nocesdetain.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une photo de notre sortie de l'église avec des coeurs en papiers volant devant nous"
 instagram: BWhPGojg4kI
 ---
