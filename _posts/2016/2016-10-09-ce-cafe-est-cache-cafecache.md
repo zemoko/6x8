@@ -10,5 +10,6 @@ tags:
 coverImage: ce-cafe-est-cache-cafecache.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue du café caché au 104"
 instagram: BLWNEZsDqTo
 ---
