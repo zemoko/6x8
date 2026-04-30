@@ -10,5 +10,6 @@ tags:
 coverImage: de-retour-a-paris-plage-paris-parismaville-parisjetaime-parisplage.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Des baigneurs dans la piscine en eaux vives du Bassin de la Villette"
 instagram: BYTlCMrjMeu
 ---
