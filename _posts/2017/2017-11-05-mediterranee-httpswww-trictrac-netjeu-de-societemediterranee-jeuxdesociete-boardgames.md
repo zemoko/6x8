@@ -10,6 +10,7 @@ tags:
 coverImage: 2017-11-bbhlpura1ki.jpg
 imgWidth: 360
 imgHeight: 240
+imgAlt: "Vue sur le plateau du jeu méditerranée. Des drapeaux, des bâteaux et des marchandises le parsèment."
 instagram: BbHlpUrA1KI
 post_image: 2017-11-bbhlpura1ki.jpg
 post_image_large: 2017-11-bbhlpura1ki_large.jpg
