@@ -12,5 +12,6 @@ tags:
 coverImage: Panorama-Eva-Jospin-art-installation-louvre-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une installation en forme d’hexagone tout en miroirs dans la Cour carrée du Louvre"
 instagram: BFoEWqGSmd-
 ---
