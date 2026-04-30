@@ -10,5 +10,6 @@ tags:
 coverImage: nantes-eboy.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Une oeuvre de eBoy représentant la ville de Nantes"
 instagram: BZRntuPAlut
 ---
