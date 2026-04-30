@@ -12,6 +12,7 @@ tags:
 coverImage: PA_1215-spaceinvader-steetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader sur une bourse jaune, sur le mur d’un restaurant Boco"
 instagram: BIZYHB0BIg1
 ---
 
