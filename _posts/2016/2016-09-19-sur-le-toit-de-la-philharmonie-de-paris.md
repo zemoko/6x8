@@ -11,6 +11,7 @@ tags:
 coverImage: "IMG_6316.jpg"
 imgWidth: 360
 imgHeight: 83
+imgAlt: "Vue à 360 du parc de la Villette, prise sur le toit de la Philharmonie"
 carousel: 
   - image: /images/2016/09/IMG_0757.jpg
   - image: /images/2016/09/IMG_0731.jpg
