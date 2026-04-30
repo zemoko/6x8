@@ -7,6 +7,7 @@ categories:
 coverImage: Bienvenue-Romane.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "La photo d’un nouveau né tenu par son Papa en marinière"
 instagram: BCSsC2hSmQs
 ---
 
