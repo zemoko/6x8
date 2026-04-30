@@ -10,5 +10,6 @@ tags:
 coverImage: on-est-pares-anniversaire-chevaliers-miam.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Un château d’anniversaire, réalisé en gaufres, et des gâteaux devant. Il y a aussi des chevaliers Playmobil tout autour."
 instagram: BPkehqCD6Q0
 ---
