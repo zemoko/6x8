@@ -10,5 +10,6 @@ tags:
 coverImage: A-la-@citedessciences-ils-ont-une-table-en-forme-de-fantome-oneforpacman.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une table en forme de fantôme bleu"
 instagram: BBKcWEwymSI
 ---
