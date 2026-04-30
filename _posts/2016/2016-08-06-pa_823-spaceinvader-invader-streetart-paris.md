@@ -12,6 +12,7 @@ tags:
 coverImage: PA_823-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une grande mosaique « I - space invader » au pieds d’un pont parisien"
 instagram: BIxmh5wA3GG
 ---
 
