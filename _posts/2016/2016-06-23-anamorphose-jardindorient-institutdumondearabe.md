@@ -11,6 +11,7 @@ tags:
 coverImage: anamorphose-jardindorient-institutdumondearabe.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Ce jardin installé devant l’IMA est fait pour représenté un motif arabe quand on le voit de ce point de vue"
 instagram: BHAJUlZSmQT
 ---
 
