@@ -10,5 +10,6 @@ tags:
 coverImage: ifly-villette-@ifly-@villup_paris-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "2 personnes dans le tube de chute libre iFly à la Villette"
 instagram: BPAz4HODZhk
 ---
