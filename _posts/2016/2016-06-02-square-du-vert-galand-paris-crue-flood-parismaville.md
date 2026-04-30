@@ -10,5 +10,6 @@ tags:
 coverImage: Square-du-Vert-Galand-paris-crue-flood-parismaville.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Le square du Vert-Galand, au bout de l'île de la Cité, est complétement sous l’eau"
 instagram: BGJkKcuSmfw
 ---
