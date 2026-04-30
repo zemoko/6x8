@@ -12,6 +12,7 @@ tags:
 coverImage: pa_748-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader sur une disquette, sans doute prêt du périph parisien"
 instagram: BL3i01gDSJQ
 ---
 
