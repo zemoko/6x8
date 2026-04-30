@@ -10,29 +10,30 @@ tags:
 coverImage: "img_1499.jpg"
 imgWidth: 360
 imgHeight: 241
+imgAlt: "Vue sur Paris, du haut des tours de Notre-Dame"
 cover2left: true
 carousel: 
-  - image: /images/2017/08/IMG_1481.jpg
-  - image: /images/2017/08/IMG_1484.jpg
-  - image: /images/2017/08/IMG_1489.jpg
-  - image: /images/2017/08/IMG_1491.jpg
-  - image: /images/2017/08/IMG_1499.jpg
-  - image: /images/2017/08/IMG_1505.jpg
-  - image: /images/2017/08/IMG_1508.jpg
-  - image: /images/2017/08/IMG_1509.jpg
-  - image: /images/2017/08/IMG_1510.jpg
-  - image: /images/2017/08/IMG_1512.jpg
-  - image: /images/2017/08/IMG_1513.jpg
-  - image: /images/2017/08/IMG_1515.jpg
-  - image: /images/2017/08/IMG_1521.jpg
-  - image: /images/2017/08/IMG_1522.jpg
-  - image: /images/2017/08/IMG_1523.jpg
-  - image: /images/2017/08/IMG_1530.jpg
-  - image: /images/2017/08/IMG_1528.jpg
-  - image: /images/2017/08/IMG_1527.jpg
-  - image: /images/2017/08/IMG_1532.jpg
-  - image: /images/2017/08/IMG_1534.jpg
-  - image: /images/2017/08/IMG_1535.jpg
+  - image: IMG_1481.jpg
+  - image: IMG_1484.jpg
+  - image: IMG_1489.jpg
+  - image: IMG_1491.jpg
+  - image: IMG_1499.jpg
+  - image: IMG_1505.jpg
+  - image: IMG_1508.jpg
+  - image: IMG_1509.jpg
+  - image: IMG_1510.jpg
+  - image: IMG_1512.jpg
+  - image: IMG_1513.jpg
+  - image: IMG_1515.jpg
+  - image: IMG_1521.jpg
+  - image: IMG_1522.jpg
+  - image: IMG_1523.jpg
+  - image: IMG_1530.jpg
+  - image: IMG_1528.jpg
+  - image: IMG_1527.jpg
+  - image: IMG_1532.jpg
+  - image: IMG_1534.jpg
+  - image: IMG_1535.jpg
 ---
 
 Nous avons fini en beauté cette période de vacances en décidant de faire du tourisme... mais chez nous !
