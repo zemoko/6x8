@@ -12,5 +12,6 @@ tags:
 coverImage: pa_881-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit invader rouge au coin d’un immeuble parisien"
 instagram: BQTJGDVjCbG
 ---
