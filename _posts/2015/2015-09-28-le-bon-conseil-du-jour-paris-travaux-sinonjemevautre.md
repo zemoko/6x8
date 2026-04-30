@@ -10,5 +10,6 @@ tags:
 coverImage: 10617124_1506652132966453_2028670869_n.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un panneau Attention indiquant « Piétons mettez pieds à terre »"
 instagram: 8Lj2dIymej
 ---
