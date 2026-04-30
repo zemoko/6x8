@@ -12,6 +12,7 @@ tags:
 coverImage: PA_973-et-PA_974-spaceinvader-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un collage de deux photos montrant deux petits space invaders"
 instagram: 9gG9RPSmSm
 ---
 
