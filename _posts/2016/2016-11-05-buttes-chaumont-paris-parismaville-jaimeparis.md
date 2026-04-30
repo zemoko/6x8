@@ -10,5 +10,6 @@ tags:
 coverImage: buttes-chaumont-paris-parismaville-jaimeparis.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur Paris du haut des Buttes Chaumont"
 instagram: BMbGdNtDpis
 ---
