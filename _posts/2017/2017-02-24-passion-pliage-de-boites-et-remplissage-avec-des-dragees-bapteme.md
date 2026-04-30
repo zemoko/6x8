@@ -9,5 +9,6 @@ tags:
 coverImage: passion-pliage-de-boites-et-remplissage-avec-des-dragees-bapteme.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des boîtes à dragées alignées avec des aimants Romane dessus. Une des boîtes est ouverte et laisse voir les dragées de couleur à l’intérieur"
 instagram: BQ6Jw1CjtVi
 ---
