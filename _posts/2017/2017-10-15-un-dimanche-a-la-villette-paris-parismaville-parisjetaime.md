@@ -10,5 +10,6 @@ tags:
 coverImage: un-dimanche-a-la-villette-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Détails du mobilier urbain du Parc de la Villette"
 instagram: BaRg41hAQN2
 ---
