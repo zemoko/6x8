@@ -10,5 +10,6 @@ tags:
 coverImage: 11850073_1185419578151639_850233068_n.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une vue plongeante sur le Bassin de la Villette"
 instagram: 7LEDBgSmXI
 ---
