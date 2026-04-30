@@ -12,5 +12,6 @@ coverImage: ifly-paris-villette.jpg
 post_video: 18719744_1303170469789928_3028295128746819584_n.mp4
 imgWidth: 360
 imgHeight: 360
+imgAlt: "La colonne servant aux chutes libres"
 cover2left: true
 ---
