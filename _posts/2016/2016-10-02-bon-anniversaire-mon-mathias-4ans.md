@@ -10,5 +10,6 @@ tags:
 coverImage: bon-anniversaire-mon-mathias-4ans.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gâteau d’anniversaire Pat Patrouille"
 instagram: BLEP6M-DYLe
 ---
