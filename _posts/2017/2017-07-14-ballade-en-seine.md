@@ -10,6 +10,7 @@ tags:
 coverImage: ballade-en-seine.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Ballade sur les quais de Seine. Une foule de piétons remplace les voitures."
 cover2left: true
 ---
 
