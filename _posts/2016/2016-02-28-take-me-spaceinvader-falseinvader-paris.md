@@ -12,5 +12,6 @@ tags:
 coverImage: Take-me-spaceinvader-falseinvader-Paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader dans le 12e"
 instagram: BCVdT61ymcR
 ---
