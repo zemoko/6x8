@@ -9,5 +9,6 @@ tags:
 coverImage: bonne-annee.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un collage constitué de 9 photos prises cette année avec le texte « Focus on the Good - Bonne année » écrit en doré par-dessus"
 instagram: BOs1u-Ljz46
 ---
