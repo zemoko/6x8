@@ -11,5 +11,6 @@ coverImage: acrobates-cirque-pinder-pinder-cirque-circus-acrobate.jpg
 post_video: 23565685_193704321189632_5288384220723412992_n.mp4
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Les acrobates du cirque Pinder"
 noImageOnPost: true
 ---
