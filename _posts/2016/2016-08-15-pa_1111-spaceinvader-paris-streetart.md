@@ -12,5 +12,6 @@ tags:
 coverImage: PA_1111-spaceinvader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un space invader coloré du jaune au rouge sur un batiment parisien"
 instagram: BJIWmg8gonk
 ---
