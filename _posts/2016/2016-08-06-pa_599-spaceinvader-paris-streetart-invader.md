@@ -12,6 +12,7 @@ tags:
 coverImage: PA_599-spaceinvader-paris-streetart-invader.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader rouge sur un pont"
 instagram: BIxU-axg-bt
 ---
 
