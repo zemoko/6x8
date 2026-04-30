@@ -12,6 +12,7 @@ tags:
 coverImage: MDP_LEGO_Affiche_WEB.jpg
 imgWidth: 360
 imgHeight: 528
+imgAlt: "L’affiche de l’exposition"
 cover2left: true
 ---
 
