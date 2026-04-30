@@ -11,5 +11,6 @@ tags:
 coverImage: 11420713_483818388446978_453752878_n.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gateau d’anniversaire avec une baleine, une pieuvre et un phare dessus"
 instagram: 8TZFAOymdX
 ---
