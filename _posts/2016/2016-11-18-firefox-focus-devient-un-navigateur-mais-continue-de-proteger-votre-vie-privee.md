@@ -8,11 +8,11 @@ tags:
   - "web"
   - "vie-privee"
 carousel: 
-  - image: /images/2016/11/IMG_6764.png
+  - image: IMG_6764.png
     legend: "Firefox focus : écran d'accueil"
-  - image: /images/2016/11/IMG_6766.png
+  - image: IMG_6766.png
     legend: "Firefox focus : navigateur"
-  - image: /images/2016/11/IMG_6765.png
+  - image: IMG_6765.png
     legend: "Firefox focus : paramétrage"
 ---
 
