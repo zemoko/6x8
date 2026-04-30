@@ -10,5 +10,6 @@ tags:
 coverImage: Paris-de-lavenir-Paris-Stalingrad-Jaures.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre à la Villette, vue de nuit, constituée d’une série de grands moulins en papiers"
 instagram: -b0ujxymXX
 ---
