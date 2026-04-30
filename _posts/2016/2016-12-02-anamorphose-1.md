@@ -11,6 +11,7 @@ tags:
 coverImage: anamorphose-1.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Dans ce passage parisien, de CE point de vue on voit une forme jaune dessinée sur les murs"
 instagram: BNg8LtUDtpf
 ---
 
