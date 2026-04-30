@@ -10,5 +10,6 @@ tags:
 coverImage: joyeux-noel.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Notre-dame de Royan éclarée pour les fêtes"
 instagram: BdGCPWigCEX
 ---
