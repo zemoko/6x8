@@ -12,5 +12,6 @@ tags:
 coverImage: pa_1270-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 449
+imgAlt: "Un space invader sous la passerelle du Bassin de la Villette"
 instagram: BROSYNHD4c-
 ---
