@@ -12,5 +12,6 @@ tags:
 coverImage: pa_645-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cube et un invader en mosaiques"
 instagram: BPfUtBYDUEK
 ---
