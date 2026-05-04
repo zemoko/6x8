@@ -11,5 +11,6 @@ tags:
 coverImage: bonjour-strasbourg.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur Strasbourg de nuit, prise au moment de l’atterrissage."
 instagram: BgW5jiXgw9S
 ---
