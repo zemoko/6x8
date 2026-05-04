@@ -3,23 +3,11 @@ layout: default
 title: "Une page au hasard"
 ---
 
-<script type="text/javascript">
+<div class="page">
 
+<script type="text/javascript">
   var postsURL = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-
   var postsTitle = [{% for post in site.posts %}{{ post.title | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}];
-
-
-  {% comment %}
-  // randomize posts from a specific category
-  //
-  // var postsURL = [{% for post in site.posts %}{% if post.category contains 'reviews' %}{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}];
-  // var postsTitle = [{% for post in site.posts %}{% if post.category contains 'reviews' %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}];
-  {% endcomment %}
-</script>
-
-
-<script type="text/javascript">
 
   var randomIndexUsed = [];
   var counter = 0;
@@ -51,8 +39,8 @@ title: "Une page au hasard"
   if (numberOfPosts == 1) {
 	setTimeout(function(){ document.getElementById('li0').click(); }, 1000);
   }
-
 </script>
+</div>
 <style>
-.post-content { display: flex;align-items: center;justify-content: center;flex-direction: column; width: 100%; max-wdith: 100vw; text-align: center; margin: 10% 0; min-height: 200px; background-color: rgba(33, 33, 33, .3); align-items: center; font-size: 3rem}
+.page { display: flex;align-items: center;justify-content: center;flex-direction: column; width: 100%; max-wdith: 100vw; text-align: center; margin: 10% 0; min-height: 200px; background-color: rgba(33, 33, 33, .3); align-items: center; font-size: 3rem}
 </style>
