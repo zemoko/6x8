@@ -12,6 +12,7 @@ tags:
 coverImage: pa_1363-tudo-bom-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un invader bleu avec une grande main jaune qui fait OK"
 instagram: Bkac8ZADjwF
 ---
 
