@@ -12,5 +12,6 @@ tags:
 coverImage: bonjour-nancy-forum-des-sciences-cognitives-artem.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "En attendant le début de la conférence, une slide souhaite la bienvenue au « Forum des Sciences Cognitives »"
 instagram: Bp308r7hN9S
 ---
