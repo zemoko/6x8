@@ -11,6 +11,7 @@ tags:
 coverImage: 2018-09-bngdf-bdk7d.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur la fondation Louis Vuitton (les vitrophanies de Burren ont été retirées)"
 instagram: BngDF-bDk7d
 post_image: 2018-09-bngdf-bdk7d.jpg
 post_image_large: 2018-09-bngdf-bdk7d_large.jpg
