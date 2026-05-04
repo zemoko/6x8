@@ -12,6 +12,7 @@ tags:
 coverImage: pa_814-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Un petit space invader sur une pomme verte à un coin de rue parisien"
 instagram: Bkcg6sWDSiT
 ---
 
