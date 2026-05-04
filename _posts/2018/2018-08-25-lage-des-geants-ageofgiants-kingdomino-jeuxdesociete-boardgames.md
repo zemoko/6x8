@@ -10,5 +10,6 @@ tags:
 coverImage: l’age-des-geants-ageofgiants-kingdomino-jeuxdesociete-boardgames.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Les meeples de « Kingdomino, l'âge des géants » avec des autocollants collés dessus."
 instagram: Bm5d-IgjrzL
 ---
