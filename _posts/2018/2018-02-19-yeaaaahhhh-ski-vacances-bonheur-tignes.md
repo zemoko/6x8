@@ -11,5 +11,6 @@ tags:
 coverImage: yeaaaahhhh-ski-vacances-bonheur-tignes.jpg
 imgWidth: 360
 imgHeight: 188
+imgAlt: "Une vue panoramique de la montagne au dessus de Tignes"
 instagram: BfYNaiQg_wU
 ---
