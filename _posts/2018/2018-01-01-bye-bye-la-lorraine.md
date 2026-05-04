@@ -10,5 +10,6 @@ tags:
 coverImage: bye-bye-la-lorraine.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Une photo manifestement prise en voiture. Sur le bord de l’autoroute, on voit le haut de 2 hauts-fourneaux"
 instagram: BdaSsypgGkm
 ---
