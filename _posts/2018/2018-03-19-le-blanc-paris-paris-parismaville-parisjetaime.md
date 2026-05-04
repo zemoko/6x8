@@ -10,5 +10,6 @@ tags:
 coverImage: le-blanc-paris-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue du Bassin de la Villette enneigé."
 instagram: Bgfx9cJgPA_
 ---
