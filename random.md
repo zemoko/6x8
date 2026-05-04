@@ -1,8 +1,7 @@
 ---
-layout: null
+layout: default
 title: "Une page au hasard"
 ---
-<title>Une page au hasard</title>
 
 <script type="text/javascript">
 
@@ -55,5 +54,5 @@ title: "Une page au hasard"
 
 </script>
 <style>
-body { display: flex;align-items: center;justify-content: center;flex-direction: column; width: 100%; max-wdith: 100vw; text-align: center; margin: 10% 0; min-height: 200px; background-color: rgba(33, 33, 33, .3); align-items: center; font-size: 3rem}
+.post-content { display: flex;align-items: center;justify-content: center;flex-direction: column; width: 100%; max-wdith: 100vw; text-align: center; margin: 10% 0; min-height: 200px; background-color: rgba(33, 33, 33, .3); align-items: center; font-size: 3rem}
 </style>
