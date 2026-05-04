@@ -12,5 +12,6 @@ tags:
 coverImage: pa_1328-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre d’invader représentant un invader, un citron et une paire de cerises."
 instagram: Bdw5Sj5gsKk
 ---
