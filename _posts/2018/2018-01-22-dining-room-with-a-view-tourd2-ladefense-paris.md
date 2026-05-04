@@ -10,5 +10,6 @@ tags:
 coverImage: dining-room-with-a-view-tourd2-ladefense-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "La vue depuis le haut d’une tour de La Défense. À tarvers une grande baie vitrée, on voit Paris et la Tour Eiffel."
 instagram: BeQ7E0rgFGN
 ---
