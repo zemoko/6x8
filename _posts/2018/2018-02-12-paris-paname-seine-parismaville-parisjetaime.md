@@ -10,5 +10,6 @@ tags:
 coverImage: paris-paname-seine-parismaville-parisjetaime.jpg 
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur la Seine au niveau de la Conciergerie (l’eau est haute)"
 instagram: BfGrjV-gY6r
 ---
