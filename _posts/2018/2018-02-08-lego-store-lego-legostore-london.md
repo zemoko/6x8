@@ -11,5 +11,6 @@ tags:
 coverImage: lego-store-lego-legostore-london.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gentleman anglais en Lego"
 instagram: Be8-2icARBe
 ---
