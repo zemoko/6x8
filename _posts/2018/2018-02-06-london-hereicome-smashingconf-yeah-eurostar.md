@@ -12,5 +12,6 @@ coverImage: london-hereicome-smashingconf-yeah-eurostar.jpg
 post_video: 27668925_387883084971717_6283632997992027115_n.mp4
 imgWidth: 640
 imgHeight: 360
+imgAlt: "Une courte séquence prise à travers la fenêtre de l’Eurostar"
 noImageOnPost: true
 ---
