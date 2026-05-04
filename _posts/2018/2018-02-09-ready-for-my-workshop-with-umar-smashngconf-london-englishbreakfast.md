@@ -12,5 +12,6 @@ tags:
 coverImage: ready-for-my-workshop-with-umar-smashngconf-london-englishbreakfast.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit déjeuner anglais typique : jus d’orange, café, pain et beurre, beans, bacon et oeufs brouillés"
 instagram: Be9-O0RgFcS
 ---
