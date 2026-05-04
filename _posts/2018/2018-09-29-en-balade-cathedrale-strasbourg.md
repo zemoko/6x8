@@ -11,5 +11,6 @@ tags:
 coverImage: en-balade...-cathedrale-strasbourg.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue sur la fléche de la cathédrale de Strasbourg"
 instagram: BoT8vbID5D2
 ---
