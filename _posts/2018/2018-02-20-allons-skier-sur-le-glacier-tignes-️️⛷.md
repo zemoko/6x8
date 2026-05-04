@@ -10,5 +10,6 @@ tags:
 coverImage: allons-skier-sur-le-glacier-tignes-️️⛷.jpg 
 imgWidth: 360
 imgHeight: 188
+imgAlt: "Vue sur le glacier au dessus de Tignes"
 instagram: Bfay6gYg-iX
 ---
