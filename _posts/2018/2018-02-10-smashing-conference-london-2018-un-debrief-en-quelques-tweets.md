@@ -10,6 +10,7 @@ tags:
 coverImage: "img_1649.jpg"
 imgWidth: 360
 imgHeight: 151
+imgAlt: "Vue sur la salle de conférence de la Smashing Conf"
 cover2left: true
 ---
 
