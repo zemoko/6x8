@@ -10,5 +10,6 @@ tags:
 coverImage: au-dessus-du-passage-jouffroy-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue (extérieure) de la verrière au-dessus du passage Jouffroy"
 instagram: Bqt5EnLh9V5
 ---
