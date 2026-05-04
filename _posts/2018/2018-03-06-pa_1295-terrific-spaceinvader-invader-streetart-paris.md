@@ -12,6 +12,7 @@ tags:
 coverImage: pa_1295-terrific-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Une oeuvre d’Invader blanche au-dessus d’une boutique « Eat & Drink »"
 instagram: Bf-fqk7ApdN
 ---
 
