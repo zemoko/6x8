@@ -12,6 +12,7 @@ tags:
 coverImage: pa_159-spaceinvader-streetart-paris-invader.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit invader jaune et noir sur un mur de Paris"
 instagram: BrN3iOoBtil
 ---
 
