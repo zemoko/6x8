@@ -1,7 +1,6 @@
 ---
 layout: instagram
 title: "PA_1248 #spaceinvader #paris #streetart"
-description:  'Les mosaïques d’Invader envahissent les murs de nos villes depuis plus de 20 ans… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et sur ce blog depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.'
 date: "2018-04-17"
 categories: 
   - "trucs-instagrammes"
@@ -13,6 +12,7 @@ tags:
 coverImage: pa_1248-spaceinvader-invader-paris-streetart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre d’Invader en noir et blanc représentant un personnage jonglant avec des invaders"
 instagram: BhrUioBjyPF
 ---
 
