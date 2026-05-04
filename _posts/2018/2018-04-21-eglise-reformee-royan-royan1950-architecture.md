@@ -11,5 +11,6 @@ tags:
 coverImage: eglise-reformee-royan-royan1950-architecture.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre d’Invader en noir et blanc représentant un personnage jonglant avec des invaders"
 instagram: Bh1t6_cD0--
 ---
