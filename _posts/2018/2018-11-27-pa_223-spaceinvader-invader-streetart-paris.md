@@ -12,6 +12,7 @@ tags:
 coverImage: pa_223-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit space invader, à côté d’une lanterne éclairée, à un coin de rue parisienne"
 instagram: BqsZd2_hoeJ
 ---
 
