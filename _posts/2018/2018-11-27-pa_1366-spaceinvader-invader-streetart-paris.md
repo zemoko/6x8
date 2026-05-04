@@ -12,6 +12,7 @@ tags:
 coverImage: pa_1366-spaceinvader-invader-streetart-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Cet invader rouge est en train de se faire effacer par une gomme."
 instagram: Bqs2thqhbQc
 ---
 
