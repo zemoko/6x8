@@ -11,5 +11,6 @@ tags:
 coverImage: non-rien-strasbourg.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue en perspective sur la cathédrale de Strasbourg"
 instagram: Bo4WXTQjnut
 ---
