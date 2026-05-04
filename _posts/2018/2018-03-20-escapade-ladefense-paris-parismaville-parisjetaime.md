@@ -10,5 +10,6 @@ tags:
 coverImage: escapade-ladefense-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur une oeuvre d’art sur le parvis de La Défense."
 instagram: BgiaRr1A1OU
 ---
