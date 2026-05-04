@@ -2,6 +2,7 @@
 layout: null
 title: "Une page au hasard"
 ---
+<title>Une page au hasard</title>
 
 <script type="text/javascript">
 
