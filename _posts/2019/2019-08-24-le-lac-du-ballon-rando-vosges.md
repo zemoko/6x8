@@ -11,5 +11,6 @@ tags:
 coverImage: "67116666_2226839057601953_8726654892107169685_n.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur le lac du Ballon"
 instagram: B1jnbb8Ij7P
 ---
