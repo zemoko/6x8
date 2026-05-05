@@ -10,6 +10,7 @@ tags:
 coverImage: "8e7d75dce00ebe5e.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu coopératif « Magic Maze »"
 cover2left: true
 noImageOnPost: false
 carousel: 
