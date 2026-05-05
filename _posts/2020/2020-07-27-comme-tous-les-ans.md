@@ -10,5 +10,6 @@ tags:
 coverImage: "115994467_1257395597931017_3512701093129028633_n-1.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue de face de Notre-Dame de Royan"
 instagram: CDJbjM5BT8p
 ---
