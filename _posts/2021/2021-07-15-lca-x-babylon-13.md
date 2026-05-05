@@ -11,6 +11,7 @@ tags:
 coverImage: https://sitofotos.6x8.org/_data/i/upload/2021/07/14/20210714143001-8af81c34-me.jpg
 imgWidth: 360
 imgHeight: 228
+imgAlt: "Une photo en nor et blanc du cimetière juif de Koenigshoffen"
 cover2left: true
 carousel: 
   - image: https://sitofotos.6x8.org/_data/i/upload/2021/07/14/20210714143018-51642294-me.jpg
