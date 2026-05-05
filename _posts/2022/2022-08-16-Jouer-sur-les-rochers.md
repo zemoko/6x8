@@ -11,6 +11,7 @@ tags:
 coverImage: 2022-08-16.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "4 enfants jouent sur des rochers devant la mer"
 instagram: ChVglzQIXDe
 post_image: 2022-08-16.jpg
 post_image_large: 2022-08-16_large.jpg
