@@ -10,6 +10,7 @@ tags:
 coverImage: "48e2703ad4111cb4.jpeg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "Le jeu « East India Companies » installé sur une table à PEL"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/110640961775886643"
