@@ -10,5 +10,6 @@ tags:
 coverImage: "80733566_1257907857744872_9066646210629982190_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cascade dans la forêt vosgienne"
 instagram: B7gOUikIWYs
 ---
