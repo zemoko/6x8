@@ -9,6 +9,7 @@ tags:
 coverImage: "fullsizeoutput_6352.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue sur une partie de ma ludothèque (on aperçoit notamment les Colons de Catane, Splendor, DRagon Castle, 7 Wonders…)"
 cover2left: true
 ---
 
