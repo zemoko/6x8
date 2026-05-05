@@ -11,6 +11,7 @@ tags:
 coverImage: "131049514_217462239992118_8101310738961333745_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le sapin de la Place Kléber"
 instagram: CI_FfHxBSbM
 ---
 
