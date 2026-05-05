@@ -11,5 +11,6 @@ tags:
 coverImage: "90263231_2531382833782069_2637839534558052357_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue sur la cathédrâle de Strasbourg"
 instagram: B-AJTU2o2ZZ
 ---
