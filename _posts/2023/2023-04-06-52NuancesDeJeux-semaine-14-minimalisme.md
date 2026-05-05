@@ -10,6 +10,7 @@ tags:
 coverImage: "1e5b869b03dad7c9.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu « Palm Island »"
 cover2left: true
 noImageOnPost: false
 carousel: 
