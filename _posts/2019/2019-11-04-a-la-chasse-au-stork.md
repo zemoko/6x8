@@ -12,6 +12,7 @@ tags:
 coverImage: "collage.jpg"
 imgWidth: 360
 imgHeight: 133
+imgAlt: "Un collage de différentes photos d’oeuvres de Stork"
 cover2left: true
 ---
 
