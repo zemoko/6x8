@@ -12,6 +12,7 @@ tags:
 coverImage: "80373255_2631407836940946_7409428737243088235_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre de stork représentant Sangoku tenant une boule de cristal sur laquelle on voit une cigogne"
 instagram: B6OHBqxIbts
 ---
 
