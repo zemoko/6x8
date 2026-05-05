@@ -11,6 +11,7 @@ tags:
 coverImage: "LeHavre/IMG_2782.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue sur une des oeuvres monumentales présentées in situ au Havre"
 cover2left: true
 ---
 
