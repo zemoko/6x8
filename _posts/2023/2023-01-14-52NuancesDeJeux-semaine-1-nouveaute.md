@@ -11,6 +11,7 @@ tags:
 coverImage: "86c48eed94b768a9.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu « Turing Machine »"
 cover2left: true
 noImageOnPost: false
 carousel: 
