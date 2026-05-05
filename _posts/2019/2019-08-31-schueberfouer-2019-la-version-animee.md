@@ -13,7 +13,7 @@ coverImage: "67730129_127351565235044_6037573262819163315_n.jpg"
 post_video: "70391040_2890640310950691_1027193062244055373_n.mp4"
 imgWidth: 360
 imgHeight: 360
-imgAlt: "Vue sur un manège de la Schuberfouer tournant très haut au-dessus du sol"
+imgAlt: "Séquence d’un manège de la Schuberfouer tournant très haut au-dessus du sol"
 instagram: B11psWoHg7A
 ---
 
