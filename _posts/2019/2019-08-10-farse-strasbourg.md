@@ -12,6 +12,7 @@ tags:
 coverImage: "66363143_153385329098543_390724314002078107_n.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Un concert en plein air, en ville, lors du Farse. Six musiciens tout de noirs vétus, avec des kilts, font de l’accordéon."
 instagram: B0_S5-Bhy8l
 ---
 
