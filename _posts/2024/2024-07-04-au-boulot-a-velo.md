@@ -12,6 +12,7 @@ coverImage: ABAV.jpg
 cover2left: false
 imgWidth: 1024
 imgHeight: 379
+imgAlt: "L’affiche de l’édition 2024 de « Au boulot à vélo »"
 ---
 
 <div class="resp2col">
