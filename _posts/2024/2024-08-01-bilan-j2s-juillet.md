@@ -10,6 +10,7 @@ tags:
 coverImage: "49ca3584a471f340.jpeg"
 imgWidth: 548
 imgHeight: 548
+imgAlt: "Une grille de 4 par 4 avec les jeux auquels nous avons le plus joué en juillet"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/112885003276260764"
