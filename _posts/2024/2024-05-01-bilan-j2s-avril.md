@@ -10,6 +10,7 @@ tags:
 coverImage: "4aaba6779f37b487.jpg"
 imgWidth: 303
 imgHeight: 303
+imgAlt: "Grille de 4 par 4 des jeux avec lesquels nous avons le plus joué en avril"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/deck/@zemoko/112370168787628982"
