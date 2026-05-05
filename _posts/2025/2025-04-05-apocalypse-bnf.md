@@ -11,7 +11,7 @@ tags:
   - "paris"
   - "expo"
 coverImage: "apocalypse.jpg"
-imgWidthAlt: "Une maquette de la BNF, devant une verrière derrière laquelle on voit le jardin et deux tours de la BNF"
+imgAlt: "Une maquette de la BNF, devant une verrière derrière laquelle on voit le jardin et deux tours de la BNF"
 imgWidth: 1440
 imgHeight: 1080
 pixelfed: apocalypse.jpg
