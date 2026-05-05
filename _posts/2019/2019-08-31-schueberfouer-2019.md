@@ -11,6 +11,7 @@ tags:
 coverImage: "67585185_123993065596789_3777158284106836216_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur un manège de la Schuberfouer tournant très haut au-dessus du sol"
 instagram: B11Gjj5oaD1
 ---
 
