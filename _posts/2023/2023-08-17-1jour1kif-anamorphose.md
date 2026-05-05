@@ -10,6 +10,7 @@ tags:
 coverImage: "9e70b3e8d93918fa.jpg"
 imgWidth: 640
 imgHeight: 640
+imgAlt: "Une de mes photos d’anamorphose, prise sous la halle de Villette"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/110904444403343100"
