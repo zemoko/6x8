@@ -12,6 +12,7 @@ tags:
 coverImage: "69271563_368445157393001_2703218159290229705_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une petite oeuvre de stork sous la plaque de rue « Place des orphelins »"
 instagram: B2l8aTooUBd
 ---
 
