@@ -12,6 +12,7 @@ tags:
 coverImage: 2021-12-07-merci-dna-streetart-by-stork-pixelart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre de Stork représentant une Une des DNA disant « Merci », au-dessus d’une cigogne portant une coiffe d’infirmière à côté d’une représentation de la cathédrale de Strasbourg"
 instagram: CXMhBsmo6_D
 post_image: 2021-12-07-merci-dna-streetart-by-stork-pixelart.jpg
 post_image_large: 2021-12-07-merci-dna-streetart-by-stork-pixelart_large.jpg
