@@ -10,6 +10,7 @@ tags:
 coverImage: "c7AEiPMIuchajA8IlR8KaONVQd2IJOUKmqyhz4An.jpg"
 imgWidth: 810
 imgHeight: 1080
+imgAlt: "Sur une colonne, une affiche qui propose de « Remplacer Macron par de petites pelures de clémentine »"
 pixelfed: c7AEiPMIuchajA8IlR8KaONVQd2IJOUKmqyhz4An.jpg
 pixellink: https://pixelfed.social/p/zemoko/715490100580921191
 ---
