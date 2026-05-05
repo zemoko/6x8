@@ -10,5 +10,6 @@ tags:
 coverImage: "65917197_2348798375408988_8454175747963841934_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le compteur sur mon vélo annonce que j’ai déjà roulé 2001 kilomètres"
 instagram: BzqXurfID28
 ---
