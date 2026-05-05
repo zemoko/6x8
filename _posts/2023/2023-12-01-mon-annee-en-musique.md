@@ -9,6 +9,7 @@ tags:
 coverImage: 1500x1500bb-60.jpg
 imgWidth: 750
 imgHeight: 750
+imgAlt: "Apple Music Replay 2023"
 cover2left: true
 ---
 
