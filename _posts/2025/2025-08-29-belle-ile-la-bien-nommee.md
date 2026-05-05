@@ -12,6 +12,7 @@ tags:
 coverImage: belle-ile-en-mer.jpg
 imgWidth: 1280
 imgHeight: 849
+imgAlt: "Une lomode Belle-Île"
 noImageOnPost: true
 ---
 
