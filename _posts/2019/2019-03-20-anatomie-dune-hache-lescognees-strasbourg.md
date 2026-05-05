@@ -10,5 +10,6 @@ tags:
 coverImage: "50851599_426822888080356_6538135896823089516_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Une affiche détaillant l’anatomie d’une hache"
 instagram: BvPYEc8hrdi
 ---
