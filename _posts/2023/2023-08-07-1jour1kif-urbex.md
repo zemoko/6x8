@@ -13,6 +13,7 @@ tags:
 coverImage: "20191018073049-1aa98062-me.jpg"
 imgWidth: 792
 imgHeight: 524
+imgAlt: "Une lomo d’engrenages prises à Volklinge Hutte"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/110850223055390276"
