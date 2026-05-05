@@ -11,6 +11,7 @@ tags:
 coverImage: 2022-08-27-bblc.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le port du Croisic"
 instagram: ChwoPmSIfU7
 post_image: 2022-08-27-bblc.jpg
 post_image_large: 2022-08-27-bblc_large.jpg
