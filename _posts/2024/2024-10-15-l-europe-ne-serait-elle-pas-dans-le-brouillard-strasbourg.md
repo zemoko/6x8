@@ -13,6 +13,7 @@ tags:
 coverImage: "parlement-dans-le-brouillard.jpg"
 imgWidth: 2856
 imgHeight: 2142
+imgAlt: "Vue sur le Parlement Européen dans le brouillard"
 pixelfed: parlement-dans-le-brouillard.jpg
 pixellink: https://pixelfed.social/i/web/post/751685210646748652
 ---
