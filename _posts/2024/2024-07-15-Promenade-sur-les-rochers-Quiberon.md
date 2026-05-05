@@ -12,6 +12,7 @@ tags:
 coverImage: "YhUxfrqoabd3W7Ie9jKjtjRTZ9NBbVjGsp5tvApv.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "3 enfants, au loin, se promènent sur des rochers"
 pixelfed: YhUxfrqoabd3W7Ie9jKjtjRTZ9NBbVjGsp5tvApv.jpg
 pixellink: https://pixelfed.social/p/zemoko/718526292624553035
 ---
