@@ -12,6 +12,7 @@ tags:
 coverImage: "75562941_179420369874202_5931597134647044369_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de stork sur la Cité de la Musique"
 instagram: B6NsAr0oBUC
 ---
 
