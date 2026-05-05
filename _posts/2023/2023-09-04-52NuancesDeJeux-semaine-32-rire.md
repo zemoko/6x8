@@ -10,6 +10,7 @@ tags:
 coverImage: "332a4c5ed9dbcefc.jpg"
 imgWidth: 768
 imgHeight: 1024
+imgAlt: "La boîte du jeu d’ambiance « Docteur Pilule »"
 cover2left: true
 noImageOnPost: false
 carousel: 
