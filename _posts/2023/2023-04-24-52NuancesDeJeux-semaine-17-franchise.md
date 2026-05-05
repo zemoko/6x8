@@ -11,6 +11,7 @@ tags:
 coverImage: "f9468efd1cb9704b.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu de cartes « Doctor Who Fluxx »"
 cover2left: true
 noImageOnPost: false
 carousel: 
