@@ -12,6 +12,7 @@ tags:
 coverImage: "119656782_326785998533559_6064687591069766913_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Une cigogne de Stork sur le pont à l’entrée de Schiltigheim"
 instagram: CFUroR1BlYz
 ---
 
