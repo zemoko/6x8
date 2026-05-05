@@ -10,6 +10,7 @@ tags:
 coverImage: "IMG_5817-scaled.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Les deux coffrets des Princes d’Ambre"
 cover2left: true
 carousel: 
  - image: IMG_5806.jpg
