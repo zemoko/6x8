@@ -10,6 +10,7 @@ tags:
 coverImage: "f00a20954a4e2042.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu « Tokyo Highway »"
 cover2left: true
 noImageOnPost: false
 carousel: 
