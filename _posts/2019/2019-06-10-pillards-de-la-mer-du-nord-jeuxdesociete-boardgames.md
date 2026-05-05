@@ -10,5 +10,6 @@ tags:
 coverImage: "61156329_201075884109706_3511767328473226615_n.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur le plateau de « Pillards de la mer du nord »"
 instagram: ByiWFmPICb7
 ---
