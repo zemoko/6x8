@@ -10,6 +10,7 @@ tags:
 coverImage: "e5082e0e82dee72f.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu « Pillards de la Mer du Nord »"
 cover2left: true
 noImageOnPost: false
 carousel: 
