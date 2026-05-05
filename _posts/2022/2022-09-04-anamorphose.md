@@ -12,6 +12,7 @@ tags:
 coverImage: 2022-09-04-cifmlg7olx5.jpg
 imgWidth: 360
 imgHeight: 307
+imgAlt: "Une anamorphose au port de Saint-Nazaire"
 instagram: CiFMLG7oLX5
 post_image: 2022-09-04-cifmlg7olx5.jpg
 post_image_large: 2022-09-04-cifmlg7olx5_large.jpg
