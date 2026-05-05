@@ -13,6 +13,7 @@ tags:
 coverImage: 2022-08-12.jpg
 imgWidth: 360
 imgHeight: 324
+imgAlt: "Une cigogne de Stork sur le café « Au Tribunal »"
 instagram: ChKjPSnIfit
 post_image: 2022-08-12.jpg
 post_image_large: 2022-08-12_large.jpg
