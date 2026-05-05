@@ -12,6 +12,7 @@ tags:
 coverImage: "le-chat-perche.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Un chat perché sur une cigogne de Stork, sur le café du chat perché"
 pixelfed: le-chat-perche.jpg
 pixellink: https://pixelfed.social/p/zemoko/758734277030049023
 ---
