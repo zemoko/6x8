@@ -12,6 +12,7 @@ tags:
 coverImage: "106058559_3215038981918910_5684007830728630933_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de stork sous le pont reliant la Porte Blanche et Koenigshoffen"
 instagram: CB2jilfBQ6c
 ---
 
