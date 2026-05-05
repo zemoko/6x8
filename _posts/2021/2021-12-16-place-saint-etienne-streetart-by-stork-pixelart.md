@@ -12,6 +12,7 @@ tags:
 coverImage: 2021-12-16-place-saint-etienne-streetart-by-stork-pixelart.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Stork a réalisé des blasons en mosaïques sur la place Saint Etienne"
 instagram: CXi46RToY6X
 post_image: 2021-12-16-place-saint-etienne-streetart-by-stork-pixelart.jpg
 post_image_large: 2021-12-16-place-saint-etienne-streetart-by-stork-pixelart_large.jpg
