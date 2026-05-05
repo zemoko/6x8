@@ -11,6 +11,7 @@ tags:
 coverImage: 2022-08-24-ujasn.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le grand bassin de Saint-Nazaire"
 instagram: ChpdKPhoVGG
 post_image: 2022-08-24-ujasn.jpg
 post_image_large: 2022-08-24-ujasn_large.jpg
