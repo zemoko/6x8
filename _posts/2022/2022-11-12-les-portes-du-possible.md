@@ -13,6 +13,7 @@ tags:
 coverImage: "les-portes-du-possible.jpg"
 imgWidth: 360
 imgHeight: 223
+imgAlt: "L’affiche de l’exposition « Les portes du possible » au Cnetre Pompidou Metz"
 cover2left: true
 ---
 
