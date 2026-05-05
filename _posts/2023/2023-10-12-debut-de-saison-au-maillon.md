@@ -14,6 +14,7 @@ tags:
 coverImage: E56rFpQJ1UMiqZAgOepXPt3E6OkThLiHLNktSToU.png
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue sur la cour intérieure du Théâtre du Maillon"
 pixelfed: E56rFpQJ1UMiqZAgOepXPt3E6OkThLiHLNktSToU.png
 pixellink: https://pixelfed.social/i/web/post/618188082097187928
 ---
