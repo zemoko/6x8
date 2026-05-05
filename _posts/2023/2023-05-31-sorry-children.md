@@ -10,6 +10,7 @@ tags:
 coverImage: "6e9e6044060993c9.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La couverture du livre « Sorry children »"
 cover2left: true
 noImageOnPost: false
 carousel: 
