@@ -9,6 +9,7 @@ tags:
 coverImage: "16745360354_38993b2589_c.jpg"
 imgWidth: 360
 imgHeight: 240
+imgAlt: "Un petit iMac en lego"
 cover2left: true
 ---
 
