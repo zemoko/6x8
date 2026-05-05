@@ -12,6 +12,7 @@ tags:
 coverImage: "71234729_976513089348706_184540916826711371_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne stork dans une lanterne, au-desus d’une lanterne, dans la rue de la lanterne"
 instagram: B3G6X-1ofyk
 ---
 
