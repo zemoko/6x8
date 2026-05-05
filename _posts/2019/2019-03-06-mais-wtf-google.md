@@ -10,6 +10,7 @@ tags:
 coverImage: "71614192_4118537f26_b.jpg"
 imgWidth: 360
 imgHeight: 271
+imgAlt: "Une caméra de surveillance taguée sur un mur"
 cover2left: true
 ---
 
