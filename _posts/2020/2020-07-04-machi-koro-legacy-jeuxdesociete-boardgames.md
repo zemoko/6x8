@@ -10,5 +10,6 @@ tags:
 coverImage: "106547772_179131250298505_8719771416696381219_n.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Une partie de Machi Koro Legacy est en cours"
 instagram: CCNwNYjhTYZ
 ---
