@@ -14,6 +14,7 @@ tags:
 coverImage: KCEYR33RYslehRlXbGl6RwLycoQn63dnishkOpae.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue à travers la verrière, sur la terrasse de la Fondation Vuitton"
 pixelfed: KCEYR33RYslehRlXbGl6RwLycoQn63dnishkOpae.jpg
 pixellink: https://pixelfed.social/i/web/post/669218317278875333
 ---
