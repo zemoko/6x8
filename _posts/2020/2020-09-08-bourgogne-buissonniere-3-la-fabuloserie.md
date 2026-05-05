@@ -11,6 +11,7 @@ tags:
 coverImage: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104204630-26ff93da-xx.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Le panneau à l’entrée de la Fabuloserie indiquant que c’est un musée de l’art hors-les-normes"
 cover2left: true
 ---
 
