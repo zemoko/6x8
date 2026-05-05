@@ -12,6 +12,7 @@ tags:
 coverImage: "66304626_2439347306126657_5462203439568469669_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "À côté de Spiderman, une cigogne de stork en train de retirer son propre masque de Spiderman."
 instagram: B1JiRYGIisz
 ---
 
