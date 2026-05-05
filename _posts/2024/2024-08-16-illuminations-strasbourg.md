@@ -13,6 +13,7 @@ tags:
 coverImage: "SqSfCN6NxJCbZB3AMndJ5KLmL4qYq6Uf1p0Gh7Gs.jpg"
 imgWidth: 1013
 imgHeight: 1350
+imgAlt: "Les illuminations estivales sur la cathédrale de Strasbourg"
 pixelfed: SqSfCN6NxJCbZB3AMndJ5KLmL4qYq6Uf1p0Gh7Gs.jpg
 pixellink: https://pixelfed.social/i/web/post/730157811187249016
 ---
