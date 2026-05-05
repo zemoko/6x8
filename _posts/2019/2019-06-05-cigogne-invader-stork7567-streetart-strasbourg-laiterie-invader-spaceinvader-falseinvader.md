@@ -11,6 +11,7 @@ tags:
 coverImage: "61610141_222128622079237_4273242854529077002_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre en mosaïque représentant une tête de cigogne sur une brique de lait… sur un des murs de la Laiterie."
 instagram: ByVxAY0HTDs
 ---
 
