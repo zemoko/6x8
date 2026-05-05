@@ -8,6 +8,7 @@ categories:
 coverImage: "ba2023.png"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Ma carte de voeux pour 2023"
 cover2left: true
 ---
 
