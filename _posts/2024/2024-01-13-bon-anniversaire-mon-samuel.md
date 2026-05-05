@@ -11,6 +11,7 @@ tags:
 coverImage: JqSBEWBoq9Q61EnupIEG1KYU6aw4BAcwM3QMjF7W.png
 imgWidth: 1080
 imgHeight: 1080
+imgAlt: "Un gâteau d’anniversaire vert, marqué Samuel, avec une triforce jaune dessus et 2 petits personnages Link en lego"
 pixelfed: JqSBEWBoq9Q61EnupIEG1KYU6aw4BAcwM3QMjF7W.png
 pixellink: https://pixelfed.social/i/web/post/651886225222826435
 ---
