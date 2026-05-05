@@ -10,6 +10,7 @@ tags:
 coverImage: "5acbc794dca335f9.jpg"
 imgWidth: 1083
 imgHeight: 1083
+imgAlt: "Une grille de 4 par 4 avec les boîtes de jeux avec lesquelles j’ai le plus joué en janvier"
 cover2left: true
 noImageOnPost: false
 ---
