@@ -10,5 +10,6 @@ tags:
 coverImage: "122970633_393309065031229_6762953072445099841_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le front de mer de Royan"
 instagram: CG-EJCfBoKt
 ---
