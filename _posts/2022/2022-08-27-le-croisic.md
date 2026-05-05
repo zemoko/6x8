@@ -10,6 +10,7 @@ tags:
 coverImage: 2022-08-27.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue stylisée du Croisic"
 instagram: Chwpz5NoBx7
 post_image: 2022-08-27.jpg
 post_image_large: 2022-08-27_large.jpg
