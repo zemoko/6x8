@@ -13,6 +13,7 @@ tags:
 coverImage: SLpHq8IZQdnELfE6yje6GPyIaXTpdt4qRcNyk8Uq.png
 imgWidth: 924
 imgHeight: 693
+imgAlt: "Vue sur l’intérieur du hall du Théâtre du Maillon"
 pixelfed: SLpHq8IZQdnELfE6yje6GPyIaXTpdt4qRcNyk8Uq.png
 pixellink: https://pixelfed.social/i/web/post/638442832066465905
 ---
