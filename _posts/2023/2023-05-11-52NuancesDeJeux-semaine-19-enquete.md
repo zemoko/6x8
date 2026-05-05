@@ -10,6 +10,7 @@ tags:
 coverImage: "88ade7f0f5af43a0.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu « Flashback Zombie Kidz »"
 cover2left: true
 noImageOnPost: false
 carousel: 
