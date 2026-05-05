@@ -12,6 +12,7 @@ tags:
 coverImage: 2022-08-19.jpg
 imgWidth: 360
 imgHeight: 311
+imgAlt: "Vue sur les marais salants de Guérandes"
 instagram: Chc62wnoMgV
 post_image: 2022-08-19.jpg
 post_image_large: 2022-08-19_large.jpg
