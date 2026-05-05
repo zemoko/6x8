@@ -13,6 +13,7 @@ tags:
 coverImage: zg4XEBPY7DhGN7ZuiBAGEz69CaTSFFS3V9HxH3yl.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue sur le Pont de Normandie"
 pixelfed: zg4XEBPY7DhGN7ZuiBAGEz69CaTSFFS3V9HxH3yl.jpg
 pixellink: https://pixelfed.social/p/zemoko/595505626030910132
 ---
