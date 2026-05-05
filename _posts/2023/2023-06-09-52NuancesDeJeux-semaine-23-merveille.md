@@ -10,6 +10,7 @@ tags:
 coverImage: "88ca8e136c5d6f31.jpeg"
 imgWidth: 768
 imgHeight: 540
+imgAlt: "La boîte du jeu « La cité d’or »"
 cover2left: true
 noImageOnPost: false
 carousel: 
