@@ -9,6 +9,7 @@ tags:
 coverImage: "dark-toy-computer-black.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Une minifig Stormtrooper dans la pénombre"
 cover2left: true
 ---
 
