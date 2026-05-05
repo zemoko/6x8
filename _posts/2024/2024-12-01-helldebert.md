@@ -11,6 +11,7 @@ tags:
 coverImage: "helldebert.jpg"
 imgWidth: 1440
 imgHeight: 1062
+imgAlt: "Sur la scène du concert, de nombreux enfants ont rejoint Aldebert"
 pixelfed: helldebert.jpg
 pixellink: https://pixelfed.social/i/web/post/768884218150983824
 ---
