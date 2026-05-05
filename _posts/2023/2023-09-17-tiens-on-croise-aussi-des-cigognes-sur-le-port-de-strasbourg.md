@@ -15,6 +15,7 @@ tags:
 coverImage: BFroDU3dk9PVmhdB8oY9RPdgH7wbIx0JsEfvWUjo.jpg
 imgWidth: 768
 imgHeight: 1024
+imgAlt: "Une petite cigogne de stork sur un numéro de rue 12"
 pixelfed: BFroDU3dk9PVmhdB8oY9RPdgH7wbIx0JsEfvWUjo.jpg
 pixellink: https://pixelfed.social/p/zemoko/608601828450123877
 ---
