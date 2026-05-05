@@ -10,5 +10,6 @@ tags:
 coverImage: "120596694_178447783886936_3173122167593248273_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gâteau d’anniversaire représentant un pirate en pate à sucre"
 instagram: CF4JjMiBc2M
 ---
