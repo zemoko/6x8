@@ -12,6 +12,7 @@ tags:
 coverImage: "SUJPnmIhXxEKXWdhv0pv3mB8yoPtEzAi1nPJ27Zo.jpg"
 imgWidth: 1441
 imgHeight: 1080
+imgAlt: "Vue sur une plage de l’île de Houat"
 pixelfed: SUJPnmIhXxEKXWdhv0pv3mB8yoPtEzAi1nPJ27Zo.jpg
 pixellink: https://pixelfed.social/p/zemoko/721420596635996090
 ---
