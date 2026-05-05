@@ -11,6 +11,7 @@ tags:
 coverImage: "LetsGoToJapan.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue sur mon plateau personnel lors du jeu « Let’s go to Japan »"
 pixelfed: LetsGoToJapan.jpg
 pixellink: https://pixelfed.social/i/web/post/755154563153762681
 ---
