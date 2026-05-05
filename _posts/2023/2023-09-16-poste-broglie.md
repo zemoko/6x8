@@ -15,6 +15,7 @@ tags:
 coverImage: qdRxWODVjouaA3tEDWrwLgyZ6VMyH4Mgi6X2O8dZ.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Deux petits personnages de Stork, sur un des murs de la Poste Broglie"
 pixelfed: qdRxWODVjouaA3tEDWrwLgyZ6VMyH4Mgi6X2O8dZ.jpg
 pixellink: https://pixelfed.social/p/zemoko/609020646050022285
 ---
