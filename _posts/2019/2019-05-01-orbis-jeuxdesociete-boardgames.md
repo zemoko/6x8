@@ -10,5 +10,6 @@ tags:
 coverImage: "58409018_2333866306670725_1271072132896948101_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Le tapis de jeu pour Orbis"
 instagram: Bw6m9rHhL1j
 ---
