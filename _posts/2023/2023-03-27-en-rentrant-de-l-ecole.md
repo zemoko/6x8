@@ -11,6 +11,7 @@ tags:
 coverImage: 546009303138086001.png
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Les arbres dans le PNU sont couverts de fleurs roses"
 pixelfed: 546009303138086001.png
 pixellink: https://pixelfed.social/p/zemoko/546009303138086001
 ---
