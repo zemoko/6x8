@@ -15,6 +15,7 @@ tags:
 coverImage: kqBuSW09mvLxmCxwVU4Ql12GgAWPoVw3REGbhRqz.png
 imgWidth: 922
 imgHeight: 1230
+imgAlt: "Le bon Saint Nicolas sur son char"
 pixelfed: kqBuSW09mvLxmCxwVU4Ql12GgAWPoVw3REGbhRqz.png
 pixellink: https://pixelfed.social/i/web/post/636652881133516045
 ---
