@@ -12,6 +12,7 @@ tags:
 coverImage: 2022-03-12-la-semencerie-strasbourg.jpg
 imgWidth: 360
 imgHeight: 386
+imgAlt: "Sur la porte d’entrée de la Semencerie se trouve un gros hibou"
 instagram: CbAdTzgIDEd
 post_image: 2022-03-12-la-semencerie-strasbourg.jpg
 post_image_large: 2022-03-12-la-semencerie-strasbourg_large.jpg
