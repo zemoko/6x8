@@ -9,6 +9,7 @@ tags:
 coverImage: 4772372091_c00d3b6487_c.jpg
 imgWidth: 360
 imgHeight: 255
+imgAlt: "Une minifig lego installée pour travailler à son bureau"
 cover2left: true
 ---
  
