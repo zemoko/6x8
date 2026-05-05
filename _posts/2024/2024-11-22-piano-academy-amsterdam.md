@@ -9,6 +9,7 @@ tags:
 coverImage: "amsterdam.jpg"
 imgWidth: 2016
 imgHeight: 1512
+imgAlt: "Une photo de nuit prise sur un pont d’Amsterdam, sur lequel sont accrochés des vélos"
 pixelfed: amsterdam.jpg
 pixellink: https://pixelfed.social/i/web/post/766064760896792072
 ---
