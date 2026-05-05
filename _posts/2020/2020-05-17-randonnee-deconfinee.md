@@ -9,6 +9,7 @@ tags:
 coverImage: "img_4589-scaled.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue sur les vignes et sur la ville de Dambach"
 cover2left: true
 carousel:
   - image: Bernstein/img_4546.jpeg
