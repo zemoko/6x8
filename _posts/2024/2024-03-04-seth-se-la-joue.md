@@ -14,6 +14,7 @@ tags:
 coverImage: 1fyfnQQoDnqLDmzj4o9QiJmq7UPtyKgua9KYrM6I.jpg
 imgWidth: 1013
 imgHeight: 1350
+imgAlt: "Une des oeuvres de Seth, exposée au Musée en herbe"
 pixelfed: 1fyfnQQoDnqLDmzj4o9QiJmq7UPtyKgua9KYrM6I.jpg
 pixellink: https://pixelfed.social/i/web/post/670265485589985053
 ---
