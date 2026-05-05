@@ -11,6 +11,7 @@ tags:
 coverImage: "109258914_1609005642591416_5014296665043535052_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Succession de signatures bleues sur un mur blanc, au début de l’expo « Die Bilder der Brüder »"
 instagram: CCydkx0B2Fv
 ---
 
