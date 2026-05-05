@@ -12,6 +12,7 @@ tags:
 coverImage: "118210852_200806931467864_6746229688978839489_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de stork avec une croix rouge sur son balluchon"
 instagram: CEd9h6DBbNZ
 ---
 
