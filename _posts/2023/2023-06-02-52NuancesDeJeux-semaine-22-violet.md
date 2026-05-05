@@ -10,6 +10,7 @@ tags:
 coverImage: "ddcafff57c507d58.jpg"
 imgWidth: 768
 imgHeight: 1024
+imgAlt: "La boîte du jeu « Villainous »"
 cover2left: true
 noImageOnPost: false
 carousel: 
