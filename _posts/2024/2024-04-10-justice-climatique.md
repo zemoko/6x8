@@ -10,6 +10,7 @@ tags:
 coverImage: "6aa88091c58457d4.jpg"
 imgWidth: 2299
 imgHeight: 3024
+imgAlt: "L’affiche du documentaire « Justice climatique »"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/112248605240478022"
