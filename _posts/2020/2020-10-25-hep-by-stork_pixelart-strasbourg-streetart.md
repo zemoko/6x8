@@ -12,6 +12,7 @@ tags:
 coverImage: "122816574_368180504231064_7036902056763616098_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Une cigogne de Stork dit « Hep » sur une vieille maison alsacienne"
 instagram: CGxZtJYBfGP
 ---
 
