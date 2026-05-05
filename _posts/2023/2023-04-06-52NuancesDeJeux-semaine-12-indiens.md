@@ -10,6 +10,7 @@ tags:
 coverImage: "ae54f9c1f3ba046d.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu « Jaipur »"
 cover2left: true
 noImageOnPost: false
 carousel: 
