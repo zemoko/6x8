@@ -11,6 +11,7 @@ tags:
 coverImage: 2021-10-02-aventuriers-du-rail-boardgames.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des wagons de l’édition anniversaire des aventuriers du rail, sur le plateau du jeu"
 instagram: CUh9P8dIhru
 post_image: 2021-10-02-aventuriers-du-rail-boardgames.jpg
 post_image_large: 2021-10-02-aventuriers-du-rail-boardgames_large.jpg
