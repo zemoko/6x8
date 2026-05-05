@@ -10,5 +10,6 @@ tags:
 coverImage: "119125704_330132058229343_3511291857216023251_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Le portail à l’entrée d’un château alsacien en ruine"
 instagram: CFFL94lhGOo
 ---
