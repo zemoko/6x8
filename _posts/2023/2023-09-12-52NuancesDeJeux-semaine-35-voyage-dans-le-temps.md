@@ -10,6 +10,7 @@ tags:
 coverImage: "3f7287fc7346b644.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu « Back to the future »"
 cover2left: true
 noImageOnPost: false
 carousel: 
