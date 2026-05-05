@@ -10,6 +10,7 @@ tags:
 coverImage: "66342107_2328981573864456_4294215408753752073_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue sur Notre-Dame de Royan éclairée dans les tons violets"
 instagram: B0EpZ9ioisR
 ---
 
