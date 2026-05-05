@@ -10,6 +10,7 @@ tags:
 coverImage: "BombBusters.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Le plateau du jeu « BombBusters »"
 pixelfed: BombBusters.jpg
 pixellink: https://pixelfed.social/i/web/post/754766809135746400
 ---
