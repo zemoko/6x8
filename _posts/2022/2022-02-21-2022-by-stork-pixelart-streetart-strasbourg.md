@@ -13,6 +13,7 @@ tags:
 coverImage: 2022-02-21-2022-by-stork-pixelart-streetart-strasbourg.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de Stork tient un drapeau marqué 2022, au-dessus de la plaque du Boulevard de Nancy"
 instagram: CaM5jF2INJm
 post_image: 2022-02-21-2022-by-stork-pixelart-streetart-strasbourg.jpg
 post_image_large: 2022-02-21-2022-by-stork-pixelart-streetart-strasbourg_large.jpg
