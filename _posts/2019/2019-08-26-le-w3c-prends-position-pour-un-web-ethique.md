@@ -12,6 +12,7 @@ tags:
 coverImage: "775435112e7f83a51ed5942d891a200c.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une minifig stormtrooper devant de petits papiers empilés, affichant des schémas, des tags HTML ou une couleur au format RVB"
 cover2left: true
 ---
 
