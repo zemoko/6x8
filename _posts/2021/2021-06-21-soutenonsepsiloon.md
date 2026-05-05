@@ -8,6 +8,7 @@ categories:
 coverImage: 2021-06-21-soutenonsepsiloon.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "J’ai reçu le premier numéro du magazine Epsiloon"
 instagram: CQX7i7fhJyc
 post_image: 2021-06-21-soutenonsepsiloon.jpg
 post_image_large: 2021-06-21-soutenonsepsiloon_large.jpg
