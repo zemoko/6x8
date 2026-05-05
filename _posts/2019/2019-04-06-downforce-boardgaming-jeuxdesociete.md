@@ -10,5 +10,6 @@ tags:
 coverImage: "56161402_610538449424769_8900257205545860044_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le plateau de downforce. La voiture verte est arrivée première, la rouge est arrivé deuxième."
 instagram: Bv7SHdxBQIt
 ---
