@@ -15,6 +15,7 @@ tags:
 coverImage: "lego/fanabriques.jpg"
 imgWidth: 1024
 imgHeight: 732
+imgAlt: "L’affiche de l’expo Fana’Briques 2023"
 cover2left: true
 carousel: 
   - image: "lego/IMG_0046.jpg"
