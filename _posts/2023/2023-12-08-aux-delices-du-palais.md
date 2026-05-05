@@ -16,6 +16,7 @@ tags:
 coverImage: AbZeB7ftmC3AAr0ebQqhezAo3UU72u1CfJNQNTX8.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "La déco à l’intérieur des Délices du Palais à Nancy"
 pixelfed: AbZeB7ftmC3AAr0ebQqhezAo3UU72u1CfJNQNTX8.jpg
 pixellink: https://pixelfed.social/i/web/post/638703721213682268
 ---
