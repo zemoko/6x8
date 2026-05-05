@@ -10,5 +10,6 @@ tags:
 coverImage: "116843243_220870699187715_8383600212556088034_n-2.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le plateau du jeu Terraforming Mars"
 instagram: CDWqmFMhmJn
 ---
