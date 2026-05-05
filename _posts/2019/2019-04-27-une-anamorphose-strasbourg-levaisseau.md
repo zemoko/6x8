@@ -13,6 +13,7 @@ tags:
 coverImage: "56997690_334027307254647_8873459679463804047_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une anamorphose représentant la structure d’un cube, visible au Vaisseau"
 instagram: Bww_DsFhP5d
 ---
 
