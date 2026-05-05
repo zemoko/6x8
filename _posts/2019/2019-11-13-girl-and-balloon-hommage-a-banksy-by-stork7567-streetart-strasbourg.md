@@ -11,6 +11,7 @@ tags:
 coverImage: "75571749_147968673155386_5327241246748844474_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre de stork qui rend hommageà la fille au ballon de Banksy"
 instagram: B4zd_PVogdj
 ---
 
