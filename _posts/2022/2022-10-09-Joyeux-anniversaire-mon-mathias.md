@@ -11,6 +11,7 @@ tags:
 coverImage: 2022-10-09-cjfizh5ir7o.jpg
 imgWidth: 360
 imgHeight: 329
+imgAlt: "Un gâteau d’anniversaire en forme de pompier (avec 42 écrit sur son casque)"
 instagram: CjfiZh5IR7o
 post_image: 2022-10-09-cjfizh5ir7o.jpg
 post_image_large: 2022-10-09-cjfizh5ir7o_large.jpg
