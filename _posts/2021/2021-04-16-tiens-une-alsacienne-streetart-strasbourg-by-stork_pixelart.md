@@ -11,6 +11,7 @@ tags:
 coverImage: "174556793_486402702715100_4931696047763477515_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de Stork habillée en alsacienne"
 instagram: "CNujP1TBIO9"
 ---
 
