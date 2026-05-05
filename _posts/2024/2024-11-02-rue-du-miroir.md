@@ -12,6 +12,7 @@ tags:
 coverImage: "rue-du-miroir.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Une chouette réalisée par Stork sur la plaque de la rue du miroir"
 pixelfed: rue-du-miroir.jpg
 pixellink: https://pixelfed.social/p/zemoko/758733883318756333
 ---
