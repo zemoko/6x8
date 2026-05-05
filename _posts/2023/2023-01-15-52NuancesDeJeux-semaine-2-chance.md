@@ -10,6 +10,7 @@ tags:
 coverImage: "e5b351c25534b5aa.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu « Lucky Numbers »"
 cover2left: true
 noImageOnPost: false
 carousel: 
