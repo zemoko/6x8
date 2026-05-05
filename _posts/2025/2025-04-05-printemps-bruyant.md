@@ -11,7 +11,7 @@ tags:
   - "paris"
   - "ecologie"
 coverImage: "printemps-bruyant.jpg"
-imgWidthAlt: "Beaucoup de (beaux) drapeaux, dont beaucoup de drapeaux XR, dans la manif"
+imgAlt: "Beaucoup de (beaux) drapeaux, dont beaucoup de drapeaux XR, dans la manif"
 imgWidth: 1440
 imgHeight: 1080
 pixelfed: printemps-bruyant.jpg
