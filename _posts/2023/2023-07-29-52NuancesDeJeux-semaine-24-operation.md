@@ -10,6 +10,7 @@ tags:
 coverImage: "b31c61db5c4620d0.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu « D-Day Dice »"
 cover2left: true
 noImageOnPost: false
 carousel: 
