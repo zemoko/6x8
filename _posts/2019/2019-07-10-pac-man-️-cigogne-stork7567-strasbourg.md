@@ -12,6 +12,7 @@ tags:
 coverImage: "65445702_103127704276799_8882635331459959926_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un stork entre pac man et 3 petits fantômes"
 instagram: Bzud8A6ooUG
 ---
 
