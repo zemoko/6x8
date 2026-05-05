@@ -10,6 +10,7 @@ tags:
 coverImage: "3a782ed9bd393797.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu « It’s a Wonderful World »"
 cover2left: true
 noImageOnPost: false
 carousel: 
