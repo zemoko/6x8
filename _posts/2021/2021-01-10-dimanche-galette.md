@@ -9,5 +9,6 @@ tags:
 coverImage: "136980774_819905968867541_3066287410916818620_n.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Une galette des rois maison sur la table"
 instagram: "CJ3d7NHhgjn"
 ---
