@@ -10,5 +10,6 @@ tags:
 coverImage: "70476951_2483394005085914_8589790321232377966_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur la plaine d’Alsace, à partir du rocher du Fallenlapp"
 instagram: B4IYmozIhv-
 ---
