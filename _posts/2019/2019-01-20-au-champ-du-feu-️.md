@@ -10,6 +10,7 @@ tags:
 coverImage: "50068008_2223124481283499_8796968167034481640_n.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue sur des tructures sortant d’un vaste champ de neige. Le paysage est très gris."
 instagram: Bs3QOJBhewl
 ---
 
