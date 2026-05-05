@@ -11,6 +11,7 @@ tags:
 coverImage: 2022-08-01.jpg
 imgWidth: 360
 imgHeight: 278
+imgAlt: "Vue sur la scène pour « mon » cliché du siècle"
 instagram: Cgt8dtBo51c
 post_image: 2022-08-01.jpg
 post_image_large: 2022-08-01_large.jpg
