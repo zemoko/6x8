@@ -14,6 +14,7 @@ coverImage: 2022-07-09.jpg
 imgWidth: 360
 imgHeight: 334
 instagram: Cfy6cusoeVm
+imgAlt: "Une petite cigogne de Stork sur la plaque de la rue de Mutzig"
 post_image: 2022-07-09.jpg
 post_image_large: 2022-07-09_large.jpg
 post_image_small: 2022-07-09_thumbnail.jpg
