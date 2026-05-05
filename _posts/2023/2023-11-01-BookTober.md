@@ -10,6 +10,7 @@ tags:
 coverImage: 0d0b95436951130a.png
 imgWidth: 360
 imgHeight: 360
+imgAlt: "La liste officielle des thèmes d’Inktober 2023"
 noImageOnPost: false
 cover2left: true
 carousel: 
