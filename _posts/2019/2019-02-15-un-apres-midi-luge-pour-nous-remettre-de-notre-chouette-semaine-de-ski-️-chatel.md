@@ -10,5 +10,6 @@ tags:
 coverImage: "50811372_430218504389821_4256375626173710112_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "2 enfants, visiblement enchantés, descendent en luge"
 instagram: Bt6ttr8BzLD
 ---
