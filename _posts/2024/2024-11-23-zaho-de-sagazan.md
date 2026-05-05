@@ -11,6 +11,7 @@ tags:
 coverImage: "zaho.jpg"
 imgWidth: 1440
 imgHeight: 1062
+imgAlt: "On aperçoit la silouhette de Zaho de Sagasan sur scène"
 pixelfed: zaho.jpg
 pixellink: https://pixelfed.social/i/web/post/766314399436680603
 ---
