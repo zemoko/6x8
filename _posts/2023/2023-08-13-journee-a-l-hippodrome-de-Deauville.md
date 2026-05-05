@@ -13,6 +13,7 @@ tags:
 coverImage: VDpfb5FOpfADsWitztRHvPLOXmtAN1qviMu9SqNU.jpg
 imgWidth: 904
 imgHeight: 678
+imgAlt: "L’arrivée d’une course à l’hippodrome de Deauville La Touques"
 pixelfed: VDpfb5FOpfADsWitztRHvPLOXmtAN1qviMu9SqNU.jpg
 pixellink: https://pixelfed.social/p/zemoko/596362362992405495
 ---
