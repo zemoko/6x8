@@ -10,6 +10,7 @@ tags:
 coverImage: "66053426_101464817825258_6171151506072802485_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "L’intérieur de l’église Notre-Dame de Royan"
 instagram: B0Vkg8OIDId
 ---
 
