@@ -11,6 +11,7 @@ tags:
 coverImage: "dice-throne-adventures.jpg"
 imgWidth: 3325
 imgHeight: 2494
+imgAlt: "Une partie en cours de « Dice Throne Adventures »"
 mastolink: "https://mamot.fr/@zemoko/114047904276573073"
 ---
 <p>J’aime bien retrouver les personnages et la mécanique de <span lang=en>Dice Throne</span>, mais j’aime aussi bien le mode coop qu’ils en ont tiré&nbsp;!</p>
