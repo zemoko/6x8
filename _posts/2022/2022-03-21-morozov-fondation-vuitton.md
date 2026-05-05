@@ -12,6 +12,7 @@ tags:
 coverImage: "morozov.webp"
 imgWidth: 360
 imgHeight: 180
+imgAlt: "L’affiche de l’exposition Morozov à la Fondation Vuitton"
 cover2left: false
 ---
 
