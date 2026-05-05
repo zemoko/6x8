@@ -7,5 +7,6 @@ categories:
 coverImage: "165582179_934772650682061_5125865083580250065_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une tasse de Bubble tea"
 instagram: "CM97d5iBlMF"
 ---
