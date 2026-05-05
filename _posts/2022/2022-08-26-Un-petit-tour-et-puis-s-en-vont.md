@@ -11,6 +11,7 @@ tags:
 coverImage: 2022-08-26.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "4 enfants marchent sur les rochers"
 instagram: ChuvlcjonVA
 post_image: 2022-08-26.jpg
 post_image_large: 2022-08-26_large.jpg
