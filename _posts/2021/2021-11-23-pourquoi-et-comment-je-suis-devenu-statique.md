@@ -8,6 +8,7 @@ categories:
 coverImage: 7588800922_b7abff2da3_c.jpg
 imgWidth: 360
 imgHeight: 240
+imgAlt: "Une minifig stormtrooper travaille sur un ordinateur portable, pendant que Dark Vador le surveille une tasse à la main"
 cover2left: true
 ---
 
