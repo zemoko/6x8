@@ -10,5 +10,6 @@ tags:
 coverImage: "101374870_1205088679822512_4446430144014389887_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur la plaine d’Alsace du haut du Hartmannswillerkopf"
 instagram: CA3aLkLhxW8
 ---
