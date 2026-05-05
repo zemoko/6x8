@@ -10,6 +10,7 @@ tags:
 coverImage: 2021-12-01-calendrier-de-l-avent-jour-1.jpg
 imgWidth: 360
 imgHeight: 419
+imgAlt: "Ce calendrier de l’avent contient des dés. Celui du jour 1 est un dé à trois faces rouge et bleu foncé"
 instagram: CW8sHdSo2Ms
 post_image: 2021-12-01-calendrier-de-l-avent-jour-1.jpg
 post_image_large: 2021-12-01-calendrier-de-l-avent-jour-1_large.jpg
