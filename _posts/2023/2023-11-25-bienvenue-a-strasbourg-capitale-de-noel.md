@@ -15,6 +15,7 @@ tags:
 coverImage: xfSgenMk0RE6LsDaSqV3RzwbwTnKyDMWBECzer61.png
 imgWidth: 922
 imgHeight: 1230
+imgAlt: "Un sapin design, fait en cathedrales de Strasbourg blanches et dorées, sur la place de la Gare"
 pixelfed: xfSgenMk0RE6LsDaSqV3RzwbwTnKyDMWBECzer61.png
 pixellink: https://pixelfed.social/i/web/post/633975356061871564
 ---
