@@ -10,6 +10,7 @@ tags:
 coverImage: "56c1c3e70f575f5f.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte, bien abimée, du jeu de cartes « Le magot de pépé »"
 cover2left: true
 noImageOnPost: false
 carousel: 

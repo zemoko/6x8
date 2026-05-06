@@ -10,6 +10,7 @@ tags:
 coverImage: "IMG_4479-scaled.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Deux docteurs (de Dr Who), l’un en lego l’autre en mini Pop, dans une piste de yams au milieu des dés. On voit un Tardis en lego à côté"
 cover2left: true
 ---
 

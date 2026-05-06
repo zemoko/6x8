@@ -14,6 +14,7 @@ tags:
 coverImage: eAGRS7EEVHQEjhqp3IEmacyD5KhOTPwUnnvVffmD.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue de l’intérieur du Parlement Européen (sur l’extérieur de l’hemicycle)"
 pixelfed: eAGRS7EEVHQEjhqp3IEmacyD5KhOTPwUnnvVffmD.jpg
 pixellink: https://pixelfed.social/i/web/post/689939123328179652
 ---

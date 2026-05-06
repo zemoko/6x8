@@ -10,5 +10,6 @@ tags:
 coverImage: voyage-en-danielie-dijon-bourgogne.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur une perspective de tonneaux de vin empilés"
 instagram: BoEGObGDIE0
 ---

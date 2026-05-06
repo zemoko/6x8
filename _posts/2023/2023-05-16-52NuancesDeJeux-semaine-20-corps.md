@@ -10,6 +10,7 @@ tags:
 coverImage: "8734bea1d27fb3cc.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu Pandémie Contagion"
 cover2left: true
 noImageOnPost: false
 carousel: 

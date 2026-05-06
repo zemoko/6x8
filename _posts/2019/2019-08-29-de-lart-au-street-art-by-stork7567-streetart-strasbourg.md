@@ -12,6 +12,7 @@ tags:
 coverImage: "69807076_192636408433806_7914540101871050547_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une série d’oeuvres de Stork à côté du musée d’art moderner, donc sur le théme de l’art moderne"
 instagram: B1wS5eeoBqn
 ---
 

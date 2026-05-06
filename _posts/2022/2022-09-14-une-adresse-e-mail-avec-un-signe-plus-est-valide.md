@@ -10,6 +10,7 @@ tags:
 coverImage: 23457159216_bef9ca53bd_c.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Une minifig lego tient une lettre dans sa main"
 cover2left: true
 ---
 

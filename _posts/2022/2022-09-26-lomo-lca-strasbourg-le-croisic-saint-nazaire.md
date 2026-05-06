@@ -16,6 +16,7 @@ tags:
 coverImage: "IMG_1235.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Mes photos sont sorties de leur pochette Négatif+ et étalées sur la table"
 cover2left: true
 ---
 

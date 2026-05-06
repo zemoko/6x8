@@ -12,6 +12,7 @@ coverImage: "le-destin-de-la-communaute.jpg"
 cover2left: true
 imgWidth: 3325
 imgHeight: 2494
+imgAlt: "Vue sur le plateau du jeu « Le seigneur des anneaux : le destin de la communauté »"
 mastolink: "https://mamot.fr/@zemoko/115197494812075397"
 ---
 <p>Yes, on a sauvé la Terre du Milieu <span aria-hidden="true">\o/</span></p>

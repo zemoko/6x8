@@ -11,6 +11,7 @@ tags:
 coverImage: "65419731_613405545838196_1417206759806383138_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de stork déclare sa flamme à un petit invader"
 instagram: By68xV6IaBB
 ---
 

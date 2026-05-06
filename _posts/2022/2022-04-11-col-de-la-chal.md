@@ -11,6 +11,7 @@ tags:
 coverImage: 2022-04-11-col-de-la-chal.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue du col de la Chal, au-dessus des Arcs"
 instagram: CcNu8eOILho
 post_image: 2022-04-11-col-de-la-chal.jpg
 post_image_large: 2022-04-11-col-de-la-chal_large.jpg

@@ -10,6 +10,7 @@ tags:
 coverImage: "58c3a6080537f95f.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu « Les colons de Catane »"
 cover2left: true
 noImageOnPost: false
 carousel: 

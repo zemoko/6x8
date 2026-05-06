@@ -9,6 +9,7 @@ tags:
 coverImage: "154551899_442802966944069_5193063682389027106_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Je me suis préparé un bon petit déjeuner anglais, avec jus d’oranges frais, café, tartines, beans et bacon"
 instagram: "CL1QP1vhDv8"
 ---
 

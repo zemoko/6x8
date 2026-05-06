@@ -10,5 +10,6 @@ tags:
 coverImage: "61261453_2274251462836576_4796298383830583608_n.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur les vignes, avec un village alsacien en arrière-plan"
 instagram: ByfhqZiIggW
 ---

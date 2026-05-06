@@ -8,6 +8,7 @@ categories:
 coverImage: "bonne-annee-2022.png"
 imgWidth: 360
 imgHeight: 218
+imgAlt: "Ma carte de voeux pour 2022"
 cover2left: true
 ---
 

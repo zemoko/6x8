@@ -10,6 +10,7 @@ tags:
 coverImage: "be8c952a8d08d568.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu de cartes « Bohnanza »"
 cover2left: true
 noImageOnPost: false
 carousel: 

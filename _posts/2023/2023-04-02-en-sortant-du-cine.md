@@ -12,6 +12,7 @@ tags:
 coverImage: 548199580105267857.png
 imgWidth: 360
 imgHeight: 482
+imgAlt: "Vue sur le cinéma Vox à Strasbourg"
 pixelfed: 548199580105267857.png
 pixellink: https://pixelfed.social/p/zemoko/548199580105267857
 ---

@@ -12,6 +12,7 @@ tags:
 coverImage: "110989135_4115945865147234_7269222823582300537_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de Stork sur la plaque de la « rue Jacques Kablé »"
 instagram: CC87AvFhpl9
 ---
 

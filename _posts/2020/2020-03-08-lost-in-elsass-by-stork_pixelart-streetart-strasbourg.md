@@ -12,6 +12,7 @@ tags:
 coverImage: "87643518_3006725389385310_7649813944382557048_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit Invader de stork sur un texte qui dit « Lost in Elsass »"
 instagram: B9fF4kIhQEI
 ---
 

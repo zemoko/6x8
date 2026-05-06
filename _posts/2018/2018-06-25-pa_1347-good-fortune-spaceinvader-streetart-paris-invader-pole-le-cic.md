@@ -12,6 +12,7 @@ tags:
 coverImage: pa_1347-good-fortune-spaceinvader-streetart-paris-invader-pole-le-@cic.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre d’invader représentant un sac d’or sur une agence CIC"
 instagram: Bkcjn9EjVpy
 ---
 

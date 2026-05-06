@@ -11,6 +11,7 @@ tags:
 coverImage: "auboulotavelo.png"
 imgWidth: 360
 imgHeight: 180
+imgAlt: "Le logo des 10 ans de « Au boulot à vélo »"
 ---
 
 ![](/images/2019/07/veloptimiste_logo_vect_evenement_CMJN-e1526551694732-279x300.jpg# book2left)Du 3 au 30 juin, c'était la dixième édition de ["Au boulot à vélo"](https://auboulotavelo.eu/), un challenge par équipe organisé sur l'eurometropole de Strasbourg par l'association [CADR67](https://cadr67.fr/).

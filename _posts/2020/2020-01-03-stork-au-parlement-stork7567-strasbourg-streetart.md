@@ -12,6 +12,7 @@ tags:
 coverImage: "81156909_2440934036224647_3701381703893341701_n.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Une cigogne de Stork sur un drapeau européen, devant le Parlement Européen"
 instagram: B62X8isIVvm
 ---
 

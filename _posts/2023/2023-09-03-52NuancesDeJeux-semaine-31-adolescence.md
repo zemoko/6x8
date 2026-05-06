@@ -10,6 +10,7 @@ tags:
 coverImage: "c5981604aa30de65.jpg"
 imgWidth: 768
 imgHeight: 1024
+imgAlt: "La boîte du jeu vintage « Horreur à Arkham »"
 cover2left: true
 noImageOnPost: false
 carousel: 

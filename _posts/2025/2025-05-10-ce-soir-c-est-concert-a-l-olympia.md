@@ -12,5 +12,6 @@ tags:
 coverImage: "olympia.jpg"
 imgWidth: 2494
 imgHeight: 3325
+imgAlt: "Une affiche « Le cycle de la vie » affichée à l’Olympia : Acheter un billet  > avoir hâte > Kiffer le spectacle > Être en déprime post-spectacle > etc."
 mastolink: "https://mamot.fr/@zemoko/114484996946082609"
 ---

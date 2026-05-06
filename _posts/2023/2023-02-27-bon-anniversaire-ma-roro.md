@@ -11,5 +11,6 @@ tags:
 coverImage: 535907069028593806.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un gâteau d’anniversaire marqué Romane avec un Tardis qui en sort"
 pixelfed: 535907069028593806.jpg
 ---

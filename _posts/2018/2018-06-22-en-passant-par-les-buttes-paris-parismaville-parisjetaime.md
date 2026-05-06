@@ -10,5 +10,6 @@ tags:
 coverImage: en-passant-par-les-buttes-paris-parismaville-parisjetaime.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur la montagne (et son petit temple grec) qui surplombe le lac du parc des Buttes Chaumont"
 instagram: BkVFineDmzZ
 ---

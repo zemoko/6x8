@@ -13,6 +13,7 @@ tags:
 coverImage: RYBDUod12NcfVbdLSQBsLOtl52QiZbAtlXqYMkyi.jpg
 imgWidth: 904
 imgHeight: 678
+imgAlt: "La cabane des maitres nageurs sauveteurs sur la plage de Deauville"
 pixelfed: RYBDUod12NcfVbdLSQBsLOtl52QiZbAtlXqYMkyi.jpg
 pixellink: https://pixelfed.social/p/zemoko/594067353014262619
 ---

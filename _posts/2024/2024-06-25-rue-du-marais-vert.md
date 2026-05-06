@@ -12,6 +12,7 @@ tags:
 coverImage: "9ju0rPWmSCTcUR0UodUVf5ErZSHvr79qDIX0BaoG.png"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Photo d’une oeuvre de Stork rue du marais vert. On voit Mario taper dans un bloc d’où s’échappe un champignon sur lequel se trouve la tête d’une cigogne"
 pixelfed: 9ju0rPWmSCTcUR0UodUVf5ErZSHvr79qDIX0BaoG.png
 pixellink: https://pixelfed.social/i/web/post/711208395916844499
 ---

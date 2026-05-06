@@ -10,6 +10,7 @@ tags:
 coverImage: "66492490_117758129529965_4439183750547749869_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le château de Ratilly"
 instagram: B0lKw_QIcrN
 ---
 

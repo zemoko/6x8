@@ -11,5 +11,6 @@ tags:
 coverImage: notre-dame-de-royan-architecture-royan-royan1950.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue en contreplongée sur Notre-Dame de Royan."
 instagram: BiBtONJjSWG
 ---

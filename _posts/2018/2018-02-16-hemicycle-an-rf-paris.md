@@ -10,5 +10,6 @@ tags:
 coverImage: hemicycle-an-rf-paris.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue en contreplongée de l’hemicycle de l’Assemblée Nationale et de sa coupole"
 instagram: BfQRSmcAhIg
 ---

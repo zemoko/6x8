@@ -10,5 +10,6 @@ tags:
 coverImage: "70821842_186122515883100_5672236529918251469_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "De grandes statues de Woody et Buzz réalisées en lego"
 instagram: B3hcEIYIew7
 ---

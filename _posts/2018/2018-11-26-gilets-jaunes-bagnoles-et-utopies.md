@@ -7,6 +7,7 @@ categories:
 coverImage: "stormtrooper-2293057_960_720.jpg"
 imgWidth: 360
 imgHeight: 260
+imgAlt: "Deux stormtroopers lego, sur des vélos lego"
 cover2left: true
 ---
 

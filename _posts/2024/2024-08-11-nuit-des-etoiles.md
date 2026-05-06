@@ -12,6 +12,7 @@ tags:
 coverImage: "nuit-des-etoiles.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue vers les étoiles à partir de la coupole de l’observatoire"
 pixelfed: nuit-des-etoiles.jpg
 pixellink: https://pixelfed.social/p/zemoko/727662025130582469
 ---

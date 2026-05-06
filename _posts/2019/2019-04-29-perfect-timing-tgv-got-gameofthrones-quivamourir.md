@@ -10,5 +10,6 @@ tags:
 coverImage: "57253547_394248487969958_8126940315577884211_n.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur mon macbook à ma place de TGV. On voit sur l’écran le générique de « Game of Thrones »"
 instagram: Bw0-U9ih-d-
 ---

@@ -15,6 +15,7 @@ tags:
 coverImage: xS0m0ALQDI5ChiETlpswcpOYoRpp96P1QmMPZvRF.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Au niveau du Quai des Bateliers, l’eau de l’Ill est vert fluo"
 pixelfed: xS0m0ALQDI5ChiETlpswcpOYoRpp96P1QmMPZvRF.jpg
 pixellink: https://pixelfed.social/p/zemoko/608602266020757775
 ---

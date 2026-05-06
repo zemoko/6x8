@@ -12,6 +12,7 @@ tags:
 coverImage: 4w6SKcgelTe4kfpGhrNKLsYKFIu4E5RyG5fdxa8k.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Le blason d’Hogwarts"
 pixelfed: 4w6SKcgelTe4kfpGhrNKLsYKFIu4E5RyG5fdxa8k.jpg
 pixellink: https://pixelfed.social/i/web/post/556185597859138384
 ---

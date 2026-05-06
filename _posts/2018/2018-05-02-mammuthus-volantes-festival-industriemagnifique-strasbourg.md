@@ -12,6 +12,7 @@ tags:
 coverImage: mammuthus-volantes-festival-industriemagnifique-strasbourg-1.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Vue de l’oeuvre « Mammuthus Volantes » prise de nuit avec la Cathédrale de Strasbourg derrière."
 instagram: BiSXfg2j9zD
 ---
 

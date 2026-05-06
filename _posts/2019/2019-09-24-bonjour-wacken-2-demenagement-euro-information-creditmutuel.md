@@ -11,5 +11,6 @@ tags:
 coverImage: "69267039_384685505772977_7731745057855702170_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Derrière des arbres, on aperçoit le batiment du Wacken 2 avec son enseigne « Crédit Mutuel »"
 instagram: B2yeJHRo7KT
 ---

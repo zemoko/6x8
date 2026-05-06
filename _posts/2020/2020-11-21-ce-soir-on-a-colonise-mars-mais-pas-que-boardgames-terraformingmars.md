@@ -10,6 +10,7 @@ tags:
 coverImage: "126596240_844556342781410_8971440579027152354_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur une partie de « Terraforming Mars »"
 instagram: CH3oaxKB4Ap
 ---
 

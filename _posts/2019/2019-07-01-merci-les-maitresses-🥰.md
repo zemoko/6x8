@@ -11,6 +11,7 @@ tags:
 coverImage: "66408376_884290791905189_3781925000901696145_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des petits beurres maison pour les maitresses"
 instagram: BzYeCTLIPJj
 ---
 

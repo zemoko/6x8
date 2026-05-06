@@ -11,6 +11,7 @@ tags:
 coverImage: "st-nicolas.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Un gros pain d’épices sur un torchon, avec deux St Nicolas en speculoos devant"
 cover2left: true
 ---
 

@@ -9,5 +9,6 @@ tags:
 coverImage: "167740688_494173228659358_1137365095034161993_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un plateau de nids en céréales et chocolat noir avec de petits oeufs en chocolat blanc dedans"
 instagram: "CNPV7pyh_We"
 ---

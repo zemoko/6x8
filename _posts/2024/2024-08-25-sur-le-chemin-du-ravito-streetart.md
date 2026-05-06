@@ -13,6 +13,7 @@ tags:
 coverImage: "hJ1l1VwHb15sTb8pzTKGd6BMZvSzKII27XB4CKkR.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Sur le chemin du ravito, on peut croiser un cigogne de Stork sur le mur d’un pont"
 pixelfed: hJ1l1VwHb15sTb8pzTKGd6BMZvSzKII27XB4CKkR.jpg
 pixellink: https://pixelfed.social/i/web/post/733330057431243624
 ---

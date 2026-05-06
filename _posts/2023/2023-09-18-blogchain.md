@@ -10,6 +10,7 @@ tags:
 coverImage: "lego.jpg"
 imgWidth: 1024
 imgHeight: 944
+imgAlt: "Une collection de briques lgeo ordinateurs"
 cover2left: true
 ---
 

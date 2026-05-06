@@ -13,6 +13,7 @@ tags:
 coverImage: "640_vasseur-reve.jpg"
 imgWidth: 360
 imgHeight: 200
+imgAlt: "Une photo d’Aaron Schwartz à côté du texte « Ce qu’il reste de nos rêves »"
 cover2left: true
 ---
 

@@ -12,5 +12,6 @@ tags:
 coverImage: 512602509150211119.png
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur les Ponts Couverts"
 pixelfed: 512602509150211119.png
 ---

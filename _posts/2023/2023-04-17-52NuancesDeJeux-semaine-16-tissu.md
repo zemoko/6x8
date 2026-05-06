@@ -10,6 +10,7 @@ tags:
 coverImage: "8e4a95894cf06f51.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu « Patchwork »"
 cover2left: true
 noImageOnPost: false
 carousel: 

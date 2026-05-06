@@ -9,6 +9,7 @@ tags:
 coverImage: "Lego-Minifigure-Series-07-Wallpaper-Computer-Programmer.jpg"
 imgWidth: 360
 imgHeight: 238
+imgAlt: "Une minifig lego ouvre ce qui doit être un macbook"
 cover2left: true
 ---
 

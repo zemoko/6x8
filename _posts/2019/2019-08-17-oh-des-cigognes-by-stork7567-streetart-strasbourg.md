@@ -12,6 +12,7 @@ tags:
 coverImage: "66944340_155000812277784_5174681202721460682_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Collage des différentes petits cigognes de Stork qui se trouvent sur les murs extérieurs du Parc de l’Observatoire"
 instagram: B1RyiMgI9MX
 ---
 

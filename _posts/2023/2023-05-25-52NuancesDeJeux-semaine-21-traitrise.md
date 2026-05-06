@@ -10,6 +10,7 @@ tags:
 coverImage: "fb8354e1a76a3f57.jpg"
 imgWidth: 768
 imgHeight: 1024
+imgAlt: "La boîte du jeu de cartes « Citadelles »"
 cover2left: true
 noImageOnPost: false
 carousel: 

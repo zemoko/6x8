@@ -10,6 +10,7 @@ tags:
 coverImage: "7f1aeb461f66b5cb.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu « Explorateurs de la Mer du Nord »"
 cover2left: true
 noImageOnPost: false
 carousel: 

@@ -12,6 +12,7 @@ tags:
 coverImage: "66413664_2386941631558666_4597465839033169871_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "À côté du musée Tomi Ungerer, 3 petites cigognes de Stork représentent les 3 brigands"
 instagram: B07xaQdhUHF
 ---
 

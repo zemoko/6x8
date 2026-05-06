@@ -11,5 +11,6 @@ tags:
 coverImage: eglise-reformee-royan-royan1950-architecture.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le temple protestant de Royan, avec un beau ciel bleu derrière."
 instagram: Bh1t6_cD0--
 ---

@@ -11,5 +11,6 @@ tags:
 coverImage: leaving-strasbourg.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue le toit, au-dessus des quais de la gare de Strasbourg"
 instagram: Bl4q7fEDFAb
 ---

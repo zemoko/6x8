@@ -10,6 +10,7 @@ tags:
 coverImage: "59461547_488644691709294_4873303546066401695_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Ce quartier moderne de Nantes est tout vide au petit matin"
 instagram: BxbuWcvIpAp
 ---
 

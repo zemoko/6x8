@@ -10,6 +10,7 @@ tags:
 coverImage: "33b03e96104fe6e0.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu de Roll and write « Railroad Ink » dans son édition rouge"
 cover2left: true
 noImageOnPost: false
 carousel: 

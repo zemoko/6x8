@@ -12,6 +12,7 @@ tags:
 coverImage: "72410257_2368546753362788_4189585875336741156_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de stork tient un balluchon affichant le drapeau suisse, à côté de la plaque de la « Rue de Lausanne »"
 instagram: B37Ese_Iqzw
 ---
 

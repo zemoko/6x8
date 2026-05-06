@@ -10,6 +10,7 @@ tags:
 coverImage: "0005ec565bb17d6d.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu « Les gardiens de Havresac »"
 cover2left: true
 noImageOnPost: false
 carousel: 

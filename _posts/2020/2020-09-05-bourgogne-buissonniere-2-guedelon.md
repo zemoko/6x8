@@ -10,6 +10,7 @@ tags:
 coverImage: "https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213634-f45143f9-xx.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Le château fort de Gudélon en construction"
 cover2left: true
 carousel: 
   - image: https://sitofotos.6x8.org/i.php?/upload/2021/11/04/20211104213634-f45143f9-xx.jpg

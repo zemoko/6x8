@@ -15,6 +15,7 @@ tags:
 coverImage: zlmZF65ry3pCfTc6jUVX0JzN2v6Wa49QRoF94pkR.jpg
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "Deux petites cigognes de Stork à un coin de rue à côté de la gare"
 pixelfed: zlmZF65ry3pCfTc6jUVX0JzN2v6Wa49QRoF94pkR.jpg
 pixellink: https://pixelfed.social/p/zemoko/585213700424340640
 ---

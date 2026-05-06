@@ -12,6 +12,7 @@ coverImage: "l-economie-pour-les-99_.jpg"
 cover2left: true
 imgWidth: 2494
 imgHeight: 3325
+imgAlt: "La couverture de la BD « L’èconomie pour les 99% »"
 mastolink: "https://mamot.fr/@zemoko/114422799736826440"
 carousel: 
   - image: principes-1-5.jpg

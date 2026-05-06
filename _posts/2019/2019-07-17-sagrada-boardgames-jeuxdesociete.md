@@ -10,6 +10,7 @@ tags:
 coverImage: "66428344_2474210959304588_6068265788559400635_n.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Un des plateaux personnels de Sagrada, avec les dés de couleurs posés dessus"
 instagram: B0BW0WzoZzW
 ---
 

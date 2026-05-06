@@ -10,5 +10,6 @@ tags:
 coverImage: "57822042_164928444525205_4759492791495087731_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le plateau de jeu de « Azul, les vitraux de Sintra »"
 instagram: BxC3ghwB3at
 ---

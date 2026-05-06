@@ -12,6 +12,7 @@ tags:
 coverImage: "dXHCLkatLj3LBs7CPsojgplXJLskjInwwXZMoliS.jpg"
 imgWidth: 810
 imgHeight: 1080
+imgAlt: "Un des magnifiques point de vue de la côte de Belle-Île"
 pixelfed: dXHCLkatLj3LBs7CPsojgplXJLskjInwwXZMoliS.jpg
 pixellink: https://pixelfed.social/p/zemoko/720716532303290415
 ---

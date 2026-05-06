@@ -11,5 +11,6 @@ tags:
 coverImage: rue-frederic-guillaume-raiffeisen-mutualisme-creditmutuel-@mutuelcredit.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue de la (nouvelle) plaque de la rue Frédéric-Guillaume Raiffeisen"
 instagram: BjePJySDpQD
 ---

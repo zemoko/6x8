@@ -11,6 +11,7 @@ tags:
 coverImage: "13661830404_cdd2252315_k.jpg"
 imgWidth: 360
 imgHeight: 240
+imgAlt: "Une minifig stormtrooper sur un velo lego"
 ---
 
 <div class="center">

@@ -13,5 +13,6 @@ coverImage: premiere-flambee-poeledemasse-strasbourg.jpg
 post_video: 44700786_342653562949274_1241421593311793770_n.mp4
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Séquence du feu dans le poêle de masse."
 instagram: Bpj_gN8n2sM
 ---

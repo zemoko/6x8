@@ -12,6 +12,7 @@ tags:
 coverImage: "u8Bn7El6vhVg6pnULcmiqPa74drB8QlS5V1YdYRw.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue sur des rochers avec de jolis lichens colorés dessus"
 pixelfed: u8Bn7El6vhVg6pnULcmiqPa74drB8QlS5V1YdYRw.jpg
 pixellink: https://pixelfed.social/p/zemoko/719311226030152133
 ---

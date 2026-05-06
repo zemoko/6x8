@@ -10,6 +10,7 @@ tags:
 coverImage: "5a1bf6967e63c20b.jpeg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "La boîte du jeu « Histoires de Peluches »"
 cover2left: true
 noImageOnPost: false
 carousel: 

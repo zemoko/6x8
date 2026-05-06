@@ -10,5 +10,6 @@ tags:
 coverImage: "51117065_383725809148313_901261275269859064_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur les pistes avec une petite cabane au milieu et des tire-fesses passant en l’air"
 instagram: Bt3fBi8BEtK
 ---

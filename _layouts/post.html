@@ -163,10 +163,10 @@ Fancybox.bind("[data-fancybox]", {
 <div class="navlinks">
   <ul class="pagination">
 {% if page.previous.url %}
-    <li><a href="{{page.previous.url}}" class="previous-page">{{page.previous.title}}</a></li>
+    <li><a href="{{page.previous.url}}" class="previous-page"><p>{{page.previous.title}}</p></a></li>
 {% endif %}
 {% if page.next.url %}
-    <li><a href="{{page.next.url}}" class="next-page">{{page.next.title}}</a></li>
+    <li><a href="{{page.next.url}}" class="next-page"><p>{{page.next.title}}</p></a></li>
 {% endif %}
   </ul>
 </div>

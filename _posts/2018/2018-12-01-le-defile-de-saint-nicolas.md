@@ -11,5 +11,6 @@ tags:
 coverImage: le-defile-de-saint-nicolas.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une grande marionnette lumineuse lors du défilé de St Nicolas"
 instagram: Bq2tiLNBCmt
 ---

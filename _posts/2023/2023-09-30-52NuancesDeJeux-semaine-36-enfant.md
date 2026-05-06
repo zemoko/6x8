@@ -10,6 +10,7 @@ tags:
 coverImage: "02188c8c4cb26094.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu « Fort »"
 cover2left: true
 noImageOnPost: false
 carousel: 

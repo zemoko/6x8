@@ -10,5 +10,6 @@ tags:
 coverImage: on-a-change-nos-plans-on-a-fait-des-gateaux-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une assiette remplie d’une pile de financiers."
 instagram: BevkwAYgrgb
 ---

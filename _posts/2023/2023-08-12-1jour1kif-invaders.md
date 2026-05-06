@@ -13,6 +13,7 @@ tags:
 coverImage: "paris-tokyo-pa_1269-paris-spaceinvader-invader-streetart.jpg"
 imgWidth: 640
 imgHeight: 640
+imgAlt: "Une de mes photos d’invaders, celle du chat qui dit « Paris Tokyo » sur le restaurent Kadoya"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/110878672873581293"

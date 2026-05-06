@@ -12,6 +12,7 @@ tags:
 coverImage: "82470893_553638035228687_857294972088007696_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne stork avec un baluchon drapeau italien sur l’immeuble « Le Colisée »"
 instagram: B7507rWokPB
 ---
 

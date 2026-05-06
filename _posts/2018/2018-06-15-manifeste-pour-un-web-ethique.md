@@ -12,6 +12,7 @@ tags:
 coverImage: "all-we-need.jpg"
 imgWidth: 360
 imgHeight: 202
+imgAlt: "La slide d’ouverture de ma conférence affiche une photo en noir et blanc (un batiment avec écrit « All we need » en grandes lettres blanches)"
 cover2left: true
 ---
 

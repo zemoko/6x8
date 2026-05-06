@@ -12,5 +12,6 @@ tags:
 coverImage: pa_1317-lonesome-cowboy-bill-streetart-paris-spaceinvader-invader.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Une oeuvre d’invader tout en nuances de gris representant un homme en imperméable vu de dos"
 instagram: BfGbR57A7LD
 ---

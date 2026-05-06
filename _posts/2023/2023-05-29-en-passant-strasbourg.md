@@ -14,6 +14,7 @@ tags:
 coverImage: fwes1WYhgDmZZ3rTIzwbH8lEc1Mv8EEjFvToCBqf.jpg
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La maison aux lilas, sur les Ponts Couverts de Strasbourg"
 pixelfed: fwes1WYhgDmZZ3rTIzwbH8lEc1Mv8EEjFvToCBqf.jpg
 pixellink: https://pixelfed.social/p/zemoko/568793051721606794
 ---

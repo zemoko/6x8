@@ -15,5 +15,6 @@ coverImage: on-my-way-strasbourg-metz-thionville-paris-train.jpg
 post_video: 28385597_1342356425897388_6102208609053150329_n.mp4
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Sur cette séquence, on voit les rails du TGV défiler à grande vitesse."
 cover2left: true
 ---

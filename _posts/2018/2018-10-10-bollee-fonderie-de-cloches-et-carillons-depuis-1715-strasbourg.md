@@ -12,6 +12,7 @@ tags:
 coverImage: bollee-fonderie-de-cloches-et-carillons-depuis-1715-strasbourg.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Dans la cour de la fonderie Bollée de Strasbourg, on voit des cloches entreposées."
 instagram: Bowg7MHDcjG
 ---
 

@@ -11,6 +11,7 @@ tags:
 coverImage: "sapin.jpg"
 imgWidth: 2142
 imgHeight: 2856
+imgAlt: "La traditionnel sapin de Noël sous la verrière des Galeries Lafayette"
 pixelfed: sapin.jpg
 pixellink: https://pixelfed.social/i/web/post/774734464552615331
 ---

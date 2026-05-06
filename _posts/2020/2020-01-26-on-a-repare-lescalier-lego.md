@@ -10,5 +10,6 @@ tags:
 coverImage: "83130580_158347338931774_1251895276050920140_n.jpg"
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Ce trou dans l’escalier a été réparé avec des lego"
 instagram: B7yhxC3Itwc
 ---

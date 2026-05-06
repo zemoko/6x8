@@ -10,6 +10,7 @@ tags:
 coverImage: "156298993_910917629662621_8477653898847519356_n.jpg"
 imgWidth: 360
 imgHeight: 295
+imgAlt: "Le plateau du jeu « Vicomtes du Royaume de l’Ouest »"
 instagram: "CL_nbA4BkwC"
 ---
 

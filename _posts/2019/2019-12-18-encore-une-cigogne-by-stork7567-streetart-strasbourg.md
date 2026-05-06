@@ -12,6 +12,7 @@ tags:
 coverImage: "79228464_583842632175995_2899462543704538230_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de stork sur une forme de dirmant jaune"
 instagram: B6NlWX7odha
 ---
 

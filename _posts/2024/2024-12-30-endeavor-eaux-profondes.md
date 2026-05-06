@@ -11,5 +11,6 @@ tags:
 coverImage: "endeavor-eaux-profondes.jpg"
 imgWidth: 3325
 imgHeight: 2494
+imgAlt: "Vue sur le jeu « Endeavor, eux profondes »"
 mastolink: "https://mamot.fr/@zemoko/113742588762490522"
 ---

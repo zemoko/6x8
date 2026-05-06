@@ -12,6 +12,7 @@ tags:
 coverImage: 2022-04-14-3-loustics-sur-des-skis.jpg
 imgWidth: 720
 imgHeight: 406
+imgAlt: "Séquence de mes 3 enfants descendant une piste"
 instagram: CcVeV2gIvsq
 post_image: 2022-04-14-3-loustics-sur-des-skis.jpg
 post_video: 278317953_362415555813317_3696535792104254217_n.mp4

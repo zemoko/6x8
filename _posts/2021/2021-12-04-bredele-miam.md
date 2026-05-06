@@ -12,6 +12,7 @@ tags:
 coverImage: 2021-12-04-bredele-miam.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des séries de bredele maison"
 instagram: CXE5qjtIbS_
 post_image: 2021-12-04-bredele-miam.jpg
 post_image_large: 2021-12-04-bredele-miam_large.jpg

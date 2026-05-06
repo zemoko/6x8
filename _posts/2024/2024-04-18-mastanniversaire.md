@@ -10,6 +10,7 @@ tags:
 coverImage: "73fd87c7d1afb0d0.jpg"
 imgWidth: 1200
 imgHeight: 675
+imgAlt: "Le chiffre 7 écrit au-dessus de bandes de couleurs"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/112290941866928021"

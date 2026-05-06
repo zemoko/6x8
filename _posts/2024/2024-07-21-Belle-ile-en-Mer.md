@@ -12,6 +12,7 @@ tags:
 coverImage: "pJOO2HSFuBHdM9A2WdsIqJS7p51KcgYBpFsS2gaF.jpg"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue sur le Palais à partir de la Citadelle de Belle-Île"
 pixelfed: pJOO2HSFuBHdM9A2WdsIqJS7p51KcgYBpFsS2gaF.jpg
 pixellink: https://pixelfed.social/p/zemoko/720606046838050737
 ---

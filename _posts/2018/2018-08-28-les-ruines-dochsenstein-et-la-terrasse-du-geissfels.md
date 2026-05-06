@@ -9,6 +9,7 @@ tags:
 coverImage: "img_3470.jpg"
 imgWidth: 360
 imgHeight: 180
+imgAlt: "Vue panoramique des ruines du château d’Ochsenstein"
 cover2left: true
 ---
 

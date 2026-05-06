@@ -10,6 +10,7 @@ tags:
 coverImage: "ed7c39bcd38c74ab.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu vintage « Le jeu de l’énergie »"
 cover2left: true
 noImageOnPost: false
 carousel: 

@@ -12,6 +12,7 @@ tags:
 coverImage: "71870908_530088767558860_5892053874185258890_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne stork avec un petit poisson rouge sur son balluchon, à côté de la plaque de la « Place du marché au poisson »"
 instagram: B3cY79mI7gF
 ---
 

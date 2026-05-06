@@ -12,5 +12,6 @@ tags:
 coverImage: paris-thionville-frisange-luxembourg-metz-strasbourg.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Les panneaux affichés à l’entrée de Frisange quand on arrive d’Évrange"
 instagram: BfLYNg5gz8l
 ---

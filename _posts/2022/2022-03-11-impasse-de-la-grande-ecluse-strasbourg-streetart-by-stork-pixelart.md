@@ -13,6 +13,7 @@ tags:
 coverImage: 2022-03-11-impasse-de-la-grande-ecluse-strasbourg-streetart-by-stork-pixelart.jpg
 imgWidth: 360
 imgHeight: 408
+imgAlt: "Une petite cigogne de Stork sur une maison de l’impasse de la grande écluse"
 instagram: Ca-NcDuo8RF
 post_image: 2022-03-11-impasse-de-la-grande-ecluse-strasbourg-streetart-by-stork-pixelart.jpg
 post_image_large: 2022-03-11-impasse-de-la-grande-ecluse-strasbourg-streetart-by-stork-pixelart_large.jpg

@@ -11,6 +11,7 @@ tags:
 coverImage: peripheral.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "L’affiche de la série « The Peripheral » sur Amazon Prime"
 cover2left: true
 ---
 

@@ -10,5 +10,6 @@ tags:
 coverImage: quand-mathias-me-prends-en-photo-tignes.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une photo de votre serviteur, habillé en skieur et vu à contrejour"
 instagram: BfY05iQAqeU
 ---

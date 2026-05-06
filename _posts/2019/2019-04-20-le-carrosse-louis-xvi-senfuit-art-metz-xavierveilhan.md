@@ -11,5 +11,6 @@ tags:
 coverImage: "56414162_342410093079230_3066979874244681635_n.jpg"
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Une staue moderne, et uniformément violette, représentant le carrosse de Louis XVI et ses chevaux en pleine course"
 instagram: BweHyE8hlny
 ---

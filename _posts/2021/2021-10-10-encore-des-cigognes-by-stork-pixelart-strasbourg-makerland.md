@@ -12,6 +12,7 @@ tags:
 coverImage: 2021-10-10-encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Des cigognes de stork en haut des murs de Makerland"
 instagram: CU2j95IoC-s
 post_image: 2021-10-10-encore-des-cigognes-by-stork-pixelart-strasbourg-makerland.jpg
 post_image_large: 2021-10-10-encore-des-cigognes-by-stork-pixelart-strasbourg-makerland_large.jpg

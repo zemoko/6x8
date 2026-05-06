@@ -11,5 +11,6 @@ tags:
 coverImage: "121260417_1235244293510801_3353022117850431383_n.jpg"
 imgWidth: 360
 imgHeight: 290
+imgAlt: "Vue sur le set Central Perk lego éclairé"
 instagram: CGNeDuohKN9
 ---

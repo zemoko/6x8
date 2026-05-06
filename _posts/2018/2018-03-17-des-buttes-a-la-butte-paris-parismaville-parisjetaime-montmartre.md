@@ -10,5 +10,6 @@ tags:
 coverImage: des-buttes-a-la-butte-paris-parismaville-parisjetaime-montmartre.jpg
 imgWidth: 360
 imgHeight: 450
+imgAlt: "Photo en noir et blanc prise dans la montée de Montmartre."
 instagram: BgbpVa2gGKX
 ---

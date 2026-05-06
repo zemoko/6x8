@@ -12,6 +12,7 @@ tags:
 coverImage: 2021-06-12-l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Une grande lune installée en haut de la nef de la cathédrale de Strasbourg"
 instagram: CQBhsPgBVOi
 post_image: 2021-06-12-l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique.jpg
 post_image_large: 2021-06-12-l-industrie-magnifique-suite-et-final-en-beaut-e-strasbourg-industriemagnifique_large.jpg

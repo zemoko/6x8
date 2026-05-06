@@ -10,5 +10,6 @@ tags:
 coverImage: royan-eglisenotredamederoyan-lune.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le front de mer, avec Notre-Dame de Royan qui dépasse derrière."
 instagram: Bpbgr-5B-fG
 ---

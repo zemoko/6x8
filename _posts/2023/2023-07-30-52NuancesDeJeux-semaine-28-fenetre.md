@@ -10,6 +10,7 @@ tags:
 coverImage: "037ec7f97a124aac.jpg"
 imgWidth: 768
 imgHeight: 1024
+imgAlt: "La boîte du jeu « Sagrada »"
 cover2left: true
 noImageOnPost: false
 carousel: 

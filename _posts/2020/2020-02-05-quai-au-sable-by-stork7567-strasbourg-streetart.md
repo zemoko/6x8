@@ -12,6 +12,7 @@ tags:
 coverImage: "82703281_102302964631661_1155308037541241913_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une cigogne de Stork dans un sablier, au-dessus de la plaque du « Quai au sable »"
 instagram: B8MRb_YITQ-
 ---
 

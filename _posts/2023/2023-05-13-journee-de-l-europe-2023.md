@@ -14,6 +14,7 @@ tags:
 coverImage: O8AB1wX7ptaSNsnJk3jNtaeCEaxJVeGL5FdFcA9N.jpg
 imgWidth: 360
 imgHeight: 480
+imgAlt: "Vue en contreplongée dans la cour du Parlement Européen, regardant un ciel d’un bleu magnifique"
 pixelfed: O8AB1wX7ptaSNsnJk3jNtaeCEaxJVeGL5FdFcA9N.jpg
 pixellink: https://pixelfed.social/p/zemoko/562922751930786042
 ---

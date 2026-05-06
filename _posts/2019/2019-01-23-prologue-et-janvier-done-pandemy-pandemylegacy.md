@@ -10,5 +10,6 @@ tags:
 coverImage: "49907466_315527349072744_4812898134188563819_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "La carte du prologue de Pandemic Legacy est déchirée en deux parties"
 instagram: Bs_r6djhdyV
 ---

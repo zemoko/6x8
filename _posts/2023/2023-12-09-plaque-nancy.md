@@ -15,6 +15,7 @@ tags:
 coverImage: 6UoxftROngHRfHDLKQA3TK0WHE5drx3D3LaKxZad.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Une plaque d’égoûts sans doute réalisée par un artiste"
 pixelfed: 6UoxftROngHRfHDLKQA3TK0WHE5drx3D3LaKxZad.jpg
 pixellink: https://pixelfed.social/i/web/post/638752228738499926
 ---

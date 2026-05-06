@@ -10,5 +10,6 @@ tags:
 coverImage: fouyouyou-il-etait-complique-a-monter-ce-@firefox-papertoys-mozilla.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un papertoy de la mascotte de Mozilla, avec un casquette « mozilla » et un tee-shirt « Braderie Lille »"
 instagram: BdkoeXxgU-V
 ---

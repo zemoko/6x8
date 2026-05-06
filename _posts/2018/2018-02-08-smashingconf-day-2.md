@@ -11,5 +11,6 @@ tags:
 coverImage: smashingconf-day-2.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le logo de la Smashing Conf est projeté sur un mur"
 instagram: Be7geiwAY1_
 ---

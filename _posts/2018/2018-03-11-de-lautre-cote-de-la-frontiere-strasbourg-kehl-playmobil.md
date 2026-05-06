@@ -11,5 +11,6 @@ tags:
 coverImage: de-l’autre-cote-de-la-frontiere-strasbourg-kehl-playmobil.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une maison traditionnelle à Kehl. L’enseigne c’est un grand pirate Playmobil."
 instagram: BgLqO9SgQ5-
 ---

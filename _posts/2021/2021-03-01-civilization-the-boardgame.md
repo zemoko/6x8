@@ -10,6 +10,7 @@ tags:
 coverImage: "155262344_180134286967277_3398650985691334468_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur le plateau du jeu « Civilization »"
 instagram: "CL4VEgFhWWZ"
 ---
 

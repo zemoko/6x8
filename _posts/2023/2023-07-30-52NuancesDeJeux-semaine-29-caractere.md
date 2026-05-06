@@ -10,6 +10,7 @@ tags:
 coverImage: "7c25aeadcd5e7c22.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu d’ambiance « Qui paire gagne »"
 cover2left: true
 noImageOnPost: false
 carousel: 

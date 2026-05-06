@@ -12,5 +12,6 @@ tags:
 coverImage: "75392901_421723535401907_4366999612314407323_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Le char de Saint Nicolas passe devant la brasserie Saint Epvre"
 instagram: B5ypQWsIQkw
 ---

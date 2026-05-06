@@ -7,5 +7,6 @@ categories:
 coverImage: "54277666_123382578770173_9025025517890254616_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "3 Monsieur/Madame Patate dans un château-fort Playmobil"
 instagram: Bu6KY9DhVf3
 ---

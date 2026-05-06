@@ -7,6 +7,7 @@ categories:
 coverImage: "15.png"
 imgWidth: 360
 imgHeight: 216
+imgAlt: "Un panneau avec le chiffre 15 sur fonds jaune"
 cover2left: true
 ---
 

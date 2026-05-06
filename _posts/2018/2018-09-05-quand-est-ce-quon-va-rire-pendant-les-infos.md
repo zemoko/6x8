@@ -10,5 +10,6 @@ tags:
 coverImage: quand-est-ce-qu’on-va-rire-pendant-les-infos.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Sur ce banc en bois, on peut lire « Quand est-ce qu’on va rire pendant les infos ? »"
 instagram: BnV7vR9j7jQ
 ---

@@ -10,6 +10,7 @@ tags:
 coverImage: "971fdc574485d3ef.jpeg"
 imgWidth: 360
 imgHeight: 480
+imgAlt: "La boîte du jeu « À l’attaque du château »"
 cover2left: true
 noImageOnPost: false
 carousel: 

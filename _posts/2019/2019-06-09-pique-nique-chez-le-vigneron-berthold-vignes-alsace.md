@@ -10,5 +10,6 @@ tags:
 coverImage: "61913548_461879804560904_7451653215228665851_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Vue sur des vignes en biodynamie, donc avec beaucoup de nature et de fleurs à ses pieds"
 instagram: ByfiHFvogIN
 ---

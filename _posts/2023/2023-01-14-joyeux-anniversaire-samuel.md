@@ -11,6 +11,7 @@ tags:
 coverImage: 2023-01-14-cnafn1moijq.jpg
 imgWidth: 360
 imgHeight: 421
+imgAlt: "Un gâteau d’anniversaire d’où sort un Tardi. On voit un grand Playmobil du Docteur à côté"
 instagram: CnaFN1MoijQ
 post_image: 2023-01-14-cnafn1moijq.jpg
 post_image_large: 2023-01-14-cnafn1moijq_large.jpg

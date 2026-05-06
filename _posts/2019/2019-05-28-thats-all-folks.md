@@ -9,6 +9,7 @@ tags:
 coverImage: "785234673.jpg"
 imgWidth: 360
 imgHeight: 203
+imgAlt: "La fameuse image « That’s all folks! » qui cloturait les dessins animés quand on était petits"
 cover2left: true
 ---
 

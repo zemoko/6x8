@@ -12,6 +12,7 @@ tags:
 coverImage: pa_1244-time-for-a-beer-beer-spaceinvader-invader-streetart-paris.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Un petit invader sur une bouteille de bière"
 instagram: Bkp6-5mDikd
 ---
 

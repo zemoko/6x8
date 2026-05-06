@@ -10,5 +10,6 @@ tags:
 coverImage: "116581692_734034737447848_5187602182829274279_n-2.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une feuille du jeu Demeter"
 instagram: CDYlTS3BGvC
 ---

@@ -8,6 +8,7 @@ categories:
 coverImage: "Bonne-annee-2021.png"
 imgWidth: 360
 imgHeight: 222
+imgAlt: "Mockup de ma carte de voeux pour 2021"
 cover2left: true
 ---
 

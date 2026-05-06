@@ -12,6 +12,7 @@ coverImage: plaque-ABAV-2023.jpg
 cover2left: true
 imgWidth: 1024
 imgHeight: 657
+imgAlt: "La plaque « Au boulot à vélo » de 2023"
 ---
 
 <div class="resp2col">

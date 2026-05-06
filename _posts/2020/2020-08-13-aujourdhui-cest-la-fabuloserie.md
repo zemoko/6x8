@@ -11,5 +11,6 @@ tags:
 post_video: 117801351_191766005701402_58028647968467790_n.mp4
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Séquence animée d’une des oeuvres de petit Pierre"
 ---
 

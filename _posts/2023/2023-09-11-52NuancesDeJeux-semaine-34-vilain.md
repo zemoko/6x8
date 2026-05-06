@@ -10,6 +10,7 @@ tags:
 coverImage: "7f89b2133a5791fe.jpg"
 imgWidth: 1024
 imgHeight: 768
+imgAlt: "La boîte du jeu « Villainous Marvel »"
 cover2left: true
 noImageOnPost: false
 carousel: 

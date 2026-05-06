@@ -12,6 +12,7 @@ tags:
 coverImage: "WjsqfcEAnKmWRArd5plAMxyz4h7ute8Jv19nQLHv.png"
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Une cigogne de Stork au-dessus de la plaque de la rue du Général Zimmer"
 pixelfed: WjsqfcEAnKmWRArd5plAMxyz4h7ute8Jv19nQLHv.png
 pixellink: https://pixelfed.social/i/web/post/710288437136521944
 ---

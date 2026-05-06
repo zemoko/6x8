@@ -13,6 +13,7 @@ tags:
 coverImage: "strasnbike.jpg"
 imgWidth: 724
 imgHeight: 1024
+imgAlt: "L’affiche de la Stras’n’bike 2023"
 cover2left: true
 carousel: 
   - image: "strasnbike/IMG_3273.jpg"

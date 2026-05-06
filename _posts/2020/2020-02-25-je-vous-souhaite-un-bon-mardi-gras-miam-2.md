@@ -10,5 +10,6 @@ tags:
 coverImage: "84316522_559021201624657_4739693464482743944_n-1.jpg"
 imgWidth: 360
 imgHeight: 311
+imgAlt: "Une assiette de beignets maisons"
 instagram: B9APHsroyuV
 ---

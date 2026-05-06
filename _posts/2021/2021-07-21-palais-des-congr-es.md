@@ -12,6 +12,7 @@ tags:
 coverImage: 2021-07-21-palais-des-congr-es.jpg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Vue sur le Palais des Congrès de Royan"
 instagram: CR1mqrjBEFx
 post_image: 2021-07-21-palais-des-congr-es.jpg
 post_image_large: 2021-07-21-palais-des-congr-es_large.jpg

@@ -12,6 +12,7 @@ tags:
 coverImage: "66823908_1859231620888335_1258015999417546279_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Les cigognes de Stork du quartier de l’esplanade affichent sur leurs baluchons de petits drapeaux  correspondant aux noms des rues"
 instagram: B1Y5a3cIi3T
 ---
 

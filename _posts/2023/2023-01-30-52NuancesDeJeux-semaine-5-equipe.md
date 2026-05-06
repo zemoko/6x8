@@ -10,6 +10,7 @@ tags:
 coverImage: "d4d5066da1a295db.jpg"
 imgWidth: 768
 imgHeight: 1024
+imgAlt: "La boîte du jeu « Sub Terra »"
 cover2left: true
 noImageOnPost: false
 carousel: 

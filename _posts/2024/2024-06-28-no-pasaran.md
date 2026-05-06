@@ -10,6 +10,7 @@ tags:
 coverImage: no-pasaran.jpg
 imgWidth: 610
 imgHeight: 610
+imgAlt: "Montagne de 4 pochettes de CDs"
 cover2left: true
 ---
 

@@ -11,5 +11,6 @@ tags:
 coverImage: cimetiere-juif-de-koenigshoffen.jpg
 imgWidth: 360
 imgHeight: 269
+imgAlt: "Vue sur le cimetière juif de Koenigshoffen. D’anciennes pierres tombales plus ou moins droites parsément une vaste prairie un peu vallonée"
 instagram: Bo6OCqujYVI
 ---

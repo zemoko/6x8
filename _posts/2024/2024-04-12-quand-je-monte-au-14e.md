@@ -10,6 +10,7 @@ tags:
 coverImage: "d4a861852c171383.jpg"
 imgWidth: 3325
 imgHeight: 2494
+imgAlt: "Vue à travers des fenêtres du 14e étage"
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/112259108662789851"

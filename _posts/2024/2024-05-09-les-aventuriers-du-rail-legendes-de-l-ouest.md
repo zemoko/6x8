@@ -12,6 +12,7 @@ tags:
 coverImage: TRBsSjjRZAxBpFlTpFWHLC7WkqcEMnHmPnegbHLR.jpg
 imgWidth: 1440
 imgHeight: 1080
+imgAlt: "Vue du plateau du jeu Legacy « Les aventutiers du rail, Légendes de l’Ouest »"
 pixelfed: TRBsSjjRZAxBpFlTpFWHLC7WkqcEMnHmPnegbHLR.jpg
 pixellink: https://pixelfed.social/i/web/post/694155493809019809
 ---

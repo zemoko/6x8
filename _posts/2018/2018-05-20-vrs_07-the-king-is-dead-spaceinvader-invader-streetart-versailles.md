@@ -1,7 +1,6 @@
 ---
 layout: instagram
 title: "VRS_07 The king is dead    #spaceinvader #invader #streetart #versailles"
-description:  'Les mosaïques d’Invader envahissent les murs de nos villes depuis plus de 20 ans… et je m’amuse, moi, à les collectionner depuis bientôt 20 ans (et sur ce blog depuis 2015). C’est une bonne manière de se forcer à lever les yeux quand on se promène, voire à varier ses itinéraires.'
 date: "2018-05-20"
 categories: 
   - "trucs-instagrammes"
@@ -13,6 +12,7 @@ tags:
 coverImage: vrs_07-the-king-is-dead-spaceinvader-invader-streetart-versailles.jpg
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Une oeuvre d’Invader représentant le roi tenant sa tête à la main."
 instagram: Bi_wEIijckV
 ---
 

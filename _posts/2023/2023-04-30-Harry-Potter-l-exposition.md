@@ -13,6 +13,7 @@ tags:
 coverImage: HP/IMG_2244.jpeg
 imgWidth: 360
 imgHeight: 270
+imgAlt: "L’affiche de l’exposition Harry Potter"
 cover2left: true
 carousel: 
   - image: HP/IMG_2247.jpeg

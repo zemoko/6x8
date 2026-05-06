@@ -10,6 +10,7 @@ tags:
 coverImage: "carrot-cake.jpg"
 imgWidth: 360
 imgHeight: 270
+imgAlt: "Un carrot cake avec un glacage orange et quelques petites citrouilles d’Halloween dessus. Derrière, on voit de la déco d’Halloween."
 cover2left: true
 noImageOnPost: false
 mastolink: "https://mamot.fr/@zemoko/111330159188621518"

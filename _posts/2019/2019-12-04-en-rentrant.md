@@ -11,5 +11,6 @@ tags:
 coverImage: "78779507_688692141655135_2969802103298861176_n.jpg"
 imgWidth: 360
 imgHeight: 360
+imgAlt: "Photo de nuit, presque fantomatique, du chemin traversant la forêt à côté du camping. Un halo lumineux encadre un réverbêre au milieu des arbres."
 instagram: B5qI5ZVIBdd
 ---
