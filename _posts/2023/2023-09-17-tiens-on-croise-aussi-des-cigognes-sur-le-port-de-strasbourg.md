@@ -1,6 +1,6 @@
 ---
 layout: pixelfed
-title: "Tiens, on croise aussi des cigognes au port de Strasbourg #StraNBike #Strasbourg #streetart #strok7567"
+title: "Tiens, on croise aussi des cigognes au port de Strasbourg"
 date:   2023-09-17
 categories: 
   - trucs-pris-en-photo
