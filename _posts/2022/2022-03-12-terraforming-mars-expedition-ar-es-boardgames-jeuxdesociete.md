@@ -1,6 +1,6 @@
 ---
 layout: instagram
-title:  'Terraforming Mars, expedition Arès #boardgames #jeuxdesociete'
+title:  'Terraforming Mars, expedition Arès #jeuxdesociete'
 date:   2022-03-12
 categories: 
   - trucs-pris-en-photo
