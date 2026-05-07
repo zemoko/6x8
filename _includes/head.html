@@ -15,7 +15,7 @@
 			{%- if page.layout == "instagram" or page.layout == "pixelfed" -%}
 		<meta name="description" content="{{ page.imgAlt }}" />
 			{%- else  -%}
-		<meta name="description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 }}" />
+		<meta name="description" content="{{ page.content | strip_html | strip_newlines | remove:'Je vous fais le pitch' | truncate: 160 }}" />
 			{%- endif  -%}
 		{%- endif  -%}
 		<meta property="fediverse:creator" content="@zemoko@mamot.fr" />
