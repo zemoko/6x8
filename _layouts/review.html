@@ -80,16 +80,22 @@ layout: default
                 {%- endif -%}
                 {%- if page.bookRating -%}
                   <dt>Ma note</dy>
-                    <dd itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-                      <meta itemprop="worstRating" content="1">
+                    <dd>
                       <span class="stars" style="--rating: {{ page.bookRating }};"></span>
-                      <span class="sr-only"><span itemprop="ratingValue">{{ page.bookRating }}</span> sur <span itemprop="bestRating">5</span> étoiles</span>
+                      <span class="sr-only"><span>{{ page.bookRating }}</span> sur <span>5</span> étoiles</span>
                     </dd>
                 {%- endif -%}
               </dl>
             </figcaption>
             {%- endif -%}
           </figure>
+          {%- if page.bookRating -%}
+          <span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+            <meta itemprop="worstRating" content="1">
+            <meta itemprop="ratingValue" content="{{ page.bookRating }}">
+            <meta itemprop="bestRating" content="5">
+          </span>
+          {%- endif -%}
         </div>
     </div>
 
