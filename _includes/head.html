@@ -24,7 +24,7 @@
 		{%- if page.description -%}
 		<meta property="og:description" content="{{ page.description | strip_html  }}" />
 		{%- else  -%}
-		<meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 }}" />
+		<meta property="og:description" content="{{ page.content | strip_html | strip_newlines | remove:'Je vous fais le pitch' | truncate: 160 }}" />
 		{%- endif  -%}
 		<meta property="og:url" content="{{ page.url }}" />
 		<meta property="og:site_name" content="6x8=42" />
