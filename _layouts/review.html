@@ -79,15 +79,14 @@ layout: default
                   <dd><em itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.bookAuthor }}</span></em></dd>
                 {%- endif -%}
                 {%- if page.bookRating -%}
-                  <dt>Ma note</dT>
+                  <dt>Ma note</dy>
                     <dd itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
                       <meta itemprop="worstRating" content="1">
                       <span class="stars" style="--rating: {{ page.bookRating }};"></span>
                       <span class="sr-only"><span itemprop="ratingValue">{{ page.bookRating }}</span> sur <span itemprop="bestRating">5</span> étoiles</span>
-                      </span>
                     </dd>
                 {%- endif -%}
-              </dd>
+              </dl>
             </figcaption>
             {%- endif -%}
           </figure>
