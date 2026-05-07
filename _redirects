@@ -5,3 +5,5 @@
 /feed/         /feed.xml                       301
 /index.php     /                               301
 /now		   /en-ce-moment.html              301
+/category/trucs-pris-en-photos/trucs-instagrammes/  /category/trucs-pris-en-photo/trucs-instagrammes/ 301
+/tag/steetart/  /tag/streetart/          301
