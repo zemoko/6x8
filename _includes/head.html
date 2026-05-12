@@ -6,25 +6,26 @@
 		<meta property="article:published_time" content="{{ page.date }}" />
 {% if site.paginate and paginator.page != 1 %}
 		<title>{{ page.title | append: ', Page ' | append: paginator.page | strip_html | append: ' | ' | append: site.title | default: site.title }}</title>
+		<meta name="description" content="{{ page.description | append: '(page ' | append: paginator.page  | append: ')' }}" />
 {% else  %}
 		<title>{{ page.title | strip_html | append: ' | ' | append: site.title | default: site.title }}</title>
-{% endif  %}
 		{%- if page.description -%}
 		<meta name="description" content="{{ page.description | strip_html  }}" />
 		{%- else  -%}
 			{%- if page.layout == "instagram" or page.layout == "pixelfed" -%}
 		<meta name="description" content="{{ page.imgAlt }}" />
 			{%- else  -%}
-		<meta name="description" content="{{ page.excerpt | strip_html  }}" />
+		<meta name="description" content="{{ page.content | strip_html | strip_newlines | remove:'Je vous fais le pitch' | truncate: 160 }}" />
 			{%- endif  -%}
 		{%- endif  -%}
+{% endif  %}
 		<meta property="fediverse:creator" content="@zemoko@mamot.fr" />
 		<meta property="og:title" content="{{ page.title | strip_html }}" />
 		<meta property="og:locale" content="fr_FR" />
 		{%- if page.description -%}
 		<meta property="og:description" content="{{ page.description | strip_html  }}" />
 		{%- else  -%}
-		<meta property="og:description" content="{{ page.excerpt | strip_html  }}" />
+		<meta property="og:description" content="{{ page.content | strip_html | strip_newlines | remove:'Je vous fais le pitch' | truncate: 160 }}" />
 		{%- endif  -%}
 		<meta property="og:url" content="{{ page.url }}" />
 		<meta property="og:site_name" content="6x8=42" />

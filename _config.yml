@@ -55,6 +55,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll/mastodon_webfinger
+  - jekyll-minifier
 
 mastodon:
   username: zemoko
