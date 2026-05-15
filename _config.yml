@@ -96,7 +96,6 @@ exclude:
   - package.json
   - node_modules
   - gulpfile.js
-  - styles.css
 
 #   - vendor/bundle/
 #   - vendor/cache/
