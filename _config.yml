@@ -56,7 +56,10 @@ plugins:
   - jekyll-paginate
   - jekyll/mastodon_webfinger
   - jekyll-redirect-from
-#   - jekyll-minifier
+  - jekyll-minifier
+
+jekyll-minifier:
+  exclude: 'styles.css'
 
 mastodon:
   username: zemoko
