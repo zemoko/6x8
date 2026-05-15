@@ -8,6 +8,7 @@ tags:
   - "critique"
   - "livre"
   - "coup-de-coeur"
+  - "OLNI"
   - "christelle-dabos"
 coverImage: nous.jpg
 imgWidth: 344
