@@ -137,7 +137,7 @@ cover2left: true
     </div>
     <div class="review">
       <h3><strong>Lucioles</strong> un recueil de 15 fictions pour des futurs écologiques</h3>
-      <p>15 nouvelles très différentes les uns des autres, mais dont l’objectif est d’alimenter notre imaginaire pour armer nos luttes écologiques.</p>
+      <p>15 nouvelles très différentes les unes des autres, mais dont l’objectif est d’alimenter notre imaginaire pour armer nos luttes écologiques.</p>
       <p><a href="/2026/06/ma-critique-de-lucioles-15-fictions-pour-des-futurs-ecologiques/">Lire ma critique de «&nbsp;Lucioles&nbsp;»</a></p>
     </div>
   </li>
