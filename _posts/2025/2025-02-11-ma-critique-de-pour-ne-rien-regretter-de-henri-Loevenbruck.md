@@ -55,4 +55,4 @@ bookRating: 5
 <p><strong><mark>Un livre coup de poing</mark> qui, grâce à Véra, à son écriture si singulière mais aussi à son regard unique et faussement naïf sur le Monde, porte une critique féroce de nos sociétés. Je l’ai dévoré - notamment les derniers chapitres - et j’en retiens qu’<mark>il est permis d’espérer, qu’il ne faut pas se résigner et que le militantisme peut gagner… et ça, ça m’a vraiment fait beaucoup de bien.</mark></strong></p>
 
 <hr />
-<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
+<p>Ce livre fait partie de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
