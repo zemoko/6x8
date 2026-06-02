@@ -42,4 +42,4 @@ bookRating: 5
 <p>Ce n’est pas sans rappeler <a href="/2025/08/ma-critique-de-le-grand-abandon-de-cory-doctorow/">Le grand abandon</a>, que je viens aussi de lire, mais, étonnement, j’ai plus apprécié la forme de ce roman.</p>
 
 <hr />
-<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
+<p>Ce livre fait partie de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
