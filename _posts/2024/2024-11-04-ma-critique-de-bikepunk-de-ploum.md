@@ -69,3 +69,6 @@ Je laisse le mot de la fin à Ploum, via une citation extraite de sa postface&nb
     <p>Je ne crains pas la fin du monde, j’ai un vélo&nbsp;!</p>
   </blockquote>
 </figure>
+
+<hr />
+<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
