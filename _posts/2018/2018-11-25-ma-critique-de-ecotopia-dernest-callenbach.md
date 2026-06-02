@@ -47,4 +47,4 @@ Dans son journal intime, on voit se perception évoluer peu à peu... (et, évid
 Surtout, ce roman est **une bouffée d'optimisme** qui fait un bien fou. On a tellement envie d'y croire, de croire qu'**une alternative est possible**, que **l'effondrement n'est pas inéluctable**. Un manifeste entre utopie écologique et contre-culture hippie mais, surtout, **un incroyable message d'espoir**.
 
 <hr />
-<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
+<p>Ce livre fait partie de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
