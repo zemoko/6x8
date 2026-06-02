@@ -103,6 +103,16 @@ cover2left: true
   </li>
   <li class="book">
     <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2026/03/heureux-comme-jamais.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2026/03/heureux-comme-jamais.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Heureux comme jamais" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Heureux comme jamais</strong> de <em>Guillaume Chamanadjian</em></h3>
+      <p>Un roman très drôle, et vraiment caustique, qui donne la clé pour résoudre la crise climatique (à savoir se débarasser des ulttrariches).</p>
+      <p><a href="/2026/03/ma-critique-de-heureux-comme-jamais-de-guillaume-chamanadjian/">Lire ma critique de «&nbsp;Heureux comme jamaisr&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
       <a class="lightbox" href="/.netlify/images?url=/images/2025/09/un-psaume-pour-les-recycles-sauvages.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2025/09/un-psaume-pour-les-recycles-sauvages.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Un psaume pour les recyclés sauvages" width="150" /></a>
     </div>
     <div class="review">
@@ -119,6 +129,16 @@ cover2left: true
       <h3><strong>Vélorutopia</strong> de <em>Tristan Nitot</em></h3>
       <p>En dernier… parce que je suis encore en train de le lire… parce que Tristan est en train de le publier, chapitre aprés chapitre, sur son blog. Néanmoins, il a toute sa place ici puisqu’il se propose d’imaginer à quoi ressemblerait le monde s’il prenait pris le virage climatique.</p>
       <p><a href="https://standblog.org/blog/post/2025/09/20/V%C3%A9lorutopia%2C-une-nouvelle-utopique-solarpunk-et-bikepunk-qui-donne-la-p%C3%AAche">Lire Vélorutopia sur le Standblog</a></p>
+    </div>
+  </li>
+  <li class="book">
+    <div class="cover">
+      <a class="lightbox" href="/.netlify/images?url=/images/2026/06/lucioles.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2026/06/lucioles.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Lucioles" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Lucioles</strong> un recueil de 15 fictions pour des futurs écologiques</h3>
+      <p>15 nouvelles très différentes les unes des autres, mais dont l’objectif est d’alimenter notre imaginaire pour armer nos luttes écologiques.</p>
+      <p><a href="/2026/06/ma-critique-de-lucioles-15-fictions-pour-des-futurs-ecologiques/">Lire ma critique de «&nbsp;Lucioles&nbsp;»</a></p>
     </div>
   </li>
 </ol>

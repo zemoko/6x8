@@ -41,3 +41,6 @@ On y croise d’autres points de vue que ceux de Franck et de Mary, notamment de
 Mais c’est presque sur le plan politique que j’ai eu le plus de doutes. L’un des points de bascule vient d’une idée du Ministère, <strong>une crypto monnaie carbone garantie 100&nbsp;ans par les principales banques centrales</strong>. Le roman montre la difficulté à porter cette idée et à la faire aboutir, ce n’est pas le problème… mais il y arrive… Je dois être désabusé mais j’ai beaucoup de mal à imaginer que ces organisations puissent céder sur un tel projet, même difficilement.
 
 <strong><mark>Cela reste néanmoins un très grand roman que j’ai beaucoup apprécié et que je conseille fortement</mark></strong>. Il pose impeccablement le problème et propose une réflexion détaillée, et a le mérite de traiter aussi de solutions au problème climatique (<em>je retiens, pour ma part, la nécessité d’une radicalisation si on veut faire bouger les choses…</em>).
+
+<hr />
+<p>Ce livre fait partie de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
