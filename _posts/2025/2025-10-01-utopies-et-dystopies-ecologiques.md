@@ -103,11 +103,11 @@ cover2left: true
   </li>
   <li class="book">
     <div class="cover">
-      <a class="lightbox" href="/.netlify/images?url=/images/2026/03/heureux-comme-jamais.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=//images/2026/03/heureux-comme-jamais.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Heureux comme jamais" width="150" /></a>
+      <a class="lightbox" href="/.netlify/images?url=/images/2026/03/heureux-comme-jamais.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2026/03/heureux-comme-jamais.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Heureux comme jamais" width="150" /></a>
     </div>
     <div class="review">
       <h3><strong>Heureux comme jamais</strong> de <em>Guillaume Chamanadjian</em></h3>
-      <p>Un roman trop drôle, et vraiment caustique qui donne la clé pour résoudre la crise climatique (à savoir se débarasser des ulttrariches).</p>
+      <p>Un roman très drôle, et vraiment caustique, qui donne la clé pour résoudre la crise climatique (à savoir se débarasser des ulttrariches).</p>
       <p><a href="/2026/03/ma-critique-de-heureux-comme-jamais-de-guillaume-chamanadjian/">Lire ma critique de «&nbsp;Heureux comme jamaisr&nbsp;»</a></p>
     </div>
   </li>
