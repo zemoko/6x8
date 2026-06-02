@@ -75,6 +75,9 @@ webmentions:
 piwigogallery:
   baseurl: https://sitofotos.6x8.org/
 
+jekyll-minifier:
+  exclude: 'robots.txt' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
