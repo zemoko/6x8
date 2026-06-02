@@ -33,3 +33,6 @@ bookRating: 4
   </blockquote>
   <figcaption>Edward Snowden</figcaption>
 </figure>
+
+<hr />
+<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
