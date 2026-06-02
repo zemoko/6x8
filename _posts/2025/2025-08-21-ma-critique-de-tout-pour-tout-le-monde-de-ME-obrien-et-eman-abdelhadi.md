@@ -40,3 +40,6 @@ bookRating: 5
 <p>Car, oui, le fond n’est pas en reste&nbsp;: l’utopie décrite est crédible et désirable, sans faire abstraction des violences qui ont eu lieu, et des traumatismes qui en ont résulté. C’est un <a href="/tag/olni/"><abbr title="Objet Littéraire Non-Identifié">OLNI</abbr></a>, clairement, mais <strong><mark>c’est surtout une utopie à laquelle on a envie de croire. C’est porteur d’espoir et réjouissant, comme un ouvrage documentaire qui aurait été ramené du futur et qui, pour une fois, donne envie de vivre dans ce futur</mark></strong>.</p>
 
 <p>Ce n’est pas sans rappeler <a href="/2025/08/ma-critique-de-le-grand-abandon-de-cory-doctorow/">Le grand abandon</a>, que je viens aussi de lire, mais, étonnement, j’ai plus apprécié la forme de ce roman.</p>
+
+<hr />
+<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
