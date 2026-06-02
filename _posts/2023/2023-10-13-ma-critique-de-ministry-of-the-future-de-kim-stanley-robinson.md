@@ -43,4 +43,4 @@ Mais c’est presque sur le plan politique que j’ai eu le plus de doutes. L’
 <strong><mark>Cela reste néanmoins un très grand roman que j’ai beaucoup apprécié et que je conseille fortement</mark></strong>. Il pose impeccablement le problème et propose une réflexion détaillée, et a le mérite de traiter aussi de solutions au problème climatique (<em>je retiens, pour ma part, la nécessité d’une radicalisation si on veut faire bouger les choses…</em>).
 
 <hr />
-<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
+<p>Ce livre fait partie de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
