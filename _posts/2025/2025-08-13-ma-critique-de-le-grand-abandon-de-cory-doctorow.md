@@ -35,4 +35,4 @@ bookRating: 4
 </figure>
 
 <hr />
-<p>Ce livre fait partiue de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
+<p>Ce livre fait partie de ma sélection <a href="/2025/10/utopies-et-dystopies-ecologiques/">d’utopies et dystopies écologiques</a>.</p>
