@@ -4,7 +4,7 @@ layout: default
 
 {% capture coverImage %}/images/{{ page.date | date: "%Y/%m" }}/{{ page.coverImage }}{% endcapture %}
 
-<div class="page">
+<main class="page">
   <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting https://schema.org/Review">
 
     <header class="post-header {% if page.cover2left %} cover2left{% endif %}">
@@ -103,7 +103,7 @@ layout: default
 
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   </article>
-</div>
+</main>
 
 <div class="navlinks">
   <ul class="pagination">
