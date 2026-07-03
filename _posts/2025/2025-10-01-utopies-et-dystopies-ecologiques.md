@@ -28,7 +28,7 @@ cover2left: true
 
 <p>Pourquoi est-ce que je vous dis tout cela&nbsp;? Parce que pour se battre pour un avenir meilleur, il convient de pouvoir l’imaginer. Pour moi, ce sont souvent mes lectures qui me nourrissent et m'accompagnent dans mon cheminement. Je voulais donc aujourd’hui recenser quelques dystopies qui permettent, grâce à la littérature d’anticipation, d’alerter sur l’état de notre monde mais aussi d'<strong>imaginer des futurs désirables</strong> qui sont comme <strong>un carburant pour alimenter nos luttes</strong> (et si en plus, ça implique des vélos, c’est encore mieux&nbsp;!).
 
-<h2>9 utopies écologiques</h2>
+<h2>11 utopies écologiques</h2>
 
 <ol>
   <li class="book">
