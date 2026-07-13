@@ -28,7 +28,7 @@ cover2left: true
 
 <p>Pourquoi est-ce que je vous dis tout cela&nbsp;? Parce que pour se battre pour un avenir meilleur, il convient de pouvoir l’imaginer. Pour moi, ce sont souvent mes lectures qui me nourrissent et m'accompagnent dans mon cheminement. Je voulais donc aujourd’hui recenser quelques dystopies qui permettent, grâce à la littérature d’anticipation, d’alerter sur l’état de notre monde mais aussi d'<strong>imaginer des futurs désirables</strong> qui sont comme <strong>un carburant pour alimenter nos luttes</strong> (et si en plus, ça implique des vélos, c’est encore mieux&nbsp;!).
 
-<h2>11 utopies écologiques</h2>
+<h2>12 utopies écologiques</h2>
 
 <ol>
   <li class="book">
@@ -136,9 +136,19 @@ cover2left: true
       <a class="lightbox" href="/.netlify/images?url=/images/2026/06/lucioles.jpg&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2026/06/lucioles.jpg&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Lucioles" width="150" /></a>
     </div>
     <div class="review">
-      <h3><strong>Lucioles</strong> un recueil de 15 fictions pour des futurs écologiques</h3>
+      <h3><strong>Lucioles</strong> un recueil de 15 fictions pour des futurs écologiques édité par les éditions <em>La Volte</em></h3>
       <p>15 nouvelles très différentes les unes des autres, mais dont l’objectif est d’alimenter notre imaginaire pour armer nos luttes écologiques.</p>
       <p><a href="/2026/06/ma-critique-de-lucioles-15-fictions-pour-des-futurs-ecologiques/">Lire ma critique de «&nbsp;Lucioles&nbsp;»</a></p>
+    </div>
+  </li>
+  <li class="book">
+	<div class="cover">
+		<a class="lightbox" href="/.netlify/images?url=/images/2026/07/sciences.png&fit=contain&w=1024&h=1024&format=webp"><img src="/.netlify/images?url=/images/2026/07/sciences.png&fit=contain&w=1024&h=1024&format=webp" alt="La couverture de Sciences" width="150" /></a>
+    </div>
+    <div class="review">
+      <h3><strong>Sciences</strong> un recueil de 4 récits d’anticipations écologistes édité par les éditions <em>Copie Gauche</em></h3>
+      <p>C’est déjà le quatrième recueil de la collection «&nbsp;C’était mieux demain&nbsp;» des éditions <a href="https://copiegauche.fr/">Copie gauche</a>. Je n’ai pas lu les 3 premiers mais ce volume sur thème des sciences me donne envie de les lire.</p>
+      <p><a href="/2026/07/ma-critique-de-sciences/">Lire ma critique de «&nbsp;Sciences&nbsp;»</a></p>
     </div>
   </li>
 </ol>
