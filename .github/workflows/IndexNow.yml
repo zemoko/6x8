@@ -1,10 +1,6 @@
 name: 'IndexNow'
 on:
   workflow_dispatch:
-  schedule:
-    # Set the schedule time
-    #- cron: '0 2 * * *'
-
 jobs:
   check-and-submit:
     runs-on: ubuntu-latest
