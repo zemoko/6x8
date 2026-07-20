@@ -5,8 +5,13 @@ jobs:
   check-and-submit:
     runs-on: ubuntu-latest
     steps:
-      - name: indexnow-action
-        uses: bojieyang/indexnow-action@v3
-        with:
-          sitemap-location: 'https://www.6x8.org/sitemap.xml'
-          key: ${{ secrets.INDEXNOW_KEY }}
+      - name: Create IndexNow key file
+        run: echo "${{ secrets.INDEXNOW_KEY }}" >public/${{ secrets.INDEXNOW_KEY }}.txt
+      - name: Submit to index now
+        run: >
+          grep -o '<loc>[^<]*</loc><lastmod>[^<]*</lastmod>' public/sitemap.xml 
+          | sed 's#<loc>\(.*\)</loc><lastmod>\(.*\)</lastmod>#\2 \1#' 
+          | sort -r | head -n 5 | cut -d' ' -f2- 
+          | xargs -I{} sh -c 'echo -n "Submitting {} ... "; 
+          curl -s -o /dev/null -w "%{http_code}\n" 
+          "https://www.bing.com/indexnow?url={}&key=${{ secrets.INDEXNOW_KEY }}"'
