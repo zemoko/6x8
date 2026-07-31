@@ -33,3 +33,17 @@ bookRating: 4
 </figure>    
 
 <p><strong>Cela m’a donné envie de relire les premiers tomes des chroniques</strong>, pour pouvoir lire ceux que j’ai sans doute loupé… et je dois avouer que <strong>j’en ai d’ores et déjà profité pour regarder <a href="https://www.netflix.com/fr/title/80211563">Les Chroniques de San&nbsp;Francisco</a> sur Netflix</strong>, qui joue également sur la nostalgie de Barbary&nbsp;Lane, mais en placant l’action quelques années plus tard encore, ce qui permet de mettre au coeur du récit une nouvelle génération… et je l’ai beaucoup aimé&nbsp;!</p>
+
+<hr />
+<ol>
+  <li><a href="/2026/04/ma-critique-de-chroniques-de-san-francisco-de-armistead-maupin/">Chroniques de San&nbsp;Francisco</a></li>
+  <li><a href="/2026/04/ma-critique-de-nouvelles-chroniques-de-san-francisco-de-armistead-maupin/">Nouvelles chroniques de San&nbsp;Francisco</a></li>
+  <li><a href="/2026/04/ma-critique-de-autres-chroniques-de-san-francisco-de-armistead-maupin/">Autres chroniques de San&nbsp;Francisco</a></li>
+  <li><a href="/2026/05/ma-critique-de-babycakes-de-armistead-maupin/">Babycakes</a></li>
+  <li><a href="/2026/06/ma-critique-de-d-un-bord-a-l-autre-de-armistead-maupin/">D’un bord à l’autre</a></li>
+  <li><a href="/2026/07/ma-critique-de-bye-bye-barbary-lane-de-armistead-maupin/">Bye-bye Barbary Lane</a></li>
+  <li><em>Michael Tolliver est vivant</em></li>
+  <li><em>Mary Ann en automne</em></li>
+  <li><em>Anna Madrigal</em></li>
+  <li><strong>Mona et son manoir</strong></li>
+</ol>
