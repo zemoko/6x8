@@ -12,7 +12,7 @@ coverImage: Le-Paris-des-merveilles-Enqueteurs-du-Paris-des-Merveilles.jpg
 imgWidth: 400
 imgHeight: 600
 bookTitle: "Enquêteurs du Paris des Merveilles"
-bookAuthor: "Pierre Pevel"
+bookAuthor: "Pierre Pevel, Benjamin Lupu, Catherine Loiseau, Adélie Pellarin, Sarah Guerreiro-Viseu et Caroline Schweighofer"
 bookISBN: 9791028120146       
 bookRating: 4
 ---
