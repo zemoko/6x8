@@ -27,8 +27,25 @@ Un style **toujours aussi agréable**, un récit **drôle et rythmé** (notammen
 
 **Bref, vivement le tome 3 !**
 
-* * *
+<hr />
 
-Retrouvez les critiques des 3 tomes du **Paris des merveilles** : - [Les enchantements d'Ambremer](/2019/06/ma-critique-de-les-enchantements-dambremer-de-pierre-pevel/) - **L'élixir d'oubli** - [Le royaume immobile](/2019/12/ma-critique-de-le-paris-des-merveilles-tome-3-le-royaume-immobile-de-pierre-pevel/).
+<h2>Le Paris des merveilles</h2>
 
-Retrouvez [cette critique](https://www.senscritique.com/livre/L_Elixir_d_oubli/critique/198018587) sur **Sens Critique** où vous pouvez aussi [me retrouver](http://www.senscritique.com/Arnaud_Malon) !
+<ul>
+    <li>
+        <h3>Cycle Ambremer</h3>
+        <ul>
+            <li><a href="/2019/06/ma-critique-de-les-enchantements-dambremer-de-pierre-pevel/">Les enchantements d’Ambremer</a></li>
+            <li><strong>L’Élixir d’oubli</strong></li>
+            <li><a href="/2019/12/ma-critique-de-le-paris-des-merveilles-tome-3-le-royaume-immobile-de-pierre-pevel/">Le Royaume immobile</a></li>
+        </ul>
+    </li>
+    <li>
+        <h3>Recueils de nouvelles dans le monde du Paris des Merveilles</h3>
+        <ul>
+            <li>Contes et récits du Paris des Merveilles</li>
+            <li><a href="https:///2026/10/ma-critique-de-mafaiteurs-du-paris-des-merveilles-de-pierre-pevel/">Malfaiteurs du Paris des Merveilles</a></li>
+            <li><a href="/2023/12/ma-critique-de-enqueteurs-du-paris-des-merveilles-de-pierre-pevel/">Enquêteurs du Paris des Merveilles</a></li>
+        </ul>
+    </li>
+</ul>
